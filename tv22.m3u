@@ -7241,14 +7241,13 @@ http://bgapp.live/play/futvall-844.php?id=wwe&token=blackghost&f=.m3u8
 
 
 #EXTINF:-1 group-title="Lista 22", --------------
-http://bgapp.live/play/s&token=blackghost&f=.m3u8
 
 
 
 
 
 
-http://bgapp.live/play/futvall-844.php?id=tlc&token=blackghost&dos=.m3u8
+
 #EXTINF:-1 group-title="Lista 22", MULTIPREMIER
 http://bgapp.live/play/futvall-844.php?id=mp&token=blackghost&dos=.m3u8
 #EXTINF:-1 group-title="Lista 22", GOLDEN
