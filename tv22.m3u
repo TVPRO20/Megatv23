@@ -6837,7 +6837,10 @@ https://ia601501.us.archive.org/22/items/cazafantasmas-mas-alla-areshd/Cazafanta
 
 
 
-XTINF:-1 tvg-logo="http://nowwatchtvlive.vip/wp-content/uploads/2021/02/sport-tv2-em-direto.png" group-title="DEPORTES", SPORTTV 2
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/357-3578768_sport-tv-1-hd.png" group-title="DEPORTES", SPORTTV 1
+
+
+#EXTINF:-1 tvg-logo="http://nowwatchtvlive.vip/wp-content/uploads/2021/02/sport-tv2-em-direto.png" group-title="DEPORTES", SPORTTV 2
 
 #EXTINF:-1 tvg-logo="http://nowwatchtvlive.vip/wp-content/uploads/2021/02/sport-tv2-em-direto.png" group-title="DEPORTES", SPORTTV 2
 
@@ -6937,13 +6940,13 @@ http://31.220.41.90:8081/live/bein-laliga.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="DEPORTES", Movistar Liga De Campeones
 
 #EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-925511197-201x200-593359461.png" group-title="DEPORTES", Afizzionados S1
-http://shortgod.com/ratasinviertandinerpues/tv4.php?c=30&f=.m3u8
+http://shortgod.com/flashm3ushortgod/tv4.php?c=30&f=.m3u8
 #EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-925511197-201x200-593359461.png" group-title="DEPORTES", Afizzionados
-http://bgapp.live/play/tvhd-844.php?id=30&token=blackghostt&file=.m3u8
+http://bgapp.live/play/tvhd-856.php?id=30&token=blackghoostt&file=.m3u8
 #EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-925511197-201x200-593359461.png" group-title="DEPORTES", Afizzionados
 https://linear-348.frequency.stream/348/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-925511197-201x200-593359461.png" group-title="DEPORTES", Afizzionados Bg4
-http://bgapp.live/play/zufree-844.php?c=890&black=.m3u8
+http://bgapp.live/play/zufree-856.php?c=890&black=.m3u8
 #EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-925511197-201x200-593359461.png" group-title="DEPORTES", Afizzionados TlC1
 http://tv.teleclub.xyz/live/ABRIL_01/AFIZZIONADOS/index.m3u8
 #EXTINF:-1 tvg-id="Afizzionados.mx" tvg-name="Afizzionados" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/AFIZZIONADOS-201x200-925511197-201x200-593359461.png" group-title="DEPORTES", Afizzionados TlC1
@@ -7041,13 +7044,13 @@ https://linear-357.frequency.stream/357/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="DEPORTES",TUDN (HD)
 https://shortgod.com/flashm3uv2/telelaaat311.php?id=200&f=.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", TUDN
-http://bgapp.live/play/tvhd-844.php?id=200&token=blackghostt&file=.m3u8
+http://bgapp.live/play/tvhd-856.php?id=200&token=blackghoostt&file=.m3u8
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", TUDN
+https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=174&f=.m3u8
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", TUDN
+https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=1049&f=.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", TUDN
 
-#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", TUDN
-http://bgapp.live/play/totalp1s-844.php?k=blaacghost&token=blackghosst&c=174
-#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", TUDN
-http://bgapp.live/play/totalp1s-844.php?k=blaacghost&token=blackghosst&c=1049
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="DEPORTES",TUDN
 https://shortgod.com/flashm3uv2/telelaaat311.php?id=3&f=.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="DEPORTES",TUDN
@@ -7055,21 +7058,21 @@ https://shortgod.com/flashm3uv2/telelaaat311.php?id=205&f=.m3u8
 #EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", UTUDN
 
 #EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", UTUDN
-http://bgapp.live/play/14-844.php?c=100&token=BLACKGHOSTD&f=.m3u8
+http://bgapp.live/play/14-856.php?c=100&token=BLACKGHOSTD&f=.m3u8
 #EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", UTUDN
 
-#EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", UTUDN Dd
+#EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", UTUDN B2
 https://networkbest.ru.com/cdn/premium66/playlist.m3u8?|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 #EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", UTUDN
 
 #EXTINF:-1 tvg-id="TUDN(Spanish).us"tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", UTUDN Bg 22
-http://bgapp.live/play/futvall-844.php?id=tudn-us&token=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-856.php?id=tudn-us&token=blackghoostt&f=.m3u8
 #EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", UTUDN
-http://bgapp.live/play/ultima-844.php?tokeen=blackgghost&c=189&f=.m3u8
+http://bgapp.live/play/ultima-856.php?tokeen=blackgghost&c=189&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="DEPORTES", ESPN DEPORTES Bg 22
-http://bgapp.live/play/futvall-844.php?id=espndep&token=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-856.php?id=espndep&token=blackghoostt&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="DEPORTES", ESPN DEPORTES Bg 4
-http://bgapp.live/play/zufree-844.php?c=39&black=.m3u8
+http://bgapp.live/play/zufree-856.php?c=39&black=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="DEPORTES", ESPN DEPORTES
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="DEPORTES", ESPN DEPORTES
@@ -7084,73 +7087,73 @@ https://networkbest.ru.com/cdn/premium375/playlist.m3u8?|Referer=https://player.
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="DEPORTES", ESPN DEPORTES
 
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX
-http://bgapp.live/play/tvhd-844.php?id=27&token=blackghostt&file=.m3u8
+http://bgapp.live/play/tvhd-856.php?id=27&token=blackghoostt&file=.m3u8
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX
 http://181.78.10.235:58004/play/a0a3/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX
-
-#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX*
-http://bgapp.live/play/totalp1s-844.php?k=blaacghost&token=blackghosst&c=169
+https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=169&f=.m3u8
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="http://ligatv.televall.online/gallery/espn-mexico_thumb.png" group-title="DEPORTES", ESPN MX
+http://bgapp.live/play/totalp1s-856.php?k=blaacghost&token=blackghosst&c=169
 #EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="http://ligatv.televall.online/gallery/espn-2-mexico_thumb.png" group-title="DEPORTES", ESPN2 MX
 http://181.78.10.235:58004/play/a0a5/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="http://ligatv.televall.online/gallery/espn-2-mexico_thumb.png" group-title="DEPORTES", ESPN2 MX
-
+https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=168&f=.m3u8
 #EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="http://ligatv.televall.online/gallery/espn-2-mexico_thumb.png" group-title="DEPORTES", ESPN2 MX
-http://bgapp.live/play/tvhd-844.php?id=28&token=blackghostt&file=.m3u8
+http://bgapp.live/play/tvhd-856.php?id=28&token=blackghoostt&file=.m3u8
 #EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="http://ligatv.televall.online/gallery/espn-2-mexico_thumb.png" group-title="DEPORTES", ESPN2 MX
-http://bgapp.live/play/totalp1s-844.php?k=blaacghost&token=blackghosst&c=168
+http://bgapp.live/play/totalp1s-856.php?k=blaacghost&token=blackghosst&c=168
 #EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="http://ligatv.televall.online/gallery/espn-2-mexico_thumb.png" group-title="DEPORTES", ESPN2 MX
 
 #EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="ESPN 3" tvg-logo="http://ligatv.televall.online/gallery/espn-3-mexico_thumb.png" group-title="DEPORTES", ESPN3 MX
 http://181.78.10.235:58004/play/a0a4/index.m3u8
 #EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="ESPN 3" tvg-logo="http://ligatv.televall.online/gallery/espn-3-mexico_thumb.png" group-title="DEPORTES", ESPN3 MX
-http://bgapp.live/play/tvhd-844.php?id=29&token=blackghostt&file=.m3u8
+http://bgapp.live/play/tvhd-856.php?id=29&token=blackghoostt&file=.m3u8
 #EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="ESPN 3" tvg-logo="http://ligatv.televall.online/gallery/espn-3-mexico_thumb.png" group-title="DEPORTES", ESPN3 MX
-
+https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=345&f=.m3u8
 #EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="ESPN 3" tvg-logo="http://ligatv.televall.online/gallery/espn-3-mexico_thumb.png" group-title="DEPORTES", ESPN3 MX
-http://bgapp.live/play/totalp1s-844.php?k=blaacghost&token=blackghosst&c=345
+http://bgapp.live/play/totalp1s-856.php?k=blaacghost&token=blackghosst&c=345
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png" group-title="DEPORTES", ESPN+
-
+https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=167&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Espn%2B.png" group-title="DEPORTES", ESPN+
-http://bgapp.live/play/totalp1s-844.php?k=blaacghost&token=blackghosst&c=167
+http://bgapp.live/play/totalp1s-856.php?k=blaacghost&token=blackghosst&c=167
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG" group-title="DEPORTES", ESPN XTRA
-http://bgapp.live/play/tvhd-844.php?id=16&token=blackghostt&file=.m3u8
+http://bgapp.live/play/tvhd-856.php?id=16&token=blackghoostt&file=.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png" group-title="DEPORTES", ESPN 4 
 http://181.78.10.235:58004/play/a0a0/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Logo_espnbrasil.png/800px-Logo_espnbrasil.png" group-title="DEPORTES", ESPN Brasil
 https://transcoder-itatiba-01.nxplay.com.br:443/ESPN_BR/tracks-v1a1/mono.m3u8?mvk
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://ligatv.televall.online/gallery/fox-sports-mexico_thumb.png" group-title="DEPORTES", Fox Sports MX
-http://bgapp.live/play/tvhd-844.php?id=12&token=blackghostt&file=.m3u8
+http://bgapp.live/play/tvhd-856.php?id=12&token=blackghoostt&file=.m3u8
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://ligatv.televall.online/gallery/fox-sports-mexico_thumb.png" group-title="DEPORTES", Fox Sports MX
-http://bgapp.live/play/totalp1s-844.php?k=blaacghost&token=blackghosst&c=171
+https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=171&f=.m3u8
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://ligatv.televall.online/gallery/fox-sports-mexico_thumb.png" group-title="DEPORTES", Fox Sports MX
-http://bgapp.live/play/futvall-844.php?id=foxsports1-mx&token=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-856.php?id=foxsports1-mx&token=blackghoostt&f=.m3u8
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://ligatv.televall.online/gallery/fox-sports-mexico_thumb.png" group-title="DEPORTES", Fox Sports MX
 http://51.222.25.50:25461/live/bulltvn3w/appnew/105.m3u8
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://ligatv.televall.online/gallery/fox-sports-mexico_thumb.png" group-title="DEPORTES", Fox Sports MX HD
-
+https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=170&f=.m3u8
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="http://ligatv.televall.online/gallery/fox-sports-mexico_thumb.png" group-title="DEPORTES", Fox Sports MX
 
 #EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2" tvg-logo="http://ligatv.televall.online/gallery/fox-sports-2-mexico_thumb.png" group-title="DEPORTES", Fox Sports2 MX
-http://bgapp.live/play/totalp1s-844.php?k=blaacghost&token=blackghosst&c=170
+https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=172&f=.m3u8
 #EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2" tvg-logo="http://ligatv.televall.online/gallery/fox-sports-2-mexico_thumb.png" group-title="DEPORTES", Fox Sports2 MX
-http://bgapp.live/play/totalp1s-844.php?k=blaacghost&token=blackghosst&c=172
+http://bgapp.live/play/totalp1s-856.php?k=blaacghost&token=blackghosst&c=172
 #EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2" tvg-logo="http://ligatv.televall.online/gallery/fox-sports-2-mexico_thumb.png" group-title="DEPORTES", Fox Sports2 MX
-http://bgapp.live/play/tvhd-844.php?id=25&token=blackghostt&file=.m3u8
+http://bgapp.live/play/tvhd-856.php?id=25&token=blackghoostt&file=.m3u8
 #EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2" tvg-logo="http://ligatv.televall.online/gallery/fox-sports-2-mexico_thumb.png" group-title="DEPORTES", Fox Sports2 MX
-http://bgapp.live/play/futvall-844.php?id=foxsports2-mx&token=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-856.php?id=foxsports2-mx&token=blackghoostt&f=.m3u8
 #EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2" tvg-logo="http://ligatv.televall.online/gallery/fox-sports-2-mexico_thumb.png" group-title="DEPORTES", Fox Sports2 MX
 http://51.222.25.50:25461/live/bulltvn3w/appnew/106.m3u8
 #EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2" tvg-logo="http://ligatv.televall.online/gallery/fox-sports-2-mexico_thumb.png" group-title="DEPORTES", Fox Sports2 MX
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index_154.m3u8
 #EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="Fox Sports 3" tvg-logo="http://ligatv.televall.online/gallery/fox-sports-3_thumb_fx7jdhy6.png" group-title="DEPORTES", Fox Sports 3 MX
-http://bgapp.live/play/totalp1s-844.php?k=blaacghost&token=blackghosst&c=178
+http://bgapp.live/play/totalp1s-856.php?k=blaacghost&token=blackghosst&c=178
 #EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="Fox Sports 3" tvg-logo="http://ligatv.televall.online/gallery/fox-sports-3_thumb_fx7jdhy6.png" group-title="DEPORTES", Fox Sports 3 MX
-
+https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=178&f=.m3u8
 #EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="Fox Sports 3" tvg-logo="http://ligatv.televall.online/gallery/fox-sports-3_thumb_fx7jdhy6.png" group-title="DEPORTES", Fox Sports 3 MX
-http://bgapp.live/play/tvhd-844.php?id=26&token=blackghostt&file=.m3u8
+http://bgapp.live/play/tvhd-856.php?id=26&token=blackghoostt&file=.m3u8
 #EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="Fox Sports 3" tvg-logo="http://ligatv.televall.online/gallery/fox-sports-3_thumb_fx7jdhy6.png" group-title="DEPORTES", Fox Sports 3 MX
-http://bgapp.live/play/futvall-844.php?id=foxsports3-mx&token=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-856.php?id=foxsports3-mx&token=blackghoostt&f=.m3u8
 #EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="Fox Sports 3" tvg-logo="http://ligatv.televall.online/gallery/fox-sports-3_thumb_fx7jdhy6.png" group-title="DEPORTES", Fox Sports 3 MX
 http://51.222.25.50:25461/live/bulltvn3w/appnew/107.m3u8
 #EXTINF:-1 tvg-logo="http://media.foxdeportes.com/assets/images/fxd_logo_450.png" group-title="DEPORTES", Fox Deportes
@@ -7164,13 +7167,13 @@ https://live-content.xumo.com/189/content/XM0K6VHYA4V46G/23906297/master.m3u8
 #EXTINF:-1 tvg-logo="http://media.foxdeportes.com/assets/images/fxd_logo_450.png" group-title="DEPORTES", Fox Deportes
 
 #EXTINF:-1 tvg-id="FoxSportsPremium.mx" tvg-name="Fox Sports Premium MX" tvg-logo="https://ligatv.televall.online/gallery/fox-sports-premium_thumb_slen59s3.png" group-title="DEPORTES", Fox Sports Premium Mx
-http://bgapp.live/play/tvhd-844.php?id=10&token=blackghostt&file=.m3u8
+http://bgapp.live/play/tvhd-856.php?id=10&token=blackghoostt&file=.m3u8
 #EXTINF:-1 tvg-id="FoxSportsPremium.mx" tvg-name="Fox Sports Premium MX" tvg-logo="https://ligatv.televall.online/gallery/fox-sports-premium_thumb_slen59s3.png" group-title="DEPORTES", Fox Sports Premium Mx
 https://shortgod.com/flashm3uv2/telelaaat311.php?id=24&f=.m3u8
 #EXTINF:-1 tvg-id="FoxSportsPremium.mx" tvg-name="Fox Sports Premium MX" tvg-logo="https://ligatv.televall.online/gallery/fox-sports-premium_thumb_slen59s3.png" group-title="DEPORTES", Fox Sports Premium Mx
-http://bgapp.live/play/futvall-844.php?id=foxsportsp&token=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-856.php?id=foxsportsp&token=blackghoostt&f=.m3u8
 #EXTINF:-1 tvg-id="FoxSportsPremium.mx" tvg-name="Fox Sports Premium MX" tvg-logo="https://ligatv.televall.online/gallery/fox-sports-premium_thumb_slen59s3.png" group-title="DEPORTES", Fox Sports Premium Mx
-http://bgapp.live/play/zufree-844.php?c=102&black=.m3u8
+http://bgapp.live/play/zufree-856.php?c=102&black=.m3u8
 #EXTINF:-1 tvg-id="FoxSportsPremium.mx" tvg-name="Fox Sports Premium MX" tvg-logo="https://ligatv.televall.online/gallery/fox-sports-premium_thumb_slen59s3.png" group-title="DEPORTES", Fox Sports Premium Mx
 http://gratuita.mrzutv.net:25461/FJFJHJHUIWJKNSKJ7474747BtututuJHeeBNetertttttGVDGGtttttttte7K8777877000444jdjdjjd8787MUEEUEEUN88888888UECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNS/FJFJHJHUIWJKNSKJBtututuJHBNSKMUEEUEEUNUECIUEEFJFJijijijijHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJHUIWJKNSKJBJHBNSKMUEEUEEUNUECIUEEFJFJHJH/102
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/gallery/fox-sports-premium_thumb_slen59s3.png" group-title="DEPORTES", Fox Soccer Plus
@@ -7230,11 +7233,11 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="http://www.latinspots.com/files/notas/Gnota_56697.jpg" group-title="DEPORTES", EVENTOS TNT Sports 5 Brasil
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1200px-Claro_Sports_logo.svg.png" group-title="DEPORTES", Claro Sports TP
-http://bgapp.live/play/totalp1s-844.php?k=blaacghost&token=blackghosst&c=2564
+http://bgapp.live/play/totalp1s-856.php?k=blaacghost&token=blackghosst&c=2564
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1200px-Claro_Sports_logo.svg.png" group-title="DEPORTES", Claro Sports TP Bg
-
+https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=2564&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1200px-Claro_Sports_logo.svg.png" group-title="DEPORTES", Claro Sports Bg 22
-http://bgapp.live/play/futvall-844.php?id=clarosports&token=blackghostt&f=.m3u8
+http://bgapp.live/play/futvall-856.php?id=clarosports&token=blackghoostt&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1200px-Claro_Sports_logo.svg.png" group-title="DEPORTES", Claro Sport Web
 https://d225juk6ahds7e.cloudfront.net/out/v1/977f6b1ef10c4011aecc2103c06966ac/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1200px-Claro_Sports_logo.svg.png" group-title="DEPORTES", Claro Sport Web
@@ -7253,12 +7256,12 @@ https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/live-audio_0=64000-v
 
 #EXTINF:-1 tvg-logo="http://klic.tmsimg.com/assets/s86779_h3_ba.png" group-title="DEPORTES", Claro Sports 4 Web
 
-#EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/aym.png" group-title="DEPORTES", A Y M SPORTS TP
-
 #EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/aym.png" group-title="DEPORTES", A Y M SPORTS
-http://bgapp.live/play/totalp1s-844.php?k=blaacghost&token=blackghosst&c=180
+https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=180&f=.m3u8
+#EXTINF:-1 tvg-logo="https://ligatv.televall.online/images/aym.png" group-title="DEPORTES", A Y M SPORTS
+http://bgapp.live/play/totalp1s-856.php?k=blaacghost&token=blackghosst&c=180
 #EXTINF:-1 tvg-logo="http://mifut.televall.online/images/las.png" group-title="DEPORTES", LAS DeporteS TP
-http://bgapp.live/play/totalp1s-844.php?k=blaacghost&token=blackghosst&c=2089
+https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=2089&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="DEPORTES", TIGO Sport
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="DEPORTES", TIGO Sports
@@ -7337,7 +7340,7 @@ http://encodercdn1.frontline.ca/kamino/output/TSN5_720p/playlist.m3u8
 https://networkbest.ru.com/cdn/premium409/playlist.m3u8?|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sportsnet-east-197.png" group-title="DEPORTES", SportsNet East
 https://networkbest.ru.com/cdn/premium408/playlist.m3u8?|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sportsnet-one-844.png" group-title="DEPORTES", SportsNet One
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sportsnet-one-856.png" group-title="DEPORTES", SportsNet One
 https://networkbest.ru.com/cdn/premium411/playlist.m3u8?|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-sportsnet-ontario-203.png" group-title="DEPORTES", SportsNet Ontario
 https://networkbest.ru.com/cdn/premium406/playlist.m3u8?|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
@@ -7397,9 +7400,9 @@ https://d21gtq1mno4siw.cloudfront.net/out/v1/c7889d78bfa643dc9079c46c81be4b6d/in
 
 
 #EXTINF:-1 tvg-name="TVC Deportes" tvg-logo="https://whereverlatino.tv/assets/img/canales/channels/6735.png" group-title="DEPORTES", TVC Deportes
-http://bgapp.live/play/totalp1s-844.php?k=blaacghost&token=blackghosst&c=2157
+http://bgapp.live/play/totalp1s-856.php?k=blaacghost&token=blackghosst&c=2157
 #EXTINF:-1 tvg-name="TVC Deportes" tvg-logo="https://whereverlatino.tv/assets/img/canales/channels/6735.png" group-title="DEPORTES", TVC Deportes
-
+https://regioplay.xyz/php/SR_REGIO_428022_/tpnuevo03.php?key=SrRegio&c=2157&f=.m3u8
 #EXTINF:-1 tvg-name="TVC Deportes" tvg-logo="https://whereverlatino.tv/assets/img/canales/channels/6735.png" group-title="DEPORTES", TVC Deportes
 
 #EXTINF:-1 tvg-logo="https://whereverlatino.tv/assets/img/canales/channels/6735.png" group-title="DEPORTES", TVC Deportes S1
@@ -7421,7 +7424,7 @@ https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
 #EXTINF:-1 tvg-logo="https://nesncom.files.wordpress.com/2013/07/nesn-ticket-white.png" group-title="DEPORTES", NESN HD
 https://bcovlive-a.akamaihd.net/f7b9ffbde3b841c282df9832b9a80958/us-east-1/6141518204001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/CBS_Sports_Network_2016.png" group-title="DEPORTES", CBSSN
-http://blackaddon.live/play/futvall-844.php?id=cbsnet&k=Blackghoost&file=.m3u8
+http://blackaddon.live/play/futvall-856.php?id=cbsnet&k=Blackghoost&file=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/CBS_Sports_Network_2016.png" group-title="DEPORTES", CBSSN PLUTO TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=4459&deviceId=5e9f2c05172a0f0007db4786&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/CBS_Sports_Network_2016.png" group-title="DEPORTES", CBSSN
@@ -7538,7 +7541,7 @@ http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/747
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/318/371/png-clipart-espn-television-espn-extra-high-definition-video-lam-radio-hd-television-text.png" group-title="DEPORTES", ESPN(USA) Dd 
 https://networkbest.ru.com/cdn/premium44/playlist.m3u8?|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/318/371/png-clipart-espn-television-espn-extra-high-definition-video-lam-radio-hd-television-text.png" group-title="DEPORTES", ESPN(USA) HD
-http://bgapp.live/play/gorda-844.php?user=edBHDNznj3/7So3HohjEJ&c=1193&token=VmlzaXRhIGJnY29kZS54eXogcGFyYSBvYnRlbmVyIGVsIGNvZGlnbyAgeSBhcG95YXIgZXN0ZSBwcm95ZWN0bw.m3u8|user-agent=damx
+http://bgapp.live/play/gorda-856.php?user=m6mW2za96k/vtwI3gnRqU&c=1193&token=VmlzaXRhIGJnY29kZS54eXogcGFyYSBvYnRlbmVyIGVsIGNvZGlnbyAgeSBhcG95YXIgZXN0ZSBwcm95ZWN0bw.m3u8|user-agent=damx
 #EXTINF:-1 tvg-logo="https://txmgv24xack1i8jje2nayxpr-wpengine.netdna-ssl.com/us/files/2016/06/RS2652_ESPN2_CLR_Pos-scr-660x400.jpg" group-title="DEPORTES", ESPN2(USA) HD Dd
 
 #EXTINF:-1 tvg-logo="https://txmgv24xack1i8jje2nayxpr-wpengine.netdna-ssl.com/us/files/2016/06/RS2652_ESPN2_CLR_Pos-scr-660x400.jpg" group-title="DEPORTES", ESPN2(USA) HD Dd
@@ -7546,7 +7549,7 @@ https://networkbest.ru.com/cdn/premium45/playlist.m3u8?|Referer=https://player.l
 #EXTINF:-1 tvg-logo="https://txmgv24xack1i8jje2nayxpr-wpengine.netdna-ssl.com/us/files/2016/06/RS2652_ESPN2_CLR_Pos-scr-660x400.jpg" group-title="DEPORTES", ESPN2(USA) HD
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/41918
 #EXTINF:-1 tvg-logo="https://txmgv24xack1i8jje2nayxpr-wpengine.netdna-ssl.com/us/files/2016/06/RS2652_ESPN2_CLR_Pos-scr-660x400.jpg" group-title="DEPORTES", ESPN2(USA) HD
-http://bgapp.live/play/gorda-844.php?user=edBHDNznj3/7So3HohjEJ&c=1190&token=VmlzaXRhIGJnY29kZS54eXogcGFyYSBvYnRlbmVyIGVsIGNvZGlnbyAgeSBhcG95YXIgZXN0ZSBwcm95ZWN0bw.m3u8|user-agent=damx
+http://bgapp.live/play/gorda-856.php?user=m6mW2za96k/vtwI3gnRqU&c=1190&token=VmlzaXRhIGJnY29kZS54eXogcGFyYSBvYnRlbmVyIGVsIGNvZGlnbyAgeSBhcG95YXIgZXN0ZSBwcm95ZWN0bw.m3u8|user-agent=damx
 #EXTINF:-1 tvg-logo="https://txmgv24xack1i8jje2nayxpr-wpengine.netdna-ssl.com/us/files/2016/06/RS2652_ESPN2_CLR_Pos-scr-660x400.jpg" group-title="DEPORTES", ESPN2(USA) HD
 
 #EXTINF:-1 tvg-logo="https://txmgv24xack1i8jje2nayxpr-wpengine.netdna-ssl.com/us/files/2016/06/RS2652_ESPN2_CLR_Pos-scr-660x400.jpg" group-title="DEPORTES", ESPN2(USA)
@@ -7558,7 +7561,7 @@ http://bgapp.live/play/gorda-844.php?user=edBHDNznj3/7So3HohjEJ&c=1190&token=Vml
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Espnnews.png/798px-Espnnews.png" group-title="DEPORTES", ESPN NEWS
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Espnnews.png/798px-Espnnews.png" group-title="DEPORTES", ESPN NEWS
-http://bgapp.live/play/gorda-844.php?user=edBHDNznj3/7So3HohjEJ&c=1194&token=VmlzaXRhIGJnY29kZS54eXogcGFyYSBvYnRlbmVyIGVsIGNvZGlnbyAgeSBhcG95YXIgZXN0ZSBwcm95ZWN0bw.m3u8|user-agent=damx
+http://bgapp.live/play/gorda-856.php?user=m6mW2za96k/vtwI3gnRqU&c=1194&token=VmlzaXRhIGJnY29kZS54eXogcGFyYSBvYnRlbmVyIGVsIGNvZGlnbyAgeSBhcG95YXIgZXN0ZSBwcm95ZWN0bw.m3u8|user-agent=damx
 #EXTINF:-1 tvg-name=" SEC ESPN (USA)" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/042011/sec_espn.png" group-title="DEPORTES", SEC ESPN
 http://54.39.49.162:8081/USA%7CESPNSECNETWORK/SPORTS/playlist.m3u8
 #EXTINF:-1 tvg-name=" SEC ESPN (USA)" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/042011/sec_espn.png" group-title="DEPORTES", SEC ESPN
@@ -7610,7 +7613,6 @@ https://playoutengine-v2.sinclairstoryline.com/playout/b287bd53-b70f-4b04-9096-1
 https://playoutengine-v2.sinclairstoryline.com/playout/202886a0-38bf-4470-9043-6f7e3750a5cf.m3u8
 #EXTINF:-1 tvg-name="Tennis Channel Plus 10" tvg-logo="http://blog.roku.com/wp-content/uploads/2015/03/Tennis-Channel-logo.png" group-title="DEPORTES", Tennis Channel Plus 10
 https://playoutengine-v2.sinclairstoryline.com/playout/c46b6ddd-59f0-475d-9f28-08e382d570d0.m3u8
-
 
 
 
