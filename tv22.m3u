@@ -9433,6 +9433,11 @@ https://webui.vhls.ru.com/cdn4/premium130/playlist.m3u8?|Referer=https://player.
 https://webui.vhls.ru.com/cdn4/premium41/playlist.m3u8?|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Eurosport_2_HD_XTRA_Logo_2017.png" group-title="DEPORTES",  Euro Sport 2 UK
 https://webui.vhls.ru.com/cdn4/premium42/playlist.m3u8?|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+
+#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", Juego A
+https://mn-nl-glb.mncdn.com/dlive/transcode-66-250/dlive-dihupyoptj/1647814960/src/live.m3u8
+#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", Juego B
+https://bal.varcdn1.ru/lb/mp/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/357-3578768_sport-tv-1-hd.png" group-title="DEPORTES", SPORTTV 1
 
 
@@ -9656,7 +9661,7 @@ https://shortgod.com/flashm3uv2/telelaaat311.php?id=3&f=.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" group-title="DEPORTES",TUDN
 https://shortgod.com/flashm3uv2/telelaaat311.php?id=205&f=.m3u8
 #EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", UTUDN
-
+http://bgapp.live/play/futvall-917.php?id=tudnus&token=blackgghooooostt&file=.m3u8
 #EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", UTUDN
 
 #EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn.jpg" group-title="DEPORTES", UTUDN
@@ -10220,10 +10225,6 @@ https://playoutengine-v2.sinclairstoryline.com/playout/b287bd53-b70f-4b04-9096-1
 https://playoutengine-v2.sinclairstoryline.com/playout/202886a0-38bf-4470-9043-6f7e3750a5cf.m3u8
 #EXTINF:-1 tvg-name="Tennis Channel Plus 10" tvg-logo="http://blog.roku.com/wp-content/uploads/2015/03/Tennis-Channel-logo.png" group-title="DEPORTES", Tennis Channel Plus 10
 https://playoutengine-v2.sinclairstoryline.com/playout/c46b6ddd-59f0-475d-9f28-08e382d570d0.m3u8
-#EXTINF:-1 tvg-logo="https://epg-pp.beinsports.com/us_sports/beinx-en1.png" group-title="DEPORTES",   K17JI-D5 (beIN Sports Xtra)
-https://v-fn.mybtv.net/live/917.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1 tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="DEPORTES",  K17JI-D6 (beIN Sports Xtra en Espanol)
-https://v-fn.mybtv.net/live/948.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="http://p2086.securepoint.io:2086/images/81b30a9bc54cc6a21a9e6ff71826a693.png" group-title="DEPORTES", SPECTRUM SPORTSNET LA DODGERS
 
 #EXTINF:-1 tvg-logo="http://p2086.securepoint.io:2086/images/81b30a9bc54cc6a21a9e6ff71826a693.png" group-title="DEPORTES", SPECTRUM SPORTSNET LA DODGERS
@@ -10416,6 +10417,12 @@ http://bgapp.live/play/gorda-917.php?user=ISZScj5XYw/w11KItoJDL&c=1215&token=Vml
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="DEPORTES", BT SPORTS 3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/BTSPORT_ESPN_BLACK_RED.png" group-title="DEPORTES", BT SPORTS ESPN
+
+
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO", LA LIGA TV
+http://31.220.41.88:8081/live/es-movistarlaliga.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/947115ea-3d7d-4e98-9254-946ccff7c907/logotipo%20evento%20en%20vivo.png" group-title="EVENTO EN VIVO", LA LIGA TV
+http://31.220.41.88:8081/live/es-laligatvbar.stream/playlist.m3u8
 
 
 
