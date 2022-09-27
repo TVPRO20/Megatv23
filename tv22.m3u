@@ -5343,6 +5343,7 @@ https://webui.vhls.ru.com/lb/premium130/playlist.m3u8?|Referer=https://player.li
 https://webui.vhls.ru.com/lb/premium41/playlist.m3u8?|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Eurosport_2_HD_XTRA_Logo_2017.png" group-title="DEPORTES",  Euro Sport 2 UK
 https://webui.vhls.ru.com/lb/premium42/playlist.m3u8?|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+
 #EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", Juego A
 https://mn-nl-glb.mncdn.com/dlive/transcode-66-250/dlive-dihupyoptj/1647814960/src/live.m3u8
 #EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", Juego B
