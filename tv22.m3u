@@ -1615,6 +1615,7 @@ https://adultswim-vodlive.cdn.turner.com/live/ypf/stream.m3u8
 
 #EXTM3U
 
+
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/banderas/22x16/mx.png" group-title="MEXICO",[COLOR orange][B][I]---MEXICO---[/COLOR][/B][/I]
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 
@@ -1894,6 +1895,9 @@ http://8.242.192.56:8888/canal6mobiles.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-FSCFpjN9i3A/XznRQfPjIBI/AAAAAAAA4jc/QZb2eSQarKoBIJg71LSUYs3tcRELs48IwCK8BGAsYHg/s0/2020-08-16.png" group-title="REGIONAL",NAY: 8 NTV Nayarit
 https://59802217c6db4.streamlock.net:443/ntv/videontv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-FSCFpjN9i3A/XznRQfPjIBI/AAAAAAAA4jc/QZb2eSQarKoBIJg71LSUYs3tcRELs48IwCK8BGAsYHg/s0/2020-08-16.png" group-title="REGIONAL",NAY: 8 NTV Nayarit
+https://60417ddeaf0d9.streamlock.net:443/ntv/videontv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2pp3dwi-vkQ/XznLWR76sUI/AAAAAAAA4i0/nJvPb7KyiCMp3v5JVHky6GjltlEMChz8ACK8BGAsYHg/s0/2020-08-16.jpg" group-title="REGIONAL",NLE: Canal 28 Nuevo Leon
 
 https://5e307acc9a171.streamlock.net:1936/canal28/canal28/playlist.m3u8
@@ -2037,7 +2041,7 @@ https://bamus-spa-roku.amagi.tv/playlist.m3u8
 http://a92cb231-lp-omega.ums.services.video.ibm.com/playlist/directhls/channel/6540154/2/playlist.m3u8?authType=IP_BASED_IDENTITY&appType=12&appVersion=1&segmentType=ts&content=audiovideo&sgn=c24a2d4ff965b2ea7a189c91d27d57e7297dcbb9&cdnHost=uhs-akamai.ustream.tv/
 
 #EXTINF:-1 tvg-id="" tvg-name="ACS Network TV" tvg-logo="https://i.imgur.com/jKsmoAn.png" group-title="NIÑOS Y JOVENES",ACS Network Tv | Puerto Rico
-https://play.amelbasoluciones.co:3257/live/acsnetworklive.m3u8
+https://acs.amelbasoluciones.co:3598/live/acsnetworklive.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Alf" tvg-logo="http://x.playerlatino.live/alf.png" group-title="NIÑOS Y JOVENES",Alf | Argentina
 https://srv5.zcast.com.br/alf/alf/playlist.m3u8
@@ -2051,6 +2055,9 @@ https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Anime Zone TV" tvg-logo="https://i.imgur.com/z1VIGD7.png" group-title="NIÑOS Y JOVENES",Anime Zone TV | República Dominicana
 http://azxtv.com/hls/stream.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Anime Zone TV" tvg-logo="https://i.imgur.com/z1VIGD7.png" group-title="NIÑOS Y JOVENES",Anime Zone TV | República Dominicana
+http://animezonetv.net/hls/stream.m3u8
+
 #EXTINF:-1 tvg-ID="ANIME TV" tvg-logo="https://i.imgur.com/8w6Y56I.png" group-title="NIÑOS Y JOVENES",Anime TV | Brasil
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
@@ -2061,7 +2068,7 @@ https://tv01.livemustv.com.br/livemustv1358/livemustv1358/chunklist_w1027568536.
 http://210.210.155.35/dr9445/h/h02/index.m3u8
 
 #EXTINF:-1 tvg-id="Aniplus Arg" tvg-name="Aniplus Arg" tvg-logo="https://i.imgur.com/CbxJE05.png" group-title="NIÑOS Y JOVENES",Aniplus | Argentina
-
+https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Bit Me" tvg-name="Bit Me" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bitme.png" group-title="NIÑOS Y JOVENES",Bit Me | México
 
@@ -2102,8 +2109,11 @@ http://magmas5.com:8000/live/malotv/gratis/132321.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ipe" tvg-logo="https://i.imgur.com/BADfaU8.png" group-title="NIÑOS Y JOVENES",Chicos Ipe | Perú
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Caricaturas" tvg-logo="https://cdn.mitvstatic.com/programs/ar_chiquilines-1991_l_l.jpg" group-title="NIÑOS Y JOVENES",Chiquilines | España
+#EXTINF:-1 tvg-id="" tvg-name="Caricaturas" tvg-logo="https://cdn.mitvstatic.com/programs/ar_chiquilines-1991_l_l.jpg" group-title="NIÑOS Y JOVENES",Chiquilines | USA
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Caricaturas" tvg-logo="https://cdn.mitvstatic.com/programs/ar_chiquilines-1991_l_l.jpg" group-title="NIÑOS Y JOVENES",Chiquilines | USA
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Clan HD" tvg-name="Clan HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/clan_tve.png" group-title="NIÑOS Y JOVENES",Clan TVE | España
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/48693
@@ -2129,11 +2139,20 @@ https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
 #EXTINF:-1 tvg-id="EnerGeek" tvg-name="EnerGeek" tvg-logo="https://i.imgur.com/jNtVaZm.png" group-title="NIÑOS Y JOVENES",EnerGeek op | Chile
 https://45.236.127.10:3103/live/energeek1live.m3u8
 
+#EXTINF:-1 tvg-id="EnerGeek" tvg-name="EnerGeek" tvg-logo="https://i.imgur.com/jNtVaZm.png" group-title="NIÑOS Y JOVENES",EnerGeek op | Chile
+https://stream.wifiexpert.cl/energeek/EnerGeek/playlist.m3u8
+
 #EXTINF:-1 tvg-id="EnerGeek Fanpop" tvg-name="EnerGeek Fanpop" tvg-logo="https://i.imgur.com/YiSumNU.png" group-title="NIÑOS Y JOVENES",Energeek Fanpop | Chile
+https://stream.wifispeed.cl:3247/live/energeek2live.m3u8
+
+#EXTINF:-1 tvg-id="EnerGeek Fanpop" tvg-name="EnerGeek Fanpop" tvg-logo="https://i.imgur.com/YiSumNU.png" group-title="NIÑOS Y JOVENES",Energeek Fanpop op | Chile
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EnerGeek Fanpop" tvg-name="EnerGeek Fanpop" tvg-logo="https://i.imgur.com/YiSumNU.png" group-title="NIÑOS Y JOVENES",Energeek Fanpop op | Chile
 http://45.236.127.2:1935/infantil/energeek-2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EnerGeek Fanpop" tvg-name="EnerGeek Fanpop" tvg-logo="https://i.imgur.com/YiSumNU.png" group-title="NIÑOS Y JOVENES",Energeek Fanpop op | Chile
+https://stream.wifiexpert.cl/energeek/EGFanpop/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EnerGeek Wowly" tvg-name="EnerGeek Wowly" tvg-logo="https://i.imgur.com/WIFyoqI.png" group-title="NIÑOS Y JOVENES",Energeek Wowly | Chile
 https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
@@ -2141,20 +2160,26 @@ https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
 #EXTINF:-1 tvg-id="EnerGeek Wowly" tvg-name="EnerGeek Wowly" tvg-logo="https://i.imgur.com/WIFyoqI.png" group-title="NIÑOS Y JOVENES",Energeek Wowly op | Chile
 https://45.236.127.10:3852/live/energeeklive.m3u8
 
+#EXTINF:-1 tvg-id="EnerGeek Wowly" tvg-name="EnerGeek Wowly" tvg-logo="https://i.imgur.com/WIFyoqI.png" group-title="NIÑOS Y JOVENES",Energeek Wowly op | Chile
+https://stream.wifiexpert.cl/energeek/EGWowly/playlist.m3u8
+
 #EXTINF:-1 tvg-id="EnerGeek 4" tvg-name="EnerGeek 4" tvg-logo="https://i.imgur.com/7tkKjoM.png" group-title="NIÑOS Y JOVENES",EnerGeek 4 | Chile
 https://live.tubyte.xyz/LiveApp/streams/531839509402196773557900.m3u8
 
 #EXTINF:-1 tvg-id="EnerGeek Radio TV" tvg-name="EnerGeek Radio TV" tvg-logo="https://i2.paste.pics/cb6d3df7e55e32e5c786962a1fa742cd.png" group-title="NIÑOS Y JOVENES",Energeek Radio TV | Chile
-https://live.tubyte.xyz/LiveApp/streams/839593913716085646044793.m3u8
+https://streamtest.energeek.cl/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="EnerGeek Radio" tvg-name="EnerGeek Radio" tvg-logo="https://i2.paste.pics/cb6d3df7e55e32e5c786962a1fa742cd.png" group-title="NIÑOS Y JOVENES",Energeek Radio | Chile
 http://betatest.fplayzyt.club:8050/energeekradio.mp3
 
 #EXTINF:-1 tvg-id="ETC TV" tvg-name="ETC TV" tvg-logo="https://i.imgur.com/QVC28lh.png" group-title="NIÑOS Y JOVENES",ETC TV | Chile
+http://disfruta.net/nOZew4a/FTG5gQO/285
+
+#EXTINF:-1 tvg-id="ETC TV" tvg-name="ETC TV" tvg-logo="https://i.imgur.com/QVC28lh.png" group-title="NIÑOS Y JOVENES",ETC TV | Chile
 http://magmas5.com:8000/live/malotv/gratis/4822.m3u8
 
 #EXTINF:-1 tvg-id="ETC TV" tvg-name="ETC TV" tvg-logo="https://i.imgur.com/QVC28lh.png" group-title="NIÑOS Y JOVENES",ETC TV | Chile
-http://51.222.25.50:25461/bulltvn3w/appnew/544
+https://unlimited2-cl-isp.dps.live/etctv/etctv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="9" tvg-name="Fox Kids" tvg-logo="https://i.postimg.cc/Z518Hwrr/FOX-Kids-logo.png" group-title="NIÑOS Y JOVENES",Fox Kids | Peru
 
@@ -2218,6 +2243,9 @@ https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Caricaturas" tvg-logo="https://img2.static-ottera.com/prod/tg/linear_channel/thumbnails/widescreen/640x360/mytoonz_logo.jpg" group-title="NIÑOS Y JOVENES",My Toonz (Inglés) | Estados Unidos
 https://api-ott.mytoonz.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=1356&timestamp=1616163185&ip=92.38.148.59&override_expiration=1500&sign=H3u8RDpNqe3HutWOLVaTs1EhOpDrg5DdwoJ27cnRla8%3D
 
+#EXTINF:-1 tvg-id="NTV Chile" tvg-name="NTV Chile" tvg-logo="https://i2.paste.pics/49116db7b95befdabb207ccbd2bb94b6.png" group-title="NIÑOS Y JOVENES",NTV | Chile
+https://marine2.miplay.cl/ntv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Paka Paka" tvg-logo="https://i.imgur.com/ZoRRVDf.png" group-title="NIÑOS Y JOVENES",PakaPaka | Argentina
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 
@@ -2233,7 +2261,7 @@ http://deaplaneta-planetakidz-1-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Caricaturas" tvg-logo="https://i.imgur.com/kR6z9AK.jpg" group-title="NIÑOS Y JOVENES",Planeta Junior TV 2 | España
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609501978c069d00074e0dd2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 
-#EXTINF:-1 tvg-id="PlanetaTV Kids" tvg-name="PlanetaTV Kids" tvg-logo="https://planetatv.online/wp-content/uploads/2022/02/LOGOPNG.png" group-title="NIÑOS Y JOVENES",PlanetaTV Kids | Chile
+#EXTINF:-1 tvg-id="PlanetaTV Kids" tvg-name="PlanetaTV Kids" tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png" group-title="NIÑOS Y JOVENES",PlanetaTV Kids | Chile
 https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Caricaturas" tvg-logo="https://prod2-kraken-cloudfront.rakuten.tv/images/social/logo.png" group-title="NIÑOS Y JOVENES",Rakuten TV Familia | España
@@ -2284,6 +2312,9 @@ http://magmas5.com:8000/live/malotv/gratis/140821.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Atrescine(Spanish).us" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s82808_dark_360w_270h.png" group-title="CINE",ATresCine | España
 https://edge-live11-sl.cvattv.com.ar/live/c7eds/A3_Cine/SA_SAGEMCOM/A3_Cine.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CINE",Bjgtjme | Argentina
+https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Programacion Local" tvg-logo="" group-title="CINE",Cine | Chile
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
@@ -2544,8 +2575,6 @@ https://v-ny.mybtv.net/live/663.m3u8?env=prd&uid=-1&x=1
 https://m3u-editor.com/serve/320183542-iptv/368981975
 #EXTINF:-1 tvg-id="" tvg-name="Afizzionados" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/afizzionados.png" group-title="DEPORTES",AfiZZionados | México
 http://magmas5.com:8000/live/malotv/gratis/148890.m3u8
-#EXTINF:-1 tvg-id="Canal Afizzionados" tvg-name="Afizzionados" tvg-logo="https://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s108506_dark_360w_270h.png" group-title="Deportes Premium",Afizzionados
-http://www.alltvstyle.com:25461/roberto/1234/144
 #EXTINF:-1 tvg-logo="http://i.imgur.com/u7R3qcx.png" group-title="DEPORTES",All Sports | Brasil
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.alkass.net/alkass/assets/images/logo.png" group-title="DEPORTES",Al Kass Sports | Qatar
@@ -4111,249 +4140,6 @@ https://na.linear.zype.com/e92b7406-d2bb-4c1f-aa46-d5575010d9f0/feeb7c9bb5f8446c
 #EXTINF:-1 channel-id="samsung-USAJ4000011W6" tvg-id="USAJ4000011W6" tvg-chno="1517" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/41/USAJ4000011W6_20220223T042255.png" group-title="Music",Vevo Pop
 https://na.linear.zype.com/b99e99b3-4fad-ceab-7f71-27f319b5416b/c5e1968c592947d79609414b21abf9ff-samsung/live.m3u8?sitesection_id=vevo_linear%3A_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&us_privacy=1YNY&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D
 
-
-
-#EXTINF:-1 tvg-id="Canal Afizzionados" tvg-name="Afizzionados" tvg-logo="https://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s108506_dark_360w_270h.png" group-title="Deportes Premium",Afizzionados
-http://www.alltvstyle.com:25461/roberto/1234/144
-#EXTINF:-1 tvg-id="" tvg-name="DirecTV Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="Deportes Premium",DirecTV Sports 2
-http://www.alltvstyle.com:25461/roberto/1234/1469
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Action NFL" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/5ow1xp1600613173.png" group-title="Deportes Premium",Sky Sports Action NFL
-http://www.alltvstyle.com:25461/roberto/1234/59054
-#EXTINF:-1 tvg-id="" tvg-name="NFL Network" tvg-logo="http://www.morethanjustsports.com/Files/2010/09/NFLLogo.png" group-title="Deportes Premium",NFL Network
-http://www.alltvstyle.com:25461/roberto/1234/59055
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Premier League" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Premier_League_logo.png" group-title="Deportes Premium",Sky Sports Premier League
-http://www.alltvstyle.com:25461/roberto/1234/65374
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Football" tvg-logo="https://seekvectors.com/files/download/Sky-sport-Football-01.png" group-title="Deportes Premium",Sky Sports Football
-http://www.alltvstyle.com:25461/roberto/1234/65379
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Arena" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Sport_Arena_-_Logo_2020.svg/1280px-Sky_Sport_Arena_-_Logo_2020.svg.png" group-title="Deportes Premium",Sky Sports Arena
-http://www.alltvstyle.com:25461/roberto/1234/65378
-#EXTINF:-1 tvg-id="Canal Afizzionados" tvg-name="Sky Sports Cricket" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/47d7os1502554865.png" group-title="Deportes Premium",Sky Sports Cricket
-http://www.alltvstyle.com:25461/roberto/1234/59056
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Sky_Sports_News_UK_logo_2020.png" group-title="Deportes Premium",Sky Sports News
-http://www.alltvstyle.com:25461/roberto/1234/61994
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Golf" tvg-logo="https://e3.365dm.com/tvlogos/channels/1322-Logo.png" group-title="Deportes Premium",Sky Sports Golf
-http://www.alltvstyle.com:25461/roberto/1234/61995
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Mix" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Sky_Sports_Mix.png" group-title="Deportes Premium",Sky Sports Mix
-http://www.alltvstyle.com:25461/roberto/1234/61996
-#EXTINF:-1 tvg-id="" tvg-name="Movistar #Vamos" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/movistar_vamos.png" group-title="Deportes Premium",Movistar #Vamos
-http://www.alltvstyle.com:25461/roberto/1234/61997
-#EXTINF:-1 tvg-id="" tvg-name="Mr 3000 - 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7CNkytZsZzQ8ZEr8F4SmrhjI5y.jpg" group-title="Deportes Premium",Mr 3000 - 2004
-http://www.alltvstyle.com:25461/movie/roberto/1234/61132.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adrenalina Sports Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Adrenalina-%2820q6%29.png" group-title="Deportes Premium",Adrenalina Sports Network
-http://www.alltvstyle.com:25461/roberto/1234/1303
-#EXTINF:-1 tvg-id="" tvg-name="TUDN USA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/500px-TUDN_Logo.svg.png" group-title="Deportes Premium",TUDN USA HD
-http://www.alltvstyle.com:25461/roberto/1234/1304
-#EXTINF:-1 tvg-id="Canal AYM Sports" tvg-name="AYM Sports" tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/6/63/AYMSports21logo.png/revision/latest?cb=20210821051314&path-prefix=es" group-title="Deportes Premium",AYM Sports
-http://www.alltvstyle.com:25461/roberto/1234/1310
-#EXTINF:-1 tvg-id="Canal AZ Clic!" tvg-name="Azteca Sports" tvg-logo="https://equinoxawards.com/wp-content/uploads/2021/07/Azteca-E-Sports.png" group-title="Deportes Premium",Azteca Sports
-http://www.alltvstyle.com:25461/roberto/1234/1315
-#EXTINF:-1 tvg-id="Canal Claro Sports" tvg-name="Claro Sports" tvg-logo="https://images.squarespace-cdn.com/content/v1/58597a19e58c62ba7fa48bf9/1626211994542-XUWFSKZ5AW26W6RBLXOA/1200px-Claro_Sports_logo.svg.png" group-title="Deportes Premium",Claro Sports
-http://www.alltvstyle.com:25461/roberto/1234/1327
-#EXTINF:-1 tvg-id="Canal ESPN 2 México" tvg-name="ESPN" tvg-logo="https://logos-marcas.com/wp-content/uploads/2020/12/ESPN-Logo.png" group-title="Deportes Premium",ESPN
-http://www.alltvstyle.com:25461/roberto/1234/1347
-#EXTINF:-1 tvg-id="" tvg-name="ESPN+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Espn%2B.png/640px-Espn%2B.png" group-title="Deportes Premium",ESPN+
-http://www.alltvstyle.com:25461/roberto/1234/1348
-#EXTINF:-1 tvg-id="Canal ESPN (México)" tvg-name="ESPN 2" tvg-logo="https://futbollibre.net/img/logo-canal/ESPN_2.png" group-title="Deportes Premium",ESPN 2
-http://www.alltvstyle.com:25461/roberto/1234/1349
-#EXTINF:-1 tvg-id="Canal ESPN 3 (México)" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes Premium",ESPN 3
-http://www.alltvstyle.com:25461/roberto/1234/1350
-#EXTINF:-1 tvg-id="Canal Fox Sports (México)" tvg-name="FOX Sports MX" tvg-logo="http://cms.dmpcdn.com/livetv/2019/01/24/f93e6e1c-1fef-4e05-823b-912dea6a88a6.png" group-title="Deportes Premium",FOX Sports MX
-http://www.alltvstyle.com:25461/roberto/1234/1363
-#EXTINF:-1 tvg-id="Canal Fox Sports 2 (México)" tvg-name="FOX Sports 2 MX" tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" group-title="Deportes Premium",FOX Sports 2 MX
-http://www.alltvstyle.com:25461/roberto/1234/1364
-#EXTINF:-1 tvg-id="Canal Fox Sports 3 (México)" tvg-name="FOX Sports 3 MX" tvg-logo="https://destel.mx/wp-content/uploads/2016/04/929.png" group-title="Deportes Premium",FOX Sports 3 MX
-http://www.alltvstyle.com:25461/roberto/1234/1365
-#EXTINF:-1 tvg-id="Canal Golf Channel" tvg-name="Golf Channel" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/merch/subs/benefit-id/g-l/golfchannelfr/logos/3p-logo._CB414878474_.png" group-title="Deportes Premium",Golf Channel
-http://www.alltvstyle.com:25461/roberto/1234/1375
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Racing" tvg-logo="http://deportesinc.com/depsite/wp-content/uploads/2017/01/Sky-Sports-Logos-CMYK.png" group-title="Deportes Premium",Sky Sports Racing
-http://www.alltvstyle.com:25461/roberto/1234/1386
-#EXTINF:-1 tvg-id="Canal PX Sports" tvg-name="Movistar Deportes 2" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/movistar_deportes_2_logo.png" group-title="Deportes Premium",Movistar Deportes 2
-http://www.alltvstyle.com:25461/roberto/1234/1399
-#EXTINF:-1 tvg-id="Canal TUDN (México)" tvg-name="TUDN MX" tvg-logo="https://seeklogo.com/images/T/tudn-positivo-logo-F60FDA68AF-seeklogo.com.png" group-title="Deportes Premium",TUDN MX
-http://www.alltvstyle.com:25461/roberto/1234/1417
-#EXTINF:-1 tvg-id="" tvg-name="Barca TV" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/yd1cpc1616924982.png" group-title="Deportes Premium",Barca TV
-http://www.alltvstyle.com:25461/roberto/1234/52482
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Eurosport_Logo_%282011-2015%29.svg/1200px-Eurosport_Logo_%282011-2015%29.svg.png" group-title="Deportes Premium",Eurosport 1
-http://www.alltvstyle.com:25461/roberto/1234/52509
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Eurosport_2_Logo_%282011-2015%29.svg/2560px-Eurosport_2_Logo_%282011-2015%29.svg.png" group-title="Deportes Premium",Eurosport 2
-http://www.alltvstyle.com:25461/roberto/1234/52480
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 2" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/large.logo_tntsports_2_blanco.png.431ff1b3ae8a01b855d8206073766f17.png" group-title="Deportes Premium",TNT Sports 2
-http://www.alltvstyle.com:25461/roberto/1234/72001
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1200px-Movistar_Deportes.svg.png" group-title="Deportes Premium",Movistar Deportes
-http://www.alltvstyle.com:25461/roberto/1234/1434
-#EXTINF:-1 tvg-id="Canal Fox Premium Series (Oeste)" tvg-name="Toros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Toros-movistar.png" group-title="Deportes Premium",Toros
-http://www.alltvstyle.com:25461/roberto/1234/1362
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Extra" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_10/994409997_EspnExtra(2).png.8cbb2e061b1f4e600ec330b5b0779d87.png" group-title="Deportes Premium",ESPN Extra
-http://www.alltvstyle.com:25461/roberto/1234/1473
-#EXTINF:-1 tvg-id="Canal Fox Premium Movies" tvg-name="ESPN Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Deportes Premium",ESPN Deportes
-http://www.alltvstyle.com:25461/roberto/1234/1360
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Sec Network" tvg-logo="http://a.espncdn.com/photo/2014/0617/sec_network_logo.png" group-title="Deportes Premium",ESPN Sec Network
-http://www.alltvstyle.com:25461/roberto/1234/58616
-#EXTINF:-1 tvg-id="Canal Fox Premium Classics" tvg-name="ESPN U" tvg-logo="https://www.logolynx.com/images/logolynx/ae/aed258525360eeab53e71964687f94bd.png" group-title="Deportes Premium",ESPN U
-http://www.alltvstyle.com:25461/roberto/1234/1428
-#EXTINF:-1 tvg-id="Canal Fox Premium Cinéma" tvg-name="ESPN 3 ARG" tvg-logo="https://hubdeportivo.com/wp-content/uploads/2021/05/305.png" group-title="Deportes Premium",ESPN 3 ARG
-http://www.alltvstyle.com:25461/roberto/1234/1426
-#EXTINF:-1 tvg-id="Canal Fox Premium Action (Oeste)" tvg-name="ESPN Extra Arg" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_10/994409997_EspnExtra(2).png.8cbb2e061b1f4e600ec330b5b0779d87.png" group-title="Deportes Premium",ESPN Extra Arg
-http://www.alltvstyle.com:25461/roberto/1234/1425
-#EXTINF:-1 tvg-id="" tvg-name="DAZN F1" tvg-logo="https://watch.dazn.com/default-assets/partnership-default.png" group-title="Deportes Premium",DAZN F1
-http://www.alltvstyle.com:25461/roberto/1234/63292
-#EXTINF:-1 tvg-id="" tvg-name="FOX Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png" group-title="Deportes Premium",FOX Deportes
-http://www.alltvstyle.com:25461/roberto/1234/1448
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 1 USA" tvg-logo="https://sales.henrylapps.com/storage/channels/Logo-Fox-Sports-1.png" group-title="Deportes Premium",FOX Sports 1 USA
-http://www.alltvstyle.com:25461/roberto/1234/1450
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 2 USA" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_11278_7_8373.png" group-title="Deportes Premium",FOX Sports 2 USA
-http://www.alltvstyle.com:25461/roberto/1234/1451
-#EXTINF:-1 tvg-id="" tvg-name="Win Sports +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/800px-WinSports2017.png" group-title="Deportes Premium",Win Sports +
-http://www.alltvstyle.com:25461/roberto/1234/1452
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 3 ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png" group-title="Deportes Premium",FOX Sports 3 ARG
-http://www.alltvstyle.com:25461/roberto/1234/1455
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 2 ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/800px-2015_Fox_sports_logo.svg.png" group-title="Deportes Premium",FOX Sports 2 ARG
-http://www.alltvstyle.com:25461/roberto/1234/1456
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 1 ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/640px-FOX_Sports_logo.svg.png" group-title="Deportes Premium",FOX Sports 1 ARG
-http://www.alltvstyle.com:25461/roberto/1234/1457
-#EXTINF:-1 tvg-id="" tvg-name="DirecTV Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/640px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes Premium",DirecTV Sports 1
-http://www.alltvstyle.com:25461/roberto/1234/1458
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 ARG" tvg-logo="https://cabletosaguatv.com/wp-content/uploads/espn2-300x150.png" group-title="Deportes Premium",ESPN 2 ARG
-http://www.alltvstyle.com:25461/roberto/1234/1459
-#EXTINF:-1 tvg-id="" tvg-name="DirecTV Sports +" tvg-logo="https://www.pngfind.com/pngs/m/297-2974594_directv-sports-plus-logo-hd-png-download.png" group-title="Deportes Premium",DirecTV Sports +
-http://www.alltvstyle.com:25461/roberto/1234/1460
-#EXTINF:-1 tvg-id="" tvg-name="Gol TV Spanish" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_02/large.sketch-1580686212613.png.e84227e062d12075c4d8b5b4dd5ba216.png" group-title="Deportes Premium",Gol TV Spanish
-http://www.alltvstyle.com:25461/roberto/1234/1463
-#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="https://jfgentertainment.com/img/upload/logo-nba.png" group-title="Deportes Premium",NBA TV
-http://www.alltvstyle.com:25461/roberto/1234/1468
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports F1" tvg-logo="https://guidatv.sky.it/logo/478skysportf1hd_Light_Padding.png" group-title="Deportes Premium",Sky Sports F1
-http://www.alltvstyle.com:25461/roberto/1234/1470
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_01/small.1302367661_TNTSportsNuevoLogo2021.png.341f14d65edf154b8d9fe26343249e67.png" group-title="Deportes Premium",TNT Sports
-http://www.alltvstyle.com:25461/roberto/1234/1471
-#EXTINF:-1 tvg-id="" tvg-name="NBC Universo" tvg-logo="http://144.217.183.123/logos/UNIVERSO_LOGO_color_black.png" group-title="Deportes Premium",NBC Universo
-http://www.alltvstyle.com:25461/roberto/1234/1472
-#EXTINF:-1 tvg-id="" tvg-name="Tennis Channel" tvg-logo="https://seeklogo.com/images/T/tennis-channel-logo-912C418E99-seeklogo.com.png" group-title="Deportes Premium",Tennis Channel
-http://www.alltvstyle.com:25461/roberto/1234/1474
-#EXTINF:-1 tvg-id="" tvg-name="TyC Sports" tvg-logo="https://globalsquads.com/custom/uploads/images/72027_tyc.png" group-title="Deportes Premium",TyC Sports
-http://www.alltvstyle.com:25461/roberto/1234/1475
-#EXTINF:-1 tvg-id="" tvg-name="TVC Deportes" tvg-logo="https://totalplayplanes.mx/s/ma/assets/img/canales/Deportes/canal-tvcdeportes.png" group-title="Deportes Premium",TVC Deportes
-http://www.alltvstyle.com:25461/roberto/1234/1476
-#EXTINF:-1 tvg-id="" tvg-name="Outdoor Channel" tvg-logo="https://www.logolynx.com/images/logolynx/03/03ea0638f105a059799f5d7e0ccd4797.png" group-title="Deportes Premium",Outdoor Channel
-http://www.alltvstyle.com:25461/roberto/1234/1
-#EXTINF:-1 tvg-id="" tvg-name="Movistar La Liga de Campeones" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_LaLiga.png" group-title="Deportes Premium",Movistar La Liga de Campeones
-http://www.alltvstyle.com:25461/roberto/1234/4
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Ñ" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/6/6595.1491352332.png" group-title="Deportes Premium",Bein Sports Ñ
-http://www.alltvstyle.com:25461/roberto/1234/6
-#EXTINF:-1 tvg-id="" tvg-name="MLB Network" tvg-logo="https://www.pngplay.com/wp-content/uploads/13/MLB-Background-PNG-Image.png" group-title="Deportes Premium",MLB Network
-http://www.alltvstyle.com:25461/roberto/1234/169
-#EXTINF:-1 tvg-id="Canal TUDN (Estados Unidos)" tvg-name="TUDN USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/500px-TUDN_Logo.svg.png" group-title="Deportes Premium",TUDN USA
-http://www.alltvstyle.com:25461/roberto/1234/3
-#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass" tvg-logo="https://www.seekpng.com/png/full/43-439418_ufc-fight-pass-logo.png" group-title="Deportes Premium",UFC Fight Pass
-http://www.alltvstyle.com:25461/roberto/1234/5
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 USA" tvg-logo="http://144.217.183.123/logos/ESPN-Logo.png" group-title="Deportes Premium",ESPN 1 USA
-http://www.alltvstyle.com:25461/roberto/1234/1511
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 USA" tvg-logo="http://144.217.183.123/logos/ESPNDOH-1.png" group-title="Deportes Premium",ESPN 2 USA
-http://www.alltvstyle.com:25461/roberto/1234/1512
-#EXTINF:-1 tvg-id="Canal TUDN (Estados Unidos)" tvg-name="Real Madrid TV" tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/02/Real-Madrid-logo.png" group-title="Deportes Premium",Real Madrid TV
-http://www.alltvstyle.com:25461/roberto/1234/1526
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Ñ USA" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/6/6595.1491352332.png" group-title="Deportes Premium",Bein Sports Ñ USA
-http://www.alltvstyle.com:25461/roberto/1234/52183
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports English" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="Deportes Premium",Bein Sports English
-http://www.alltvstyle.com:25461/roberto/1234/52184
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports La Liga" tvg-logo="https://flyclipart.com/thumb2/bein-sports-la-liga-912693.png" group-title="Deportes Premium",Bein Sports La Liga
-http://www.alltvstyle.com:25461/roberto/1234/52185
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 2" tvg-logo="https://i.pinimg.com/originals/15/7b/b5/157bb52fbcc87ff33aca65eae3e495e2.png" group-title="Deportes Premium",Bein Sports 2
-http://www.alltvstyle.com:25461/roberto/1234/52186
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 3" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/6/6592.1491350506.png" group-title="Deportes Premium",Bein Sports 3
-http://www.alltvstyle.com:25461/roberto/1234/52187
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 4" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F204%2Fbein-sports-hd-1.png" group-title="Deportes Premium",Bein Sports 4
-http://www.alltvstyle.com:25461/roberto/1234/52188
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 5" tvg-logo="https://www.nadirsat.com/Packages_files/HD5-1.png" group-title="Deportes Premium",Bein Sports 5
-http://www.alltvstyle.com:25461/roberto/1234/52189
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 6" tvg-logo="https://www.nadirsat.com/Packages_files/HD6-1.png" group-title="Deportes Premium",Bein Sports 6
-http://www.alltvstyle.com:25461/roberto/1234/52190
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 7" tvg-logo="https://static.epg.best/qa/beINSports7.qa.png" group-title="Deportes Premium",Bein Sports 7
-http://www.alltvstyle.com:25461/roberto/1234/52191
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 8" tvg-logo="https://www.nadirsat.com/Packages_files/HD8-1.png" group-title="Deportes Premium",Bein Sports 8
-http://www.alltvstyle.com:25461/roberto/1234/52192
-#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo="https://www.freepnglogos.com/uploads/wwe-network-logo-photo-hd-2.png" group-title="Deportes Premium",WWE Network
-http://www.alltvstyle.com:25461/roberto/1234/52227
-#EXTINF:-1 tvg-id="Canal Fox Premium Comedy" tvg-name="ESPN News" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/espnnews.png" group-title="Deportes Premium",ESPN News
-http://www.alltvstyle.com:25461/roberto/1234/1429
-#EXTINF:-1 tvg-id="" tvg-name="Box Nation" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/BoxNation.png" group-title="Deportes Premium",Box Nation
-http://www.alltvstyle.com:25461/roberto/1234/58969
-#EXTINF:-1 tvg-id="" tvg-name="FUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_de_FUTV.svg/2560px-Logo_de_FUTV.svg.png" group-title="Deportes Premium",FUTV
-http://www.alltvstyle.com:25461/roberto/1234/69166
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Golf" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1200px-Movistar_Golf.svg.png" group-title="Deportes Premium",Movistar Golf
-http://www.alltvstyle.com:25461/roberto/1234/65389
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUM (ARG)" tvg-logo="http://78.47.174.211/logos/foxsportspremium.png" group-title="Deportes Premium",FOX SPORTS PREMIUM (ARG)
-http://www.alltvstyle.com:25461/roberto/1234/76166
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUM (MX)" tvg-logo="http://78.47.174.211/logos/foxsportspremiummx.png" group-title="Deportes Premium",FOX SPORTS PREMIUM (MX)
-http://www.alltvstyle.com:25461/roberto/1234/76167
-
-#EXTINF:-1 tvg-id="" tvg-name="Liga MX 19:00 Cruz Azul vs León (VIX)" tvg-logo="http://canal.skysoccerplus.tv/media/caratulas/2020/20200116161131429.webp" group-title="Deportes Premium",Evento (VIX)
-http://www.alltvstyle.com:25461/roberto/1234/52424
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="|SP| M.LCAMPEONES" tvg-logo="" group-title="ES| SPORTS",|SP| M.LCAMPEONES
-http://txm.flysat.live:2089/1144865265/hJJBZpr07s/246473
-#EXTINF:-1 tvg-id="" tvg-name="|SP| LA.LIGA BAR" tvg-logo="" group-title="ES| SPORTS",|SP| LA.LIGA BAR
-http://txm.flysat.live:2089/1144865265/hJJBZpr07s/246472
-#EXTINF:-1 tvg-id="" tvg-name="|SP| BEIN.LALIGA HD" tvg-logo="" group-title="ES| SPORTS",|SP| BEIN.LALIGA HD
-http://txm.flysat.live:2089/1144865265/hJJBZpr07s/246471
-#EXTINF:-1 tvg-id="" tvg-name="|SP| M.LALIGA" tvg-logo="" group-title="ES| SPORTS",|SP| M.LALIGA
-http://txm.flysat.live:2089/1144865265/hJJBZpr07s/246470
-#EXTINF:-1 tvg-id="" tvg-name="|SP| M. LALIGA 1  (ONLY DURING LIVE MATCHES)" tvg-logo="" group-title="ES| SPORTS",|SP| M. LALIGA 1  (ONLY DURING LIVE MATCHES)
-http://txm.flysat.live:2089/1144865265/hJJBZpr07s/246469
-#EXTINF:-1 tvg-id="" tvg-name="|SP| M. LALIGA 2  (ONLY DURING LIVE MATCHES)" tvg-logo="" group-title="ES| SPORTS",|SP| M. LALIGA 2  (ONLY DURING LIVE MATCHES)
-http://txm.flysat.live:2089/1144865265/hJJBZpr07s/246468
-#EXTINF:-1 tvg-id="" tvg-name="|SP| M. LALIGA 3  (ONLY DURING LIVE MATCHES)" tvg-logo="" group-title="ES| SPORTS",|SP| M. LALIGA 3  (ONLY DURING LIVE MATCHES)
-http://txm.flysat.live:2089/1144865265/hJJBZpr07s/246467
-#EXTINF:-1 tvg-id="" tvg-name="|SP| EUROSPORT1" tvg-logo="" group-title="ES| SPORTS",|SP| EUROSPORT1
-http://txm.flysat.live:2089/1144865265/hJJBZpr07s/246466
-#EXTINF:-1 tvg-id="" tvg-name="|SP| EUROSPORT 1" tvg-logo="" group-title="ES| SPORTS",|SP| EUROSPORT 1
-http://txm.flysat.live:2089/1144865265/hJJBZpr07s/246465
-#EXTINF:-1 tvg-id="" tvg-name="|SP| EUROSPORT 2" tvg-logo="" group-title="ES| SPORTS",|SP| EUROSPORT 2
-http://txm.flysat.live:2089/1144865265/hJJBZpr07s/246464
-#EXTINF:-1 tvg-id="" tvg-name="|SP| EUROSPORT 3" tvg-logo="" group-title="ES| SPORTS",|SP| EUROSPORT 3
-http://txm.flysat.live:2089/1144865265/hJJBZpr07s/246463
-#EXTINF:-1 tvg-id="" tvg-name="|SP| GOL" tvg-logo="" group-title="ES| SPORTS",|SP| GOL
-http://txm.flysat.live:2089/1144865265/hJJBZpr07s/246462
-#EXTINF:-1 tvg-id="" tvg-name="|SP| TV3 Cat" tvg-logo="" group-title="ES| SPORTS",|SP| TV3 Cat
-http://txm.flysat.live:2089/1144865265/hJJBZpr07s/246461
-#EXTINF:-1 tvg-id="" tvg-name="|SP| BARCA TV" tvg-logo="" group-title="ES| SPORTS",|SP| BARCA TV
-http://txm.flysat.live:2089/1144865265/hJJBZpr07s/246460
-#EXTINF:-1 tvg-id="" tvg-name="|SP| R. MADRID TV" tvg-logo="" group-title="ES| SPORTS",|SP| R. MADRID TV
-http://txm.flysat.live:2089/1144865265/hJJBZpr07s/246459
-#EXTINF:-1 tvg-id="" tvg-name="|SP| TOROS" tvg-logo="" group-title="ES| SPORTS",|SP| TOROS
-http://txm.flysat.live:2089/1144865265/hJJBZpr07s/246458
-#EXTINF:-1 tvg-id="" tvg-name="|SP| M.GOLF" tvg-logo="" group-title="ES| SPORTS",|SP| M.GOLF
-http://txm.flysat.live:2089/1144865265/hJJBZpr07s/246457
-#EXTINF:-1 tvg-id="" tvg-name="|SP| DAZN F1" tvg-logo="" group-title="ES| SPORTS",|SP| DAZN F1
-http://txm.flysat.live:2089/1144865265/hJJBZpr07s/246456
-#EXTINF:-1 tvg-id="" tvg-name="|SP| DAZN LA LIGA 1" tvg-logo="" group-title="ES| SPORTS",|SP| DAZN LA LIGA 1
-http://txm.flysat.live:2089/1144865265/hJJBZpr07s/246455
-#EXTINF:-1 tvg-id="" tvg-name="|SP| DAZN 1" tvg-logo="" group-title="ES| SPORTS",|SP| DAZN 1
-http://txm.flysat.live:2089/1144865265/hJJBZpr07s/246454
-#EXTINF:-1 tvg-id="" tvg-name="|SP| DAZN 2" tvg-logo="" group-title="ES| SPORTS",|SP| DAZN 2
-http://txm.flysat.live:2089/1144865265/hJJBZpr07s/246453
-#EXTINF:-1 tvg-id="" tvg-name="|SP| DAZN 3" tvg-logo="" group-title="ES| SPORTS",|SP| DAZN 3
-http://txm.flysat.live:2089/1144865265/hJJBZpr07s/246452
-#EXTINF:-1 tvg-id="" tvg-name="|SP| DAZN 4" tvg-logo="" group-title="ES| SPORTS",|SP| DAZN 4
-http://txm.flysat.live:2089/1144865265/hJJBZpr07s/246451
-#EXTINF:-1 tvg-id="" tvg-name="|SP| Laliga SmartBankTV" tvg-logo="" group-title="ES| SPORTS",|SP| Laliga SmartBankTV
-http://txm.flysat.live:2089/1144865265/hJJBZpr07s/246450
-#EXTINF:-1 tvg-id="" tvg-name="|SP| VAMOS  BAR  ( EVENT ONLY )" tvg-logo="" group-title="ES| SPORTS",|SP| VAMOS  BAR  ( EVENT ONLY )
-http://txm.flysat.live:2089/1144865265/hJJBZpr07s/246449
-#EXTINF:-1 tvg-id="" tvg-name="|SP| VAMOS BAR 2  ( EVENT ONLY )" tvg-logo="" group-title="ES| SPORTS",|SP| VAMOS BAR 2  ( EVENT ONLY )
-http://txm.flysat.live:2089/1144865265/hJJBZpr07s/246448
-#EXTINF:-1 tvg-id="" tvg-name="##### |SP| DEPORTES #####" tvg-logo="" group-title="ES| SPORTS",##### |SP| DEPORTES #####
-http://txm.flysat.live:2089/1144865265/hJJBZpr07s/246447
-#EXTINF:-1 tvg-id="" tvg-name="|SP| M. DEPORTES" tvg-logo="" group-title="ES| SPORTS",|SP| M. DEPORTES
-http://txm.flysat.live:2089/1144865265/hJJBZpr07s/246446
-#EXTINF:-1 tvg-id="" tvg-name="|SP| TELEDEPORTE" tvg-logo="" group-title="ES| SPORTS",|SP| TELEDEPORTE
-http://txm.flysat.live:2089/1144865265/hJJBZpr07s/246445
-#EXTINF:-1 tvg-id="" tvg-name="|SP| MEZZO LIVE" tvg-logo="" group-title="ES| SPORTS",|SP| MEZZO LIVE
-http://txm.flysat.live:2089/1144865265/hJJBZpr07s/246444
-#EXTINF:-1 tvg-id="" tvg-name="|SP| M.WIMBLEDONHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Wimbledon.svg/225px-Wimbledon.svg.png" group-title="ES| SPORTS",|SP| M.WIMBLEDONHD
-http://txm.flysat.live:2089/1144865265/hJJBZpr07s/199973
 #EXTINF:-1 group-title="DEPORTES-LMS" tvg-logo="https://i.imgur.com/8ZFQ93Z.png",ATG (432p)
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
 
@@ -4368,9 +4154,6 @@ https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
 
 #EXTINF:-1 group-title="DEPORTES-LMS" tvg-logo="https://i.imgur.com/BHm0wem.png",Canal Motor (720p)
 http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
-
-#EXTINF:-1 group-title="DEPORTES-LMS" tvg-logo="https://i.imgur.com/cruTxMF.png",Channel Fight (720p)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=68
 
 #EXTINF:-1 group-title="DEPORTES-LMS" tvg-logo="https://i.imgur.com/PEEELsL.png",DD Sports (576p)
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
@@ -4519,13 +4302,9 @@ https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES-LMS",Астрахань.Ru Sport (1080p)
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 
-#EXTINF:-1 group-title="DEPORTES-LMS",Unknown 11
-https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8?SBN
-
 #EXTINF:-1 group-title="DEPORTES-LMS",Unknown 13
 http://210.210.155.35/uq2663/h/h05/index.m3u8 
 #EXTINF:-1 tvg-id="Retro Magico" tvg-name="Retro Magico" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/2b903ff4-40ae-4b68-8726-53095a95cc89-profile_image-70x70.png" group-title="TWITCH",Retro Magico 
-https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CqkEbMlzHCpkpSfV6h_6DyJY6Q8QAvcdvuv4lt7FFoUgDmSCNkSq7R8fdB_6WEd7IKEXOJiCrYDhkt4xiDoXr0BIVzbjMp2PSdtDl0xiLQ9-yg7QjdxMaG8zAh2zNJt2QAIYXAghOsxlowJ-XvP9BpV6XDBefj2otbH50OpX2v-Iy0h6FWx3ISMnt4j5WPTp9QcIL_i6pGyAZyrsOq3Wg5Ny1xSn7KrXLAhmy3dVabsReZG2vJ90okkWtOb1fq_Fv7WrTBwKBzhpop7fpj4yu6wgvaZIYGna4TntuFZHMPKToIJulgsPjkB4uzTQdNXW8nbwI57ykqzS9EQtBOXOh4ZvqS6v6EPtB5NrZvDhQWe2OaGL5sx2q24-U0dYfomCGuTwUpurpzzrNe-KOSd-96uzkY0LzQdBfYgOf2g_TetxagRQ2HzgAmCPEnx4AHW3mNTg8gMwrN27z4ewFZSsN0D26tWKX4OuAMf7SwctLuqLiXr_wYx9lHQGMRCAbncetTV9YmgHjjWJaiDUO5oyYw2vCxfQu0XnNnC1uZYh6KLylcvQimYZyEffeEGppRP7hXbMF4iVhDLsObK-5FcbzalRv5GUXnRtao2nw4ZYfwTl7uoVdIbax1Bt2orvlBkwh-in6RX0J-6OkCB-D5wtWwnaZbEI3C_yJkLpSvOX3SpDhWU3ktctE0SEo9wnLT79HvSka-omBD-lzp5e4HXl6LjKVUquNnksFFj8qBoMbVWZCfoO8kB3zh8cIAEqCXVzLWVhc3QtMTCkAw.m3u8 
 #EXTINF:-1 tvg-id="Fox Kids" tvg-name="Fox Kids" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b66ecfa2-7963-4030-91ce-f8857c1f37eb-profile_image-70x70.png" group-title="TWITCH",Fox Kids 
 #EXTINF:-1 tvg-id="Cartoon Network Clasico" tvg-name="Cartoon Network Clasico" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/cb54da87-027e-4bde-9d50-63360bfc07f1-profile_image-70x70.png" group-title="TWITCH",Cartoon Network 
 #EXTINF:-1 tvg-id="Jetix" tvg-name="Jetix" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8cb87a81-f923-4288-bec1-55f057a79dd1-profile_image-70x70.png" group-title="TWITCH",Jetix 
@@ -4535,12 +4314,13 @@ https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CqkEbMlzHCpkpSfV6h_6DyJY6Q8
 #EXTINF:-1 tvg-id="Magic Kids OK" tvg-name="Magic Kids OK" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/54a36e12-3324-43cb-a3d5-ef84afce6471-profile_image-70x70.png" group-title="TWITCH",Magic Kids OK 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/867973dd-9cc8-49e4-ab5f-158681d0a516-profile_image-70x70.png" group-title="TWITCH",La Casa del Anime HD 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/f8b099e9-9c63-4ec2-910d-e40ddb911f1c-profile_image-70x70.png" group-title="TWITCH",Anime Live 
+https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CrAEo72Ojisi2So7iHQffh_g1DoL8uB_cLedSw9R9ckeSd4Q_eTIbDs8Q_apKnq6fd9Vx23KsHQwK-CParzzcP1ZmLmKiw2ff0IDBEuNL_HcAzCA_SHh5gNHIG3mPtLsRT65z3eSaPvlRe8NhfuULhsWdatTMBxzQgRa7SPUvgXbNrmSY_4YnH2BNG4B7iaoO3hTZjmg_U5PXlCebXuCjTo05Pw7sgiTFu9GbPXOci5tG-QUgK1q_dDeUHVSXopp7ktSObg37OGXGfpAGx0Xz9iLQwhyz3KBpB_iERvP2JtFPwFhsPTtP4x2utJvY1CbnphadoGHsxAC6lYQ6JhnLGpQx0jnoq-FL_J96_TY3FwZZx_NRybZMZNK-yNmzmkChYSPY_kGWxRpuIYF0u9ktpQ0KOETF7rn-CXbun4Dwdaz_9svzsD3CSl-E3btpn3bWsPHe45lNG-U-FDc--HbAo1Ee_-Vqui5mqChkMGc9dGopqC36JaCtIs8J94kppOEnlGkbtGbiaU699HSt9H2nSlb27Ur1Bm0SMaW2m4qazO1K2sKN8kDhpOyPBe_lUHQE2_szlZkcgqGjVKIWlkh9kmlG_jHC4ErJtrW-uRsy9RpSuL8kAaqvqxXQrtenHfCcKUHL1vdbDbLO0OiRMj10xZ7HohiWr_eu_jxxjo2HSvWrNdY8ciEfJ1ToHBWt_jUtwYEm74hURJIXWppldIYJ0-rU8XVNag8BWgqQ1nDvnFQSMUaDLxfXWMOC2zdlg1yzSABKglldS13ZXN0LTIw8wQ.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/0a5e3115-8e85-4f25-84e5-7656b9177443-profile_image-70x70.png" group-title="TWITCH",Anime Live Deluxe 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8af0c5e3-ce96-4b5f-8b3b-97e34e704a12-profile_image-70x70.jpeg" group-title="TWITCH",Locomotion Plus 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8e8ce5ce-bd3c-47eb-aba4-36ba9fcb8666-profile_image-70x70.png" group-title="TWITCH",Japanimotion 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/fbd54a0c-ec4f-4ad8-829c-364f140cbe26-profile_image-70x70.png" group-title="TWITCH",Tvnoizu 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/2e78616a-4ae7-4af9-8706-0a5437bf3406-profile_image-70x70.png" group-title="TWITCH",Peliculas Mania 
-https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CrcEzLB0xI05CxCaHg4_EyP11fX8PPHMYQqxPTNqdOK08sealhPe__BGUwB-yKRz6CFKUjSKWqNvnhBamgsFfXTtvewlFTUkmiGI16WurF_ur5E6AW3TG0pltOwSlsNlhBwEzkWmHnSt8TmWZriyCDFw8NbFDWVgDkMpJpdMCB88pUG84kI5TkwpZ4kp4Snj3xOPzl0_AjeNNkGGmzv4ZW9qbf5os-2lPuATwz-FjdVW-luM2Lnl3qXtBUKE8OUA631KNKvC8_2mDwWFS8fuWFqTWT9MmpLcCTfnponQ7_EnT7ZX3NapPqHgMQ4xBvcoBIN0mcAj_7k_0DwNTqDjvhJxejkSnbCspRKfY22F2zHYC4wHyBZKcA2ZkkfQ6zCJkJqk3l3FBNaFSE3RabD5VDrqE9FHbx1sMqlzaPCnP9zym_zbrn-TbdO7c_HvxXkDzs0LdUG8H5hpcihqBZ77N_IScRD3yjTp0jEy6ZBpUuNoQik8nPMzwbk9UBxQ2I1yGX3oO87jwXJQ1kyklbrWr6aMIc7WhfncMGfF8rQXUgWZe84dm9Rp3o9Zqip4QT6yUhMta_dSY2zFkq6ObIKZcEgbOVifKfE1DgSNMKa-u8mUl_UdwZv30XxKMmwpGHxWGcpc9nakydcV2lsRvNINs3Eu5O92xAIl2saSERZdEee3R9qv_567GdxsNqIa54eoa2-iBI4W92CF37IBjlzJqm3J_GeDMh-6V3_PRaKXtfkqc01ezsPi7Xg9GgzjcdOGihQy8qsfE3kgASoJZXUtd2VzdC0yMO8E.m3u8 
+https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CrYEsGiR7uOd-q4ajrWchbbTuYzKEqxMkGosM5Hz_JSQQu6YANW9lkCwDIN5fqy3ZwW-MerzMmoERPzMS0zz1jU_jpVJ_vezrZ9jjFs4gVueOivflFJ7OZeJHxE-Wj66u-DvyIwzYokVQAqO_gISitPK3GtzFF-oAyqRQCxyNEjNoFdkuUjxJ1_DPz-S7n0HzywIymPFkJVJ5_hxNuTcdzsaTbCbrREOuzUZBHgKhbV-hDrYlN8PW-2n9UvVdwk0fvp2f_bVBnsruXpP-SHUqxVumyStFnCq7DJr2e5diQpvhrbk4iZ1PeCsVetgLe72vqQcVBhw3_RWczzOtAnrhnXoXP83a_6xuWERY5xBHTRKZ2Jy7N3hnqW2DNS9HsX8Cq-ct-eBw8x0l2RIln2OQcnpIWFWkc33xEJrxHe4AWg3jHBaa0KtOvTFCuFbMhpKOxZ4cKxy1KUkTlqHxjgVYm4_8ifgiMpc0rEnkn9r9l96tXCUKUq5MmwDFHdK_xNfLhL8pOy8e2Zci-GpahcdayJCkj7OcrcHERDagozWC_KPSyOdWs37Wle-s4sUbcwxoqSIk1X9WLW56iYWjBvpth7TLT2KiLmooxPy9KnDzMCzoWEJC0bKJFscFfA3T7uZYfkU0oczS_G4BqiIAMCdTApKK6NATd-UMzTaOgSboBy_nAegWYX5hnH3j-PyKUfCllh4m3a-_JCpVqd3TZzRGP9rvpN2ADEef4zqnLfByYqrrs69NCjGUFsaDKsv_db-SSnHaZ_EiCABKglldS13ZXN0LTIw8wQ.m3u8 
 #EXTINF:-1 tvg-id="Los Simpson" tvg-name="Los Simpson" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8676dfd5-f07e-439c-bdf9-df36080e39dc-profile_image-70x70.png" group-title="TWITCH",Los Simpsons 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/a6ff53a0-0641-4c6c-9adf-475c952c8571-profile_image-70x70.png" group-title="TWITCH",7 central tv 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/760449bd-621b-4777-b7bc-9fde4d1f27cb-profile_image-70x70.png" group-title="TWITCH",Chespirito 
@@ -4549,7 +4329,7 @@ https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CrcEzLB0xI05CxCaHg4_EyP11fX
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/16e867f5-7ec5-4dba-8fcc-eaa47daf1379-profile_image-70x70.png" group-title="TWITCH",Tigretafios 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/f450b5c4-aa5d-42de-990f-e065965314ab-profile_image-70x70.png" group-title="TWITCH",CeciliaOrson 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/fb20b4cf-6fe5-4478-8657-e9809d7f549f-profile_image-70x70.png" group-title="TWITCH",Dragon Ball 
-https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CqkEyyH2HNNsPqAgYy3sgBIa-ndPfPYIrBc38RbFm1qWB7MW--9LM1KY3MXKtpZgD4tr2VI6sgOwo3oNargvYEReCL2KwLa6bDLFFj-zl1m6ptK3vspbICBdTH0vU4XrX6pgiA-nOyF1ws2T_hHghGjGeAEo1l6ZzyzTdm9rv1hVHhSfRElJGOefd6Fflsbtcr-igg_ADOgew1UCK5h9RZlqwICZypNRO-o2cHacQ273wXkmK6h9QoBxrTLDKTINhdMlmjkzssKAhmxrxvAGKvVcp3rXqTJQDbSQ2o7poSc0nO4yp0a9XMtQzISLd9CzjmdHdrgRfQDmrtfBqGo6yYROMblK9iaqFHmBNtLDYwKjxOlnP6n1AsMhTKlZipTFopPxgGvOdHdARFE0I7_oRZZo4p08ojB0bMzQboY8sVao-pNRY0TY9PnbT6v_Sv-plXzDegeP7u4md8PTBAczxup2QIW-miLb67Kj18HTjd5rfaIbp7DvgZFF_qmAjc1tvu-4B1NXiELnGxVClR-hAiYQVmNfZhBQCIzAy2bnaupZYb00J-bn5bC6M5peqrq8SG7rUPu7RVbUqCKxdGxLDf6WVlALlUXtTUOWJahwbnxshBFKIX-BJPvLNSARopvNdrd2VMHkPta-dwlFYfZEMqqnsQk1QYIQmCfnvpe6tUcdFQu4IGR3oArtSmhRJvXDqA2bdmpvn5wqHvkskqk4oGmIhx5WQp6ebiZzlhoMVvY9fm9iiTb4o0CKIAEqCXVzLWVhc3QtMTCkAw.m3u8 
+https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CqcEPnx-mCKIjlXODBt0MVAA5_knfR_Bz7_1uxDgUro7hXDE0m4P8QWkYjE8MvR24JP5UXXLM9saEyx6pE_c1Id1BG-B5KnGi7TwmaK8KsgpFe_TeqcZBnIbKoGzffVeNpF1VyG_Q9aqorsCgUBu7SPdGlluhDbb0VukjcZO734Jd9538aOnrK3VwX8n4X8TDSc1K7jZ5zwqIHDCeqjNIO0JnlUwLyAdzYt82NUTsggfEKlHEgchGAUcy1TQGv2lbzmrUnPwucrckvLOBCji-m1fMLB4npYPNeSIPcNzl0jekT8xQIYxkA2O9oOEW8ZJjCNroXY_2MfFIdZJrWc5Y9E3k3o9SyaWH11n6SURePp_-oaIbWayWGF2a276D58b-apZqZ1SqXU14oMKj-7Ml7RPywYgu5d1DVjlIEsUSSnNLmBttj5SBiTuuopIBqLbORjN3f2yF8Wpplv4nhPlnjCMUkL_EPDy3EnJFs-Ht9HKYPemueuAa8Y9bOFA0Tmq8Mh4XWTQJa4JvmuOSTCB3_TTUe4SdGVOdJ3J3emIlyjEDaKWoVGbRtJcvLnMN2ky3SF1zSp2-Bu_h3GIJDx7sSkZNzFoY88QewDlSjwGzMh5Te_OHK_srcooj9T3tJVRpkmIhtQpceuLZUj1SXhFBL3lHKZwPKkH2eZQFixr9EcxamDMgMMnuE2HkkUpKvkFtyl1qzMsri33MPLx3NdTwiEUeF1LKTynS4MaDBv7oH9ZdJXTNQ2_xiABKgl1cy1lYXN0LTEwqAM.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/92ce8ef1-485e-4559-b5ab-1aa7dc08ee61-profile_image-70x70.png" group-title="TWITCH",ZAZ Tv 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/cc5afbe0-3b2a-43a5-8957-9cf7cde7149f-profile_image-70x70.png" group-title="TWITCH",Nanatsu no Taizai 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/94933e40-aaaa-4d2c-b2f6-c9d5f9630c72-profile_image-70x70.png" group-title="TWITCH",Magia Record Madoka Magica 
@@ -4559,17 +4339,17 @@ https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CqkEyyH2HNNsPqAgYy3sgBIa-nd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/a4ca1d61-a1a2-4421-9b25-70de9c630160-profile_image-70x70.png" group-title="TWITCH",Dragon Ball Super 
 #EXTINF:-1 tvg-id="EnerGeek" tvg-name="EnerGeek" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/154b5d9a-b856-43ba-8c52-711ec89658d7-profile_image-70x70.png" group-title="TWITCH",Energeek 
 #EXTINF:-1 tvg-id="EnerGeek Fanpop" tvg-name="EnerGeek Fanpop" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/2006d0e4-1470-4101-aaf4-5ce494d28e4f-profile_image-70x70.png" group-title="TWITCH",Energeek 2 
-https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CqQE0g-WPlAxmfK-MADpVD2AZxN642fqXT6oWDOlmDu5Jr1pDGNc3FZ1Z5uhu6ztVALhHldLUFjwroiMeAApvr9Ho1fCMl9hKGPuDGKNUN2UkAuLsw-_9xC4nH2kF3dOtzuv-Lo13ufzEhVCBaXQUz-966xVQUcKhleMYTv2S2d8KMPaQ2ztXBYzw1Yqk78BxQ2iK5BOcK6ZEsW98J46M1yN4RXXRlmdBCBJNmEiORaxydsbMRdqh2sLUt2EwmLgmKwLkX54CyPa_JlrJ-K78wOw39-Fr6jw1cF5XCVAl2wNSFghn6mTdRcL5ZGPHU1YMFJ4_gBguui5nN3ttSpxpqCMVkXg1UJzQ-xXtKd4Ng61y7PRhsnMMmV1GhO0x7OcbJ84YgciGCV4gLxdAF5vHG4zbVizAsrha-HF2sSID4fuCwTLQzQ9eXNgf0v2lmNReYp8pCWYGCiAa4ZxGHqexgKiboj_v0SfMOE-RE2IYDzSMak2OUDFlOu_B7h0uKacPPuO28UOGiCjzvlDds4ZgOhjqdyXcwB-jDes7zTaHJ5PKSSIKFWV38Bs1MlFFyxva8vcTdACdxYsztSfRnESeTrsBdUuyLsqpdSEY3CkJo5IeRnCJkC8IJIwBET0M2YHoe0VHwaiN5_OnBrDkF24mY85Dj1oHhzjXsbSnjIJQY0UjYcCs37q1UcPU8xqBtAabLE8ilaw0XazwTcHOLWyX-HWtW5yKLsaDH5AwZmPcE238w3YHCABKgl1cy1lYXN0LTEwpAM.m3u8 
 #EXTINF:-1 tvg-id="EnerGeek Wowly" tvg-name="EnerGeek Wowly" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b6860d7d-cb66-47c7-b479-e37d2f2a03d2-profile_image-70x70.png" group-title="TWITCH",Energeek 3 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/87c29d6d-eb73-48c7-9f69-44fad6fd0892-profile_image-70x70.png" group-title="TWITCH",ETC TV 
+https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CqoEZWVpfVNF7Sf9sserUeZ7IUTd5lozeM-uQXEY49YphwaDCOO8WC1YBSGHkKzw1l8cyn3X0FfSpvJzIFiOI2YYIjmJNBLve-QObXmHUDn2wCbBegs7kJiLSIZL94rfzKMXAQik3w0gFwoJpcjtbg-gdi4Huc7EIoLdST6RI4mV0ZWVuJ_OboIT3Ok_5H_2F2TpzYUG5aSgBEdljxikPv_s8nmSi9VTxcKktsk0kogTTgGf21zjZBSPCWVm_buuHOK8Cs0iVuW6UqK4iPp2EMaDfW2OUM_Qbl8hPW9Q8DS3rnzF7tnX-WlcdTcsTl9HUByUKbURPKRoRg4LLH67EQ_hWyiDOtMaxVEylkbOMFuV5mYWFQXd6mN3ZgQm3qbaFEbLQ0Hcl89H1fLYgLEOI0qbQvStPi9K1rNjYiDgo0sOsVoVSjcOMqoeAQTGbNJU5EEpGt4TdWRCyHd34Hc3kA7YqV5VgrD-nGKNYgJx7JK9TdRqrGwuKXg9Sa_NH7I9wDVtDug2VIKONy3nFvF77zrnsyZ8rgtVHNXnRgUhDu4tJiM1Lbe3dJKk1aPcdkrup055V35orEaBZFK8JLSV3P12u6YS-lKQlYv0tHSoNScjCgKV9eiryJNYIJHpYn-1RX5lP97jmNO1P2dYnM3ys91QYxcmuie5BGWmbUBU3K6aCrQON-A6_YNC2AAlO6p9IlGmqa5v8cZ-mLRVP6To0iD1TEPFnqDL9eOLqIEaDNzTafgCsxnVCPyD4SABKgl1cy1lYXN0LTEwqAM.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/20262456-09cd-4494-9d4c-f2c8995c9af4-profile_image-70x70.png" group-title="TWITCH",Kemacral 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/83a1885e-ee22-460b-8bd4-c0c6f290dcfd-profile_image-70x70.png" group-title="TWITCH",Taberna �o�a 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/83a1885e-ee22-460b-8bd4-c0c6f290dcfd-profile_image-70x70.png" group-title="TWITCH",Taberna Nona 
 #EXTINF:-1 tvg-id="" tvg-name="TVLuchitas" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/58d4bee8-b7ce-45de-baad-a54b06c134bf-profile_image-70x70.png" group-title="TWITCH",TV Luchitas 
 #EXTINF:-1 tvg-id="EnerGeek Radio TV" tvg-name="EnerGeek Radio TV" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/f81b15fb-92e3-463c-af21-2955c4ea89d6-profile_image-70x70.png" group-title="TWITCH",Energeek Radio 
-https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/Cq0ERaOaZyJt83MRlWZ_eegCkF-4p3BOSZ7uij0J59b4eam9azNzATjxxuJQgwZ1N__UFYoaZ27UtLnrrbwt49ugDzy4PKygBXbqVxHzXP6T8HLaXYdTqdSor_kpIkV8fcFgnD47_HB9OkuUiVG_ExZfTgRkjnTN3VRLhHSEuuSHjCxMk6kGZQQGIEm8GZ1dCu3Y5DYqFBT0nzWoIJc0Z2sb7TAkEg6ElmD2bbV0AYo5FXaixi4pCOL4pxeln-uBkKb0XRJZRdofYJ71sWfC7Vyyt8S-Q49f4D8dtdQ4_2_ZSFxGhmivznxAiUIDFWRFeJrfyRLo8Hg9kJGi_06Xz7Xio2zvpVA8GpeQAM2mVz5DZAgHJGmMxREiXP_CduRijl8yS9PBzj9GG3s8Z2QpWNmsL7jFTnWF2yp7JgkAnt6szKdY8bZTekg9cGp_XRvQ74B8RvFC58G3kq8IRYWlCGANPGur16EF4KDIEW-thMXC2Lx6upf0KQ9agQ0JbMCPtPk-hplrltCCcY7Zlsjm8a--LwAOSqwtlxUh8_Yqk1mSNW79ctVPxaDulk9eIzB6AIw_WcqGViBWqZCPiO2mE7SS74qaxn639bYqA73ioy1DJWY2kDrOegd3UkeJbSeTDC5wEqTSOcEM28v5705QZrMkr58cVg9-BSMsg5w1-tNhXysc72kp7Eqz0NH-m9jRKPl3_PW5oOmunbWA9IrfyUbPNDMZeHDfELFFT3uXLA8aDDVDVdPTucm-8C_3WiABKgl1cy1lYXN0LTEwpAM.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/87c29d6d-eb73-48c7-9f69-44fad6fd0892-profile_image-70x70.png" group-title="TWITCH",ETC TV 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/87c29d6d-eb73-48c7-9f69-44fad6fd0892-profile_image-70x70.png" group-title="TWITCH",ETC TV 
 
+
 
 
 
