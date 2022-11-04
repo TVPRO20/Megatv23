@@ -5466,18 +5466,11 @@ https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CqAEiNulXvY682J1xjanYD6T8pU
 
 
 
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Aztecadeporteslogo.png" group-title="EVENTO EN VIVO", AZTECA DEPORTES
 https://dai.google.com/linear/hls/event/Cq_gZiisQ2SyiKV3neh7Mg/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Aztecadeporteslogo.png" group-title="EVENTO EN VIVO", AZTECA DEPORTES
 https://mdstrm.com/live-stream-playlist/5ff464aaf89edc69bfe55de9.m3u8
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/league/badge/jky7bu1534579838.png" group-title="EVENTO EN VIVO", MMA Bellator
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv1vCiDCxmi4vyVjiz-fnvvZNdwtX14_J-xeGgwheP57CTp-rOGcD9GE3HVC9VIQFandCqB39jHoxDW1quLbuhyRSoEV6VRobXgniyqJkond16l-vflIndqBpk95Dr4kL2ocAZFxjrqSf8ZWBMxICS3rwrF6YZflWVU9I1hEX6T2mR-b_-60Hrfo1Tww/s320/mixed-martial-arts-stock-photography-clip-art-mma-kickboxing-logo-73a4b5065e60848c39d54707108b4d4f.png" group-title="MMA",  
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/944f47_898474feae614e7885c17877d1a56916~mv2.png/v1/fit/w_883,h_568,q_90/944f47_898474feae614e7885c17877d1a56916~mv2.png" group-title="DEPORTES", LMB
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/944f47_898474feae614e7885c17877d1a56916~mv2.png/v1/fit/w_883,h_568,q_90/944f47_898474feae614e7885c17877d1a56916~mv2.png" group-title="DEPORTES", LMB
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network Pm1
 https://webudi.openhd.lol/lb/premium399/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network Pm
@@ -5486,18 +5479,6 @@ https://webudi.openhd.lol/lb/premium399/index.m3u8|Referer=https://player.licens
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network
 http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/51643
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network
-
-#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2021/02/25/pluto-mlb-image_4H0sy8F.jpg" group-title="DEPORTES", PLUTO TV MLB Channel
-
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2021/02/25/pluto-mlb-image_4H0sy8F.jpg" group-title="DEPORTES", PLUTO TV MLB Channel
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/news/can-you-stream-nfl-football-with-tubi/b09be9a116-1631220585/nfl-logo-wallpaper-hd-tubi-768x432-crop.jpg", group-title="DEPORTES", TUBI TV NFL Channel
@@ -5508,48 +5489,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07e
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,NFL.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1024px-NFL_Network_logo.svg.png" group-title="DEPORTES", NFL Network Dd
 https://webudi.openhd.lol/lb/premium405/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1024px-NFL_Network_logo.svg.png" group-title="DEPORTES", NFL Network
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1024px-NFL_Network_logo.svg.png" group-title="DEPORTES", NFL Network 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1024px-NFL_Network_logo.svg.png" group-title="DEPORTES", NFL Network
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1024px-NFL_Network_logo.svg.png" group-title="DEPORTES", NFL Network HD
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1024px-NFL_Network_logo.svg.png" group-title="DEPORTES", NFL Network
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1024px-NFL_Network_logo.svg.png" group-title="DEPORTES", NFL Network
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1024px-NFL_Network_logo.svg.png" group-title="DEPORTES", NFL Network
-
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Nfl-redzone.jpg" group-title="DEPORTES", NFL RED ZONE
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Nfl-redzone.jpg" group-title="DEPORTES", NFL RED ZONE
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1000px-Fight_network_logo.svg.png" group-title="DEPORTES", FIGHT NETWORK
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="DEPORTES", UFC Fight Pass 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/UFC_Network.png/800px-UFC_Network.png" group-title="DEPORTES", UFC Network HD
-http://51.222.42.17:8080/UFC/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png" group-title="DEPORTES", Eleven Sports 1
-
-#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png" group-title="DEPORTES", Eleven Sports 1
-
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-pl-eleven-sports-2-633.png" group-title="DEPORTES", Eleven Sports 2
-
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Eleven_Sports_3_PL_logo.png" group-title="DEPORTES", Eleven Sports 3
-
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Eleven Sports 4
-
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Eleven Sports 5
-
-#EXTINF:-1 tvg-logo="" group-title="DEPORTES", Eleven Sports 6
-
-#EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/lig.png" group-title="DEPORTES", SuperSports La Liga
-
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-six-296.png" group-title="DEPORTES",  SuperSport Grandstand
 https://webudi.openhd.lol/lb/premium412/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-supersport-select-sa-303.png" group-title="DEPORTES",  SuperSport PSL
@@ -5619,8 +5558,7 @@ https://sel12.varcdn1.ru/setanta1/index.m3u8
 bal.varcdn1.ru/lb/m1/index.m3u8
 #EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL", Juego 4
 http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL 2", Futbol en Vivo
+EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL 2", Futbol en Vivo
 https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ligasdeargentina.com.ar/wp-content/uploads/2018/04/Futbolenvivo-portada.jpg" group-title="FUTBOL 2", Futbol en Vivo
 
@@ -5651,26 +5589,8 @@ http://93.152.174.144:4000/play/bein3fr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/bein-sports-la-liga_thumb_tff9fa3j.png" group-title="DEPORTES", BEIN SPORTS Ñ HD
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="DEPORTES", BEIN SPORTS Ñ HD
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="DEPORTES", BEIN SPORTS Ñ HD
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="DEPORTES", BEIN SPORTS Ñ HD
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/1024px-Vamos.svg.png" group-title="DEPORTES", MOVISTAR #VAMOS FHD
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/1024px-Vamos.svg.png" group-title="DEPORTES", MOVISTAR #VAMOS
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/1024px-Vamos.svg.png" group-title="DEPORTES", MOVISTAR #VAMOS
 http://fxorexworld.com:8080/live/wztKZvhBfT/657QyVFNXw/1174.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/1024px-Vamos.svg.png" group-title="DEPORTES", MOVISTAR #VAMOS
-
-#EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/laliga_thumb.png" group-title="DEPORTES", La Liga Tv
-
-#EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/laliga_thumb.png" group-title="DEPORTES", La Liga Tv
-
-#EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/laliga_thumb.png" group-title="DEPORTES", La Liga Tv
-
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_LaLiga.png" group-title="DEPORTES", Movistar La Liga
-
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_LaLiga.png" group-title="DEPORTES", Movistar La Liga
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_LaLiga.png" group-title="DEPORTES", Movistar La Liga
@@ -6398,6 +6318,186 @@ https://playoutengine-v2.sinclairstoryline.com/playout/b287bd53-b70f-4b04-9096-1
 https://playoutengine-v2.sinclairstoryline.com/playout/202886a0-38bf-4470-9043-6f7e3750a5cf.m3u8
 #EXTINF:-1 tvg-name="Tennis Channel Plus 10" tvg-logo="http://blog.roku.com/wp-content/uploads/2015/03/Tennis-Channel-logo.png" group-title="DEPORTES", Tennis Channel Plus 10
 https://playoutengine-v2.sinclairstoryline.com/playout/c46b6ddd-59f0-475d-9f28-08e382d570d0.m3u8
+#EXTINF:-1 tvg-logo="https://epg-pp.beinsports.com/us_sports/beinx-en1.png" group-title="DEPORTES",   K17JI-D5 (beIN Sports Xtra)
+https://v-fn.mybtv.net/live/917.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="DEPORTES",  K17JI-D6 (beIN Sports Xtra en Espanol)
+https://v-fn.mybtv.net/live/948.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/freebiesupply/large/2x/nba-logo-transparent.png" group-title="DEPORTES", NBA TV
+https://webudi.openhd.lol/lb/premium404/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/freebiesupply/large/2x/nba-logo-transparent.png" group-title="DEPORTES", NBA TV HD
+http://66.70.176.103:8081/USA%7CNBATV/USA%7CNBATV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/freebiesupply/large/2x/nba-logo-transparent.png" group-title="DEPORTES", NBA TV
+http://playtvflussi.xyz:88/liv3cid90a49fe9a03af459/pS1QdbhfdBkQUrnHAyGP/32674
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/freebiesupply/large/2x/nba-logo-transparent.png" group-title="DEPORTES", NBA TV
+
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/freebiesupply/large/2x/nba-logo-transparent.png" group-title="DEPORTES", NBA TV TvCl
+
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/100-1002591_nba-tv-canada-nba-tv-canada-logo.png" group-title="DEPORTES", NBA TV
+
+#EXTINF:-1 tvg-logo="https://nhl.bamcontent.com/nhlNetwork/images/nhlnetwork.png" group-title="DEPORTES", NHL Network
+
+#EXTINF:-1 tvg-logo="https://nhl.bamcontent.com/nhlNetwork/images/nhlnetwork.png" group-title="DEPORTES", NHL Network HD
+
+#EXTINF:-1 tvg-logo="https://nhl.bamcontent.com/nhlNetwork/images/nhlnetwork.png" group-title="DEPORTES", NHL Network HD
+
+#EXTINF:-1 tvg-logo="https://nhl.bamcontent.com/nhlNetwork/images/nhlnetwork.png" group-title="DEPORTES", NHL Network HD
+
+#EXTINF:-1 tvg-logo="https://nhl.bamcontent.com/nhlNetwork/images/nhlnetwork.png" group-title="DEPORTES", NHL Network
+http://1bozguncustsv.ml:8080/live/hediye1/hediye2/74600.m3u8
+#EXTINF:-1 tvg-logo="https://nhl.bamcontent.com/nhlNetwork/images/nhlnetwork.png" group-title="NHL", NHL FINALS
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/20211415532342.png" group-title="DEPORTES",  beIN Sport NBA 4K
+http://stariptv.org:8080/live/nour2020/123456/150161.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png" group-title="DEPORTES",  beIN 1 PREMIUM 4K
+http://stariptv.org:8080/live/nour2020/123456/141545.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122834751.png" group-title="DEPORTES",  beIN 2 PREMIUM 4K
+http://stariptv.org:8080/live/nour2020/123456/141546.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122252312.png" group-title="DEPORTES",  beIN 3 PREMIUM 4K
+http://stariptv.org:8080/live/nour2020/123456/141547.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122455375.png" group-title="DEPORTES",  beIN SPORTS 1 4K
+http://stariptv.org:8080/live/nour2020/123456/141548.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122430516.png" group-title="DEPORTES",  beIN SPORTS 2 4K
+http://stariptv.org:8080/live/nour2020/123456/141549.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122413188.png" group-title="DEPORTES",  beIN SPORTS 3 4K
+http://stariptv.org:8080/live/nour2020/123456/141550.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122354391.png" group-title="DEPORTES",  beIN SPORTS 4 4K
+http://stariptv.org:8080/live/nour2020/123456/141551.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122336578.png" group-title="DEPORTES",  beIN SPORTS 5 4K
+http://stariptv.org:8080/live/nour2020/123456/141552.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122318750.png" group-title="DEPORTES",  beIN SPORTS 6 4K
+http://stariptv.org:8080/live/nour2020/123456/141553.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122223140.png" group-title="DEPORTES",  beIN SPORTS 7 4K
+http://stariptv.org:8080/live/nour2020/123456/141554.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png" group-title="DEPORTES",  beIN 1 PREMIUM HQ
+http://stariptv.org:8080/live/nour2020/123456/2762.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122834751.png" group-title="DEPORTES",  beIN 2 PREMIUM HQ
+http://stariptv.org:8080/live/nour2020/123456/2763.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122252312.png" group-title="DEPORTES",  beIN 3 PREMIUM HQ
+http://stariptv.org:8080/live/nour2020/123456/2766.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/202112151077.png" group-title="DEPORTES",  AR: beIN 1 XTRA HQ
+http://stariptv.org:8080/live/nour2020/123456/132027.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021121412936.png" group-title="DEPORTES", AR: beIN 2 XTRA HQ
+http://stariptv.org:8080/live/nour2020/123456/132028.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122455375.png" group-title="DEPORTES",  AR: beIN 1 HQ
+http://stariptv.org:8080/live/nour2020/123456/2755.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122430516.png" group-title="DEPORTES",  AR: beIN 2 HQ
+http://stariptv.org:8080/live/nour2020/123456/2756.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122413188.png" group-title="DEPORTES",  AR: beIN 3 HQ
+http://stariptv.org:8080/live/nour2020/123456/2757.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122354391.png" group-title="DEPORTES",  AR: beIN 4 HQ
+http://stariptv.org:8080/live/nour2020/123456/2758.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122336578.png" group-title="DEPORTES",  AR: beIN 5 HQ
+http://stariptv.org:8080/live/nour2020/123456/2759.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122318750.png" group-title="DEPORTES",  AR: beIN 6 HQ
+http://stariptv.org:8080/live/nour2020/123456/2760.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122223140.png" group-title="DEPORTES",  AR: beIN 7 HQ
+http://stariptv.org:8080/live/nour2020/123456/2761.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/20211415532342.png" group-title="DEPORTES",  beIN Sport NBA HD
+http://stariptv.org:8080/live/nour2020/123456/150160.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png" group-title="DEPORTES",  beIN 1 PREMIUM HD
+http://stariptv.org:8080/live/nour2020/123456/15563.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122834751.png" group-title="DEPORTES",  beIN 2 PREMIUM HD
+http://stariptv.org:8080/live/nour2020/123456/15562.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122252312.png" group-title="DEPORTES",  beIN 3 PREMIUM HD
+http://stariptv.org:8080/live/nour2020/123456/15561.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/202112151077.png" group-title="DEPORTES",  AR: beIN EXTRA 1 HD
+http://stariptv.org:8080/live/nour2020/123456/15721.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021121412936.png" group-title="DEPORTES",  AR: beIN EXTRA 2 HD
+http://stariptv.org:8080/live/nour2020/123456/15722.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122455375.png" group-title="DEPORTES",  AR: beIN 1 HD
+http://stariptv.org:8080/live/nour2020/123456/15560.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122430516.png" group-title="DEPORTES",  AR: beIN 2 HD
+http://stariptv.org:8080/live/nour2020/123456/15559.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122413188.png" group-title="DEPORTES",  AR: beIN 3 HD
+http://stariptv.org:8080/live/nour2020/123456/15558.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122354391.png" group-title="DEPORTES",  AR: beIN 4 HD
+http://stariptv.org:8080/live/nour2020/123456/15557.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122336578.png" group-title="DEPORTES",  AR: beIN 5 HD
+http://stariptv.org:8080/live/nour2020/123456/15556.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122318750.png" group-title="DEPORTES",  AR: beIN 6 HD
+http://stariptv.org:8080/live/nour2020/123456/15555.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122223140.png" group-title="DEPORTES",  AR: beIN 7 HD
+http://stariptv.org:8080/live/nour2020/123456/15720.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/202112146871.png" group-title="DEPORTES",  AR: beIN 1 EN HD
+http://stariptv.org:8080/live/nour2020/123456/112461.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/202112041339.png" group-title="DEPORTES",  AR: beIN 2 EN HD
+http://stariptv.org:8080/live/nour2020/123456/112462.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021120626.png" group-title="DEPORTES",  AR: beIN 3 EN HD
+http://stariptv.org:8080/live/nour2020/123456/112463.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021115910354.png" group-title="DEPORTES",  AR: beIN 1 FR HD
+http://stariptv.org:8080/live/nour2020/123456/112464.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021115834369.png" group-title="DEPORTES",  AR: beIN 2 FR HD
+http://stariptv.org:8080/live/nour2020/123456/112465.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021115744213.png" group-title="DEPORTES",  AR: beIN 3 FR HD
+http://stariptv.org:8080/live/nour2020/123456/112466.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021114628522.png" group-title="DEPORTES",  AR: beIN News HD
+http://stariptv.org:8080/live/nour2020/123456/22185.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021114651788.png" group-title="DEPORTES",  AR: beIN SPORT HD
+http://stariptv.org:8080/live/nour2020/123456/22186.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png" group-title="DEPORTES",  beIN 1 PREMIUM LQ
+http://stariptv.org:8080/live/nour2020/123456/35374.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122834751.png" group-title="DEPORTES",  beIN 2 PREMIUM LQ
+http://stariptv.org:8080/live/nour2020/123456/35375.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122252312.png" group-title="DEPORTES",  beIN 3 PREMIUM LQ
+http://stariptv.org:8080/live/nour2020/123456/35366.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122455375.png" group-title="DEPORTES",  AR: beIN 1 LQ
+http://stariptv.org:8080/live/nour2020/123456/35367.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122430516.png" group-title="DEPORTES",  AR: beIN 2 LQ
+http://stariptv.org:8080/live/nour2020/123456/35368.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122413188.png" group-title="DEPORTES",  AR: beIN 3 LQ
+http://stariptv.org:8080/live/nour2020/123456/35369.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122354391.png" group-title="DEPORTES",  AR: beIN 4 LQ
+http://stariptv.org:8080/live/nour2020/123456/35370.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122336578.png" group-title="DEPORTES",  AR: beIN 5 LQ
+http://stariptv.org:8080/live/nour2020/123456/35371.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122318750.png" group-title="DEPORTES",  AR: beIN 6 LQ
+http://stariptv.org:8080/live/nour2020/123456/35372.m3u8
+#EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122223140.png" group-title="DEPORTES",  AR: beIN 7 LQ
+http://stariptv.org:8080/live/nour2020/123456/35373.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/800px-Logo_bein_sports_1.png" group-title="DEPORTES", BeinSports 1 eng
+http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/800px-Logo_bein_sports_1.png" group-title="DEPORTES", BeinSports 1 eng
+http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/800px-Logo_bein_sports_2.png" group-title="DEPORTES", Bein Sports 2 eng
+http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/800px-Logo_bein_sports_2.png" group-title="DEPORTES", Bein Sports 2 eng
+http://31.220.41.88:8081/live/bein2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/800px-Logo_bein_sports_3.png" group-title="DEPORTES", Bein Sports 3 eng
+http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="DEPORTES", Bein Sports Xtra
+https://siloh-ns1.plutotv.net/lilo/production/bein/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Sky_Sport_Bundesliga_1_HD_Logo_2020.png" group-title="DEPORTES", SKY Bundesliga 1
+http://31.220.41.88:8081/live/de-skybundes1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN-640x384.png" group-title="DEPORTES", ESPN NL Dd
+https://webudi.openhd.lol/lb/premium379/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a242.png" group-title="DEPORTES", ESPN 2 NL Dd
+https://webudi.openhd.lol/lbpremium386/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="http://200.77.160.48:8090/izzi/v4/img/dummy-img/channels/ESPN_3HD.png" group-title="DEPORTES", ESPN 3 NL
+
+#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/1-tvg-id-tvg-name-tvg-logohttps-ad-sport-2-hd-11563287854svibbxrdwu.png" group-title="DEPORTES", AD Sports 2 HD
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="DEPORTES", BT SPORTS 1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="DEPORTES", BT SPORTS 1
+http://fxorexworld.com:8080/live/wztKZvhBfT/657QyVFNXw/1213.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="DEPORTES", BT SPORTS 2
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="DEPORTES", BT SPORTS 2
+http://fxorexworld.com:8080/live/wztKZvhBfT/657QyVFNXw/1214.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="DEPORTES", BT SPORTS 2
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="DEPORTES", BT SPORTS 3
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="DEPORTES", BT SPORTS 3
+http://fxorexworld.com:8080/live/wztKZvhBfT/657QyVFNXw/1215.m3u8
 
 
 
