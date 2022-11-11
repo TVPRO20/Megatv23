@@ -4618,13 +4618,15 @@ https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CrcE7hhyvU9PTQzXm4AowwRdBew
 https://dai.google.com/linear/hls/event/Cq_gZiisQ2SyiKV3neh7Mg/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Aztecadeporteslogo.png" group-title="EVENTO EN VIVO", AZTECA DEPORTES
 https://mdstrm.com/live-stream-playlist/5ff464aaf89edc69bfe55de9.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network Pm1
 https://webudi.openhd.lol/lb/premium399/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network Pm
 https://webudi.openhd.lol/lb/premium399/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network Nb
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES", MLB Network
 http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/51643
+
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2021/02/25/pluto-mlb-image_4H0sy8F.jpg" group-title="DEPORTES", PLUTO TV MLB Channel
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/news/can-you-stream-nfl-football-with-tubi/b09be9a116-1631220585/nfl-logo-wallpaper-hd-tubi-768x432-crop.jpg", group-title="DEPORTES", TUBI TV NFL Channel
@@ -4747,6 +4749,16 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/1024px-Vamos.svg.png" group-title="DEPORTES", MOVISTAR #VAMOS
 http://fxorexworld.com:8080/live/aEsSa1NRKs/x0ngd9bNx3/1174.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/1024px-Vamos.svg.png" group-title="DEPORTES", MOVISTAR #VAMOS
+
+#EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/laliga_thumb.png" group-title="DEPORTES", La Liga Tv
+
+#EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/laliga_thumb.png" group-title="DEPORTES", La Liga Tv
+
+#EXTINF:-1 tvg-logo="http://ligatv.televall.online/gallery/laliga_thumb.png" group-title="DEPORTES", La Liga Tv
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_LaLiga.png" group-title="DEPORTES", Movistar La Liga
+
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_LaLiga.png" group-title="DEPORTES", Movistar La Liga
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/Movistar_LaLiga.png" group-title="DEPORTES", Movistar La Liga
@@ -4826,8 +4838,56 @@ http://93.157.62.180:80/ArenaSport3/tracks-v1a1/mono.m3u8
 http://93.157.62.180:80/ArenaSport4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://ewsat.com/img/ARENA_SPORT_5.png" group-title="DEPORTES", Arena Sports 5 HD
 http://93.157.62.180:80/ArenaSport2/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/E9VCLBAWUAIrj4d?format=jpg" group-title="FUTBOL", 
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/E9VgCauWUAIICjW?format=jpg" group-title="FUTBOL", 
+
+EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/E9VgCauWUAIICjW?format=jpg" group-title="FUTBOL", 
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Sky_Sport_24_HD_-_Logo_2018.svg/1280px-Sky_Sport_24_HD_-_Logo_2018.svg.png" group-title="DEPORTES",  Sky Sports 24 Ita
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-sports-mix-vector-logo.png" group-title="DEPORTES",  Sky Sports Mix
+
+#EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-sports-mix-vector-logo.png" group-title="DEPORTES",  Sky Sports Mix
+
+#EXTINF:-1 tvg-logo="https://ia800806.us.archive.org/13/items/SkySportsAction_201708/sky%20sports%20action.png" group-title="DEPORTES",  Sky Sports Action
+
+#EXTINF:-1 tvg-logo="https://ia800806.us.archive.org/13/items/SkySportsAction_201708/sky%20sports%20action.png" group-title="DEPORTES",  Sky Sports Action
+
+#EXTINF:-1 tvg-logo="https://ia800609.us.archive.org/8/items/SkySportsFootball_201708/sky%20sports%20football.png" group-title="DEPORTES", Sky Sports Football
+
+#EXTINF:-1 tvg-logo="https://ia800609.us.archive.org/8/items/SkySportsFootball_201708/sky%20sports%20football.png" group-title="DEPORTES", Sky Sports Football
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg" group-title="DEPORTES", Sky Sports Main Event
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg" group-title="DEPORTES", Sky Sports Main Event
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg" group-title="DEPORTES", Sky Sports Main Event
+
+#EXTINF:-1 tvg-logo="https://ia601801.us.archive.org/7/items/SkySportsArena_201708/sky%20sports%20arena.png" group-title="DEPORTES", Sky Sports Arena
+
+#EXTINF:-1 tvg-logo="https://ia601801.us.archive.org/7/items/SkySportsArena_201708/sky%20sports%20arena.png" group-title="DEPORTES", Sky Sports Arena
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/800px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="DEPORTES",  Sky Sports F1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/800px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="DEPORTES",  Sky Sports F1
+
+#EXTINF:-1 tvg-logo="https://ia800808.us.archive.org/3/items/SkySportsGolf_201708/sky%20sports%20golf.png" group-title="DEPORTES", Sky Sports Golf
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1346543184135024640/SaukS8fY_200x200.jpg" group-title="DEPORTES", Sky Sports Racing
+
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sky_sports_16-mediano.png" group-title="DEPORTES",  Sky Sports 16 HD 
+
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/sky_sports_24-mediano.png" group-title="DEPORTES",  Sky Sports 24 HD 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/640px-Sky_Sport_Football_-_Logo_2020.svg.png" group-title="DEPORTES",  Sky Sports Football
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/640px-Sky_Sport_Football_-_Logo_2020.svg.png" group-title="DEPORTES",  Sky Sports Football
+
+#EXTINF:-1 tvg-logo="http://mifut.televall.online/images/sky-sports-football.jpg" group-title="DEPORTES",  Sky Sports La Liga
+
 #EXTINF:-1 tvg-logo="http://mifut.televall.online/images/sky-sports-football.jpg" group-title="DEPORTES",  Sky Sports La Liga
 http://cdn.boxter.live:8081/ssl/0066/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://mifut.televall.online/images/sky-sports-football.jpg" group-title="DEPORTES",  Sky Sports La Liga
@@ -5426,14 +5486,37 @@ https://playoutengine-v2.sinclairstoryline.com/playout/b287bd53-b70f-4b04-9096-1
 https://playoutengine-v2.sinclairstoryline.com/playout/202886a0-38bf-4470-9043-6f7e3750a5cf.m3u8
 #EXTINF:-1 tvg-name="Tennis Channel Plus 10" tvg-logo="http://blog.roku.com/wp-content/uploads/2015/03/Tennis-Channel-logo.png" group-title="DEPORTES", Tennis Channel Plus 10
 https://playoutengine-v2.sinclairstoryline.com/playout/c46b6ddd-59f0-475d-9f28-08e382d570d0.m3u8
+#EXTINF:-1 tvg-logo="https://epg-pp.beinsports.com/us_sports/beinx-en1.png" group-title="DEPORTES",   K17JI-D5 (beIN Sports Xtra)
+https://v-fn.mybtv.net/live/917.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="DEPORTES",  K17JI-D6 (beIN Sports Xtra en Espanol)
+https://v-fn.mybtv.net/live/948.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/freebiesupply/large/2x/nba-logo-transparent.png" group-title="DEPORTES", NBA TV
 https://webudi.openhd.lol/lb/premium404/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/freebiesupply/large/2x/nba-logo-transparent.png" group-title="DEPORTES", NBA TV HD
 http://66.70.176.103:8081/USA%7CNBATV/USA%7CNBATV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/freebiesupply/large/2x/nba-logo-transparent.png" group-title="DEPORTES", NBA TV
 http://playtvflussi.xyz:88/liv3cid90a49fe9a03af459/pS1QdbhfdBkQUrnHAyGP/32674
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/freebiesupply/large/2x/nba-logo-transparent.png" group-title="DEPORTES", NBA TV
+
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/freebiesupply/large/2x/nba-logo-transparent.png" group-title="DEPORTES", NBA TV TvCl
+
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/100-1002591_nba-tv-canada-nba-tv-canada-logo.png" group-title="DEPORTES", NBA TV
+
+#EXTINF:-1 tvg-logo="https://nhl.bamcontent.com/nhlNetwork/images/nhlnetwork.png" group-title="DEPORTES", NHL Network
+
+#EXTINF:-1 tvg-logo="https://nhl.bamcontent.com/nhlNetwork/images/nhlnetwork.png" group-title="DEPORTES", NHL Network HD
+
+#EXTINF:-1 tvg-logo="https://nhl.bamcontent.com/nhlNetwork/images/nhlnetwork.png" group-title="DEPORTES", NHL Network HD
+
+#EXTINF:-1 tvg-logo="https://nhl.bamcontent.com/nhlNetwork/images/nhlnetwork.png" group-title="DEPORTES", NHL Network HD
+
 #EXTINF:-1 tvg-logo="https://nhl.bamcontent.com/nhlNetwork/images/nhlnetwork.png" group-title="DEPORTES", NHL Network
 http://1bozguncustsv.ml:8080/live/hediye1/hediye2/74600.m3u8
+#EXTINF:-1 tvg-logo="https://nhl.bamcontent.com/nhlNetwork/images/nhlnetwork.png" group-title="NHL", NHL FINALS
+
+
+
+
 #EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/20211415532342.png" group-title="DEPORTES",  beIN Sport NBA 4K
 http://stariptv.org:8080/live/nour2020/123456/150161.m3u8
 #EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/2021122749282.png" group-title="DEPORTES",  beIN 1 PREMIUM 4K
@@ -5671,143 +5754,70 @@ https://video.twimg.com/amplify_video/1424185046706003968/pl/1280x720/Dc-CRvYm19
 
 
 
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Charlotte Hornets vs Portland Trail Blazers
-https://gahuiysuiwi.s3.amazonaws.com/hornets.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Charlotte Hornets vs Portland Trail Blazers
-https://s5.livemodo.click/yGPcJYPl3lpvyKwkjBKomA/1668068301/3138372e3235302e36372e3531/ff102/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Charlotte Hornets vs Portland Trail Blazers
-https://s5.livemodo.click/HAyT9C8GGLUJ_W--6NKntg/1668068338/3138372e3235302e36372e3531/ff3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Charlotte Hornets vs Portland Trail Blazers
-https://webudi.openhd.lol/lb/premium5/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Indiana Pacers vs Denver Nuggets
-https://gahuiysuiwi.s3.amazonaws.com/pacers.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Indiana Pacers vs Denver Nuggets
-https://s6.livemodo.click/p_UILZazwlC4NVlBbr7xCA/1668068392/3138372e3235302e36372e3531/ff2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Indiana Pacers vs Denver Nuggets
-https://s5.livemodo.click/V-nF8EH3r29sCw--1jF-VA/1668068421/3138372e3235302e36372e3531/ff101/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Indiana Pacers vs Denver Nuggets
-https://webudi.openhd.lol/lb/premium6/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Orlando Magic vs Dallas Mavericks
-https://damirsnichko.s3-accelerate.amazonaws.com/arsenal.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Orlando Magic vs Dallas Mavericks
-https://s5.livemodo.click/maDN_R4C8Pqur_M1m6PcOA/1668065341/3138372e3235302e36372e3531/ff100/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Orlando Magic vs Dallas Mavericks
-https://s5.livemodo.click/BokfIeMbI8iwurz0r4d2vQ/1668065366/3138372e3235302e36372e3531/ff1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Orlando Magic vs Dallas Mavericks
-https://webudi.openhd.lol/lb/premium7/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Atlanta Hawks vs Utah Jazz
-https://gahuiysuiwi.s3.amazonaws.com/hawks.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Atlanta Hawks vs Utah Jazz
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2022/02/Primary-Thursday-Night-Football-Logo.png" group-title="NFL TNF", Atlanta Falcons vs Carolina Panthers
 
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Atlanta Hawks vs Utah Jazz
-https://webudi.openhd.lol/lb/premium8/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Boston Celtics vs Detroit Pistons
-https://gahuiysuiwi.s3.amazonaws.com/celtics.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Boston Celtics vs Detroit Pistons
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2022/02/Primary-Thursday-Night-Football-Logo.png" group-title="NFL TNF", Atlanta Falcons vs Carolina Panthers
 
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Boston Celtics vs Detroit Pistons
-https://webudi.openhd.lol/lb/premium9/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Brooklyn Nets vs New York Knicks
-https://gahuiysuiwi.s3.amazonaws.com/espn.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Brooklyn Nets vs New York Knicks
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2022/02/Primary-Thursday-Night-Football-Logo.png" group-title="NFL TNF", Atlanta Falcons vs Carolina Panthers
 
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Brooklyn Nets vs New York Knicks
-https://webudi.openhd.lol/lb/premium10/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Brooklyn Nets vs New York Knicks
-https://webudi.openhd.lol/lb/premium44/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Brooklyn Nets vs New York Knicks
-https://webudi.openhd.lol/lb/premium150/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Toronto Raptors vs Houston Rockets
-https://gahuiysuiwi.s3.amazonaws.com/raptors.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Toronto Raptors vs Houston Rockets
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2022/02/Primary-Thursday-Night-Football-Logo.png" group-title="NFL TNF", Atlanta Falcons vs Carolina Panthers
 
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Toronto Raptors vs Houston Rockets
-https://webudi.openhd.lol/lb/premium11/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Toronto Raptors vs Houston Rockets
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2022/02/Primary-Thursday-Night-Football-Logo.png" group-title="NFL TNF", Atlanta Falcons vs Carolina Panthers
+https://webudi.openhd.lol/lb/premium1/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2022/02/Primary-Thursday-Night-Football-Logo.png" group-title="NFL TNF", Atlanta Falcons vs Carolina Panthers
+https://webudi.openhd.lol/lb/premium37/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2022/02/Primary-Thursday-Night-Football-Logo.png" group-title="NFL TNF", Atlanta Falcons vs Carolina Panthers
+https://webudi.openhd.lol/lb/premium111/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2022/02/Primary-Thursday-Night-Football-Logo.png" group-title="NFL TNF", Atlanta Falcons vs Carolina Panthers
+https://webudi.openhd.lol/lb/premium113/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2022/02/Primary-Thursday-Night-Football-Logo.png" group-title="NFL TNF", Atlanta Falcons vs Carolina Panthers
 https://webudi.openhd.lol/lb/premium114/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Toronto Raptors vs Houston Rockets
-https://webudi.openhd.lol/lb/premium113/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Toronto Raptors vs Houston Rockets
-https://webudi.openhd.lol/lb/premium111/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Chicago Bulls vs New Orleans Pelicans
-https://gahuiysuiwi.s3.amazonaws.com/bulls.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Chicago Bulls vs New Orleans Pelicans
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2022/02/Primary-Thursday-Night-Football-Logo.png" group-title="NFL TNF", Atlanta Falcons vs Carolina Panthers
+https://webudi.openhd.lol/lb/premium115/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2022/02/Primary-Thursday-Night-Football-Logo.png" group-title="NFL TNF", Atlanta Falcons vs Carolina Panthers
+https://webudi.openhd.lol/lb/premium38/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2022/02/Primary-Thursday-Night-Football-Logo.png" group-title="NFL TNF", Atlanta Falcons vs Carolina Panthers
+https://webudi.openhd.lol/lb/premium379/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Chicago Bulls vs New Orleans Pelicans
-https://webudi.openhd.lol/lb/premium12/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Minnesota Timberwolves vs Phoenix Suns
-https://gahuiysuiwi.s3.amazonaws.com/timberwolves.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Minnesota Timberwolves vs Phoenix Suns
 
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Minnesota Timberwolves vs Phoenix Suns
-https://webudi.openhd.lol/lb/premium13/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Minnesota Timberwolves vs Phoenix Suns
-https://webudi.openhd.lol/lb/premium436/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Oklahoma City Thunder vs Milwaukee Bucks
-https://gahuiysuiwi.s3.amazonaws.com/thunder.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Oklahoma City Thunder vs Milwaukee Bucks
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Washington Wizards vs Dallas Mavericks
+https://gahuiysuiwi.s3.amazonaws.com/spurs.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Washington Wizards vs Dallas Mavericks
 
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Oklahoma City Thunder vs Milwaukee Bucks
-https://webudi.openhd.lol/lb/premium14/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", San Antonio Spurs vs Memphis Grizzlies
-https://gahuiysuiwi.s3.amazonaws.com/spus.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", San Antonio Spurs vs Memphis Grizzlies
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Washington Wizards vs Dallas Mavericks
+https://webudi.openhd.lol/lb/premium5/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Atlanta Hawks vs Philadelphia 76ers
+https://gahuiysuiwi.s3.amazonaws.com/pacers.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Atlanta Hawks vs Philadelphia 76ers
 
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", San Antonio Spurs vs Memphis Grizzlies
-https://webudi.openhd.lol/lb/premium15/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Los Angeles Clippers vs Los Angeles Lakers
-https://gahuiysuiwi.s3.amazonaws.com/espn.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Los Angeles Clippers vs Los Angeles Lakers
-
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Los Angeles Clippers vs Los Angeles Lakers
-https://webudi.openhd.lol/lb/premium16/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Los Angeles Clippers vs Los Angeles Lakers
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Atlanta Hawks vs Philadelphia 76ers
+https://webudi.openhd.lol/lb/premium6/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Atlanta Hawks vs Philadelphia 76ers
 https://webudi.openhd.lol/lb/premium46/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Los Angeles Clippers vs Los Angeles Lakers
-https://webudi.openhd.lol/lb/premium44/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Los Angeles Clippers vs Los Angeles Lakers
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Atlanta Hawks vs Philadelphia 76ers
 https://webudi.openhd.lol/lb/premium126/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Los Angeles Clippers vs Los Angeles Lakers
-https://webudi.openhd.lol/lb/premium111/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Los Angeles Clippers vs Los Angeles Lakers
-https://webudi.openhd.lol/lb/premium113/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Los Angeles Clippers vs Los Angeles Lakers
-https://webudi.openhd.lol/lb/premium150/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Sacramento Kings vs Cleveland Cavaliers
-https://gahuiysuiwi.s3.amazonaws.com/kings.m3u8
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Sacramento Kings vs Cleveland Cavaliers
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Atlanta Hawks vs Philadelphia 76ers
+https://webudi.openhd.lol/lb/premium36/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Atlanta Hawks vs Philadelphia 76ers
+https://webudi.openhd.lol/lb/premium14/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Atlanta Hawks vs Philadelphia 76ers
+https://webudi.openhd.lol/lb/premium436/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Atlanta Hawks vs Philadelphia 76ers
+https://webudi.openhd.lol/lb/premium100/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Atlanta Hawks vs Philadelphia 76ers
+https://webudi.openhd.lol/lb/premium134/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Miami Heat vs Charlotte Hornets
+https://gahuiysuiwi.s3.amazonaws.com/hornets.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Miami Heat vs Charlotte Hornets
 
-#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Sacramento Kings vs Cleveland Cavaliers
-https://webudi.openhd.lol/lb/premium17/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Miami Heat vs Charlotte Hornets
+https://webudi.openhd.lol/lb/premium7/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", New Orleans Pelicans vs Portland Trail Blazers
+https://gahuiysuiwi.s3.amazonaws.com/blazers.m3u8
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", New Orleans Pelicans vs Portland Trail Blazers
 
-
-
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NHL_on_Sportsnet#/media/File:NHLonSportsnetlogo.png" group-title="NHL",   Florida Panthers vs Carolina Hurricanes
-https://s6.livemodo.click/BMO4EuwNX42HjvcOtnf9xg/1668065707/3138372e3235302e36372e3531/ff103/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NHL_on_Sportsnet#/media/File:NHLonSportsnetlogo.png" group-title="NHL",   Florida Panthers vs Carolina Hurricanes
-https://s6.livemodo.click/JWvztyvT3G9hqQUxIcG0qw/1668065742/3138372e3235302e36372e3531/ff4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NHL_on_Sportsnet#/media/File:NHLonSportsnetlogo.png" group-title="NHL",   Florida Panthers vs Carolina Hurricanes
-https://webudi.openhd.lol/lb/premium18/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NHL_on_Sportsnet#/media/File:NHLonSportsnetlogo.png" group-title="NHL",   Washington Capitals vs Pittsburgh Penguins
-https://s6.livemodo.click/rACmtXK4_HmsxkrvO68M2A/1668068618/3138372e3235302e36372e3531/ff12/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NHL_on_Sportsnet#/media/File:NHLonSportsnetlogo.png" group-title="NHL",   Washington Capitals vs Pittsburgh Penguins
-https://webudi.openhd.lol/lb/premium338/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NHL_on_Sportsnet#/media/File:NHLonSportsnetlogo.png" group-title="NHL",   Montreal Canadiens vs Vancouver Canucks
-
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NHL_on_Sportsnet#/media/File:NHLonSportsnetlogo.png" group-title="NHL",   Montreal Canadiens vs Vancouver Canucks
-
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NHL_on_Sportsnet#/media/File:NHLonSportsnetlogo.png" group-title="NHL",   Montreal Canadiens vs Vancouver Canucks
-https://webudi.openhd.lol/lb/premium451/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NHL_on_Sportsnet#/media/File:NHLonSportsnetlogo.png" group-title="NHL",   Montreal Canadiens vs Vancouver Canucks
-https://webudi.openhd.lol/lb/premium19/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NHL_on_Sportsnet#/media/File:NHLonSportsnetlogo.png" group-title="NHL",   Montreal Canadiens vs Vancouver Canucks
-https://webudi.openhd.lol/lb/premium386/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NHL_on_Sportsnet#/media/File:NHLonSportsnetlogo.png" group-title="NHL",   Anaheim Ducks vs Minnesota Wild
-
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NHL_on_Sportsnet#/media/File:NHLonSportsnetlogo.png" group-title="NHL",   Anaheim Ducks vs Minnesota Wild
-https://webudi.openhd.lol/lb/premium338/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/NHL_on_Sportsnet#/media/File:NHLonSportsnetlogo.png" group-title="NHL",   Anaheim Ducks vs Minnesota Wild
-https://webudi.openhd.lol/lb/premium550/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", New Orleans Pelicans vs Portland Trail Blazers
+https://webudi.openhd.lol/lb/premium8/index.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
 
 
 
