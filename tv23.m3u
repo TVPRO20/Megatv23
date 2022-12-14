@@ -5372,9 +5372,6 @@ https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-id="LIM TV" tvg-name="LIM TV" tvg-logo="https://i.imgur.com/Q6tUUF9.png" group-title="NIÑOS Y JOVENES",LIM TV | Paraguay
 http://live.limplay.ml/limtv.m3u8
 
-#EXTINF:-1 tvg-id="LIM TV" tvg-name="LIM TV" tvg-logo="https://i.imgur.com/Q6tUUF9.png" group-title="NIÑOS Y JOVENES",LIM TV op | Paraguay
-https://videosenlared.fullstreaming.ar:3219/hybrid/play.m3u8
-
 #EXTINF:-1 tvg-id="Loading Brasil" tvg-name="Loading Brasil" tvg-logo="https://i.imgur.com/vhx4hxI.png" group-title="NIÑOS Y JOVENES",Loading Brasil | Brasil
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist.m3u8
 
@@ -5397,7 +5394,7 @@ https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
 https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Magic Club" tvg-name="Magic Club" tvg-logo="https://i.imgur.com/XeRTSpp.png" group-title="NIÑOS Y JOVENES",Magic Club | ND
-https://stream.wowlymedia.com/hls/magicclub/index.m3u8
+https://nd106.republicaservers.com:4433/c6616.mp4
 
 #EXTINF:-1 tvg-id="Magic Kids Tv" tvg-name="Magic Kids Tv" tvg-logo="https://i.imgur.com/Uu8dciU.png" group-title="NIÑOS Y JOVENES",Magic Kids Tv | Argentina
 https://poast.tv/static/streaming-playlists/hls/25f337db-5b97-447e-8b16-4edf6dd07e63/0.m3u8
@@ -5438,6 +5435,9 @@ https://tls-cl.cdnz.cl/planetatvkids/live/chunklist_w1953958808.m3u8
 #EXTINF:-1 tvg-id="PlanetaTV Kids" tvg-name="PlanetaTV Kids" tvg-logo="https://i.imgur.com/ZN3ry2f.png" group-title="NIÑOS Y JOVENES",PlanetaTV Kids | Chile
 https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/55Juhdx.jpg" group-title="NIÑOS Y JOVENES",Punto 99 | Chile
+https://stmv1.zcastbr.com/juanantunez/juanantunez/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Caricaturas" tvg-name="Caricaturas" tvg-logo="https://i.imgur.com/EnujIY2.png" group-title="NIÑOS Y JOVENES",Rakuten TV Familia | España
 http://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8
 
@@ -5448,10 +5448,12 @@ https://kedoo-supertoonstv-2-es.samsung.wurl.tv/3000.m3u8
 
 
 #EXTINF:-1 tvg-id="Teleanimacion" tvg-name="Teleanimacion" tvg-logo="https://i.imgur.com/9MSMZnD.jpg" group-title="NIÑOS Y JOVENES",Tele Animación | España
-https://poast.tv/static/streaming-playlists/hls/a8d59ea9-b48f-4940-8322-bd92bbed75dc/9c5932e7-52a2-44fc-bcda-544dc90b6f61-1080.m3u8
 
 #EXTINF:-1 tvg-id="Tele Estrella" tvg-name="Tele Estrella" tvg-logo="https://i.imgur.com/YcW70qW.png" group-title="NIÑOS Y JOVENES",Tele Estrella | Argentina
 https://stmvideo2.livecastv.com/telestrella/telestrella/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jTgQZmV.png" group-title="NIÑOS Y JOVENES",The Retro Channel | ND
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tigueritos TV" tvg-name="Tigueritos TV" tvg-logo="https://i.imgur.com/qu7ttMx.png" group-title="NIÑOS Y JOVENES",Tigueritos TV | Republica Dominicana
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
@@ -7621,14 +7623,14 @@ http://210.210.155.35/uq2663/h/h05/index.m3u8
 #EXTINF:-1 tvg-id="Magic Kids OK" tvg-name="Magic Kids OK" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/54a36e12-3324-43cb-a3d5-ef84afce6471-profile_image-70x70.png" group-title="TWITCH",Magic Kids OK 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/867973dd-9cc8-49e4-ab5f-158681d0a516-profile_image-70x70.png" group-title="TWITCH",La Casa del Anime HD 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/f8b099e9-9c63-4ec2-910d-e40ddb911f1c-profile_image-70x70.png" group-title="TWITCH",Anime Live 
-https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CqkEB__pgpDK19P0QkcJgoLkaOVHQYdFECrFr01RxPpoyXu7M381UKhqhQbDcoeOd9OLc91xICg8dfYyUBuR6iZpM7_LsXx_X_cmJp54WBLu09qymh_KPWOp3fruf_jFbqQiKTFzemJpaxFgIcTdJr1hW4o_BWvST0KSUtE1Sq34UvaCFRjQSSF1IBQdZcryRzwSFzu69wqUU3piHyHEg4CE9IyC2RqowE6iFUceqRqsoOdgv8bXiTI6Sc_Xlxs-UObN9T-QfYS2XqhqhXUQNGujmkWvmWi6Fc0jZk7Yu3PMMaYH_MZzIJEWEhKUQRox8GHhYp0RLMIWJbAa769SidhiaODxw-gVnXM6vXJioe8aOCOSx6dkGbftFcA-6aVooutYJWa0bheAV_aV5_RY1tx7rHdInTpgOeH5IjmT19H3HGN4VRDeEvPkERSd9npFqHZUP-b7gR7_FDR82BxxePpYlo02Vvq2hW7JYbdFOfZFB5VczEKkb0A3x4QOC-bfyiYzGOZxZVSQks-8dZ-8AJbPDNxx0_LLwofkt858Kd4MY46f7Yt-yfWPbdPoNku6QTO_Z81KgHhBnFMKvTInE3OjGeDQpSqAQGmRcUNko0v66crFeyIG30WXfv5M91kjTKX79eTL0M2WkE6YGMUw48gd_os8iVOc-X6X3cdVNz0OX1q7eD0C0OrRE0b-KsWuNnhv57xJQ4KOOZtgCY_N6sz4hFm5fI2BePbsLBoMrSucIfiZXLttYf8UIAEqCWV1LXdlc3QtMjCwBQ.m3u8 
+https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CqkEyre8WsHgX9IB6g2-Yoqmn4_lQS7FlJZooz2faUJZoClRh0s-5FrzPswB6JSG1PcsGZuBG5n9PWvds0c0Zbvb3vSrJCNH_zJ3llWocIUDpn_abjOfX3NuuxX7T_QPHHMvLFZ__2p-krufId7JB-ZPSO7i2MlfhtgMtOWhDx3MrOHJegJFknE0OFH8Pb-AlcMjX_i9VC7kgnpYSWCEwzOGivE7AxZCyZVW1Pf1dDztSkJwKjCvz4a0fFycNr3RRIxBnxSeYM7JqvwzPCQ7CcFa6Ul564W5ZThWEOL1d0QOXV1FZ7Osm8eOioypSpWRnaXZwJLeoHEdNqyn4563cgcfsWxA3DKUj_loB_NOBvMm4pgbl7CQDpOr9ebnR55EKMPkCSKKKGKz0nU8VFAqGaVisy8LcS1Nijlm05YS45actT6IwZd633bdnUJB7j22CSPnBa6_R5ynOD5A4EzVWKs44yiwU-WltErz7sKWdRjc4nBV9W2IA-_sNKymh0_ifKAHc9uM9jlm357i27tDS78R7Q7vll8iQ_ra4bEgV_XUtqxIy98ssRKsYWhjVOmToWOK8bNC03wckUYhd5Kcok-_cde5JsdDg6QcXX4QN20vwj2rD2nmxj2JZkYI8LBBTiAihw2c7JDcl7AfKzJAX2Sut4yu33P6q7rAKmPZYcPk8aaYM3iv2aC8-0UDkyLsVYYEjspeeXP9e6u-o_gbore-JlqQOsg_h0LCTBoMuqaXSpsmcjNDkg3KIAEqCWV1LXdlc3QtMjCxBQ.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/0a5e3115-8e85-4f25-84e5-7656b9177443-profile_image-70x70.png" group-title="TWITCH",Anime Live Deluxe 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8af0c5e3-ce96-4b5f-8b3b-97e34e704a12-profile_image-70x70.jpeg" group-title="TWITCH",Locomotion Plus 
-https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CrAEfX7Mg5gqQ94NpNjIwkBkoorzZjjRLJlXJtQlXzgdC1AeXGp9X4q11rZxk_8x8AKgGKh6EZoPKq9e5pdTDXbH5SiyoaeY5vkcFdFJbwh4z_S-zw3SijQiWs9N8h4QjrZXTSudqD6Sz0F_BhVYsZ7mYbuSf2jG5xlnnn11X0ttDwO9TmEpe-IzDek2pN-8Tcx4eqJo8Ume49LsSncyB6FHipvadn7FLPbyAmBVOnUfeH3zRcUqaqCJzzoXG4Z8xLXtIF5MDYlXkndIaG5XyTwFjw7zJJFzRzjOZFIOZGivm7A-VNxP1xKk8r-VO2wdqB1vzl6py773I4cBuM5uNCP6KkANoo2ebFGX28bAGd1jb-rfdIenmiZ7yEOQxRN8IsqPzwDJwdx_ccGePFjXGsbbdMD6tXS0AnBIW4UKFG2JNSwJsypWnOeQPwQSxGKgYnzjiW6qA1UMSoUZVWGDMdYIoG30LSDbk49UmQJwEPWAptSyvczV7_g5FL0nIVqHc_dHsho400xXVsI2LvdooL9Rf5hbbahgiv8klSQwOOOQSQzSobX5mPnXu0PXnLtTmNIF7TSwtb25f7zZ4fe-RkKkviN_uOrernn3FoZSRJjbZkm0ZPcHTvtcKKydBDac-02Jl7Pb0RMOEz0wlae_DauN7a0MFIX4EwliAkIvJz25o_gtsgdICeJKqkammz7XKtsqJP1CnZ5wID5h-p46-CXHZIINxMBAihLMs_Z5g87kjkgaDH7v6FiDBFAeJ2SaKCABKgl1cy1lYXN0LTEw5QM.m3u8 
+https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CrAE50c7HlMTXMmxK7NQVPgZhV_9_nlKsG4aWOpie_ksjk78zroxEku10w7Nn6WytClDh1c-FQIVPbmmuCN951ta0Db7jXb5U8qRT1Vo0oVt0c7pEfmHKqtc9Pgzcp6SQIetZNiGtjPqz6NlfVgfZndBtuwYadKPCBNRDpefO-dpS6S06UOduT6DJYgYACmyY6YTSHNXFHXj4VP6Q7kRxh7vl_LL3AS83pBGQpFa6lJlC4KkQFdhnWcA7EJ2oep5SNLcOiFbuHx97qHog0A0C9E1Q_zTeausgDWFFk0c3DGlPrDR3x5nfJtlvLFfAupAhn2ebW-u9x-rhayFpVSbOs9_qdH3vmB9Ce43se-fkRZ8opkSGP4KgtuCW94kdZZYiraQXoRccaiKUlg29ELQMxAlv4-jpStQpXqHnH8LzI7u7Uz6eF6CKm4piT4IKj-7suvQiQvfPl-LLiD6HU09nLI7Kn4dxy8H9IMVGIsh8gFzgcjLt7pU4w-CPqrmeaHy0wSnfIUN5FApxHJb1slcr6QdmNt5BdTMu_UIsXN4Z35wUWxeAbk6fTPJOToqyMriW_0g3Z-ypAX51KBHcT0Yv0w4SA6U1gL4sUfeRniDmLqOc8lTJa8q_a98izJQ5_q3icJDdEASg5qmp8YLZflZt1_MrJi2vtL3I0yGcGRMEiGpj_aNHUHl9UCJfgip7uwQp1fsAY0oB9tJol3IGUixCkDqqfEHuwY2GDCC-3XjSBXKcV0aDFd3DE8NE6oKwCiBNSABKgl1cy1lYXN0LTEw5gM.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/a98cf3c4-3670-4a14-8d1d-4d6a06d85300-profile_image-70x70.png" group-title="TWITCH",Japanimotion 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/fbd54a0c-ec4f-4ad8-829c-364f140cbe26-profile_image-70x70.png" group-title="TWITCH",Tvnoizu 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/2e78616a-4ae7-4af9-8706-0a5437bf3406-profile_image-70x70.png" group-title="TWITCH",Peliculas Mania 
-https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/Cq8EocAFMPpGpZ8p-SIN8uh2PgAaUoiuZHGxP0SkEW77Va0iZebS7JQlFzQzd3jNLRdlEyXK74RoVCIYAHfJuulKtDQvO__-DfZIjGMb7YWUx1UdPqYdKmiBklFXROKsT5yKRFRvKYtV-RQpgaYgLIutn1blNM9Yxu95sIgGrqqDUXlLZ7H3oKxztOTHgXEZiYQP9ufLyyRBfydWfgZYsP239XwyJUm7yps8jyl151J3N5aqEzbBnnTL501NyL8dF3LzdNV55-wBNap8gpkxfHhbCCd0_KH8cdva1zlkn0pA7tyXUuxqjiPhEB9-j9lFQZGmHIZfXkbnkFqs6Ja8tyF0P1LBBKH0zE-qFfYFn3_iaHHzFVURK_F0m5bfEThKNI4Z-siZkqPv5-Au_ZZVAOV6CZ2mMuD6cS0aCFUbBZQUzqJX0P8mhJ6W8Ukvs-WEJMhiD5Ox4HNJtFm2xep2OSDPVJV7Q_ALSQ41EOiznuaJMfaRTV0MvR87Xe28xcuqa3a3ArXUGiOyzaXg3gzgyhYe-fktuSvEjRnUs6WOhQf_t2FHgsNgJ6A-UMWUPytqmAbnwc2ghCCu1tB0SFkdpc1H79L_a5TDiCRk1IHTK6mCqI_vCbYWxNmVfvXRVX-4CEHr8Cuk8x3hGS4Uh-rTed_el12-1P1tdAbZZNka4SArWVW1I4fDXaInBJMW6z-MsXePSgelmRanlgMKvo7PY2YHvry8IagDTm98SptWl9-P1hoM-BfsXNKufiAQ2dvQIAEqCWV1LXdlc3QtMjCwBQ.m3u8 
+https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CrAETN2pSWevDxwmC8VVYY-0BMeKr6QGp348pl67yP_B71QoeFrHroQO2FTN19o-ndQW44o2nbtwCsAQeeirChC7m_fNh7_hIKKh171u1goBqxTh8giKyt5LSbbXjIxk8pPwLoJfbH23V9Z2xl6oR6G0wZsIc5GWpNgbcFKXjjKJxNeNcSVqLnPYpBcwMgBbSNG2Okz6lR2aMFoTamNaLi4GhL2Nb9df2jOHvsMGHK_Zl6cCnMg8EbC4JRcBz7aUuKbBOSJREEQH1vmAU3smH-GdDtH_hdBZ3k_j5rMSc1HpN0bBz6yuBHeuT-fUmfrSP17OZiPScZ-j8hBKf727brKkMT5bdH9ldnBThZolZKFIfUqVPbM4mc1lvTMOQa8Xf1W15W2fyFnFj6TR27YhiZjCOhGIlmadHYo6dwFT6dVerqVVGa8H7VBDv9pcJzN2MaWXKqjAABS_OjsocRQu_yQ6m6uyShNKfwMOBws2Nmevk1mwwd2i_YmQmz0F1zaLuicvEDQOhBJED9GCWG3ZRvOvyfKiZSAXJUiUkt8Do5HrMK53zdh4ANfbPf02_s-uRZrLDWZfK7AMkjO7saHAHi0JIghlzW1eirMuoz9EvwJIdmaTg94d77RPeLb4H8y6ohMJZXFTkwvl9aACcT1tnz_NUFAMlTLBIuO8cOBVOfXzxjcafgvT1Q0iUwU5SM5pz3k6HaS2lAcoWsyQzBU11dTqe0CQbNvyij8qqu6UDm-QzL0aDH_DuzahHPuXYcVlJSABKglldS13ZXN0LTIwsQU.m3u8 
 #EXTINF:-1 tvg-id="Los Simpson" tvg-name="Los Simpson" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8676dfd5-f07e-439c-bdf9-df36080e39dc-profile_image-70x70.png" group-title="TWITCH",Los Simpsons 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/a6ff53a0-0641-4c6c-9adf-475c952c8571-profile_image-70x70.png" group-title="TWITCH",7 central tv 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/760449bd-621b-4777-b7bc-9fde4d1f27cb-profile_image-70x70.png" group-title="TWITCH",Chespirito 
@@ -7636,8 +7638,9 @@ https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/Cq8EocAFMPpGpZ8p-SIN8uh2PgA
 #EXTINF:-1 tvg-id="" tvg-name="South Park" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/3dbf5911-0f9d-40d5-b971-7397562777d2-profile_image-70x70.png" group-title="TWITCH",South Park Tv 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/16e867f5-7ec5-4dba-8fcc-eaa47daf1379-profile_image-70x70.png" group-title="TWITCH",Tigretafios 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/f450b5c4-aa5d-42de-990f-e065965314ab-profile_image-70x70.png" group-title="TWITCH",CeciliaOrson 
+https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CqQEVsQSVk3OjyBNc3MaFWU2rXowg2gS13Ba7g8BsK6j2ZYG4LFT3c5gnfhhv6E625Kgyzk2vyHaSx5XAWosm6yqbeGQ6DkUo0Z3iXi8UizF_gzatAVdizgCIau2EyuT37cmKkBrw72gj_OPJMSEzjxz8kU0AepuQCY2pVzUUDnnT-XkpPkpG4cmLPQcoNPIayFJr8yuff7fL6N8pVK79tRVjhBGkGJ7q7BxjWPuatfnTbEUU7UJXxaUyYvTnPAnSpFPeizjPhmnoSiYfsm_FwDaSTFirm_biUHwgy_hxoRSYvKLTSqX1gyZ2x33ieSZOa4k3vswFhBek02uD8YzPV8ZVO-ZGFSDjUaoHrZj3OtFbiR_yXWeyyM4usd7047zZ3lcQlOcannBX_rdu8m_NR4zhrilUY_sNdiw_kd2eObIg4tOcO3j-4FAQ5ws-A7OCb7lIzs0YD2h6q0kfEaYdqqSgaCXjfTSV5rjSzUvpybIdQiFelRD3V7ZY7u0wozUvV5RIP4SQHKaFddj0xgWKWHB56JGKLPWuPah5B4OwkBanykQiauiRVu1Hf0AOPAu1DVuCZ89pCoduGSXi_8F38KKvNXVKP68KqLY-KfOL1wEP66fRHtlPsd1GwW5XZrn5gt9LkikkmANYZsTHdewZxssNRWdSbXp-cXvPSraTqpa-HWFD-vS2xhrRqtSqKj3-ay6dNajPzxR1KPAVUdkDiQHf1wz5HQaDJloeb3UWUdDZ3LL9yABKgl1cy1lYXN0LTEw5gM.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/fb20b4cf-6fe5-4478-8657-e9809d7f549f-profile_image-70x70.png" group-title="TWITCH",Dragon Ball 
-https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CqEEocIjsvNH6OivjtrKOOEpbTikFjtSKrCrUr5zTvh2va3n-jya6fpqGnVrH7y2CSvAR7Awg2QqyYgZMagZVA7gPSZTzB_SOK68yAiPbQREIA-8qXW6-HY1w8ks5zLC8f78uhRvHcxf6-6d-piajjP07u79-XSycEsSrs0o8CP0KeM9goPbHur4gidPwMJWMwa8MMKgYQ5xt_wBB72wUu_0_zCq_83kLEk52e1v6lzlhKfXUTD-qiw_YkKu7mlJfp0pR_ul8QyKdmQpr8M84_b1Qob0wLPoIb4-IhjU4l10DQvUZyZXHXKb2KriLv0Ydkz1Mce_or5rf-T6W2oJ3N1Ln9rTXUnYHZDFzEHzm_SnAWtTptNRQYCibCcWxYEGQSI-VfnsN-nlzm7iUHr8oSRab_2dj-VKUzHNhH_aphcHdkxxEdkzWwF8ggNu715ite4mobekmwpEhvcaUcpiq9UbpeJbEcQMZp0I_e73aHm3br2-AvGlH00Dt_kqMzrVWGl6X0VXlbeQc83gUbFfb1p1Hnbg5XWaaMTFkbn6TtCC-08zn2EgBxq2QVZnYeoU2hh2Z5Kqh1Tn0fM1IclUuepw6CXZ4Rwb6CbEZ6J1yycYhfFOVWx-dyih39c55WzhpqRfxA0yHt3YBFfDVLAWBfQRzZca43F6FfqHOXSeO7EEMyC5wImdmVv_4_lj04cE8fkUolTTfMRWrPGqOsbHoA_Hqo0aDNjHa8RPz6CS5yxCXyABKgl1cy1lYXN0LTEw5QM.m3u8 
+https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CqAE4qcvnZIPpbjoULTojlzJB0t1d0JE4hvH4Z6P6ymKOr4hzLRk6Fn3ToMmMme16TeHbS5lUqeruDysE2mLvG0K9OCGTU_EXZsWbn8VRrIkYoQQulNfRiwmVY5MW2e3aPgVXWXuQJgcGuYJICqF9uvC9IwoMAOLGxiEdDMJwTc5CqaoIDrBbz4lnHeuKHPyDYt-nytJRZZXMm6bhF6Hl3oM-Qw1CtKf8Js-GqPr7xxEugJlqJH_LR_87kTi6S6j3Kw6BrWRpEyVAiwoTkGK6-VmpDd_NJ033ac2fjugurLYZpnAlWej6s6d2Cgndai2Qkx65DToEZURXxVspDjGs_QVIzflK0csM8952NfKI3i1arqcVsoKPh4Do7l-_v_h_B9F236ktss5wV95WYWclCu2Q8GdnnaVmW25y5K3-Z5IXWZ1FvDVnajByhSZhQNYP-r_r9cPNvKTfNMcN_MWuedQ1tw4tPvDmPJhxmc6-eg7ExZ5YuP7QKnWbyeM6dw7jN3AV66Zv6Md5JSZV6KVMrKHDpL_q8KWV6iZGllAySytEXnkxL0jjgKhPViLXcQ8NhQAe-hpP1Zt30k3LzLDD5xkjEFBuwGs5XIxkaCFmxogdXldBXJJlZd1j0rTl3ufGSLMI5m6BXFl-M0f9A6wOojXPQOHpb5ikJYE_svvU-pLmAoGpU75w2OHaqdcR81RTR7A4rS2qrOUgoGzY4Ztmfg4jRoMANoMuDn0z2GAtYbPIAEqCXVzLWVhc3QtMTDmAw.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/92ce8ef1-485e-4559-b5ab-1aa7dc08ee61-profile_image-70x70.png" group-title="TWITCH",ZAZ Tv 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/cc5afbe0-3b2a-43a5-8957-9cf7cde7149f-profile_image-70x70.png" group-title="TWITCH",Nanatsu no Taizai 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/94933e40-aaaa-4d2c-b2f6-c9d5f9630c72-profile_image-70x70.png" group-title="TWITCH",Magia Record Madoka Magica 
@@ -7656,6 +7659,7 @@ https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CqEEocIjsvNH6OivjtrKOOEpbTi
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b4ad84c6-f53e-4078-b5f5-cc9222fa398b-profile_image-70x70.png" group-title="TWITCH",El Chavo del Ocho 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/87c29d6d-eb73-48c7-9f69-44fad6fd0892-profile_image-70x70.png" group-title="TWITCH",ETC TV 
 
+
 
 
 
