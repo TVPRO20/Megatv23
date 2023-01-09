@@ -4742,7 +4742,7 @@ https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wZUDfAD.png" group-title="MEXICO",Mas información para agregar la guia de programación en tus dispositivos.
-http://flash.shortgod.com/escritor_21/tv8.php?id=206928
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206928
 
 #EXTINF:-1 tvg-id="Azteca Uno" tvg-name="Azteca Uno" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno.png" group-title="MEXICO",1.1 Azteca Uno
 http://magmas5.com:8000/live/malotv/gratis/129032.m3u8
@@ -5218,13 +5218,13 @@ http://210.210.155.35/dr9445/h/h02/index.m3u8
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/40126
 
 #EXTINF:-1 tvg-id="Bit Me" tvg-name="Bit Me" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bitme.png" group-title="NIÑOS Y JOVENES",Bit Me | México
-http://flash.shortgod.com/escritor_21/tv8.php?id=214670
+http://flash.shortgod.com/shortgodfl/tv8.php?id=214670
 
 #EXTINF:-1 tvg-id="Boing Espana" tvg-name="Boing Espana" tvg-logo="https://imagenes.gatotv.com/logos/canales/boing_espana-mediano.png" group-title="NIÑOS Y JOVENES",Boing | España
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/38096
 
 #EXTINF:-1 tvg-id="Boing Espana" tvg-name="Boing Espana" tvg-logo="https://imagenes.gatotv.com/logos/canales/boing_espana-mediano.png" group-title="NIÑOS Y JOVENES",Boing | España
-http://flash.shortgod.com/escritor_21/tv8.php?id=187043
+http://flash.shortgod.com/shortgodfl/tv8.php?id=187043
 
 #EXTINF:-1 tvg-id="Boomerang Clasico" tvg-name="Boomerang Clasico" tvg-logo="https://i.imgur.com/V60dnOp.png" group-title="NIÑOS Y JOVENES",Boomerang Clasico | ND
 http://161.97.152.4:81/hls/boomerang.m3u8
@@ -5293,7 +5293,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/pla
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/38076
 
 #EXTINF:-1 tvg-id="Clan HD" tvg-name="Clan HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/clan_tve.png" group-title="NIÑOS Y JOVENES",Clan TVE | España
-http://flash.shortgod.com/escritor_21/tv8.php?id=186971
+http://flash.shortgod.com/shortgodfl/tv8.php?id=186971
 
 #EXTINF:-1 tvg-id="Infantil TV" tvg-name="Infantil TV" tvg-logo="https://gebelutv.files.wordpress.com/2014/11/unnamed.png" group-title="NIÑOS Y JOVENES",Cloud Server Kids Tv | Chile
 https://videostreaming.cloudserverlatam.com/kids/kids/chunklist_w780109170.m3u8
@@ -5347,7 +5347,7 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-tres/playlist.m3u8
 https://stream.wifiexpert.cl/energeek/radio/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ETC TV" tvg-name="ETC TV" tvg-logo="https://i.imgur.com/QVC28lh.png" group-title="NIÑOS Y JOVENES",ETC TV | Chile
-http://flash.shortgod.com/escritor_21/tv5.php?id=18612
+http://flash.shortgod.com/shortgodfl/tv5.php?id=18612
 
 #EXTINF:-1 tvg-id="ETC TV" tvg-name="ETC TV" tvg-logo="https://i.imgur.com/QVC28lh.png" group-title="NIÑOS Y JOVENES",ETC TV | Chile
 http://magmas5.com:8000/live/malotv/gratis/4822.m3u8
@@ -5518,7 +5518,7 @@ https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2701&live=1&avod=1&cb=[CACHEBUSTER]&app_bundle=[APP_BUNDLE]&app_name=[APP_NAME]&app_domain=[APP_DOMAIN]&app_version=[APP_VERSION]&app_category=[APP_CATEGORY]&app_store_url=[APP_STORE_URL]&hls_marker=1&pod_duration=[POD_DURATION]&ua=[%UA%]&ip=[IP]&min_ad_duration=6&max_ad_duration=120?is_lat=[LIMITED_AD_TRACKING]&player_width=[WIDTH]&player_height=[HEIGHT]&ua=[%UA%]&ip=[IP]&cb=[CACHEBUSTER]&hls_marker=1&app_version=[APP_VERSION]&app_store_url=[APP_STORE_URL]&app_name=[APP_NAME]&app_domain=[APP_DOMAIN]&app_category=[APP_CATEGORY]&did=[DID]&app_bundle=[APP_BUNDLE]&network_id=2701&live=1&avod=1&stream_url=https%3A%2F%2Fb81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com%2Fv1%2Fchannel%2FZAZ_Linear%2Findex-zaz-linear.m3u8
 
 #EXTINF:-1 tvg-id="A3Cine" tvg-name="A3Cine" tvg-logo="https://cdn.mitvstatic.com/channels/ar_a3cine_m.png" group-title="CINE",A3Cine | España
-http://flash.shortgod.com/escritor_21/tv8.php?id=173391
+http://flash.shortgod.com/shortgodfl/tv8.php?id=173391
 
 #EXTINF:-1 tvg-id="A3Cine" tvg-name="A3Cine" tvg-logo="https://cdn.mitvstatic.com/channels/ar_a3cine_m.png" group-title="CINE",A3Cine | España
 http://user.tvcluboficial.com/stream/web/play/945.m3u8
@@ -5554,7 +5554,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/7
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master_4.m3u8
 
 #EXTINF:-1 tvg-id="DePelicula(Spanish).us" tvg-name="DePelicula(Spanish).us" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula.png" group-title="CINE",De Pelicula | Estados Unidos
-http://flash.shortgod.com/escritor_21/tv8.php?id=173413
+http://flash.shortgod.com/shortgodfl/tv8.php?id=173413
 
 #EXTINF:-1 tvg-id="De Pelicula" tvg-name="De Pelicula" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula.png" group-title="CINE",De Pelicula | Mexico
 
@@ -5694,13 +5694,16 @@ https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 https://wifispeed.trapemn.tv:1936/comunal/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Comedy Central MX" tvg-name="Comedy Central Mexico" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/comedy_central_latinoamerica.png" group-title="FAMILIARES",Comedy Central | México
+http://x3iptv.com:8090/argfabianayala2167/blWR5QdG1d/2360
+
+#EXTINF:-1 tvg-id="Comedy Central MX" tvg-name="Comedy Central Mexico" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/comedy_central_latinoamerica.png" group-title="FAMILIARES",Comedy Central | México
 http://magmas5.com:8000/live/malotv/gratis/3845.m3u8
 
 #EXTINF:-1 tvg-id="Distrito Comedia" tvg-name="Distrito Comedia" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/distrito_comedia.png" group-title="FAMILIARES",Distrito Comedia | México
 http://tv5full.xyz:25461/APLICACIONrestream/FY1AX39CL3/88222
 
 #EXTINF:-1 tvg-id="Distrito Comedia" tvg-name="Distrito Comedia" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/distrito_comedia.png" group-title="FAMILIARES",Distrito Comedia | México
-http://flash.shortgod.com/escritor_21/tv8.php?id=181861
+http://flash.shortgod.com/shortgodfl/tv8.php?id=181861
 
 #EXTINF:-1 tvg-id="Distrito Comedia" tvg-name="Distrito Comedia" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/distrito_comedia.png" group-title="FAMILIARES",Distrito Comedia | México
 http://user.tvcluboficial.com/stream/web/play/32.m3u8
@@ -5730,7 +5733,7 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061328?checkedby:iptvcat.m3u8
 https://list.iptvcat.com/my_list/s/a58500be888ce971261764351b9e4aaa.m3u8
 
 #EXTINF:-1 tvg-id="Europa Europa" tvg-name="Europa Europa" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/europa_europa.png" group-title="FAMILIARES",Europa Europa
-http://flash.shortgod.com/escritor_21/tv8.php?id=173420
+http://flash.shortgod.com/shortgodfl/tv8.php?id=173420
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i2.paste.pics/20f4f7278dc7ab118f657d93da43474d.png" group-title="FAMILIARES",EvaStream TV | Chile
 https://mediacpstreamchile.com:1936/evavision/evavision/playlist.m3u8
@@ -5739,7 +5742,7 @@ https://mediacpstreamchile.com:1936/evavision/evavision/playlist.m3u8
 https://inliveserver.com:1936/14056/14056/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Glitz" tvg-name="Glitz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png" group-title="FAMILIARES",Glitz | Argentina
-http://flash.shortgod.com/escritor_21/tv8.php?id=181863
+http://flash.shortgod.com/shortgodfl/tv8.php?id=181863
 
 #EXTINF:-1 tvg-id="Glitz" tvg-name="Glitz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png" group-title="FAMILIARES",Glitz | Argentina
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/114
@@ -5796,6 +5799,9 @@ http://magmas5.com:8000/live/malotv/gratis/4875.m3u8
 #EXTINF:-1 tvg-id="Solo Stand Up" tvg-name="Solo Stand Up" tvg-logo="https://lh3.googleusercontent.com/-vs6bQTy4Dns/X30TqJ-CdrI/AAAAAAAA6M4/WUtqB3d4eiEp7oHE44DkOhh5V0NNTDMSACK8BGAsYHg/s0/2020-10-06.png" group-title="FAMILIARES",Solo Stand Up | Chile
 https://paneltv.online:1936/8116/8116/chunklist_w1465366289.m3u8
 
+#EXTINF:-1 tvg-id="Spectrum Channel" tvg-name="Spectrum Channel" tvg-logo="https://spectrumchannel.cl/wp-content/uploads/2022/12/LOGO-SPECTRUM-CHANNEL-2023-SIN-FONDO-e1670046527660.png" group-title="FAMILIARES",Spectrum Channel | Chile
+https://panel.miplay.cl:8081/spectrumchannel/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="Tec TV" tvg-name="Tec TV" tvg-logo="https://www.tec.gob.ar/wp-content/uploads/2022/05/Tec-logo.png" group-title="FAMILIARES",Tec TV | Argentina
 https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 
@@ -5839,7 +5845,7 @@ https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/12366
 
 #EXTINF:-1 tvg-id="TLNovelas MX" tvg-name="TLNovelas MX" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlnovelas.png" group-title="FAMILIARES",TL Novelas | Mexico
-http://flash.shortgod.com/escritor_21/tv8.php?id=181871
+http://flash.shortgod.com/shortgodfl/tv8.php?id=181871
 
 #EXTINF:-1 tvg-id="TLNovelas MX" tvg-name="TLNovelas MX" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlnovelas.png" group-title="FAMILIARES",TL Novelas | Mexico
 http://user.tvcluboficial.com/stream/web/play/94.m3u8
@@ -6179,6 +6185,9 @@ https://tls-cl.cdnz.cl/music/live/chunklist_w260426131.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://planetatv.cl/2022/wp-content/uploads/2022/09/perfil-facebook.png" group-title="MUSICA",PlanetaTV Music | Chile
 https://scl.edge.grupoz.cl/music/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-XpZwlTaVD70/X5jAxBIjQnI/AAAAAAAA6ys/IoG_B-D9vCwSs4nNVTr2tK_hz-rI7VXCgCK8BGAsYHg/s0/2020-10-27.jpg" group-title="MUSICA",POP TV | Chile
+https://v4.tustreaming.cl/poptv/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/63s1k43.png" group-title="MUSICA",Portal FoxMix Tv HD | Chile
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 
@@ -6219,7 +6228,7 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-DNyXu-b4s7U/Xw5ewsB00fI/AAAAAAAA21g/BxwNdcI3djYxvx4JKkpiGWruGj2DwFNkgCK8BGAsYHg/s0/2020-07-14.png" group-title="MUSICA",Rewind TV | Chile
-https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8
+https://tls-cl.cdnz.cl/rewindtv/live/chunklist_w211465902.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.arm-tv.com/wp-content/uploads/2016/06/ru-tv-hd.png" group-title="MUSICA",RU TV | Rusia
 https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
@@ -6251,9 +6260,6 @@ https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Strea
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-BET4REPGZKQ/X96Yzr-NKCI/AAAAAAAA8Wo/jNg4hNxYQP0gmIeRnv8mBt4_GfNyGkGnQCK8BGAsYHg/s0/2020-12-19.png" group-title="MUSICA",TV Exitos | Republica Dominicana
 https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-XpZwlTaVD70/X5jAxBIjQnI/AAAAAAAA6ys/IoG_B-D9vCwSs4nNVTr2tK_hz-rI7VXCgCK8BGAsYHg/s0/2020-10-27.jpg" group-title="MUSICA",TV POP | Chile
-https://v4.tustreaming.cl/poptv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i1wxNqd.png" group-title="MUSICA",TVR | Chile
 https://unlimited2-cl.dps.live/tvr/tvr.smil/playlist.m3u8
@@ -7499,335 +7505,335 @@ https://na.linear.zype.com/b99e99b3-4fad-ceab-7f71-27f319b5416b/c5e1968c592947d7
 
 
 #EXTINF:-1 group-title="24/7",EL CHAVO ANIMADO 24-7
-http://flash.shortgod.com/escritor_21/tv5.php?id=12023
+http://flash.shortgod.com/shortgodfl/tv5.php?id=12023
 #EXTINF:-1 group-title="24/7",24/7 | El Chavo Animado
-http://flash.shortgod.com/escritor_21/tv6.php?id=169030
+http://flash.shortgod.com/shortgodfl/tv6.php?id=169030
 #EXTINF:-1 group-title="24/7",24/7 Peppa Pig Temporada 1 y 2
-http://flash.shortgod.com/escritor_21/tv6.php?id=168954
+http://flash.shortgod.com/shortgodfl/tv6.php?id=168954
 #EXTINF:-1 group-title="24/7",24/7 ALF
-http://flash.shortgod.com/escritor_21/tv6.php?id=168890
+http://flash.shortgod.com/shortgodfl/tv6.php?id=168890
 #EXTINF:-1 group-title="24/7",24/7 La Reina del Flow
-http://flash.shortgod.com/escritor_21/tv6.php?id=142353
+http://flash.shortgod.com/shortgodfl/tv6.php?id=142353
 #EXTINF:-1 group-title="24/7",24/7 Transformers
-http://flash.shortgod.com/escritor_21/tv6.php?id=129000
+http://flash.shortgod.com/shortgodfl/tv6.php?id=129000
 #EXTINF:-1 group-title="24/7",24/7 Pablo Escobar, el patrón del mal
-http://flash.shortgod.com/escritor_21/tv6.php?id=128999
+http://flash.shortgod.com/shortgodfl/tv6.php?id=128999
 #EXTINF:-1 group-title="24/7",24/7 Los Tres Chiflados
-http://flash.shortgod.com/escritor_21/tv6.php?id=124210
+http://flash.shortgod.com/shortgodfl/tv6.php?id=124210
 #EXTINF:-1 group-title="24/7",24/7 Digimon Adventure
-http://flash.shortgod.com/escritor_21/tv6.php?id=115338
+http://flash.shortgod.com/shortgodfl/tv6.php?id=115338
 #EXTINF:-1 group-title="24/7",24/7 El Auto fantástico
-http://flash.shortgod.com/escritor_21/tv6.php?id=115337
+http://flash.shortgod.com/shortgodfl/tv6.php?id=115337
 #EXTINF:-1 group-title="24/7",24/7 Los pingüinos de Madagascar
-http://flash.shortgod.com/escritor_21/tv6.php?id=115330
+http://flash.shortgod.com/shortgodfl/tv6.php?id=115330
 #EXTINF:-1 group-title="24/7",24/7 MacGyver
-http://flash.shortgod.com/escritor_21/tv6.php?id=115328
+http://flash.shortgod.com/shortgodfl/tv6.php?id=115328
 #EXTINF:-1 group-title="24/7",24/7  Los años maravillosos
-http://flash.shortgod.com/escritor_21/tv6.php?id=115237
+http://flash.shortgod.com/shortgodfl/tv6.php?id=115237
 #EXTINF:-1 group-title="24/7",24/7 Los Tudor
-http://flash.shortgod.com/escritor_21/tv6.php?id=112351
+http://flash.shortgod.com/shortgodfl/tv6.php?id=112351
 #EXTINF:-1 group-title="24/7",24/7 Los simuladores
-http://flash.shortgod.com/escritor_21/tv6.php?id=112350
+http://flash.shortgod.com/shortgodfl/tv6.php?id=112350
 #EXTINF:-1 group-title="24/7",24/7 La venganza de Analía
-http://flash.shortgod.com/escritor_21/tv6.php?id=112347
+http://flash.shortgod.com/shortgodfl/tv6.php?id=112347
 #EXTINF:-1 group-title="24/7",24/7 Krypton
-http://flash.shortgod.com/escritor_21/tv6.php?id=112346
+http://flash.shortgod.com/shortgodfl/tv6.php?id=112346
 #EXTINF:-1 group-title="24/7",24/7 JoJo's Bizarre Adventure: Stardust Crusaders
-http://flash.shortgod.com/escritor_21/tv6.php?id=112344
+http://flash.shortgod.com/shortgodfl/tv6.php?id=112344
 #EXTINF:-1 group-title="24/7",24/7 Homeland
-http://flash.shortgod.com/escritor_21/tv6.php?id=112341
+http://flash.shortgod.com/shortgodfl/tv6.php?id=112341
 #EXTINF:-1 group-title="24/7",24/7 El Dragon El Regreso De Un Guerrero
-http://flash.shortgod.com/escritor_21/tv6.php?id=112339
+http://flash.shortgod.com/shortgodfl/tv6.php?id=112339
 #EXTINF:-1 group-title="24/7",24/7 One Punch Man
-http://flash.shortgod.com/escritor_21/tv6.php?id=112337
+http://flash.shortgod.com/shortgodfl/tv6.php?id=112337
 #EXTINF:-1 group-title="24/7",24/7 Una familia de diez
-http://flash.shortgod.com/escritor_21/tv6.php?id=108271
+http://flash.shortgod.com/shortgodfl/tv6.php?id=108271
 #EXTINF:-1 group-title="24/7",24/7 Die Hart
-http://flash.shortgod.com/escritor_21/tv6.php?id=106057
+http://flash.shortgod.com/shortgodfl/tv6.php?id=106057
 #EXTINF:-1 group-title="24/7",24/7 Dark Angel
-http://flash.shortgod.com/escritor_21/tv6.php?id=106056
+http://flash.shortgod.com/shortgodfl/tv6.php?id=106056
 #EXTINF:-1 group-title="24/7",24/7 Control Z
-http://flash.shortgod.com/escritor_21/tv6.php?id=106055
+http://flash.shortgod.com/shortgodfl/tv6.php?id=106055
 #EXTINF:-1 group-title="24/7",24/7 El payaso Plim Plim, un héroe del corazón
-http://flash.shortgod.com/escritor_21/tv6.php?id=106052
+http://flash.shortgod.com/shortgodfl/tv6.php?id=106052
 #EXTINF:-1 group-title="24/7",24/7 Yo soy Betty, la fea
-http://flash.shortgod.com/escritor_21/tv6.php?id=100383
+http://flash.shortgod.com/shortgodfl/tv6.php?id=100383
 #EXTINF:-1 group-title="24/7",24/7 La isla de Gilligan
-http://flash.shortgod.com/escritor_21/tv6.php?id=100275
+http://flash.shortgod.com/shortgodfl/tv6.php?id=100275
 #EXTINF:-1 group-title="24/7",24/7 Cobra Kai
-http://flash.shortgod.com/escritor_21/tv6.php?id=100272
+http://flash.shortgod.com/shortgodfl/tv6.php?id=100272
 #EXTINF:-1 group-title="24/7",24/7 Vis a vis
-http://flash.shortgod.com/escritor_21/tv6.php?id=100229
+http://flash.shortgod.com/shortgodfl/tv6.php?id=100229
 #EXTINF:-1 group-title="24/7",24/7 One Piece
-http://flash.shortgod.com/escritor_21/tv6.php?id=100228
+http://flash.shortgod.com/shortgodfl/tv6.php?id=100228
 #EXTINF:-1 group-title="24/7",24/7 VIP | Los Simpsons S20 a S30  (e)(720)
-http://flash.shortgod.com/escritor_21/tv6.php?id=193953
+http://flash.shortgod.com/shortgodfl/tv6.php?id=193953
 #EXTINF:-1 group-title="24/7",24/7  CAILLOU
-http://flash.shortgod.com/escritor_21/tv6.php?id=206403
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206403
 #EXTINF:-1 group-title="24/7",24/7  CORAJE EL PERRO COBARDE
-http://flash.shortgod.com/escritor_21/tv6.php?id=206404
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206404
 #EXTINF:-1 group-title="24/7",24/7  CUENTRO GREEM
-http://flash.shortgod.com/escritor_21/tv6.php?id=206405
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206405
 #EXTINF:-1 group-title="24/7",24/7  DINOSAURIOS 1991
-http://flash.shortgod.com/escritor_21/tv6.php?id=206406
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206406
 #EXTINF:-1 group-title="24/7",24/7  DRAGON BALL 1984
-http://flash.shortgod.com/escritor_21/tv6.php?id=206407
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206407
 #EXTINF:-1 group-title="24/7",24/7  LOS SIMPSON
-http://flash.shortgod.com/escritor_21/tv6.php?id=206408
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206408
 #EXTINF:-1 group-title="24/7",24/7  SOUTH PARK
-http://flash.shortgod.com/escritor_21/tv6.php?id=206409
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206409
 #EXTINF:-1 group-title="24/7",24/7  THE WALKING DEAD
-http://flash.shortgod.com/escritor_21/tv6.php?id=206410
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206410
 #EXTINF:-1 group-title="24/7",24/7 AÑOS MARAVILLOSOS 1988
-http://flash.shortgod.com/escritor_21/tv6.php?id=206412
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206412
 #EXTINF:-1 group-title="24/7",24/7 BARNY Y SUS AMIGOS
-http://flash.shortgod.com/escritor_21/tv6.php?id=206413
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206413
 #EXTINF:-1 group-title="24/7",24/7 BATMAN 1966 RETRO
-http://flash.shortgod.com/escritor_21/tv6.php?id=206414
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206414
 #EXTINF:-1 group-title="24/7",24/7 BATMAN ANIMADO 1992
-http://flash.shortgod.com/escritor_21/tv6.php?id=206415
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206415
 #EXTINF:-1 group-title="24/7",24/7 BOB ESPONJA
-http://flash.shortgod.com/escritor_21/tv6.php?id=206416
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206416
 #EXTINF:-1 group-title="24/7",24/7 BREAKING  BAD
-http://flash.shortgod.com/escritor_21/tv6.php?id=206417
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206417
 #EXTINF:-1 group-title="24/7",24/7 CANTINFLAS
-http://flash.shortgod.com/escritor_21/tv6.php?id=206419
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206419
 #EXTINF:-1 group-title="24/7",24/7 CASO CERRADO
-http://flash.shortgod.com/escritor_21/tv6.php?id=206421
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206421
 #EXTINF:-1 group-title="24/7",24/7 CSI: MIAMI
-http://flash.shortgod.com/escritor_21/tv6.php?id=206422
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206422
 #EXTINF:-1 group-title="24/7",24/7 Death note
-http://flash.shortgod.com/escritor_21/tv6.php?id=206423
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206423
 #EXTINF:-1 group-title="24/7",24/7 Dog el cazarrecompensas
-http://flash.shortgod.com/escritor_21/tv6.php?id=206425
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206425
 #EXTINF:-1 group-title="24/7",24/7 DON GATO Y SU PANDILLA
-http://flash.shortgod.com/escritor_21/tv6.php?id=206426
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206426
 #EXTINF:-1 group-title="24/7",24/7 DRAGON BALL GT 1996
-http://flash.shortgod.com/escritor_21/tv6.php?id=206427
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206427
 #EXTINF:-1 group-title="24/7",24/7 DRAGON BALL SUPER
-http://flash.shortgod.com/escritor_21/tv6.php?id=206428
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206428
 #EXTINF:-1 group-title="24/7",24/7 DRAGON BALL Z 1989
-http://flash.shortgod.com/escritor_21/tv6.php?id=206429
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206429
 #EXTINF:-1 group-title="24/7",24/7 El Avispón Verde
-http://flash.shortgod.com/escritor_21/tv6.php?id=206430
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206430
 #EXTINF:-1 group-title="24/7",24/7 EL CHAPULIN COLORADO
-http://flash.shortgod.com/escritor_21/tv6.php?id=206431
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206431
 #EXTINF:-1 group-title="24/7",24/7 EL CHAVO DEL 8
-http://flash.shortgod.com/escritor_21/tv6.php?id=206432
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206432
 #EXTINF:-1 group-title="24/7",24/7 EL CHEMA
-http://flash.shortgod.com/escritor_21/tv6.php?id=206433
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206433
 #EXTINF:-1 group-title="24/7",24/7 EL COYOTE Y CORRE CAMINOS
-http://flash.shortgod.com/escritor_21/tv6.php?id=206434
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206434
 #EXTINF:-1 group-title="24/7",24/7 EL PATRON DEL MAL
-http://flash.shortgod.com/escritor_21/tv6.php?id=206435
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206435
 #EXTINF:-1 group-title="24/7",24/7 EL SEÑOR DE LOS CIELOS
-http://flash.shortgod.com/escritor_21/tv6.php?id=206436
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206436
 #EXTINF:-1 group-title="24/7",24/7 FUTURAMA 1999
-http://flash.shortgod.com/escritor_21/tv6.php?id=206437
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206437
 #EXTINF:-1 group-title="24/7",24/7 HAPPY TREE FRIENDS
-http://flash.shortgod.com/escritor_21/tv6.php?id=206438
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206438
 #EXTINF:-1 group-title="24/7",24/7 He-Man
-http://flash.shortgod.com/escritor_21/tv6.php?id=206439
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206439
 #EXTINF:-1 group-title="24/7",24/7 HÉROES EN PIJAMAS
-http://flash.shortgod.com/escritor_21/tv6.php?id=206440
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206440
 #EXTINF:-1 group-title="24/7",24/7 JUEGO DE TRONOS
-http://flash.shortgod.com/escritor_21/tv6.php?id=206441
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206441
 #EXTINF:-1 group-title="24/7",24/7 LA CASA DE PAPEL
-http://flash.shortgod.com/escritor_21/tv6.php?id=206442
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206442
 #EXTINF:-1 group-title="24/7",24/7 LA FAMILIA MONSTERS 1964
-http://flash.shortgod.com/escritor_21/tv6.php?id=206443
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206443
 #EXTINF:-1 group-title="24/7",24/7 LA HORA PICO
-http://flash.shortgod.com/escritor_21/tv6.php?id=206444
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206444
 #EXTINF:-1 group-title="24/7",24/7 LA PANTERA ROSA
-http://flash.shortgod.com/escritor_21/tv6.php?id=206446
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206446
 #EXTINF:-1 group-title="24/7",24/7 LA RISA EN VACIONES
-http://flash.shortgod.com/escritor_21/tv6.php?id=206447
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206447
 #EXTINF:-1 group-title="24/7",24/7 LA ROSA DE GUADALUPE
-http://flash.shortgod.com/escritor_21/tv6.php?id=206448
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206448
 #EXTINF:-1 group-title="24/7",24/7 LE TEMES ALA OSCURIDAD
-http://flash.shortgod.com/escritor_21/tv6.php?id=206450
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206450
 #EXTINF:-1 group-title="24/7",24/7 LOS LOCOS ADDAMS
-http://flash.shortgod.com/escritor_21/tv6.php?id=206451
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206451
 #EXTINF:-1 group-title="24/7",24/7 LOS PICA PIEDRAS
-http://flash.shortgod.com/escritor_21/tv6.php?id=206452
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206452
 #EXTINF:-1 group-title="24/7",24/7 LUIS MIGUEL LA SERIE 2018
-http://flash.shortgod.com/escritor_21/tv6.php?id=206453
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206453
 #EXTINF:-1 group-title="24/7",24/7 Mazinger Z
-http://flash.shortgod.com/escritor_21/tv6.php?id=206456
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206456
 #EXTINF:-1 group-title="24/7",24/7 MR BEAN
-http://flash.shortgod.com/escritor_21/tv6.php?id=206457
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206457
 #EXTINF:-1 group-title="24/7",24/7 Naruto
-http://flash.shortgod.com/escritor_21/tv6.php?id=206458
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206458
 #EXTINF:-1 group-title="24/7",24/7 Peliculas de terror
-http://flash.shortgod.com/escritor_21/tv6.php?id=206460
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206460
 #EXTINF:-1 group-title="24/7",24/7 PINKY y CEREBRO
-http://flash.shortgod.com/escritor_21/tv6.php?id=206463
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206463
 #EXTINF:-1 group-title="24/7",24/7 POWER RANGERS
-http://flash.shortgod.com/escritor_21/tv6.php?id=206465
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206465
 #EXTINF:-1 group-title="24/7",24/7 Ranma  -½
-http://flash.shortgod.com/escritor_21/tv6.php?id=206466
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206466
 #EXTINF:-1 group-title="24/7",24/7 ROBOTECH
-http://flash.shortgod.com/escritor_21/tv6.php?id=206467
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206467
 #EXTINF:-1 group-title="24/7",24/7 SAILOR MOON
-http://flash.shortgod.com/escritor_21/tv6.php?id=206468
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206468
 #EXTINF:-1 group-title="24/7",24/7 Shark Tank México TEP 2
-http://flash.shortgod.com/escritor_21/tv6.php?id=206470
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206470
 #EXTINF:-1 group-title="24/7",24/7 SHERA
-http://flash.shortgod.com/escritor_21/tv6.php?id=206471
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206471
 #EXTINF:-1 group-title="24/7",24/7 SMALLVILLE
-http://flash.shortgod.com/escritor_21/tv6.php?id=206472
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206472
 #EXTINF:-1 group-title="24/7",24/7 SPIDER-MAN
-http://flash.shortgod.com/escritor_21/tv6.php?id=206473
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206473
 #EXTINF:-1 group-title="24/7",24/7 STRANGER THINGS
-http://flash.shortgod.com/escritor_21/tv6.php?id=206474
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206474
 #EXTINF:-1 group-title="24/7",24/7 SUPER CAMPEONES
-http://flash.shortgod.com/escritor_21/tv6.php?id=206475
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206475
 #EXTINF:-1 group-title="24/7",24/7 THUNDERCAST
-http://flash.shortgod.com/escritor_21/tv6.php?id=206476
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206476
 #EXTINF:-1 group-title="24/7",24/7 Wipeout
-http://flash.shortgod.com/escritor_21/tv6.php?id=206477
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206477
 #EXTINF:-1 group-title="24/7",24/7 XMEN ANIME
-http://flash.shortgod.com/escritor_21/tv6.php?id=206478
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206478
 #EXTINF:-1 group-title="24/7",24/7Lucha Libre AAA Worldwide*
-http://flash.shortgod.com/escritor_21/tv6.php?id=206480
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206480
 #EXTINF:-1 group-title="24/7",24/7 | Películas infantiles
-http://flash.shortgod.com/escritor_21/tv6.php?id=206821
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206821
 #EXTINF:-1 group-title="24/7",24/7 | Películas de animación
-http://flash.shortgod.com/escritor_21/tv6.php?id=206822
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206822
 #EXTINF:-1 group-title="24/7",24/7 | Basado en Hechos Reales
-http://flash.shortgod.com/escritor_21/tv6.php?id=206824
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206824
 #EXTINF:-1 group-title="24/7",24/7 | The Hangover (ES)
-http://flash.shortgod.com/escritor_21/tv6.php?id=206825
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206825
 #EXTINF:-1 group-title="24/7",24/7 | Chespirito
-http://flash.shortgod.com/escritor_21/tv6.php?id=206826
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206826
 #EXTINF:-1 group-title="24/7",24/7 | The Walking Dead
-http://flash.shortgod.com/escritor_21/tv6.php?id=206827
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206827
 #EXTINF:-1 group-title="24/7",24/7 | Los Pinguinos de madagascar
-http://flash.shortgod.com/escritor_21/tv6.php?id=206828
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206828
 #EXTINF:-1 group-title="24/7",24/7 | Malcolm in the Middle
-http://flash.shortgod.com/escritor_21/tv6.php?id=206829
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206829
 #EXTINF:-1 group-title="24/7",24/7 | Two and a Half Men
-http://flash.shortgod.com/escritor_21/tv6.php?id=206830
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206830
 #EXTINF:-1 group-title="24/7",24/7 | The Big Bang Theory
-http://flash.shortgod.com/escritor_21/tv6.php?id=206831
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206831
 #EXTINF:-1 group-title="24/7",24/7 | chernobyl (ES)
-http://flash.shortgod.com/escritor_21/tv6.php?id=206833
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206833
 #EXTINF:-1 group-title="24/7",24/7 | RAPIDOS Y FURIOSOS
-http://flash.shortgod.com/escritor_21/tv6.php?id=206836
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206836
 #EXTINF:-1 group-title="24/7",24/7 | SPARTACUS
-http://flash.shortgod.com/escritor_21/tv6.php?id=206837
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206837
 #EXTINF:-1 group-title="24/7",24/7 | SAW (ES)
-http://flash.shortgod.com/escritor_21/tv6.php?id=206838
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206838
 #EXTINF:-1 group-title="24/7",24/7 | JOHN WICK
-http://flash.shortgod.com/escritor_21/tv6.php?id=206839
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206839
 #EXTINF:-1 group-title="24/7",24/7 | TOY STORY
-http://flash.shortgod.com/escritor_21/tv6.php?id=206841
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206841
 #EXTINF:-1 group-title="24/7",24/7 | Los originales
-http://flash.shortgod.com/escritor_21/tv6.php?id=206842
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206842
 #EXTINF:-1 group-title="24/7",24/7 | La Purga
-http://flash.shortgod.com/escritor_21/tv6.php?id=206843
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206843
 #EXTINF:-1 group-title="24/7",24/7 | JURASSIC PARK
-http://flash.shortgod.com/escritor_21/tv6.php?id=206844
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206844
 #EXTINF:-1 group-title="24/7",24/7 | Saga X-MEN
-http://flash.shortgod.com/escritor_21/tv6.php?id=206845
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206845
 #EXTINF:-1 group-title="24/7",24/7 | Chespirito
-http://flash.shortgod.com/escritor_21/tv6.php?id=206846
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206846
 #EXTINF:-1 group-title="24/7",24/7 | El Principel del Rap
-http://flash.shortgod.com/escritor_21/tv6.php?id=206847
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206847
 #EXTINF:-1 group-title="24/7",24/7 | Games of Thrones
-http://flash.shortgod.com/escritor_21/tv6.php?id=206848
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206848
 #EXTINF:-1 group-title="24/7",24/7 | Smallville
-http://flash.shortgod.com/escritor_21/tv6.php?id=206849
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206849
 #EXTINF:-1 group-title="24/7",24/7 | The Big Bang Theory
-http://flash.shortgod.com/escritor_21/tv6.php?id=206850
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206850
 #EXTINF:-1 group-title="24/7",24/7 | RESIDENT EVIL (ES)
-http://flash.shortgod.com/escritor_21/tv6.php?id=206851
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206851
 #EXTINF:-1 group-title="24/7",24/7 | El Chavo del Ocho
-http://flash.shortgod.com/escritor_21/tv6.php?id=206852
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206852
 #EXTINF:-1 group-title="24/7",24/7 | Better Call Saul (ES)
-http://flash.shortgod.com/escritor_21/tv6.php?id=206853
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206853
 #EXTINF:-1 group-title="24/7",24/7 | Spider-Man  (ES)
-http://flash.shortgod.com/escritor_21/tv6.php?id=206854
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206854
 #EXTINF:-1 group-title="24/7",24/7 | Saga Transformers (ES)
-http://flash.shortgod.com/escritor_21/tv6.php?id=206857
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206857
 #EXTINF:-1 group-title="24/7",24/7 | La familia P. Luche
-http://flash.shortgod.com/escritor_21/tv6.php?id=206860
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206860
 #EXTINF:-1 group-title="24/7",24/7 | Películas de Romance
-http://flash.shortgod.com/escritor_21/tv6.php?id=206861
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206861
 #EXTINF:-1 group-title="24/7",24/7 | iCarly ( ES)
-http://flash.shortgod.com/escritor_21/tv6.php?id=206862
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206862
 #EXTINF:-1 group-title="24/7",24/7 | Los magos de Waverly Place
-http://flash.shortgod.com/escritor_21/tv6.php?id=206863
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206863
 #EXTINF:-1 group-title="24/7",24/7 | El cuento de la criada
-http://flash.shortgod.com/escritor_21/tv6.php?id=206864
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206864
 #EXTINF:-1 group-title="24/7",24/7 | Star Trek: Picard
-http://flash.shortgod.com/escritor_21/tv6.php?id=206865
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206865
 #EXTINF:-1 group-title="24/7",24/7 | Curon
-http://flash.shortgod.com/escritor_21/tv6.php?id=206866
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206866
 #EXTINF:-1 group-title="24/7",24/7 | Sam y Cat
-http://flash.shortgod.com/escritor_21/tv6.php?id=206867
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206867
 #EXTINF:-1 group-title="24/7",24/7 | Kenan & Kel
-http://flash.shortgod.com/escritor_21/tv6.php?id=206868
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206868
 #EXTINF:-1 group-title="24/7",24/7 | Hannah Montana
-http://flash.shortgod.com/escritor_21/tv6.php?id=206869
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206869
 #EXTINF:-1 group-title="24/7",24/7 | Into the Badlands
-http://flash.shortgod.com/escritor_21/tv6.php?id=206871
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206871
 #EXTINF:-1 group-title="24/7",24/7 | Warrior (ES)
-http://flash.shortgod.com/escritor_21/tv6.php?id=206872
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206872
 #EXTINF:-1 group-title="24/7",24/7 | Hollywood
-http://flash.shortgod.com/escritor_21/tv6.php?id=206873
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206873
 #EXTINF:-1 group-title="24/7",24/7 | Space Force
-http://flash.shortgod.com/escritor_21/tv6.php?id=206874
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206874
 #EXTINF:-1 group-title="24/7",24/7 | Historia de un crimen: La búsqueda
-http://flash.shortgod.com/escritor_21/tv6.php?id=206875
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206875
 #EXTINF:-1 group-title="24/7",24/7 | Peppa Pig
-http://flash.shortgod.com/escritor_21/tv6.php?id=206877
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206877
 #EXTINF:-1 group-title="24/7",24/7 | Los misterios de Moville
-http://flash.shortgod.com/escritor_21/tv6.php?id=206881
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206881
 #EXTINF:-1 group-title="24/7",24/7 | Billy y Mandy (ES)
-http://flash.shortgod.com/escritor_21/tv6.php?id=206882
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206882
 #EXTINF:-1 group-title="24/7",24/7 | CANTINFLAS (M)
-http://flash.shortgod.com/escritor_21/tv6.php?id=206884
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206884
 #EXTINF:-1 group-title="24/7",24/7 | Dragon ball GT (M)
-http://flash.shortgod.com/escritor_21/tv6.php?id=206885
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206885
 #EXTINF:-1 group-title="24/7",24/7 | Dragon Ball Super
-http://flash.shortgod.com/escritor_21/tv6.php?id=206886
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206886
 #EXTINF:-1 group-title="24/7",24/7 | Scooby-Doo (p)(1080)
-http://flash.shortgod.com/escritor_21/tv6.php?id=206887
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206887
 #EXTINF:-1 group-title="24/7",24/7 | Los Picapiedra
-http://flash.shortgod.com/escritor_21/tv6.php?id=206888
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206888
 #EXTINF:-1 group-title="24/7",24/7 | Tom y Jerry
-http://flash.shortgod.com/escritor_21/tv6.php?id=206889
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206889
 #EXTINF:-1 group-title="24/7",24/7 | Teen Titans Go
-http://flash.shortgod.com/escritor_21/tv6.php?id=206890
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206890
 #EXTINF:-1 group-title="24/7",24/7 | Ben 10
-http://flash.shortgod.com/escritor_21/tv6.php?id=206891
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206891
 #EXTINF:-1 group-title="24/7",24/7 | La Pequeña LuLu
-http://flash.shortgod.com/escritor_21/tv6.php?id=206892
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206892
 #EXTINF:-1 group-title="24/7",24/7 | Garfield
-http://flash.shortgod.com/escritor_21/tv6.php?id=206893
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206893
 #EXTINF:-1 group-title="24/7",24/7 | Infantiles
-http://flash.shortgod.com/escritor_21/tv6.php?id=206894
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206894
 #EXTINF:-1 group-title="24/7",24/7 | Los Picapiedra
-http://flash.shortgod.com/escritor_21/tv6.php?id=206895
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206895
 #EXTINF:-1 group-title="24/7",24/7 | Ranma 1/2
-http://flash.shortgod.com/escritor_21/tv6.php?id=206896
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206896
 #EXTINF:-1 group-title="24/7",24/7 | Street Sharks
-http://flash.shortgod.com/escritor_21/tv6.php?id=206897
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206897
 #EXTINF:-1 group-title="24/7",24/7 | El proyecto Z
-http://flash.shortgod.com/escritor_21/tv6.php?id=206898
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206898
 #EXTINF:-1 group-title="24/7",24/7 | Los 4 Fantásticos
-http://flash.shortgod.com/escritor_21/tv6.php?id=206899
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206899
 #EXTINF:-1 group-title="24/7",24/7 | Static Shock
-http://flash.shortgod.com/escritor_21/tv6.php?id=206900
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206900
 #EXTINF:-1 group-title="24/7",24/7 | Gravity Falls (ES)
-http://flash.shortgod.com/escritor_21/tv6.php?id=206901
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206901
 #EXTINF:-1 group-title="24/7",24/7 | El Chapulin Colorado Animado (p)(480)
-http://flash.shortgod.com/escritor_21/tv6.php?id=206902
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206902
 #EXTINF:-1 group-title="24/7",24/7 VIP | Avatar La Leyenda de Aang (e)(720)
-http://flash.shortgod.com/escritor_21/tv6.php?id=206911
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206911
 #EXTINF:-1 group-title="24/7",24/7 VIP | Basado en Hechos Reales (e)(720)
-http://flash.shortgod.com/escritor_21/tv6.php?id=206915
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206915
 #EXTINF:-1 group-title="24/7",24/7 VIP | Batman (e)(1080)
 #EXTINF:-1 group-title="24/7",24/7 VIP | Batman La Serie Animada (e)
 #EXTINF:-1 group-title="24/7",24/7 VIP | Ben 10 Alien Force (e)(SD)
@@ -7835,7 +7841,7 @@ http://flash.shortgod.com/escritor_21/tv6.php?id=206915
 #EXTINF:-1 group-title="24/7",24/7 VIP | Bob Esponja (e)
 #EXTINF:-1 group-title="24/7",24/7 VIP | Breaking Bad (e)(720)
 #EXTINF:-1 group-title="24/7",24/7 VIP | Buffy La Cazavampiros (e)(720)
-http://flash.shortgod.com/escritor_21/tv6.php?id=206925
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206925
 #EXTINF:-1 group-title="24/7",24/7 VIP | Caballeros del Zodiaco (e)(720)
 #EXTINF:-1 group-title="24/7",24/7 VIP | Cabalozos y Dragones (e)(SD)
 #EXTINF:-1 group-title="24/7",24/7 VIP | Candy Candy (e)
@@ -7853,476 +7859,476 @@ http://flash.shortgod.com/escritor_21/tv6.php?id=206925
 #EXTINF:-1 group-title="24/7",24/7 VIP | Cuna de lobos (e)(SD)
 #EXTINF:-1 group-title="24/7",24/7 VIP | Daria (e)(720)
 #EXTINF:-1 group-title="24/7",24/7 VIP | DC Comics Peliculas (e)(720)
-http://flash.shortgod.com/escritor_21/tv6.php?id=206949
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206949
 #EXTINF:-1 group-title="24/7",24/7 VIP | DC Comics Series (e)(720)
 #EXTINF:-1 group-title="24/7",24/7 VIP | DC Lego (e)(720)
 #EXTINF:-1 group-title="24/7",24/7 VIP | DC Leyendas Del Mañana (e)(720)
 #EXTINF:-1 group-title="24/7",24/7 VIP | Death Note (e)(720)
-http://flash.shortgod.com/escritor_21/tv6.php?id=206953
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206953
 #EXTINF:-1 group-title="24/7",24/7 VIP | Denver The Last dinosaur (e)
 #EXTINF:-1 group-title="24/7",24/7 VIP | Detective Conan (e)(SD)
 #EXTINF:-1 group-title="24/7",24/7 VIP | Dexter (e)(720)
 #EXTINF:-1 group-title="24/7",24/7 VIP | Diarios De Vampiros (e)(720)
 #EXTINF:-1 group-title="24/7",24/7 VIP | Digimon (e)(720)
 #EXTINF:-1 group-title="24/7",24/7 VIP | Don Gato y su Pandilla (e)
-http://flash.shortgod.com/escritor_21/tv6.php?id=206962
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206962
 #EXTINF:-1 group-title="24/7",24/7 VIP | Dragon Ball (e)
-http://flash.shortgod.com/escritor_21/tv6.php?id=206966
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206966
 #EXTINF:-1 group-title="24/7",24/7 VIP | Dragon Ball GT (e)
-http://flash.shortgod.com/escritor_21/tv6.php?id=206967
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206967
 #EXTINF:-1 group-title="24/7",24/7 VIP | Dragon Ball Super (e)(720)
-http://flash.shortgod.com/escritor_21/tv6.php?id=206968
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206968
 #EXTINF:-1 group-title="24/7",24/7 VIP | Dragon Ball Z - Saga Cell (e)(720)
-http://flash.shortgod.com/escritor_21/tv6.php?id=206969
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206969
 #EXTINF:-1 group-title="24/7",24/7 VIP | Dragon Ball Z - Saga de Freezer (e)(720)
-http://flash.shortgod.com/escritor_21/tv6.php?id=206970
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206970
 #EXTINF:-1 group-title="24/7",24/7 VIP | Dragon Quest Las aventuras de Fly (e)(SD)
-http://flash.shortgod.com/escritor_21/tv6.php?id=206972
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206972
 #EXTINF:-1 group-title="24/7",24/7 VIP | Drama (e)(720)
-http://flash.shortgod.com/escritor_21/tv6.php?id=206974
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206974
 #EXTINF:-1 group-title="24/7",24/7 VIP | Droopy El gran detective (e)(SD)
-http://flash.shortgod.com/escritor_21/tv6.php?id=206975
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206975
 #EXTINF:-1 group-title="24/7",24/7 VIP | Ed, Edd y Eddy (e)(SD)
-http://flash.shortgod.com/escritor_21/tv6.php?id=206977
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206977
 #EXTINF:-1 group-title="24/7",24/7 VIP | El Auto Fantastico (e)(SD)
-http://flash.shortgod.com/escritor_21/tv6.php?id=206978
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206978
 #EXTINF:-1 group-title="24/7",24/7 VIP | El Buen Doctor  (e)(720)
-http://flash.shortgod.com/escritor_21/tv6.php?id=206979
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206979
 #EXTINF:-1 group-title="24/7",24/7 VIP | El Conde Patula (e)
-http://flash.shortgod.com/escritor_21/tv6.php?id=206982
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206982
 #EXTINF:-1 group-title="24/7",24/7 VIP | El hombre de los seis millones de dólares (e)(SD)
-http://flash.shortgod.com/escritor_21/tv6.php?id=206983
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206983
 #EXTINF:-1 group-title="24/7",24/7 VIP | El loco mundo de Tex Avery (e)(SD)
-http://flash.shortgod.com/escritor_21/tv6.php?id=206984
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206984
 #EXTINF:-1 group-title="24/7",24/7 VIP | El nuevo show del Pájaro Loco (e)
-http://flash.shortgod.com/escritor_21/tv6.php?id=206985
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206985
 #EXTINF:-1 group-title="24/7",24/7 VIP | El Principe del Rap (e)(720)
-http://flash.shortgod.com/escritor_21/tv6.php?id=206986
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206986
 #EXTINF:-1 group-title="24/7",24/7 VIP | En Busca del Valle Encantado (e) (1080)
-http://flash.shortgod.com/escritor_21/tv6.php?id=206988
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206988
 #EXTINF:-1 group-title="24/7",24/7 VIP | Erase Una Vez (e)(720)
-http://flash.shortgod.com/escritor_21/tv6.php?id=206989
+http://flash.shortgod.com/shortgodfl/tv6.php?id=206989
 #EXTINF:-1 group-title="24/7",24/7 EBS Kids EN
-http://flash.shortgod.com/escritor_21/tv7.php?id=1108
+http://flash.shortgod.com/shortgodfl/tv7.php?id=1108
 #EXTINF:-1 group-title="24/7",24/7 peppa pig
-http://flash.shortgod.com/escritor_21/tv7.php?id=1110
+http://flash.shortgod.com/shortgodfl/tv7.php?id=1110
 #EXTINF:-1 group-title="24/7",24/7 ROBOTECH
-http://flash.shortgod.com/escritor_21/tv7.php?id=2922
+http://flash.shortgod.com/shortgodfl/tv7.php?id=2922
 #EXTINF:-1 group-title="24/7",24/7 DINOSAURIOS
-http://flash.shortgod.com/escritor_21/tv7.php?id=2924
+http://flash.shortgod.com/shortgodfl/tv7.php?id=2924
 #EXTINF:-1 group-title="24/7",24/7 Dragon Ball z
-http://flash.shortgod.com/escritor_21/tv7.php?id=2926
+http://flash.shortgod.com/shortgodfl/tv7.php?id=2926
 #EXTINF:-1 group-title="24/7",24/7 POKEMON
-http://flash.shortgod.com/escritor_21/tv7.php?id=2928
+http://flash.shortgod.com/shortgodfl/tv7.php?id=2928
 #EXTINF:-1 group-title="24/7",24/7 EL PRINCIPE DEL RAP
-http://flash.shortgod.com/escritor_21/tv7.php?id=2929
+http://flash.shortgod.com/shortgodfl/tv7.php?id=2929
 #EXTINF:-1 group-title="24/7",24/7 | The Big Bang Theory
-http://flash.shortgod.com/escritor_21/tv7.php?id=2931
+http://flash.shortgod.com/shortgodfl/tv7.php?id=2931
 #EXTINF:-1 group-title="24/7",24/7 NARUTO
-http://flash.shortgod.com/escritor_21/tv7.php?id=2939
+http://flash.shortgod.com/shortgodfl/tv7.php?id=2939
 #EXTINF:-1 group-title="24/7",24/7 CABALLEROS DEL SODIACO
-http://flash.shortgod.com/escritor_21/tv7.php?id=2941
+http://flash.shortgod.com/shortgodfl/tv7.php?id=2941
 #EXTINF:-1 group-title="24/7",24/7 MASINGERZ
-http://flash.shortgod.com/escritor_21/tv7.php?id=2942
+http://flash.shortgod.com/shortgodfl/tv7.php?id=2942
 #EXTINF:-1 group-title="24/7",24/7 SUPER CAMPEONES
-http://flash.shortgod.com/escritor_21/tv7.php?id=2943
+http://flash.shortgod.com/shortgodfl/tv7.php?id=2943
 #EXTINF:-1 group-title="24/7",24/7 BOB ESPONJA
-http://flash.shortgod.com/escritor_21/tv7.php?id=2946
+http://flash.shortgod.com/shortgodfl/tv7.php?id=2946
 #EXTINF:-1 group-title="24/7",24/7 MALCOLM
-http://flash.shortgod.com/escritor_21/tv7.php?id=2947
+http://flash.shortgod.com/shortgodfl/tv7.php?id=2947
 #EXTINF:-1 group-title="24/7",24/7 MOUNSTROS DE VERDAD
-http://flash.shortgod.com/escritor_21/tv7.php?id=2978
+http://flash.shortgod.com/shortgodfl/tv7.php?id=2978
 #EXTINF:-1 group-title="24/7",24/7 CAR | Escandalosos 1 HD
-http://flash.shortgod.com/escritor_21/tv7.php?id=3530
+http://flash.shortgod.com/shortgodfl/tv7.php?id=3530
 #EXTINF:-1 group-title="24/7",24/7 CAR | El Show de Garfield
-http://flash.shortgod.com/escritor_21/tv7.php?id=3532
+http://flash.shortgod.com/shortgodfl/tv7.php?id=3532
 #EXTINF:-1 group-title="24/7",24/7 South Park
-http://flash.shortgod.com/escritor_21/tv7.php?id=3533
+http://flash.shortgod.com/shortgodfl/tv7.php?id=3533
 #EXTINF:-1 group-title="24/7",24/7 CAR | Timón y Pumba
-http://flash.shortgod.com/escritor_21/tv7.php?id=3535
+http://flash.shortgod.com/shortgodfl/tv7.php?id=3535
 #EXTINF:-1 group-title="24/7",24/7 CAR | Un Show Mas
-http://flash.shortgod.com/escritor_21/tv7.php?id=3536
+http://flash.shortgod.com/shortgodfl/tv7.php?id=3536
 #EXTINF:-1 group-title="24/7",24/7 CAR | Winnie The Pooh
-http://flash.shortgod.com/escritor_21/tv7.php?id=3537
+http://flash.shortgod.com/shortgodfl/tv7.php?id=3537
 #EXTINF:-1 group-title="24/7",24/7 CAR | Rick y Morty
-http://flash.shortgod.com/escritor_21/tv7.php?id=3539
+http://flash.shortgod.com/shortgodfl/tv7.php?id=3539
 #EXTINF:-1 group-title="24/7",24/7 | El Chapulín Colorado 
-http://flash.shortgod.com/escritor_21/tv7.php?id=3542
+http://flash.shortgod.com/shortgodfl/tv7.php?id=3542
 #EXTINF:-1 group-title="24/7",24/7 | ROSA DE GUADALUPE
-http://flash.shortgod.com/escritor_21/tv7.php?id=3544
+http://flash.shortgod.com/shortgodfl/tv7.php?id=3544
 #EXTINF:-1 group-title="24/7",24/7 CAR | Lilo & Stitch
-http://flash.shortgod.com/escritor_21/tv7.php?id=3545
+http://flash.shortgod.com/shortgodfl/tv7.php?id=3545
 #EXTINF:-1 group-title="24/7",24/7 CAR | Dinosaurios
-http://flash.shortgod.com/escritor_21/tv7.php?id=3547
+http://flash.shortgod.com/shortgodfl/tv7.php?id=3547
 #EXTINF:-1 group-title="24/7",24/7 CAR | Doraemon
-http://flash.shortgod.com/escritor_21/tv7.php?id=3548
+http://flash.shortgod.com/shortgodfl/tv7.php?id=3548
 #EXTINF:-1 group-title="24/7",24/7 CAR | Looney Tunes
-http://flash.shortgod.com/escritor_21/tv7.php?id=3550
+http://flash.shortgod.com/shortgodfl/tv7.php?id=3550
 #EXTINF:-1 group-title="24/7",NETFLIX LATINO 24 HD
 #EXTINF:-1 group-title="24/7",MEXICO | CANAL 24 NRT
 #EXTINF:-1 group-title="24/7",USA NEWS | News 24
 #EXTINF:-1 group-title="24/7",Novelas 24
 #EXTINF:-1 group-title="24/7",Cultura 24 HD (E)
 #EXTINF:-1 group-title="24/7",24/7 | El Chavo Animado
-http://flash.shortgod.com/escritor_21/tv8.php?id=169030
+http://flash.shortgod.com/shortgodfl/tv8.php?id=169030
 #EXTINF:-1 group-title="24/7",24/7 Peppa Pig Temporada 1 y 2
-http://flash.shortgod.com/escritor_21/tv8.php?id=168954
+http://flash.shortgod.com/shortgodfl/tv8.php?id=168954
 #EXTINF:-1 group-title="24/7",24/7 ALF
-http://flash.shortgod.com/escritor_21/tv8.php?id=168890
+http://flash.shortgod.com/shortgodfl/tv8.php?id=168890
 #EXTINF:-1 group-title="24/7",24/7 La Reina del Flow
-http://flash.shortgod.com/escritor_21/tv8.php?id=142353
+http://flash.shortgod.com/shortgodfl/tv8.php?id=142353
 #EXTINF:-1 group-title="24/7",24/7 Transformers
-http://flash.shortgod.com/escritor_21/tv8.php?id=129000
+http://flash.shortgod.com/shortgodfl/tv8.php?id=129000
 #EXTINF:-1 group-title="24/7",24/7 Pablo Escobar, el patrón del mal
-http://flash.shortgod.com/escritor_21/tv8.php?id=128999
+http://flash.shortgod.com/shortgodfl/tv8.php?id=128999
 #EXTINF:-1 group-title="24/7",24/7 Los Tres Chiflados
-http://flash.shortgod.com/escritor_21/tv8.php?id=124210
+http://flash.shortgod.com/shortgodfl/tv8.php?id=124210
 #EXTINF:-1 group-title="24/7",24/7 Digimon Adventure
-http://flash.shortgod.com/escritor_21/tv8.php?id=115338
+http://flash.shortgod.com/shortgodfl/tv8.php?id=115338
 #EXTINF:-1 group-title="24/7",24/7 El Auto fantástico
-http://flash.shortgod.com/escritor_21/tv8.php?id=115337
+http://flash.shortgod.com/shortgodfl/tv8.php?id=115337
 #EXTINF:-1 group-title="24/7",24/7 Los pingüinos de Madagascar
-http://flash.shortgod.com/escritor_21/tv8.php?id=115330
+http://flash.shortgod.com/shortgodfl/tv8.php?id=115330
 #EXTINF:-1 group-title="24/7",24/7 MacGyver
-http://flash.shortgod.com/escritor_21/tv8.php?id=115328
+http://flash.shortgod.com/shortgodfl/tv8.php?id=115328
 #EXTINF:-1 group-title="24/7",24/7  Los años maravillosos
-http://flash.shortgod.com/escritor_21/tv8.php?id=115237
+http://flash.shortgod.com/shortgodfl/tv8.php?id=115237
 #EXTINF:-1 group-title="24/7",24/7 Los Tudor
-http://flash.shortgod.com/escritor_21/tv8.php?id=112351
+http://flash.shortgod.com/shortgodfl/tv8.php?id=112351
 #EXTINF:-1 group-title="24/7",24/7 Los simuladores
-http://flash.shortgod.com/escritor_21/tv8.php?id=112350
+http://flash.shortgod.com/shortgodfl/tv8.php?id=112350
 #EXTINF:-1 group-title="24/7",24/7 La venganza de Analía
-http://flash.shortgod.com/escritor_21/tv8.php?id=112347
+http://flash.shortgod.com/shortgodfl/tv8.php?id=112347
 #EXTINF:-1 group-title="24/7",24/7 Krypton
-http://flash.shortgod.com/escritor_21/tv8.php?id=112346
+http://flash.shortgod.com/shortgodfl/tv8.php?id=112346
 #EXTINF:-1 group-title="24/7",24/7 JoJo's Bizarre Adventure: Stardust Crusaders
-http://flash.shortgod.com/escritor_21/tv8.php?id=112344
+http://flash.shortgod.com/shortgodfl/tv8.php?id=112344
 #EXTINF:-1 group-title="24/7",24/7 Homeland
-http://flash.shortgod.com/escritor_21/tv8.php?id=112341
+http://flash.shortgod.com/shortgodfl/tv8.php?id=112341
 #EXTINF:-1 group-title="24/7",24/7 El Dragon El Regreso De Un Guerrero
-http://flash.shortgod.com/escritor_21/tv8.php?id=112339
+http://flash.shortgod.com/shortgodfl/tv8.php?id=112339
 #EXTINF:-1 group-title="24/7",24/7 One Punch Man
-http://flash.shortgod.com/escritor_21/tv8.php?id=112337
+http://flash.shortgod.com/shortgodfl/tv8.php?id=112337
 #EXTINF:-1 group-title="24/7",24/7 Una familia de diez
-http://flash.shortgod.com/escritor_21/tv8.php?id=108271
+http://flash.shortgod.com/shortgodfl/tv8.php?id=108271
 #EXTINF:-1 group-title="24/7",24/7 Die Hart
-http://flash.shortgod.com/escritor_21/tv8.php?id=106057
+http://flash.shortgod.com/shortgodfl/tv8.php?id=106057
 #EXTINF:-1 group-title="24/7",24/7 Dark Angel
-http://flash.shortgod.com/escritor_21/tv8.php?id=106056
+http://flash.shortgod.com/shortgodfl/tv8.php?id=106056
 #EXTINF:-1 group-title="24/7",24/7 Control Z
-http://flash.shortgod.com/escritor_21/tv8.php?id=106055
+http://flash.shortgod.com/shortgodfl/tv8.php?id=106055
 #EXTINF:-1 group-title="24/7",24/7 El payaso Plim Plim, un héroe del corazón
-http://flash.shortgod.com/escritor_21/tv8.php?id=106052
+http://flash.shortgod.com/shortgodfl/tv8.php?id=106052
 #EXTINF:-1 group-title="24/7",24/7 Yo soy Betty, la fea
-http://flash.shortgod.com/escritor_21/tv8.php?id=100383
+http://flash.shortgod.com/shortgodfl/tv8.php?id=100383
 #EXTINF:-1 group-title="24/7",24/7 La isla de Gilligan
-http://flash.shortgod.com/escritor_21/tv8.php?id=100275
+http://flash.shortgod.com/shortgodfl/tv8.php?id=100275
 #EXTINF:-1 group-title="24/7",24/7 Cobra Kai
-http://flash.shortgod.com/escritor_21/tv8.php?id=100272
+http://flash.shortgod.com/shortgodfl/tv8.php?id=100272
 #EXTINF:-1 group-title="24/7",24/7 Vis a vis
-http://flash.shortgod.com/escritor_21/tv8.php?id=100229
+http://flash.shortgod.com/shortgodfl/tv8.php?id=100229
 #EXTINF:-1 group-title="24/7",24/7 One Piece
-http://flash.shortgod.com/escritor_21/tv8.php?id=100228
+http://flash.shortgod.com/shortgodfl/tv8.php?id=100228
 #EXTINF:-1 group-title="24/7",24/7 VIP | Los Simpsons S20 a S30  (e)(720)
-http://flash.shortgod.com/escritor_21/tv8.php?id=193953
+http://flash.shortgod.com/shortgodfl/tv8.php?id=193953
 #EXTINF:-1 group-title="24/7",24/7  CAILLOU
-http://flash.shortgod.com/escritor_21/tv8.php?id=206403
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206403
 #EXTINF:-1 group-title="24/7",24/7  CORAJE EL PERRO COBARDE
-http://flash.shortgod.com/escritor_21/tv8.php?id=206404
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206404
 #EXTINF:-1 group-title="24/7",24/7  CUENTRO GREEM
-http://flash.shortgod.com/escritor_21/tv8.php?id=206405
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206405
 #EXTINF:-1 group-title="24/7",24/7  DINOSAURIOS 1991
-http://flash.shortgod.com/escritor_21/tv8.php?id=206406
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206406
 #EXTINF:-1 group-title="24/7",24/7  DRAGON BALL 1984
-http://flash.shortgod.com/escritor_21/tv8.php?id=206407
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206407
 #EXTINF:-1 group-title="24/7",24/7  LOS SIMPSON
-http://flash.shortgod.com/escritor_21/tv8.php?id=206408
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206408
 #EXTINF:-1 group-title="24/7",24/7  SOUTH PARK
-http://flash.shortgod.com/escritor_21/tv8.php?id=206409
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206409
 #EXTINF:-1 group-title="24/7",24/7  THE WALKING DEAD
-http://flash.shortgod.com/escritor_21/tv8.php?id=206410
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206410
 #EXTINF:-1 group-title="24/7",24/7 AÑOS MARAVILLOSOS 1988
-http://flash.shortgod.com/escritor_21/tv8.php?id=206412
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206412
 #EXTINF:-1 group-title="24/7",24/7 BARNY Y SUS AMIGOS
-http://flash.shortgod.com/escritor_21/tv8.php?id=206413
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206413
 #EXTINF:-1 group-title="24/7",24/7 BATMAN 1966 RETRO
-http://flash.shortgod.com/escritor_21/tv8.php?id=206414
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206414
 #EXTINF:-1 group-title="24/7",24/7 BATMAN ANIMADO 1992
-http://flash.shortgod.com/escritor_21/tv8.php?id=206415
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206415
 #EXTINF:-1 group-title="24/7",24/7 BOB ESPONJA
-http://flash.shortgod.com/escritor_21/tv8.php?id=206416
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206416
 #EXTINF:-1 group-title="24/7",24/7 BREAKING  BAD
-http://flash.shortgod.com/escritor_21/tv8.php?id=206417
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206417
 #EXTINF:-1 group-title="24/7",24/7 CANTINFLAS
-http://flash.shortgod.com/escritor_21/tv8.php?id=206419
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206419
 #EXTINF:-1 group-title="24/7",24/7 CASO CERRADO
-http://flash.shortgod.com/escritor_21/tv8.php?id=206421
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206421
 #EXTINF:-1 group-title="24/7",24/7 CSI: MIAMI
-http://flash.shortgod.com/escritor_21/tv8.php?id=206422
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206422
 #EXTINF:-1 group-title="24/7",24/7 Death note
-http://flash.shortgod.com/escritor_21/tv8.php?id=206423
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206423
 #EXTINF:-1 group-title="24/7",24/7 Dog el cazarrecompensas
-http://flash.shortgod.com/escritor_21/tv8.php?id=206425
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206425
 #EXTINF:-1 group-title="24/7",24/7 DON GATO Y SU PANDILLA
-http://flash.shortgod.com/escritor_21/tv8.php?id=206426
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206426
 #EXTINF:-1 group-title="24/7",24/7 DRAGON BALL GT 1996
-http://flash.shortgod.com/escritor_21/tv8.php?id=206427
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206427
 #EXTINF:-1 group-title="24/7",24/7 DRAGON BALL SUPER
-http://flash.shortgod.com/escritor_21/tv8.php?id=206428
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206428
 #EXTINF:-1 group-title="24/7",24/7 DRAGON BALL Z 1989
-http://flash.shortgod.com/escritor_21/tv8.php?id=206429
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206429
 #EXTINF:-1 group-title="24/7",24/7 El Avispón Verde
-http://flash.shortgod.com/escritor_21/tv8.php?id=206430
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206430
 #EXTINF:-1 group-title="24/7",24/7 EL CHAPULIN COLORADO
-http://flash.shortgod.com/escritor_21/tv8.php?id=206431
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206431
 #EXTINF:-1 group-title="24/7",24/7 EL CHAVO DEL 8
-http://flash.shortgod.com/escritor_21/tv8.php?id=206432
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206432
 #EXTINF:-1 group-title="24/7",24/7 EL CHEMA
-http://flash.shortgod.com/escritor_21/tv8.php?id=206433
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206433
 #EXTINF:-1 group-title="24/7",24/7 EL COYOTE Y CORRE CAMINOS
-http://flash.shortgod.com/escritor_21/tv8.php?id=206434
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206434
 #EXTINF:-1 group-title="24/7",24/7 EL PATRON DEL MAL
-http://flash.shortgod.com/escritor_21/tv8.php?id=206435
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206435
 #EXTINF:-1 group-title="24/7",24/7 EL SEÑOR DE LOS CIELOS
-http://flash.shortgod.com/escritor_21/tv8.php?id=206436
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206436
 #EXTINF:-1 group-title="24/7",24/7 FUTURAMA 1999
-http://flash.shortgod.com/escritor_21/tv8.php?id=206437
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206437
 #EXTINF:-1 group-title="24/7",24/7 HAPPY TREE FRIENDS
-http://flash.shortgod.com/escritor_21/tv8.php?id=206438
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206438
 #EXTINF:-1 group-title="24/7",24/7 He-Man
-http://flash.shortgod.com/escritor_21/tv8.php?id=206439
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206439
 #EXTINF:-1 group-title="24/7",24/7 HÉROES EN PIJAMAS
-http://flash.shortgod.com/escritor_21/tv8.php?id=206440
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206440
 #EXTINF:-1 group-title="24/7",24/7 JUEGO DE TRONOS
-http://flash.shortgod.com/escritor_21/tv8.php?id=206441
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206441
 #EXTINF:-1 group-title="24/7",24/7 LA CASA DE PAPEL
-http://flash.shortgod.com/escritor_21/tv8.php?id=206442
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206442
 #EXTINF:-1 group-title="24/7",24/7 LA FAMILIA MONSTERS 1964
-http://flash.shortgod.com/escritor_21/tv8.php?id=206443
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206443
 #EXTINF:-1 group-title="24/7",24/7 LA HORA PICO
-http://flash.shortgod.com/escritor_21/tv8.php?id=206444
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206444
 #EXTINF:-1 group-title="24/7",24/7 LA PANTERA ROSA
-http://flash.shortgod.com/escritor_21/tv8.php?id=206446
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206446
 #EXTINF:-1 group-title="24/7",24/7 LA RISA EN VACIONES
-http://flash.shortgod.com/escritor_21/tv8.php?id=206447
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206447
 #EXTINF:-1 group-title="24/7",24/7 LA ROSA DE GUADALUPE
-http://flash.shortgod.com/escritor_21/tv8.php?id=206448
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206448
 #EXTINF:-1 group-title="24/7",24/7 LE TEMES ALA OSCURIDAD
-http://flash.shortgod.com/escritor_21/tv8.php?id=206450
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206450
 #EXTINF:-1 group-title="24/7",24/7 LOS LOCOS ADDAMS
-http://flash.shortgod.com/escritor_21/tv8.php?id=206451
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206451
 #EXTINF:-1 group-title="24/7",24/7 LOS PICA PIEDRAS
-http://flash.shortgod.com/escritor_21/tv8.php?id=206452
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206452
 #EXTINF:-1 group-title="24/7",24/7 LUIS MIGUEL LA SERIE 2018
-http://flash.shortgod.com/escritor_21/tv8.php?id=206453
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206453
 #EXTINF:-1 group-title="24/7",24/7 Mazinger Z
-http://flash.shortgod.com/escritor_21/tv8.php?id=206456
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206456
 #EXTINF:-1 group-title="24/7",24/7 MR BEAN
-http://flash.shortgod.com/escritor_21/tv8.php?id=206457
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206457
 #EXTINF:-1 group-title="24/7",24/7 Naruto
-http://flash.shortgod.com/escritor_21/tv8.php?id=206458
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206458
 #EXTINF:-1 group-title="24/7",24/7 Peliculas de terror
-http://flash.shortgod.com/escritor_21/tv8.php?id=206460
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206460
 #EXTINF:-1 group-title="24/7",24/7 PINKY y CEREBRO
-http://flash.shortgod.com/escritor_21/tv8.php?id=206463
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206463
 #EXTINF:-1 group-title="24/7",24/7 POWER RANGERS
-http://flash.shortgod.com/escritor_21/tv8.php?id=206465
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206465
 #EXTINF:-1 group-title="24/7",24/7 Ranma  -½
-http://flash.shortgod.com/escritor_21/tv8.php?id=206466
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206466
 #EXTINF:-1 group-title="24/7",24/7 ROBOTECH
-http://flash.shortgod.com/escritor_21/tv8.php?id=206467
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206467
 #EXTINF:-1 group-title="24/7",24/7 SAILOR MOON
-http://flash.shortgod.com/escritor_21/tv8.php?id=206468
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206468
 #EXTINF:-1 group-title="24/7",24/7 Shark Tank México TEP 2
-http://flash.shortgod.com/escritor_21/tv8.php?id=206470
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206470
 #EXTINF:-1 group-title="24/7",24/7 SHERA
-http://flash.shortgod.com/escritor_21/tv8.php?id=206471
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206471
 #EXTINF:-1 group-title="24/7",24/7 SMALLVILLE
-http://flash.shortgod.com/escritor_21/tv8.php?id=206472
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206472
 #EXTINF:-1 group-title="24/7",24/7 SPIDER-MAN
-http://flash.shortgod.com/escritor_21/tv8.php?id=206473
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206473
 #EXTINF:-1 group-title="24/7",24/7 STRANGER THINGS
-http://flash.shortgod.com/escritor_21/tv8.php?id=206474
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206474
 #EXTINF:-1 group-title="24/7",24/7 SUPER CAMPEONES
-http://flash.shortgod.com/escritor_21/tv8.php?id=206475
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206475
 #EXTINF:-1 group-title="24/7",24/7 THUNDERCAST
-http://flash.shortgod.com/escritor_21/tv8.php?id=206476
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206476
 #EXTINF:-1 group-title="24/7",24/7 Wipeout
-http://flash.shortgod.com/escritor_21/tv8.php?id=206477
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206477
 #EXTINF:-1 group-title="24/7",24/7 XMEN ANIME
-http://flash.shortgod.com/escritor_21/tv8.php?id=206478
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206478
 #EXTINF:-1 group-title="24/7",24/7Lucha Libre AAA Worldwide*
-http://flash.shortgod.com/escritor_21/tv8.php?id=206480
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206480
 #EXTINF:-1 group-title="24/7",24/7 | Películas infantiles
-http://flash.shortgod.com/escritor_21/tv8.php?id=206821
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206821
 #EXTINF:-1 group-title="24/7",24/7 | Películas de animación
-http://flash.shortgod.com/escritor_21/tv8.php?id=206822
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206822
 #EXTINF:-1 group-title="24/7",24/7 | Basado en Hechos Reales
-http://flash.shortgod.com/escritor_21/tv8.php?id=206824
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206824
 #EXTINF:-1 group-title="24/7",24/7 | The Hangover (ES)
-http://flash.shortgod.com/escritor_21/tv8.php?id=206825
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206825
 #EXTINF:-1 group-title="24/7",24/7 | Chespirito
-http://flash.shortgod.com/escritor_21/tv8.php?id=206826
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206826
 #EXTINF:-1 group-title="24/7",24/7 | The Walking Dead
-http://flash.shortgod.com/escritor_21/tv8.php?id=206827
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206827
 #EXTINF:-1 group-title="24/7",24/7 | Los Pinguinos de madagascar
-http://flash.shortgod.com/escritor_21/tv8.php?id=206828
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206828
 #EXTINF:-1 group-title="24/7",24/7 | Malcolm in the Middle
-http://flash.shortgod.com/escritor_21/tv8.php?id=206829
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206829
 #EXTINF:-1 group-title="24/7",24/7 | Two and a Half Men
-http://flash.shortgod.com/escritor_21/tv8.php?id=206830
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206830
 #EXTINF:-1 group-title="24/7",24/7 | The Big Bang Theory
-http://flash.shortgod.com/escritor_21/tv8.php?id=206831
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206831
 #EXTINF:-1 group-title="24/7",24/7 | chernobyl (ES)
-http://flash.shortgod.com/escritor_21/tv8.php?id=206833
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206833
 #EXTINF:-1 group-title="24/7",24/7 | RAPIDOS Y FURIOSOS
-http://flash.shortgod.com/escritor_21/tv8.php?id=206836
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206836
 #EXTINF:-1 group-title="24/7",24/7 | SPARTACUS
-http://flash.shortgod.com/escritor_21/tv8.php?id=206837
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206837
 #EXTINF:-1 group-title="24/7",24/7 | SAW (ES)
-http://flash.shortgod.com/escritor_21/tv8.php?id=206838
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206838
 #EXTINF:-1 group-title="24/7",24/7 | JOHN WICK
-http://flash.shortgod.com/escritor_21/tv8.php?id=206839
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206839
 #EXTINF:-1 group-title="24/7",24/7 | TOY STORY
-http://flash.shortgod.com/escritor_21/tv8.php?id=206841
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206841
 #EXTINF:-1 group-title="24/7",24/7 | Los originales
-http://flash.shortgod.com/escritor_21/tv8.php?id=206842
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206842
 #EXTINF:-1 group-title="24/7",24/7 | La Purga
-http://flash.shortgod.com/escritor_21/tv8.php?id=206843
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206843
 #EXTINF:-1 group-title="24/7",24/7 | JURASSIC PARK
-http://flash.shortgod.com/escritor_21/tv8.php?id=206844
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206844
 #EXTINF:-1 group-title="24/7",24/7 | Saga X-MEN
-http://flash.shortgod.com/escritor_21/tv8.php?id=206845
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206845
 #EXTINF:-1 group-title="24/7",24/7 | Chespirito
-http://flash.shortgod.com/escritor_21/tv8.php?id=206846
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206846
 #EXTINF:-1 group-title="24/7",24/7 | El Principel del Rap
-http://flash.shortgod.com/escritor_21/tv8.php?id=206847
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206847
 #EXTINF:-1 group-title="24/7",24/7 | Games of Thrones
-http://flash.shortgod.com/escritor_21/tv8.php?id=206848
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206848
 #EXTINF:-1 group-title="24/7",24/7 | Smallville
-http://flash.shortgod.com/escritor_21/tv8.php?id=206849
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206849
 #EXTINF:-1 group-title="24/7",24/7 | The Big Bang Theory
-http://flash.shortgod.com/escritor_21/tv8.php?id=206850
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206850
 #EXTINF:-1 group-title="24/7",24/7 | RESIDENT EVIL (ES)
-http://flash.shortgod.com/escritor_21/tv8.php?id=206851
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206851
 #EXTINF:-1 group-title="24/7",24/7 | El Chavo del Ocho
-http://flash.shortgod.com/escritor_21/tv8.php?id=206852
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206852
 #EXTINF:-1 group-title="24/7",24/7 | Better Call Saul (ES)
-http://flash.shortgod.com/escritor_21/tv8.php?id=206853
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206853
 #EXTINF:-1 group-title="24/7",24/7 | Spider-Man  (ES)
-http://flash.shortgod.com/escritor_21/tv8.php?id=206854
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206854
 #EXTINF:-1 group-title="24/7",24/7 | Saga Transformers (ES)
-http://flash.shortgod.com/escritor_21/tv8.php?id=206857
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206857
 #EXTINF:-1 group-title="24/7",24/7 | La familia P. Luche
-http://flash.shortgod.com/escritor_21/tv8.php?id=206860
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206860
 #EXTINF:-1 group-title="24/7",24/7 | Películas de Romance
-http://flash.shortgod.com/escritor_21/tv8.php?id=206861
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206861
 #EXTINF:-1 group-title="24/7",24/7 | iCarly ( ES)
-http://flash.shortgod.com/escritor_21/tv8.php?id=206862
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206862
 #EXTINF:-1 group-title="24/7",24/7 | Los magos de Waverly Place
-http://flash.shortgod.com/escritor_21/tv8.php?id=206863
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206863
 #EXTINF:-1 group-title="24/7",24/7 | El cuento de la criada
-http://flash.shortgod.com/escritor_21/tv8.php?id=206864
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206864
 #EXTINF:-1 group-title="24/7",24/7 | Star Trek: Picard
-http://flash.shortgod.com/escritor_21/tv8.php?id=206865
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206865
 #EXTINF:-1 group-title="24/7",24/7 | Curon
-http://flash.shortgod.com/escritor_21/tv8.php?id=206866
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206866
 #EXTINF:-1 group-title="24/7",24/7 | Sam y Cat
-http://flash.shortgod.com/escritor_21/tv8.php?id=206867
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206867
 #EXTINF:-1 group-title="24/7",24/7 | Kenan & Kel
-http://flash.shortgod.com/escritor_21/tv8.php?id=206868
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206868
 #EXTINF:-1 group-title="24/7",24/7 | Hannah Montana
-http://flash.shortgod.com/escritor_21/tv8.php?id=206869
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206869
 #EXTINF:-1 group-title="24/7",24/7 | Into the Badlands
-http://flash.shortgod.com/escritor_21/tv8.php?id=206871
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206871
 #EXTINF:-1 group-title="24/7",24/7 | Warrior (ES)
-http://flash.shortgod.com/escritor_21/tv8.php?id=206872
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206872
 #EXTINF:-1 group-title="24/7",24/7 | Hollywood
-http://flash.shortgod.com/escritor_21/tv8.php?id=206873
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206873
 #EXTINF:-1 group-title="24/7",24/7 | Space Force
-http://flash.shortgod.com/escritor_21/tv8.php?id=206874
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206874
 #EXTINF:-1 group-title="24/7",24/7 | Historia de un crimen: La búsqueda
-http://flash.shortgod.com/escritor_21/tv8.php?id=206875
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206875
 #EXTINF:-1 group-title="24/7",24/7 | Peppa Pig
-http://flash.shortgod.com/escritor_21/tv8.php?id=206877
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206877
 #EXTINF:-1 group-title="24/7",24/7 | Los misterios de Moville
-http://flash.shortgod.com/escritor_21/tv8.php?id=206881
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206881
 #EXTINF:-1 group-title="24/7",24/7 | Billy y Mandy (ES)
-http://flash.shortgod.com/escritor_21/tv8.php?id=206882
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206882
 #EXTINF:-1 group-title="24/7",24/7 | CANTINFLAS (M)
-http://flash.shortgod.com/escritor_21/tv8.php?id=206884
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206884
 #EXTINF:-1 group-title="24/7",24/7 | Dragon ball GT (M)
-http://flash.shortgod.com/escritor_21/tv8.php?id=206885
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206885
 #EXTINF:-1 group-title="24/7",24/7 | Dragon Ball Super
-http://flash.shortgod.com/escritor_21/tv8.php?id=206886
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206886
 #EXTINF:-1 group-title="24/7",24/7 | Scooby-Doo (p)(1080)
-http://flash.shortgod.com/escritor_21/tv8.php?id=206887
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206887
 #EXTINF:-1 group-title="24/7",24/7 | Los Picapiedra
-http://flash.shortgod.com/escritor_21/tv8.php?id=206888
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206888
 #EXTINF:-1 group-title="24/7",24/7 | Tom y Jerry
-http://flash.shortgod.com/escritor_21/tv8.php?id=206889
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206889
 #EXTINF:-1 group-title="24/7",24/7 | Teen Titans Go
-http://flash.shortgod.com/escritor_21/tv8.php?id=206890
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206890
 #EXTINF:-1 group-title="24/7",24/7 | Ben 10
-http://flash.shortgod.com/escritor_21/tv8.php?id=206891
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206891
 #EXTINF:-1 group-title="24/7",24/7 | La Pequeña LuLu
-http://flash.shortgod.com/escritor_21/tv8.php?id=206892
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206892
 #EXTINF:-1 group-title="24/7",24/7 | Garfield
-http://flash.shortgod.com/escritor_21/tv8.php?id=206893
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206893
 #EXTINF:-1 group-title="24/7",24/7 | Infantiles
-http://flash.shortgod.com/escritor_21/tv8.php?id=206894
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206894
 #EXTINF:-1 group-title="24/7",24/7 | Los Picapiedra
-http://flash.shortgod.com/escritor_21/tv8.php?id=206895
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206895
 #EXTINF:-1 group-title="24/7",24/7 | Ranma 1/2
-http://flash.shortgod.com/escritor_21/tv8.php?id=206896
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206896
 #EXTINF:-1 group-title="24/7",24/7 | Street Sharks
-http://flash.shortgod.com/escritor_21/tv8.php?id=206897
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206897
 #EXTINF:-1 group-title="24/7",24/7 | El proyecto Z
-http://flash.shortgod.com/escritor_21/tv8.php?id=206898
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206898
 #EXTINF:-1 group-title="24/7",24/7 | Los 4 Fantásticos
-http://flash.shortgod.com/escritor_21/tv8.php?id=206899
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206899
 #EXTINF:-1 group-title="24/7",24/7 | Static Shock
-http://flash.shortgod.com/escritor_21/tv8.php?id=206900
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206900
 #EXTINF:-1 group-title="24/7",24/7 | Gravity Falls (ES)
-http://flash.shortgod.com/escritor_21/tv8.php?id=206901
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206901
 #EXTINF:-1 group-title="24/7",24/7 | El Chapulin Colorado Animado (p)(480)
-http://flash.shortgod.com/escritor_21/tv8.php?id=206902
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206902
 #EXTINF:-1 group-title="24/7",24/7 VIP | Alf (e)(SD)
-http://flash.shortgod.com/escritor_21/tv8.php?id=206903
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206903
 #EXTINF:-1 group-title="24/7",24/7 VIP | Anatomia de Grey (e)(720)
-http://flash.shortgod.com/escritor_21/tv8.php?id=206907
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206907
 #EXTINF:-1 group-title="24/7",24/7 VIP | Animaniacs (e)
-http://flash.shortgod.com/escritor_21/tv8.php?id=206908
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206908
 #EXTINF:-1 group-title="24/7",24/7 VIP | Arrow (e)(720)
-http://flash.shortgod.com/escritor_21/tv8.php?id=206910
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206910
 #EXTINF:-1 group-title="24/7",24/7 VIP | Avatar La Leyenda de Aang (e)(720)
-http://flash.shortgod.com/escritor_21/tv8.php?id=206911
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206911
 #EXTINF:-1 group-title="24/7",24/7 VIP | Avenida Brasil (e)(SD)
-http://flash.shortgod.com/escritor_21/tv8.php?id=206912
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206912
 #EXTINF:-1 group-title="24/7",24/7 VIP | Aventura (e)(1080)
-http://flash.shortgod.com/escritor_21/tv8.php?id=206913
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206913
 #EXTINF:-1 group-title="24/7",24/7 VIP | Baron Rojo (e) (720) (e)
-http://flash.shortgod.com/escritor_21/tv8.php?id=206914
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206914
 #EXTINF:-1 group-title="24/7",24/7 VIP | Basado en Hechos Reales (e)(720)
-http://flash.shortgod.com/escritor_21/tv8.php?id=206915
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206915
 #EXTINF:-1 group-title="24/7",24/7 VIP | Batman (e)(1080)
-http://flash.shortgod.com/escritor_21/tv8.php?id=206916
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206916
 #EXTINF:-1 group-title="24/7",24/7 VIP | Batman La Serie Animada (e)
-http://flash.shortgod.com/escritor_21/tv8.php?id=206917
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206917
 #EXTINF:-1 group-title="24/7",24/7 VIP | Ben 10 Alien Force (e)(SD)
-http://flash.shortgod.com/escritor_21/tv8.php?id=206919
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206919
 #EXTINF:-1 group-title="24/7",24/7 VIP | BeyBlade (e)
-http://flash.shortgod.com/escritor_21/tv8.php?id=206920
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206920
 #EXTINF:-1 group-title="24/7",24/7 VIP | Bob Esponja (e)
-http://flash.shortgod.com/escritor_21/tv8.php?id=206921
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206921
 #EXTINF:-1 group-title="24/7",24/7 VIP | Breaking Bad (e)(720)
-http://flash.shortgod.com/escritor_21/tv8.php?id=206923
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206923
 #EXTINF:-1 group-title="24/7",24/7 VIP | Buffy La Cazavampiros (e)(720)
-http://flash.shortgod.com/escritor_21/tv8.php?id=206925
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206925
 #EXTINF:-1 group-title="24/7",24/7 VIP | Caballeros del Zodiaco (e)(720)
-http://flash.shortgod.com/escritor_21/tv8.php?id=206926
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206926
 #EXTINF:-1 group-title="24/7",24/7 VIP | Cabalozos y Dragones (e)(SD)
-http://flash.shortgod.com/escritor_21/tv8.php?id=206928
+http://flash.shortgod.com/shortgodfl/tv8.php?id=206928
 
 
 
@@ -8582,14 +8588,14 @@ http://210.210.155.35/uq2663/h/h05/index.m3u8
 #EXTINF:-1 tvg-id="Magic Kids OK" tvg-name="Magic Kids OK" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/54a36e12-3324-43cb-a3d5-ef84afce6471-profile_image-70x70.png" group-title="TWITCH",Magic Kids OK 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/867973dd-9cc8-49e4-ab5f-158681d0a516-profile_image-70x70.png" group-title="TWITCH",La Casa del Anime HD 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/f8b099e9-9c63-4ec2-910d-e40ddb911f1c-profile_image-70x70.png" group-title="TWITCH",Anime Live 
-https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CqkECDNqeZsyiVGZoyO7CULrz-TS-xWluL0oP77U5xxvxk9A_z-G2bshPWGGXvp51sWV-34oaiO7iEUdKmSP48POCyMO71h_u6zi65veZze3RzkXOSUhEruBd5ujDIZtMyc4CKRLB07mpM_36wWmst5MrAAKVxsBLX-gpxlvOkdjGf3wZYPY8FInmw3v2AGDeMzBQ_WwYe0HrYO1kldVgEjJOOF8ycX95Zka6JwplNQNHRgHFD9Q9Xf7vY9TM7AMnGYJWeXkFBfIbuS5dDRsgR-GthNzD2pyXPP3cGlP8ojKlm4H0hLU2SmyH67uIh2lrTIYcnEpk-RkQuX_5ztZ0r3BQg0HFWjjK8tIjNNNBLofQk3wsYBQ_d9TAfxc9-A-SXHnEtVjDLn_Jws5B33NWV5N1KIdDt7q4FEglCcy0qkh-tJm3V-xex91AZlrTzqTU8bTnffhHDeH2qnJEMn2tHcURxbs1QsPAIU-WfkPCmtsPM0kEyA_qWjcsEBXPRFSOIpaJo1mzppIUpzhI0rP9a8etrQRprxauhLF3Up92jmHHx9cqDzmTgbPKYQiaw3NszPe7Yq98Nk5p0WAng2rFeF9jMp9j5cOxHp6CgG2YAREuWQQxnsazcgGS6xyGSD1XB6E8d9r3C4tmwef5lpaxcgJgKXf-WrUcoUsFfwSKkbQDUKR7kRFp4aC9QYcZGeamqZdVQGyMq7K1fDsspI_SLHzI-y6jFPOKlQcdRoMVLEtOXPirQWIdg95IAEqCWV1LXdlc3QtMjDJBQ.m3u8 
+https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CqoETLWlbCHoKOu17usLZiJTsKHqvSfZ63juV2VRMKROWhKN3KMql9CMLphY9SfjPQExV3Zug7mdTRh3zaA-cp2SEc3NUkfN0wrSQfVwivoo_4wYbF4INYEr7NuD-PIhRKpRUNeodGxQQOw3KUrOpH_sRD-a9tVj403fDilR-8by-u3-_w1_DooAwb7KWLelKOb6j5Hx4vTba9FNcdZCtYfxtRuxiGl_Op_TDvU8f_Tk3liO8SeFZXqdabDDGyBY6E5QyVxv8pHhnx6viSRBgol_GSo43btuY-O9ZZVCEUqrb8kGQ3TvAgPB-XGnTVyBSQNJ6SEr401tb9DbRXVAmm0TtWAnKb9kcNCQf0PvFSOH8efzNMpO39N2cyczCjbfOIijp5Mb672ooUHbiCXC4s9euhPqfP788aGqiVvcbWFOF887-yS8eHp7Woesdle88el2-kwjBU8kkzFcccEL1UN0gjfx3fn4X3u3PS87RebOIFWDR54THEgC47YX069BE4s6QZsscu8KKyBmiX7S6GZNbd6PMn63To3mK8d3Ov0fAFAY_iYKDzndqStxc_ekUaT7K_ongxq5IuuzyTJ9jhYnTPD4JNX50tFiJcBkRpNhBko2xqk6R8R1F5s61s1X9UEnt45Yr9ab1Uf9jawY08NLl3IOIMo2wkG0l4fwQTU4tU37AR5nqglEuzqjrbwA0sNPns1lTyvHsQLlhV6kF-rNUZ0v8ZJYI-amSB0aDJsQrzU7251zEsudNSABKglldS13ZXN0LTIwywU.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/0a5e3115-8e85-4f25-84e5-7656b9177443-profile_image-70x70.png" group-title="TWITCH",Anime Live Deluxe 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8af0c5e3-ce96-4b5f-8b3b-97e34e704a12-profile_image-70x70.jpeg" group-title="TWITCH",Locomotion Plus 
-https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/Cq8EDSKARK9MENG4c_gfQ80QbqibzURNIXodxftwhF9O93kwFmQ1tinMdddMFYhAAoEmS9_7Mpy0qSkFTC-rI38zfAw0H6yLCVb3yNizLNYkCcivNaap5t42LAmci0EtmlqvYK8nppRw2DgC0TipvoJUWE8wKCr064f5A9hBvEmfhiaMGTG9ird9wTNrDW89lfCh7KDg1fY6DFaatLBFhkspYCWZuYg0mpppM8rVP4alJoE9chkIFIH2n3FU2PhSVJb6aB4m0BLQgCxXUJepy42jWMUZdAjO3B9Y6qbXws1PTjl7OiZbS7b0Q1HTwLbn5D1YZ9h4JVCrbdbQjB8JJ1aIvPE1Gv6WmbBbfjbKnzOotpAmJDJtxZK5XvpaBtZ5UIMPTb1Y_pryCLMxQLzH3Cj98NbwIOGnpKvnLOFCSdmDmJd0fOtfjB-h4G1AwsBIEwWLBWfFLU2haVXfbh78kBcCj4wlipaD8hBtyW_YXct5MwMWTeNmrvE3gkJNMYqzhDLN_vmUUD6cAxjPZ-68Iaf0upSGWNUsddtsmi1I6QULkSLd3EW-XkVcrevAeDotcWtl1aR7jyjU0htEWbJZ41lk-MZukj9GlWIe6F-nxPSJZQoOr67iUFa4TaqBEqPv_9FMjSSPFQ_4QWAcrotzyAVc5ms8_FsWWzfoULcgQESu80-R7ieY0DHGVwobL-zVhx1nNmL9FPcJ_BwH3wLTzuVgjg_gRFJIAaXi2D_zut568RoMk-ufq82IE-9OTu_jIAEqCXVzLWVhc3QtMTD-Aw.m3u8 
+https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CrAEE59fNpq77YF275_wp7Y8NKYcY6_AnUe3si6zRoORhVIuaFKfFZA5F7Wu6GiEDAWm47HSNNFeZnerM5D2d8XEHgQz17DVz4caOgFiIjsL1IhIXz6P_fbjrRDOTKL31sDjomYsyhtTvzMx8c1JKY7iPp5Uo09IQRq1tXmuimXAPuxOutt7sUSCMp7pUzvExSqF-DkcZgoQOFgTk08X2e7IEwD7foopezELZxUfvYhf0v2NejNXyheXltuxdZKT37t0yy3mfFkqUKRJDsbOv6SxrG2RGKIPTmpKnpC8_CewogC5GFaY9F4vqcN1X8EDCVBZlI2kxS3OCUlk81U6QwsDx8WSwpGpXB9o2ynRLeTWRwJyrTw5n1GgXdb4N0434fLX1ot9rNbf4pGx-MK9IwAUgpaVBcEHNSKEcpqxjjgAjX8drthAz85F4f1lYiHxytWUF741-KGP5-FcJEd7TDpB9ymYm66fl6-gWegz2qlrOl2_T7bD-iCI57Y05w8Zp-w6eRMR0udzTbx0hlA7NlOVRJCZNBPDlepeI8TC2dqB5TsCkExIY9N6kVuOHww3rqwggmtXqRIB0HN08rwgFD5B18nPtdS9ULb6MNanqgyRJiEIUBYKgzIdMt3AjPb6DheA8XjcwPtxaa9bz5VrvtBQeezBkwRcy4p0tOd8kY4kwqPOo8Pu8l1EQha58NHeMJtntdZKayPjCfRgM-gbyxE1dCd9MsvGprO4Q_pi3fyCEiEaDGumN7Yx2nA6vhFC4yABKgl1cy1lYXN0LTEwgAQ.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/a98cf3c4-3670-4a14-8d1d-4d6a06d85300-profile_image-70x70.png" group-title="TWITCH",Japanimotion 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/fbd54a0c-ec4f-4ad8-829c-364f140cbe26-profile_image-70x70.png" group-title="TWITCH",Tvnoizu 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/2e78616a-4ae7-4af9-8706-0a5437bf3406-profile_image-70x70.png" group-title="TWITCH",Peliculas Mania 
-https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/Cq4ESzdqPrU6Oy9weq8wS1Y-EL_fnFt5_TYsRuOwJWeRzIe1WZmDKO3rO6xON_YDjxa6500Vu2vmGaCIP3G86g6m8p9P7qYIvCap-NP7Yk2C1q5WtxLYKUDo-YrWH505VH9fmjaGyWlyR2D7GQyNkIwNfZtfJfN3tsd7TVijkjduUWV4EuDTaoJREFaQbAmKmE_m0mtPiRKYFF3tB4QYsjBbmHhH4jeH_9VZgxLrYLyNc-dkq_KFy-UkLaRgr-Ab5o7KGA6HoNkDwRE_0zvB0fJBuGndggWel9KXKoerTn6vccK2bjtQMIE7TlY9K7MKxEjCqhrY7l9A74MSiObYaXccQBeqxxv-oI-IP81DSl8oHAiH91-0s7so64jGHU8kj-vVxDVXykl5IPHium-qqcXA9HLeoh6wc5YieW9O6z5kvD2Uz9Qrplln5H1A3wWRsXz4sPMZJMDxV37Y_NzXPDDyL0TZi82rEG8hU6lzAOlD5h2Y7c0U1iGwSqCiSpJnDWw5rzfuC4MFpbxjgvJtTGuvtSqlFO8tN4wy72Wji_zRxp7H6HZF0EgcOj3haFTbhsFmuvZtJBAx0kY3SVDmx3YnSb5egWrsS2JJq7YCgy1AuZOusoruyypmzcUV_SJMQaUNYwU3fCFp6hX7Efnnsol1lkula1vJRCyW77Bduf7cnTbkbrApZoc4nzMWK1ofaFAYD4heY_iRqdV16AA_UUzLU4hTaAuueT1VGcYHXSOdGgzpBNeeuWolBNlvfv0gASoJZXUtd2VzdC0yMMkF.m3u8 
+https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CrAEQnXCmBbf1qsVpbWwbppEox8OKCfgDjLWuBWGY2DCyQyZ7rUbbZ8e0FIuQH7mkpqdq8TvN6wCIOcXQk4ApgDs33t5AeiaE5d57uQ-p4dW93sYTDFKMw4ZeuZZ4DWNkv7XRgdqgi6NmreC0tkkp7g1eeI1IMYR6c-OxTYHqFIctth6hc0s0CS-8u5P5Q_XzBllXE3e9GsAlP8SE4YhLCTy92DEhn10HTSs8zYaAzmKvml6QBu6YKSVDlIXjxK7csBjwg65y2Xa3ZiThnTHhe_jkkm6YhZrh3VPfmAWabt9tNV5hxIcYzpaEx-H3U0vBCWNBcIkshIXTEZRaAzJWM8IeZchvq02dNXKZWKArlLh5m-i4B0LJDKyyEzY-1ZQLEsfFIXEObSAzx4qaje3E2xArDblpv_7S9kKVxAHTy_cfDpC2Fdx7idfdFwr0Bg6J_0AOs2E3elzfrNI5tntodv11RHkn9O8NLCWMXZNnBin1K9fTL-kh9gupkbhPzsTsAz9zQu_zdH2Lhw887DoA75jx12ppdG1O2X4vojXXnH5Oq8lOJczQvqSlifNVRXZMtu9g6JegHwsPzT9jhURGUotAkHO8yxiuP6AA3yoI6BN76MMBSeRGxiClvisQ8MyP_aaGI8k7sojsAqEH7R4Nz6Umzx4P9bLNT7AnUO2XMwT-sWzz1bAUvlsqUku3Sb6ioPVZdlFgRxM_npB2WpaMuS6vKiqSJHMeA0Fvm0VRNR31rQaDE_cILpMzovlWxTjfiABKglldS13ZXN0LTIwywU.m3u8 
 #EXTINF:-1 tvg-id="Los Simpson" tvg-name="Los Simpson" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8676dfd5-f07e-439c-bdf9-df36080e39dc-profile_image-70x70.png" group-title="TWITCH",Los Simpsons 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/a6ff53a0-0641-4c6c-9adf-475c952c8571-profile_image-70x70.png" group-title="TWITCH",7 central tv 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/760449bd-621b-4777-b7bc-9fde4d1f27cb-profile_image-70x70.png" group-title="TWITCH",Chespirito 
@@ -8606,19 +8612,21 @@ https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/Cq4ESzdqPrU6Oy9weq8wS1Y-EL_
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/26f782d0-a8bd-43ce-99d1-e7d81b9b5026-profile_image-70x70.png" group-title="TWITCH",Panda Max Live 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/a4ca1d61-a1a2-4421-9b25-70de9c630160-profile_image-70x70.png" group-title="TWITCH",Dragon Ball Super 
 #EXTINF:-1 tvg-id="EnerGeek" tvg-name="EnerGeek" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/154b5d9a-b856-43ba-8c52-711ec89658d7-profile_image-70x70.png" group-title="TWITCH",Energeek 
-https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CqUEHsjd7zxBtFghit-g2KYIxdSEu5kAMwgCijXQ2fOSab_YPfD2AMI8t60gxO2feRhWXFPF0pWpXPXfHrz0913ANDnhSuEngToA5cn9N6EJJjR_cdr6qM6eElbwuI1LpdtxlnM6xS6C00bHpesYVN33qi9rMJTDmMMMo4JVbYOYwZEhVHRfmrwsTTjZYnzA3Tf825c6RDs0SjPxwmc75cG7TlODjry6kg0oTjgQQO9Zh1e-HV2-91Rp7qXUqcXafJr4EZQdQxf3pSTGc3wleZrtwhDiKr_CLrd7Iv8NMFo7dPAh3AYRq5xvwOTqoTjBYIK99RFfUCwegxggQtqPiJxtI9gK0g-ovzxMCJ-BAnsLUqeXQuiOof20YOmsEUOtSwztWOBGQooQk-5IvIGldt4MyXu0DgHgYEz7AWuSot62-EQT7FxJM-7jz-I3BcoAtXZvWHnkbZv46AOPFjVXLMS_qooLiLkFsz4f1Hibi26kqLlIMtwRU1KKDzL-w42F7i-FOjVx-XF1VLXSoVUKq4rq9pec3rPjpfxU4sYSUFNoQ86Ut23j8c-alyoXVOw7tIlMEAWbk5wkx_3z-88sLrPMrnVfp-EF0UYK8-fvs2J4HmP6CcjkeyqsPgXbG8jX285rV0GXEYlnoDqJaK3DQcBVm2ZCm6JpF6349wU6_saqzgAgZEqzpSeT89W3Ia1DDcLY0NWzs3IvU9QKdlO1xRXUK1HWDfcpGgxZ4w_44ht3-BiUpIMgASoJdXMtZWFzdC0xMP4D.m3u8 
+https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CqQE0KS1DPgQcNm8FxnuQioS-aQCnurfYQ8rKd9is9Xkya6bkdAZe-V7EQotFvwy-05C1Kzw8Im3x-k9djEr_mK7a7YntVA_cLtQE7C_x45lNeChaiODG3ZPiB3qGwsrFFnwMaAShzwjEibGvpFPTqGWwOhPkqzu2P0DZFOKbOZNV1L5-8SGw4Paaxi9X3ZztkLGXw0UHrIdvx3IPnwJZZwQg73l34_HBABHxflfik9ku3lKX2o-tm9M3bhbmR3U-iP2-Zhx8CMSLW_kU0in8R4AJEIvcujdaTb1QM38N9hFwAXGk0VHNKbAKQjP8A8XjSgpkoqtT-0qU0Y9m_ZRHthhvIJzflj_9qFNPhU9LccIFAkOq-nkMK3W20Oa1h-CcO20TnATxpveYlauF3WgshWbaTcpsflpaH6f5SvaXonwxdOFYAPuFVn-jpqjwMaFRr1kmnfaF6lvbdlvebcWENhHDCcMH00xeEdtQDpk3CYbeHl2-_NESCk8QEhRjkZDhJJI3Grx7Gx_P3PQ8C7sPP7_8TZ4tXKijg691sPtwZA5wPeSfkwLyUXNKkg0RKV6XH02h-K6Y7nneQkwj7Ov_n64FsTv6eJXFLzPzshHT92V61SEZ1BavBdfd7cBXOaLWcJWyNstx7jaEVhf-0n4BDnDE3Z4nnwp3VKU2UwyIKoUW3QMhu_KE0l63c5ZyXtj-0uhZstfHbBIkFFdY3ke33A7uJf68YAaDLmDZiEEPV-G6mRd4SABKgl1cy1lYXN0LTEwgAQ.m3u8 
 #EXTINF:-1 tvg-id="EnerGeek Fanpop" tvg-name="EnerGeek Fanpop" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/2006d0e4-1470-4101-aaf4-5ce494d28e4f-profile_image-70x70.png" group-title="TWITCH",Energeek 2 
-https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CqgEJDCt9iaFpbMWnjJRPs1LNW6Qj42oL89vfGAd2jneIv5FGME2tMK6VzjZiXcgRWfaJ-M6JJW4i_nUV-UJRsIIOTCOzGe47fpR3C-Ut9mwjkR7SbtRSRpVkhsA8F9_5eUlqIycUe5TDHyKYDIJ7dcwi3ZusIcifeNFZb8lDvQllUn6yR37NMRJ0zVZzP5h7szEH7iNCOm8EwYxs8YMfKgmZvVzj6wkX-RFj68AY4PUD4PjaZG1Um_sLc0NX-962SzbzeDjjMDlZeB4AFrGtF9DFriMvd--6w3lulRzro5NTraknjf2om0zaCPydbbakEp3A9JGf7_msdixArjSUoJ_LpxOiWNfB0CKT8ziALSiSusSaUMWkwvXJvurfyw9m6VYE1Bm7Bxi3o51W7VeXrTPHl1pi5RtfyhtFRhim9usmcJELZiqH1InqZgpZr7xXLu0ax27dbTM_pBQv416WEzMXFyvGbpxz-lczvcK0-SODFVP2XLaBw8IZC4VxKxRSsRuYxlwdvPMBDzCqxLsNxmZEH8I0FbVQsoZCmbGiS2oFcMtH6MkSPI1VzRtkEhuTjrA2zCp54ANzBns5jSQIEsSkJqBS8218PnIi_2ag6z0P4PjZ-7xKnVhSIOOTfF-XWzfmEw6ynga56NRHOQz-KxDyrzHbpwIYawse8ELViFk57zY6__VZQRsSBfd4wc9d9OTI8wVTugH6bYBtVoVp2ZcU3jQEbIQv7fKGgw9YEHvIAtQ2kz69kggASoJdXMtZWFzdC0xMP4D.m3u8 
+https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CqgEaKI92fbZGN_lPKVm_e0Bxjl6jWCubxoSRlE4PS61fzo3ICAv4hFN6nJWDLQR7TXOSofiObXYBCYX2YWTTYyDdkVyGpohw3uWND_QlwTUBv_nzu06N3e0Yj-dfBNg8CSIk7le40sj-M7bLY2dFMyv9eo3yHEBUuOH8AWXOfmTVEIOfRcGDLmFeBqKgwBqJQ6CdhvyvgqVFRcrS_0ax0LH7Q4hRXfQHjdYp3qjGvVk3RHD39w_5-h3yf_6YgkEopxoOwsj3O3UqlqG6Up2VHc6sAorbBx3otKwuj4t2JsQpzYjWjN8R48Rx6IsJvMPEjp_LPIaZeQ4l0xXYR9e2VNvKNyOb4TQczvEeqjQ2NB8HeGxa3GE_D6ZUKyNRPhhPYrfkZnn-jhl5ODlJRVwq25nugug0at1wQsODFtZxk-xdM7Yp82KTrT7qxudq8J9XeGvcUZvtz2dDDFSw3wynRfz9PuEVPMDZJ8T6K1Gb9kpddrPjFbsd-axD4CVEQMf_lDeLs96IPkC-zPBGRPxxAlWeCGmF7vDwY1UcrHsBsIw0JjKt5hgrqsuam-u0NJ31OpAHS7doIfAj2dxbscC95IDKoUtdAo64OIPnrLE3VIkQ1NMViJ_qcsQ7eRDNyvB_BojyehqblhwXJlSNGBrhKXfttLPDMKV7DBNY-VkYeXgm6GCC_Cz3PS1bpI6x1yY-mizZQj3ISw4eFRbq2Rk_5GF2VmzVmroNJWXGgzgCiRrrdqAys3GL60gASoJdXMtZWFzdC0xMIAE.m3u8 
 #EXTINF:-1 tvg-id="EnerGeek Wowly" tvg-name="EnerGeek Wowly" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b6860d7d-cb66-47c7-b479-e37d2f2a03d2-profile_image-70x70.png" group-title="TWITCH",Energeek 3 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/87c29d6d-eb73-48c7-9f69-44fad6fd0892-profile_image-70x70.png" group-title="TWITCH",ETC TV 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/20262456-09cd-4494-9d4c-f2c8995c9af4-profile_image-70x70.png" group-title="TWITCH",Kemacral 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/83a1885e-ee22-460b-8bd4-c0c6f290dcfd-profile_image-70x70.png" group-title="TWITCH",Taberna Nona 
 #EXTINF:-1 tvg-id="" tvg-name="TVLuchitas" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/58d4bee8-b7ce-45de-baad-a54b06c134bf-profile_image-70x70.png" group-title="TWITCH",TV Luchitas 
 #EXTINF:-1 tvg-id="EnerGeek Radio TV" tvg-name="EnerGeek Radio TV" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/f81b15fb-92e3-463c-af21-2955c4ea89d6-profile_image-70x70.png" group-title="TWITCH",Energeek Radio 
+https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CqUES7bhDzLKKCSMo6oW5csocwRNBrONI0tssalZELDVoyc7K85yPEYxxs8TixjV_J3Fovl9CjrgwUYsEUOew-HVApDYgsfRDH9SG4RLjmvhwLK_lWbca2PyoLWzM2f1BCPO_VWeqfO1OcXfIUqqVADsqnMYl8A2-G9qpM19eCUhXca_F-tYp2-Wo6YsmhSAhTO5saerLuBk3YFNYPHhFLQythR0Gly3ZpNSHOL9t-0trTREY_zC0U1o4Wsg-gTEhXVcilG4OMzCuFNsh14_EagSWCdNEgVnRMtW12Ky63TyNeHLjGhYtOoRha9bpZaeE1UVqYV9-TJWCmle80rahLAhdti_xmosrOwG8uVtjbtHUEr_Lx-Jssk9yuvcedk9UvXlTkWP8ABhCtHJYemTD6dXiZGeerzSExe94xDppSBmrc0ZbmDMO_barY3FNyIaf7XucYRDp5p8mtlW5OEPQqdoiskgi8pPnAsSt_W1TpaNaRJXTHkMakOKFZCGo5vwokX-etRwESMmicK5ef87RBwOpnKcwftvI0m8FoGdJcmMQeLtJjuArHyn1QLjBJjwbGTMpymeP-AyW-28a8qLaB8N1dRpjDbnS45o2FNHfGgS_2j-D6a04caihQnPmq6kJwwEXUBVejmsgqDk2G57ZOdxNrQ7mgb9CAj9NhDtWPpeP1X-lAQ7S9GxdNL8N80WwiAbw7gVSVSuF4zN8fVDwTEee-Chm69BGgzvCbgVeA7BhJJ-fcwgASoJdXMtZWFzdC0xMIAE.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b4ad84c6-f53e-4078-b5f5-cc9222fa398b-profile_image-70x70.png" group-title="TWITCH",Cartoon Network Clasico 
-https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CpsE9hdwIy9bZtsUm1f1v0Yq9w7wXspoTozPyRtmoYTr85mwX5ODujYVmq3qtmGo7lweRx9-rz9DpAN9z8YuNEJjTSMKyliiyvQbOI5_Ekw0EqV52NtUuNA0olKTzKz2NuMGz5YOLDoIdv8C2CuSz4zqzkyHwhj8vipUz6_7wkz9f7bUzAZGYFcP4De894aO7wHzY0N6hZ4KZuvKKSKszoeTl5UIuzdJDSqsZTwd8Ty9yO9J3SXbXX4hL2REi_mAkviB4-W56kiMNvZnDcl-Kdh-sMqevHkTf3YMIfAQEjiNtXU1wfaJNvbFjtCPoFXWIKDK4RAJUtvKMaeYIMw55e2JX4LHr30STWQ7Jy7-kmF0CrI11FJCz-2I2L-oJl2b9QVsSRhPKrwku8qkZi2IOq2jPev9vWs5NdVMrEEvZ5LCmjoTPTlPKboGcYdxlIogbpnwoJ-WrXjhVU6BihmUIYIZFFZxb4JdF7fLalYpl4llrROBauE2of3vq5qRt0512xFI1n5zJTqDk8A6YyOHo9X_Ud8DpqBlkOvd3v9aNQkG7CTN6kMAexbzc5jSm7NHf_1iYQaQJ0gndphbaSuZ9KRDpyRhGXcpoZOPbIkxgoTn8eOFWaKT2Tl4T4xohko9XtH_jQ74zkfDZDBVCC4sg2DcAzchJ4AhuPZOxj_KL0oz9u7EnfMmcvbetBbaRxDSFIu_HIIIJpn4yx42R7AaDOP3hLsf8eKTpgqw7CABKgl1cy1lYXN0LTIwxwU.m3u8 
+https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CpsEZS-P2JFqsTRq-Vqf8EmngPgh8L7sCmrAu3vyIB7QIABF5gpOzs_MqjrSsTPsq531Ec6OOEwV5U4yZ7sviNeboZze7nkbRJLLhr7gA_2WAYwHrRClulT0iVasKyF88wIZbf_INpi6DnRYg6yY21k4OXkgIDSRxSvdbEN16U293_8Y28KEPrPc9YvOYv1RWW4LlGEsc4LY_10AusOlwGoY4DLZ2oRVjx5UvwFgDprEtX9YSa3CHDvlHU0UqkbUMZgRzCF2ZYAhvZouMsDgDOmULWZUBg9x2kQzbzBWNcGjFioe_Wk68pqIi1wiLQyqd6vNQyGeszZIgMpnVcGy3f6B-9ztNzeG-2Kz3jBg_fUpFVTiwgJD9CHGoyPqIMA066makGwhzvZFrAoosKPUjuHBal-UKSusI9vY9S1Vrhjk2qJi1U2JmsTGwz1rGTMzGddKN_Y-rkjRO-owmVSqGVqh7efZjAPTLDWncZHyYPHoYvtvYTsLvdzMN7LsHC8lOogb6cdMA1GSJVl-RH8P9DSReBReBOwm5xO-PWSZrt-m6JzBALJj-Yk6ObdIentKaNvmeRHLeMy4egJGcAcSWK85XpLZGarchunkmbTkgXSzwr36TL7-PUeLc7bMtl-5ked9oWTuHQinH72vNoC7IPAa0qMtKqWKl-UuU6GeeHEWvufKBsZaFeWxCjt4KIMuBGYik1S8-saGpnvwt98aDKAcgrCOqWosi8aSsSABKgl1cy1lYXN0LTIwyQU.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title="TWITCH",Latino Kids TV 
 
+
 
 
 
