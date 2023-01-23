@@ -5206,7 +5206,7 @@ http://animezonetv.net/hls/stream.m3u8
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Aniplus Arg" tvg-id="Aniplus Arg" tvg-logo="https://i.imgur.com/z780GyN.png" group-title="NIÑOS Y JOVENES",AnimeStation | Argentina
-https://stream.xdlive.org/aniplustvla.m3u8
+https://stream.ichibantv.ga:3741/live/aniplustvlive.m3u8
 
 #EXTINF:-1 tvg-id="Aniplus" tvg-name="Aniplus" tvg-logo="https://i.imgur.com/vJs4WmR.png" group-title="NIÑOS Y JOVENES",Aniplus HD | Asia
 http://210.210.155.35/dr9445/h/h02/index.m3u8
@@ -5215,13 +5215,13 @@ http://210.210.155.35/dr9445/h/h02/index.m3u8
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/40126
 
 #EXTINF:-1 tvg-id="Bit Me" tvg-name="Bit Me" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/bitme.png" group-title="NIÑOS Y JOVENES",Bit Me | México
-http://flash.shortgod.com/hellmit/tv8.php?id=214670
+http://vip.shortgod.com/viva/tv8.php?id=214670
 
 #EXTINF:-1 tvg-id="Boing Espana" tvg-name="Boing Espana" tvg-logo="https://imagenes.gatotv.com/logos/canales/boing_espana-mediano.png" group-title="NIÑOS Y JOVENES",Boing | España
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/38096
 
 #EXTINF:-1 tvg-id="Boing Espana" tvg-name="Boing Espana" tvg-logo="https://imagenes.gatotv.com/logos/canales/boing_espana-mediano.png" group-title="NIÑOS Y JOVENES",Boing | España
-http://flash.shortgod.com/hellmit/tv8.php?id=187043
+http://vip.shortgod.com/viva/tv8.php?id=187043
 
 #EXTINF:-1 tvg-id="Boomerang Clasico" tvg-name="Boomerang Clasico" tvg-logo="https://i.imgur.com/V60dnOp.png" group-title="NIÑOS Y JOVENES",Boomerang Clasico | ND
 http://161.97.152.4:81/hls/boomerang.m3u8
@@ -5290,7 +5290,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/pla
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/38076
 
 #EXTINF:-1 tvg-id="Clan HD" tvg-name="Clan HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/clan_tve.png" group-title="NIÑOS Y JOVENES",Clan TVE | España
-http://flash.shortgod.com/hellmit/tv8.php?id=186971
+http://vip.shortgod.com/viva/tv8.php?id=186971
 
 #EXTINF:-1 tvg-id="Infantil TV" tvg-name="Infantil TV" tvg-logo="https://gebelutv.files.wordpress.com/2014/11/unnamed.png" group-title="NIÑOS Y JOVENES",Cloud Server Kids Tv | Chile
 https://videostreaming.cloudserverlatam.com/kids/kids/chunklist_w780109170.m3u8
@@ -5344,10 +5344,13 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-tres/playlist.m3u8
 https://stream.wifiexpert.cl/energeek/radio/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ETC TV" tvg-name="ETC TV" tvg-logo="https://i.imgur.com/QVC28lh.png" group-title="NIÑOS Y JOVENES",ETC TV | Chile
-http://flash.shortgod.com/hellmit/tv5.php?id=18612
+http://vip.shortgod.com/viva/tv5.php?id=18612
 
 #EXTINF:-1 tvg-id="ETC TV" tvg-name="ETC TV" tvg-logo="https://i.imgur.com/QVC28lh.png" group-title="NIÑOS Y JOVENES",ETC TV | Chile
 http://magmas5.com:8000/live/malotv/gratis/4822.m3u8
+
+#EXTINF:-1 tvg-id="ETC TV" tvg-name="ETC TV" tvg-logo="https://i.imgur.com/QVC28lh.png" group-title="NIÑOS Y JOVENES",ETC TV | Chile
+http://51.222.25.50:25461/6jf7HC5cNa/m0nk3yn3w/544
 
 #EXTINF:-1 tvg-id="Fox Kids" tvg-name="Fox Kids" tvg-logo="https://i.postimg.cc/Z518Hwrr/FOX-Kids-logo.png" group-title="NIÑOS Y JOVENES",Fox Kids | Peru
 
@@ -5524,7 +5527,7 @@ https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2701&live=1&avod=1&cb=[CACHEBUSTER]&app_bundle=[APP_BUNDLE]&app_name=[APP_NAME]&app_domain=[APP_DOMAIN]&app_version=[APP_VERSION]&app_category=[APP_CATEGORY]&app_store_url=[APP_STORE_URL]&hls_marker=1&pod_duration=[POD_DURATION]&ua=[%UA%]&ip=[IP]&min_ad_duration=6&max_ad_duration=120?is_lat=[LIMITED_AD_TRACKING]&player_width=[WIDTH]&player_height=[HEIGHT]&ua=[%UA%]&ip=[IP]&cb=[CACHEBUSTER]&hls_marker=1&app_version=[APP_VERSION]&app_store_url=[APP_STORE_URL]&app_name=[APP_NAME]&app_domain=[APP_DOMAIN]&app_category=[APP_CATEGORY]&did=[DID]&app_bundle=[APP_BUNDLE]&network_id=2701&live=1&avod=1&stream_url=https%3A%2F%2Fb81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com%2Fv1%2Fchannel%2FZAZ_Linear%2Findex-zaz-linear.m3u8
 
 #EXTINF:-1 tvg-id="A3Cine" tvg-name="A3Cine" tvg-logo="https://cdn.mitvstatic.com/channels/ar_a3cine_m.png" group-title="CINE",A3Cine | España
-http://flash.shortgod.com/hellmit/tv8.php?id=173391
+http://vip.shortgod.com/viva/tv8.php?id=173391
 
 #EXTINF:-1 tvg-id="A3Cine" tvg-name="A3Cine" tvg-logo="https://cdn.mitvstatic.com/channels/ar_a3cine_m.png" group-title="CINE",A3Cine | España
 http://user.tvcluboficial.com/stream/web/play/945.m3u8
@@ -5560,7 +5563,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/7
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master_4.m3u8
 
 #EXTINF:-1 tvg-id="DePelicula(Spanish).us" tvg-name="DePelicula(Spanish).us" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula.png" group-title="CINE",De Pelicula | Estados Unidos
-http://flash.shortgod.com/hellmit/tv8.php?id=173413
+http://vip.shortgod.com/viva/tv8.php?id=173413
 
 #EXTINF:-1 tvg-id="De Pelicula" tvg-name="De Pelicula" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula.png" group-title="CINE",De Pelicula | Mexico
 
@@ -5679,7 +5682,7 @@ https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/chunklist_w190857
 http://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w1603184235.m3u8
 
 #EXTINF:-1 tvg-id="13 de Chile" tvg-name="13 de Chile" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_chile.png" group-title="FAMILIARES",Canal 13 | Chile
-http://flash.shortgod.com/hellmit/tv5.php?id=38540
+http://vip.shortgod.com/viva/tv5.php?id=38540
 
 #EXTINF:-1 tvg-id="74 de Chile" tvg-name="74 de Chile" tvg-logo="https://i.imgur.com/AgUx16i.png" group-title="FAMILIARES",Canal 74 TV | Chile
 https://stmv1.zcasthn.com.br/canal74hd/canal74hd/playlist.m3u8
@@ -5688,13 +5691,16 @@ https://stmv1.zcasthn.com.br/canal74hd/canal74hd/playlist.m3u8
 https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Caracol TV" tvg-name="Caracol TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/caracol_colombia.png" group-title="FAMILIARES",Caracol TV | Colombia
-http://flash.shortgod.com/hellmit/tv5.php?id=38551
+http://vip.shortgod.com/viva/tv5.php?id=38551
 
 #EXTINF:-1 tvg-id="Caracol TV" tvg-name="Caracol TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/caracol_colombia.png" group-title="FAMILIARES",Caracol TV | Colombia
 http://51.222.25.50:25461/xJ9WnKH7Fr/LbxUu9wGVS/62
 
 #EXTINF:-1 tvg-id="Caracola TV" tvg-name="Caracola TV" tvg-logo="https://www.caracolatv.cl/wp-content/uploads/2021/12/logo-296x300.jpg" group-title="FAMILIARES",Caracola TV | Chile
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Chilevision" tvg-name="Chilevision" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/chilevision.png" group-title="FAMILIARES",Chilevision | Chile
+http://51.222.25.50:25461/6jf7HC5cNa/m0nk3yn3w/543
 
 #EXTINF:-1 tvg-id="Chilevision" tvg-name="Chilevision" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/chilevision.png" group-title="FAMILIARES",Chilevision | Chile
 https://wifispeed.trapemn.tv:1936/comunal/playlist.m3u8
@@ -5705,11 +5711,14 @@ http://x3iptv.com:8090/argfabianayala2167/blWR5QdG1d/2360
 #EXTINF:-1 tvg-id="Comedy Central MX" tvg-name="Comedy Central Mexico" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/comedy_central_latinoamerica.png" group-title="FAMILIARES",Comedy Central | México
 http://magmas5.com:8000/live/malotv/gratis/3845.m3u8
 
+#EXTINF:-1 tvg-id="Comedy Central MX" tvg-name="Comedy Central Mexico" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/comedy_central_latinoamerica.png" group-title="FAMILIARES",Comedy Central | México
+http://vip.shortgod.com/viva/tv5.php?id=30319
+
 #EXTINF:-1 tvg-id="Distrito Comedia" tvg-name="Distrito Comedia" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/distrito_comedia.png" group-title="FAMILIARES",Distrito Comedia | México
 http://tv5full.xyz:25461/APLICACIONrestream/FY1AX39CL3/88222
 
 #EXTINF:-1 tvg-id="Distrito Comedia" tvg-name="Distrito Comedia" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/distrito_comedia.png" group-title="FAMILIARES",Distrito Comedia | México
-http://flash.shortgod.com/hellmit/tv8.php?id=181861
+http://vip.shortgod.com/viva/tv8.php?id=181861
 
 #EXTINF:-1 tvg-id="Distrito Comedia" tvg-name="Distrito Comedia" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/distrito_comedia.png" group-title="FAMILIARES",Distrito Comedia | México
 http://user.tvcluboficial.com/stream/web/play/32.m3u8
@@ -5739,7 +5748,7 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061328?checkedby:iptvcat.m3u8
 https://list.iptvcat.com/my_list/s/a58500be888ce971261764351b9e4aaa.m3u8
 
 #EXTINF:-1 tvg-id="Europa Europa" tvg-name="Europa Europa" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/europa_europa.png" group-title="FAMILIARES",Europa Europa
-http://flash.shortgod.com/hellmit/tv8.php?id=173420
+http://vip.shortgod.com/viva/tv8.php?id=173420
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i2.paste.pics/20f4f7278dc7ab118f657d93da43474d.png" group-title="FAMILIARES",EvaStream TV | Chile
 https://mediacpstreamchile.com:1936/evavision/evavision/playlist.m3u8
@@ -5748,7 +5757,7 @@ https://mediacpstreamchile.com:1936/evavision/evavision/playlist.m3u8
 https://inliveserver.com:1936/14056/14056/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Glitz" tvg-name="Glitz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png" group-title="FAMILIARES",Glitz | Argentina
-http://flash.shortgod.com/hellmit/tv8.php?id=181863
+http://vip.shortgod.com/viva/tv8.php?id=181863
 
 #EXTINF:-1 tvg-id="Glitz" tvg-name="Glitz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png" group-title="FAMILIARES",Glitz | Argentina
 http://51.222.25.50:25461/T3XgaLFVJb/cWNfRm6qAP/114
@@ -5851,7 +5860,7 @@ https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/12366
 
 #EXTINF:-1 tvg-id="TLNovelas MX" tvg-name="TLNovelas MX" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlnovelas.png" group-title="FAMILIARES",TL Novelas | Mexico
-http://flash.shortgod.com/hellmit/tv8.php?id=181871
+http://vip.shortgod.com/viva/tv8.php?id=181871
 
 #EXTINF:-1 tvg-id="TLNovelas MX" tvg-name="TLNovelas MX" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tlnovelas.png" group-title="FAMILIARES",TL Novelas | Mexico
 http://user.tvcluboficial.com/stream/web/play/94.m3u8
@@ -7666,924 +7675,7 @@ https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
 https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="DEPORTES-LMS",Unknown 13
-http://210.210.155.35/uq2663/h/h05/index.m3u8
-
-
-#EXTINF:-1 group-title="24/7",EL CHAVO ANIMADO 24-7
-http://flash.shortgod.com/hellmit/tv5.php?id=12023
-#EXTINF:-1 group-title="24/7",24/7 | El Chavo Animado
-http://flash.shortgod.com/hellmit/tv6.php?id=169030
-#EXTINF:-1 group-title="24/7",24/7 Peppa Pig Temporada 1 y 2
-http://flash.shortgod.com/hellmit/tv6.php?id=168954
-#EXTINF:-1 group-title="24/7",24/7 ALF
-http://flash.shortgod.com/hellmit/tv6.php?id=168890
-#EXTINF:-1 group-title="24/7",24/7 La Reina del Flow
-http://flash.shortgod.com/hellmit/tv6.php?id=142353
-#EXTINF:-1 group-title="24/7",24/7 Transformers
-http://flash.shortgod.com/hellmit/tv6.php?id=129000
-#EXTINF:-1 group-title="24/7",24/7 Pablo Escobar, el patr�n del mal
-http://flash.shortgod.com/hellmit/tv6.php?id=128999
-#EXTINF:-1 group-title="24/7",24/7 Los Tres Chiflados
-http://flash.shortgod.com/hellmit/tv6.php?id=124210
-#EXTINF:-1 group-title="24/7",24/7 Digimon Adventure
-http://flash.shortgod.com/hellmit/tv6.php?id=115338
-#EXTINF:-1 group-title="24/7",24/7 El Auto fant�stico
-http://flash.shortgod.com/hellmit/tv6.php?id=115337
-#EXTINF:-1 group-title="24/7",24/7 Los ping�inos de Madagascar
-http://flash.shortgod.com/hellmit/tv6.php?id=115330
-#EXTINF:-1 group-title="24/7",24/7 MacGyver
-http://flash.shortgod.com/hellmit/tv6.php?id=115328
-#EXTINF:-1 group-title="24/7",24/7  Los a�os maravillosos
-http://flash.shortgod.com/hellmit/tv6.php?id=115237
-#EXTINF:-1 group-title="24/7",24/7 Los Tudor
-http://flash.shortgod.com/hellmit/tv6.php?id=112351
-#EXTINF:-1 group-title="24/7",24/7 Los simuladores
-http://flash.shortgod.com/hellmit/tv6.php?id=112350
-#EXTINF:-1 group-title="24/7",24/7 La venganza de Anal�a
-http://flash.shortgod.com/hellmit/tv6.php?id=112347
-#EXTINF:-1 group-title="24/7",24/7 Krypton
-http://flash.shortgod.com/hellmit/tv6.php?id=112346
-#EXTINF:-1 group-title="24/7",24/7 JoJo's Bizarre Adventure: Stardust Crusaders
-http://flash.shortgod.com/hellmit/tv6.php?id=112344
-#EXTINF:-1 group-title="24/7",24/7 Homeland
-http://flash.shortgod.com/hellmit/tv6.php?id=112341
-#EXTINF:-1 group-title="24/7",24/7 El Dragon El Regreso De Un Guerrero
-http://flash.shortgod.com/hellmit/tv6.php?id=112339
-#EXTINF:-1 group-title="24/7",24/7 One Punch Man
-http://flash.shortgod.com/hellmit/tv6.php?id=112337
-#EXTINF:-1 group-title="24/7",24/7 Una familia de diez
-http://flash.shortgod.com/hellmit/tv6.php?id=108271
-#EXTINF:-1 group-title="24/7",24/7 Die Hart
-http://flash.shortgod.com/hellmit/tv6.php?id=106057
-#EXTINF:-1 group-title="24/7",24/7 Dark Angel
-http://flash.shortgod.com/hellmit/tv6.php?id=106056
-#EXTINF:-1 group-title="24/7",24/7 Control Z
-http://flash.shortgod.com/hellmit/tv6.php?id=106055
-#EXTINF:-1 group-title="24/7",24/7 El payaso Plim Plim, un h�roe del coraz�n
-http://flash.shortgod.com/hellmit/tv6.php?id=106052
-#EXTINF:-1 group-title="24/7",24/7 Yo soy Betty, la fea
-http://flash.shortgod.com/hellmit/tv6.php?id=100383
-#EXTINF:-1 group-title="24/7",24/7 La isla de Gilligan
-http://flash.shortgod.com/hellmit/tv6.php?id=100275
-#EXTINF:-1 group-title="24/7",24/7 Cobra Kai
-http://flash.shortgod.com/hellmit/tv6.php?id=100272
-#EXTINF:-1 group-title="24/7",24/7 Vis a vis
-http://flash.shortgod.com/hellmit/tv6.php?id=100229
-#EXTINF:-1 group-title="24/7",24/7 One Piece
-http://flash.shortgod.com/hellmit/tv6.php?id=100228
-#EXTINF:-1 group-title="24/7",24/7 VIP | Los Simpsons S20 a S30  (e)(720)
-http://flash.shortgod.com/hellmit/tv6.php?id=193953
-#EXTINF:-1 group-title="24/7",24/7  CAILLOU
-http://flash.shortgod.com/hellmit/tv6.php?id=206403
-#EXTINF:-1 group-title="24/7",24/7  CORAJE EL PERRO COBARDE
-http://flash.shortgod.com/hellmit/tv6.php?id=206404
-#EXTINF:-1 group-title="24/7",24/7  CUENTRO GREEM
-http://flash.shortgod.com/hellmit/tv6.php?id=206405
-#EXTINF:-1 group-title="24/7",24/7  DINOSAURIOS 1991
-http://flash.shortgod.com/hellmit/tv6.php?id=206406
-#EXTINF:-1 group-title="24/7",24/7  DRAGON BALL 1984
-http://flash.shortgod.com/hellmit/tv6.php?id=206407
-#EXTINF:-1 group-title="24/7",24/7  LOS SIMPSON
-http://flash.shortgod.com/hellmit/tv6.php?id=206408
-#EXTINF:-1 group-title="24/7",24/7  SOUTH PARK
-http://flash.shortgod.com/hellmit/tv6.php?id=206409
-#EXTINF:-1 group-title="24/7",24/7  THE WALKING DEAD
-http://flash.shortgod.com/hellmit/tv6.php?id=206410
-#EXTINF:-1 group-title="24/7",24/7 A�OS MARAVILLOSOS 1988
-http://flash.shortgod.com/hellmit/tv6.php?id=206412
-#EXTINF:-1 group-title="24/7",24/7 BARNY Y SUS AMIGOS
-http://flash.shortgod.com/hellmit/tv6.php?id=206413
-#EXTINF:-1 group-title="24/7",24/7 BATMAN 1966 RETRO
-http://flash.shortgod.com/hellmit/tv6.php?id=206414
-#EXTINF:-1 group-title="24/7",24/7 BATMAN ANIMADO 1992
-http://flash.shortgod.com/hellmit/tv6.php?id=206415
-#EXTINF:-1 group-title="24/7",24/7 BOB ESPONJA
-http://flash.shortgod.com/hellmit/tv6.php?id=206416
-#EXTINF:-1 group-title="24/7",24/7 BREAKING  BAD
-http://flash.shortgod.com/hellmit/tv6.php?id=206417
-#EXTINF:-1 group-title="24/7",24/7 CANTINFLAS
-http://flash.shortgod.com/hellmit/tv6.php?id=206419
-#EXTINF:-1 group-title="24/7",24/7 CASO CERRADO
-http://flash.shortgod.com/hellmit/tv6.php?id=206421
-#EXTINF:-1 group-title="24/7",24/7 CSI: MIAMI
-http://flash.shortgod.com/hellmit/tv6.php?id=206422
-#EXTINF:-1 group-title="24/7",24/7 Death note
-http://flash.shortgod.com/hellmit/tv6.php?id=206423
-#EXTINF:-1 group-title="24/7",24/7 Dog el cazarrecompensas
-http://flash.shortgod.com/hellmit/tv6.php?id=206425
-#EXTINF:-1 group-title="24/7",24/7 DON GATO Y SU PANDILLA
-http://flash.shortgod.com/hellmit/tv6.php?id=206426
-#EXTINF:-1 group-title="24/7",24/7 DRAGON BALL GT 1996
-http://flash.shortgod.com/hellmit/tv6.php?id=206427
-#EXTINF:-1 group-title="24/7",24/7 DRAGON BALL SUPER
-http://flash.shortgod.com/hellmit/tv6.php?id=206428
-#EXTINF:-1 group-title="24/7",24/7 DRAGON BALL Z 1989
-http://flash.shortgod.com/hellmit/tv6.php?id=206429
-#EXTINF:-1 group-title="24/7",24/7 El Avisp�n Verde
-http://flash.shortgod.com/hellmit/tv6.php?id=206430
-#EXTINF:-1 group-title="24/7",24/7 EL CHAPULIN COLORADO
-http://flash.shortgod.com/hellmit/tv6.php?id=206431
-#EXTINF:-1 group-title="24/7",24/7 EL CHAVO DEL 8
-http://flash.shortgod.com/hellmit/tv6.php?id=206432
-#EXTINF:-1 group-title="24/7",24/7 EL CHEMA
-http://flash.shortgod.com/hellmit/tv6.php?id=206433
-#EXTINF:-1 group-title="24/7",24/7 EL COYOTE Y CORRE CAMINOS
-http://flash.shortgod.com/hellmit/tv6.php?id=206434
-#EXTINF:-1 group-title="24/7",24/7 EL PATRON DEL MAL
-http://flash.shortgod.com/hellmit/tv6.php?id=206435
-#EXTINF:-1 group-title="24/7",24/7 EL SE�OR DE LOS CIELOS
-http://flash.shortgod.com/hellmit/tv6.php?id=206436
-#EXTINF:-1 group-title="24/7",24/7 FUTURAMA 1999
-http://flash.shortgod.com/hellmit/tv6.php?id=206437
-#EXTINF:-1 group-title="24/7",24/7 HAPPY TREE FRIENDS
-http://flash.shortgod.com/hellmit/tv6.php?id=206438
-#EXTINF:-1 group-title="24/7",24/7 He-Man
-http://flash.shortgod.com/hellmit/tv6.php?id=206439
-#EXTINF:-1 group-title="24/7",24/7 H�ROES EN PIJAMAS
-http://flash.shortgod.com/hellmit/tv6.php?id=206440
-#EXTINF:-1 group-title="24/7",24/7 JUEGO DE TRONOS
-http://flash.shortgod.com/hellmit/tv6.php?id=206441
-#EXTINF:-1 group-title="24/7",24/7 LA CASA DE PAPEL
-http://flash.shortgod.com/hellmit/tv6.php?id=206442
-#EXTINF:-1 group-title="24/7",24/7 LA FAMILIA MONSTERS 1964
-http://flash.shortgod.com/hellmit/tv6.php?id=206443
-#EXTINF:-1 group-title="24/7",24/7 LA HORA PICO
-http://flash.shortgod.com/hellmit/tv6.php?id=206444
-#EXTINF:-1 group-title="24/7",24/7 LA PANTERA ROSA
-http://flash.shortgod.com/hellmit/tv6.php?id=206446
-#EXTINF:-1 group-title="24/7",24/7 LA RISA EN VACIONES
-http://flash.shortgod.com/hellmit/tv6.php?id=206447
-#EXTINF:-1 group-title="24/7",24/7 LA ROSA DE GUADALUPE
-http://flash.shortgod.com/hellmit/tv6.php?id=206448
-#EXTINF:-1 group-title="24/7",24/7 LE TEMES ALA OSCURIDAD
-http://flash.shortgod.com/hellmit/tv6.php?id=206450
-#EXTINF:-1 group-title="24/7",24/7 LOS LOCOS ADDAMS
-http://flash.shortgod.com/hellmit/tv6.php?id=206451
-#EXTINF:-1 group-title="24/7",24/7 LOS PICA PIEDRAS
-http://flash.shortgod.com/hellmit/tv6.php?id=206452
-#EXTINF:-1 group-title="24/7",24/7 LUIS MIGUEL LA SERIE 2018
-http://flash.shortgod.com/hellmit/tv6.php?id=206453
-#EXTINF:-1 group-title="24/7",24/7 Mazinger Z
-http://flash.shortgod.com/hellmit/tv6.php?id=206456
-#EXTINF:-1 group-title="24/7",24/7 MR BEAN
-http://flash.shortgod.com/hellmit/tv6.php?id=206457
-#EXTINF:-1 group-title="24/7",24/7 Naruto
-http://flash.shortgod.com/hellmit/tv6.php?id=206458
-#EXTINF:-1 group-title="24/7",24/7 Peliculas de terror
-http://flash.shortgod.com/hellmit/tv6.php?id=206460
-#EXTINF:-1 group-title="24/7",24/7 PINKY y CEREBRO
-http://flash.shortgod.com/hellmit/tv6.php?id=206463
-#EXTINF:-1 group-title="24/7",24/7 POWER RANGERS
-http://flash.shortgod.com/hellmit/tv6.php?id=206465
-#EXTINF:-1 group-title="24/7",24/7 Ranma  -�
-http://flash.shortgod.com/hellmit/tv6.php?id=206466
-#EXTINF:-1 group-title="24/7",24/7 ROBOTECH
-http://flash.shortgod.com/hellmit/tv6.php?id=206467
-#EXTINF:-1 group-title="24/7",24/7 SAILOR MOON
-http://flash.shortgod.com/hellmit/tv6.php?id=206468
-#EXTINF:-1 group-title="24/7",24/7 Shark Tank M�xico TEP 2
-http://flash.shortgod.com/hellmit/tv6.php?id=206470
-#EXTINF:-1 group-title="24/7",24/7 SHERA
-http://flash.shortgod.com/hellmit/tv6.php?id=206471
-#EXTINF:-1 group-title="24/7",24/7 SMALLVILLE
-http://flash.shortgod.com/hellmit/tv6.php?id=206472
-#EXTINF:-1 group-title="24/7",24/7 SPIDER-MAN
-http://flash.shortgod.com/hellmit/tv6.php?id=206473
-#EXTINF:-1 group-title="24/7",24/7 STRANGER THINGS
-http://flash.shortgod.com/hellmit/tv6.php?id=206474
-#EXTINF:-1 group-title="24/7",24/7 SUPER CAMPEONES
-http://flash.shortgod.com/hellmit/tv6.php?id=206475
-#EXTINF:-1 group-title="24/7",24/7 THUNDERCAST
-http://flash.shortgod.com/hellmit/tv6.php?id=206476
-#EXTINF:-1 group-title="24/7",24/7 Wipeout
-http://flash.shortgod.com/hellmit/tv6.php?id=206477
-#EXTINF:-1 group-title="24/7",24/7 XMEN ANIME
-http://flash.shortgod.com/hellmit/tv6.php?id=206478
-#EXTINF:-1 group-title="24/7",24/7Lucha Libre AAA Worldwide*
-http://flash.shortgod.com/hellmit/tv6.php?id=206480
-#EXTINF:-1 group-title="24/7",24/7 | Pel�culas infantiles
-http://flash.shortgod.com/hellmit/tv6.php?id=206821
-#EXTINF:-1 group-title="24/7",24/7 | Pel�culas de animaci�n
-http://flash.shortgod.com/hellmit/tv6.php?id=206822
-#EXTINF:-1 group-title="24/7",24/7 | Basado en Hechos Reales
-http://flash.shortgod.com/hellmit/tv6.php?id=206824
-#EXTINF:-1 group-title="24/7",24/7 | The Hangover (ES)
-http://flash.shortgod.com/hellmit/tv6.php?id=206825
-#EXTINF:-1 group-title="24/7",24/7 | Chespirito
-http://flash.shortgod.com/hellmit/tv6.php?id=206826
-#EXTINF:-1 group-title="24/7",24/7 | The Walking Dead
-http://flash.shortgod.com/hellmit/tv6.php?id=206827
-#EXTINF:-1 group-title="24/7",24/7 | Los Pinguinos de madagascar
-http://flash.shortgod.com/hellmit/tv6.php?id=206828
-#EXTINF:-1 group-title="24/7",24/7 | Malcolm in the Middle
-http://flash.shortgod.com/hellmit/tv6.php?id=206829
-#EXTINF:-1 group-title="24/7",24/7 | Two and a Half Men
-http://flash.shortgod.com/hellmit/tv6.php?id=206830
-#EXTINF:-1 group-title="24/7",24/7 | The Big Bang Theory
-http://flash.shortgod.com/hellmit/tv6.php?id=206831
-#EXTINF:-1 group-title="24/7",24/7 | chernobyl (ES)
-http://flash.shortgod.com/hellmit/tv6.php?id=206833
-#EXTINF:-1 group-title="24/7",24/7 | RAPIDOS Y FURIOSOS
-http://flash.shortgod.com/hellmit/tv6.php?id=206836
-#EXTINF:-1 group-title="24/7",24/7 | SPARTACUS
-http://flash.shortgod.com/hellmit/tv6.php?id=206837
-#EXTINF:-1 group-title="24/7",24/7 | SAW (ES)
-http://flash.shortgod.com/hellmit/tv6.php?id=206838
-#EXTINF:-1 group-title="24/7",24/7 | JOHN WICK
-http://flash.shortgod.com/hellmit/tv6.php?id=206839
-#EXTINF:-1 group-title="24/7",24/7 | TOY STORY
-http://flash.shortgod.com/hellmit/tv6.php?id=206841
-#EXTINF:-1 group-title="24/7",24/7 | Los originales
-http://flash.shortgod.com/hellmit/tv6.php?id=206842
-#EXTINF:-1 group-title="24/7",24/7 | La Purga
-http://flash.shortgod.com/hellmit/tv6.php?id=206843
-#EXTINF:-1 group-title="24/7",24/7 | JURASSIC PARK
-http://flash.shortgod.com/hellmit/tv6.php?id=206844
-#EXTINF:-1 group-title="24/7",24/7 | Saga X-MEN
-http://flash.shortgod.com/hellmit/tv6.php?id=206845
-#EXTINF:-1 group-title="24/7",24/7 | Chespirito
-http://flash.shortgod.com/hellmit/tv6.php?id=206846
-#EXTINF:-1 group-title="24/7",24/7 | El Principel del Rap
-http://flash.shortgod.com/hellmit/tv6.php?id=206847
-#EXTINF:-1 group-title="24/7",24/7 | Games of Thrones
-http://flash.shortgod.com/hellmit/tv6.php?id=206848
-#EXTINF:-1 group-title="24/7",24/7 | Smallville
-http://flash.shortgod.com/hellmit/tv6.php?id=206849
-#EXTINF:-1 group-title="24/7",24/7 | The Big Bang Theory
-http://flash.shortgod.com/hellmit/tv6.php?id=206850
-#EXTINF:-1 group-title="24/7",24/7 | RESIDENT EVIL (ES)
-http://flash.shortgod.com/hellmit/tv6.php?id=206851
-#EXTINF:-1 group-title="24/7",24/7 | El Chavo del Ocho
-http://flash.shortgod.com/hellmit/tv6.php?id=206852
-#EXTINF:-1 group-title="24/7",24/7 | Better Call Saul (ES)
-http://flash.shortgod.com/hellmit/tv6.php?id=206853
-#EXTINF:-1 group-title="24/7",24/7 | Spider-Man  (ES)
-http://flash.shortgod.com/hellmit/tv6.php?id=206854
-#EXTINF:-1 group-title="24/7",24/7 | Saga Transformers (ES)
-http://flash.shortgod.com/hellmit/tv6.php?id=206857
-#EXTINF:-1 group-title="24/7",24/7 | La familia P. Luche
-http://flash.shortgod.com/hellmit/tv6.php?id=206860
-#EXTINF:-1 group-title="24/7",24/7 | Pel�culas de Romance
-http://flash.shortgod.com/hellmit/tv6.php?id=206861
-#EXTINF:-1 group-title="24/7",24/7 | iCarly ( ES)
-http://flash.shortgod.com/hellmit/tv6.php?id=206862
-#EXTINF:-1 group-title="24/7",24/7 | Los magos de Waverly Place
-http://flash.shortgod.com/hellmit/tv6.php?id=206863
-#EXTINF:-1 group-title="24/7",24/7 | El cuento de la criada
-http://flash.shortgod.com/hellmit/tv6.php?id=206864
-#EXTINF:-1 group-title="24/7",24/7 | Star Trek: Picard
-http://flash.shortgod.com/hellmit/tv6.php?id=206865
-#EXTINF:-1 group-title="24/7",24/7 | Curon
-http://flash.shortgod.com/hellmit/tv6.php?id=206866
-#EXTINF:-1 group-title="24/7",24/7 | Sam y Cat
-http://flash.shortgod.com/hellmit/tv6.php?id=206867
-#EXTINF:-1 group-title="24/7",24/7 | Kenan & Kel
-http://flash.shortgod.com/hellmit/tv6.php?id=206868
-#EXTINF:-1 group-title="24/7",24/7 | Hannah Montana
-http://flash.shortgod.com/hellmit/tv6.php?id=206869
-#EXTINF:-1 group-title="24/7",24/7 | Into the Badlands
-http://flash.shortgod.com/hellmit/tv6.php?id=206871
-#EXTINF:-1 group-title="24/7",24/7 | Warrior (ES)
-http://flash.shortgod.com/hellmit/tv6.php?id=206872
-#EXTINF:-1 group-title="24/7",24/7 | Hollywood
-http://flash.shortgod.com/hellmit/tv6.php?id=206873
-#EXTINF:-1 group-title="24/7",24/7 | Space Force
-http://flash.shortgod.com/hellmit/tv6.php?id=206874
-#EXTINF:-1 group-title="24/7",24/7 | Historia de un crimen: La b�squeda
-http://flash.shortgod.com/hellmit/tv6.php?id=206875
-#EXTINF:-1 group-title="24/7",24/7 | Peppa Pig
-http://flash.shortgod.com/hellmit/tv6.php?id=206877
-#EXTINF:-1 group-title="24/7",24/7 | Los misterios de Moville
-http://flash.shortgod.com/hellmit/tv6.php?id=206881
-#EXTINF:-1 group-title="24/7",24/7 | Billy y Mandy (ES)
-http://flash.shortgod.com/hellmit/tv6.php?id=206882
-#EXTINF:-1 group-title="24/7",24/7 | CANTINFLAS (M)
-http://flash.shortgod.com/hellmit/tv6.php?id=206884
-#EXTINF:-1 group-title="24/7",24/7 | Dragon ball GT (M)
-http://flash.shortgod.com/hellmit/tv6.php?id=206885
-#EXTINF:-1 group-title="24/7",24/7 | Dragon Ball Super
-http://flash.shortgod.com/hellmit/tv6.php?id=206886
-#EXTINF:-1 group-title="24/7",24/7 | Scooby-Doo (p)(1080)
-http://flash.shortgod.com/hellmit/tv6.php?id=206887
-#EXTINF:-1 group-title="24/7",24/7 | Los Picapiedra
-http://flash.shortgod.com/hellmit/tv6.php?id=206888
-#EXTINF:-1 group-title="24/7",24/7 | Tom y Jerry
-http://flash.shortgod.com/hellmit/tv6.php?id=206889
-#EXTINF:-1 group-title="24/7",24/7 | Teen Titans Go
-http://flash.shortgod.com/hellmit/tv6.php?id=206890
-#EXTINF:-1 group-title="24/7",24/7 | Ben 10
-http://flash.shortgod.com/hellmit/tv6.php?id=206891
-#EXTINF:-1 group-title="24/7",24/7 | La Peque�a LuLu
-http://flash.shortgod.com/hellmit/tv6.php?id=206892
-#EXTINF:-1 group-title="24/7",24/7 | Garfield
-http://flash.shortgod.com/hellmit/tv6.php?id=206893
-#EXTINF:-1 group-title="24/7",24/7 | Infantiles
-http://flash.shortgod.com/hellmit/tv6.php?id=206894
-#EXTINF:-1 group-title="24/7",24/7 | Los Picapiedra
-http://flash.shortgod.com/hellmit/tv6.php?id=206895
-#EXTINF:-1 group-title="24/7",24/7 | Ranma 1/2
-http://flash.shortgod.com/hellmit/tv6.php?id=206896
-#EXTINF:-1 group-title="24/7",24/7 | Street Sharks
-http://flash.shortgod.com/hellmit/tv6.php?id=206897
-#EXTINF:-1 group-title="24/7",24/7 | El proyecto Z
-http://flash.shortgod.com/hellmit/tv6.php?id=206898
-#EXTINF:-1 group-title="24/7",24/7 | Los 4 Fant�sticos
-http://flash.shortgod.com/hellmit/tv6.php?id=206899
-#EXTINF:-1 group-title="24/7",24/7 | Static Shock
-http://flash.shortgod.com/hellmit/tv6.php?id=206900
-#EXTINF:-1 group-title="24/7",24/7 | Gravity Falls (ES)
-http://flash.shortgod.com/hellmit/tv6.php?id=206901
-#EXTINF:-1 group-title="24/7",24/7 | El Chapulin Colorado Animado (p)(480)
-http://flash.shortgod.com/hellmit/tv6.php?id=206902
-#EXTINF:-1 group-title="24/7",24/7 VIP | Avatar La Leyenda de Aang (e)(720)
-http://flash.shortgod.com/hellmit/tv6.php?id=206911
-#EXTINF:-1 group-title="24/7",24/7 VIP | Basado en Hechos Reales (e)(720)
-http://flash.shortgod.com/hellmit/tv6.php?id=206915
-#EXTINF:-1 group-title="24/7",24/7 VIP | Batman (e)(1080)
-#EXTINF:-1 group-title="24/7",24/7 VIP | Batman La Serie Animada (e)
-#EXTINF:-1 group-title="24/7",24/7 VIP | Ben 10 Alien Force (e)(SD)
-#EXTINF:-1 group-title="24/7",24/7 VIP | BeyBlade (e)
-#EXTINF:-1 group-title="24/7",24/7 VIP | Bob Esponja (e)
-#EXTINF:-1 group-title="24/7",24/7 VIP | Breaking Bad (e)(720)
-#EXTINF:-1 group-title="24/7",24/7 VIP | Buffy La Cazavampiros (e)(720)
-http://flash.shortgod.com/hellmit/tv6.php?id=206925
-#EXTINF:-1 group-title="24/7",24/7 VIP | Caballeros del Zodiaco (e)(720)
-#EXTINF:-1 group-title="24/7",24/7 VIP | Cabalozos y Dragones (e)(SD)
-#EXTINF:-1 group-title="24/7",24/7 VIP | Candy Candy (e)
-#EXTINF:-1 group-title="24/7",24/7 VIP | Capitan Planeta (e)(SD)
-#EXTINF:-1 group-title="24/7",24/7 VIP | Casado con hijos (e)(SD)
-#EXTINF:-1 group-title="24/7",24/7 VIP | Chicago P.D (e)(720)
-#EXTINF:-1 group-title="24/7",24/7 VIP | Chip N Dale (e) (720) (e)
-#EXTINF:-1 group-title="24/7",24/7 VIP | CienciaFiccion (e)(1080)
-#EXTINF:-1 group-title="24/7",24/7 VIP | Comedia (e)(1080)
-#EXTINF:-1 group-title="24/7",24/7 VIP | Comedia Sangrienta (e)(1080)
-#EXTINF:-1 group-title="24/7",24/7 VIP | Conan el Ni�o del Futuro (e)(720)
-#EXTINF:-1 group-title="24/7",24/7 VIP | Coraje El Perro Cobarde (e)
-#EXTINF:-1 group-title="24/7",24/7 VIP | Corazon Salvaje (e)(SD)
-#EXTINF:-1 group-title="24/7",24/7 VIP | Crimen (e)(1080)
-#EXTINF:-1 group-title="24/7",24/7 VIP | Cuna de lobos (e)(SD)
-#EXTINF:-1 group-title="24/7",24/7 VIP | Daria (e)(720)
-#EXTINF:-1 group-title="24/7",24/7 VIP | DC Comics Peliculas (e)(720)
-http://flash.shortgod.com/hellmit/tv6.php?id=206949
-#EXTINF:-1 group-title="24/7",24/7 VIP | DC Comics Series (e)(720)
-#EXTINF:-1 group-title="24/7",24/7 VIP | DC Lego (e)(720)
-#EXTINF:-1 group-title="24/7",24/7 VIP | DC Leyendas Del Ma�ana (e)(720)
-#EXTINF:-1 group-title="24/7",24/7 VIP | Death Note (e)(720)
-http://flash.shortgod.com/hellmit/tv6.php?id=206953
-#EXTINF:-1 group-title="24/7",24/7 VIP | Denver The Last dinosaur (e)
-#EXTINF:-1 group-title="24/7",24/7 VIP | Detective Conan (e)(SD)
-#EXTINF:-1 group-title="24/7",24/7 VIP | Dexter (e)(720)
-#EXTINF:-1 group-title="24/7",24/7 VIP | Diarios De Vampiros (e)(720)
-#EXTINF:-1 group-title="24/7",24/7 VIP | Digimon (e)(720)
-#EXTINF:-1 group-title="24/7",24/7 VIP | Don Gato y su Pandilla (e)
-http://flash.shortgod.com/hellmit/tv6.php?id=206962
-#EXTINF:-1 group-title="24/7",24/7 VIP | Dragon Ball (e)
-http://flash.shortgod.com/hellmit/tv6.php?id=206966
-#EXTINF:-1 group-title="24/7",24/7 VIP | Dragon Ball GT (e)
-http://flash.shortgod.com/hellmit/tv6.php?id=206967
-#EXTINF:-1 group-title="24/7",24/7 VIP | Dragon Ball Super (e)(720)
-http://flash.shortgod.com/hellmit/tv6.php?id=206968
-#EXTINF:-1 group-title="24/7",24/7 VIP | Dragon Ball Z - Saga Cell (e)(720)
-http://flash.shortgod.com/hellmit/tv6.php?id=206969
-#EXTINF:-1 group-title="24/7",24/7 VIP | Dragon Ball Z - Saga de Freezer (e)(720)
-http://flash.shortgod.com/hellmit/tv6.php?id=206970
-#EXTINF:-1 group-title="24/7",24/7 VIP | Dragon Quest Las aventuras de Fly (e)(SD)
-http://flash.shortgod.com/hellmit/tv6.php?id=206972
-#EXTINF:-1 group-title="24/7",24/7 VIP | Drama (e)(720)
-http://flash.shortgod.com/hellmit/tv6.php?id=206974
-#EXTINF:-1 group-title="24/7",24/7 VIP | Droopy El gran detective (e)(SD)
-http://flash.shortgod.com/hellmit/tv6.php?id=206975
-#EXTINF:-1 group-title="24/7",24/7 VIP | Ed, Edd y Eddy (e)(SD)
-http://flash.shortgod.com/hellmit/tv6.php?id=206977
-#EXTINF:-1 group-title="24/7",24/7 VIP | El Auto Fantastico (e)(SD)
-http://flash.shortgod.com/hellmit/tv6.php?id=206978
-#EXTINF:-1 group-title="24/7",24/7 VIP | El Buen Doctor  (e)(720)
-http://flash.shortgod.com/hellmit/tv6.php?id=206979
-#EXTINF:-1 group-title="24/7",24/7 VIP | El Conde Patula (e)
-http://flash.shortgod.com/hellmit/tv6.php?id=206982
-#EXTINF:-1 group-title="24/7",24/7 VIP | El hombre de los seis millones de d�lares (e)(SD)
-http://flash.shortgod.com/hellmit/tv6.php?id=206983
-#EXTINF:-1 group-title="24/7",24/7 VIP | El loco mundo de Tex Avery (e)(SD)
-http://flash.shortgod.com/hellmit/tv6.php?id=206984
-#EXTINF:-1 group-title="24/7",24/7 VIP | El nuevo show del P�jaro Loco (e)
-http://flash.shortgod.com/hellmit/tv6.php?id=206985
-#EXTINF:-1 group-title="24/7",24/7 VIP | El Principe del Rap (e)(720)
-http://flash.shortgod.com/hellmit/tv6.php?id=206986
-#EXTINF:-1 group-title="24/7",24/7 VIP | En Busca del Valle Encantado (e) (1080)
-http://flash.shortgod.com/hellmit/tv6.php?id=206988
-#EXTINF:-1 group-title="24/7",24/7 VIP | Erase Una Vez (e)(720)
-http://flash.shortgod.com/hellmit/tv6.php?id=206989
-#EXTINF:-1 group-title="24/7",24/7 EBS Kids EN
-http://flash.shortgod.com/hellmit/tv7.php?id=1108
-#EXTINF:-1 group-title="24/7",24/7 peppa pig
-http://flash.shortgod.com/hellmit/tv7.php?id=1110
-#EXTINF:-1 group-title="24/7",24/7 ROBOTECH
-http://flash.shortgod.com/hellmit/tv7.php?id=2922
-#EXTINF:-1 group-title="24/7",24/7 DINOSAURIOS
-http://flash.shortgod.com/hellmit/tv7.php?id=2924
-#EXTINF:-1 group-title="24/7",24/7 Dragon Ball z
-http://flash.shortgod.com/hellmit/tv7.php?id=2926
-#EXTINF:-1 group-title="24/7",24/7 POKEMON
-http://flash.shortgod.com/hellmit/tv7.php?id=2928
-#EXTINF:-1 group-title="24/7",24/7 EL PRINCIPE DEL RAP
-http://flash.shortgod.com/hellmit/tv7.php?id=2929
-#EXTINF:-1 group-title="24/7",24/7 | The Big Bang Theory
-http://flash.shortgod.com/hellmit/tv7.php?id=2931
-#EXTINF:-1 group-title="24/7",24/7 NARUTO
-http://flash.shortgod.com/hellmit/tv7.php?id=2939
-#EXTINF:-1 group-title="24/7",24/7 CABALLEROS DEL SODIACO
-http://flash.shortgod.com/hellmit/tv7.php?id=2941
-#EXTINF:-1 group-title="24/7",24/7 MASINGERZ
-http://flash.shortgod.com/hellmit/tv7.php?id=2942
-#EXTINF:-1 group-title="24/7",24/7 SUPER CAMPEONES
-http://flash.shortgod.com/hellmit/tv7.php?id=2943
-#EXTINF:-1 group-title="24/7",24/7 BOB ESPONJA
-http://flash.shortgod.com/hellmit/tv7.php?id=2946
-#EXTINF:-1 group-title="24/7",24/7 MALCOLM
-http://flash.shortgod.com/hellmit/tv7.php?id=2947
-#EXTINF:-1 group-title="24/7",24/7 MOUNSTROS DE VERDAD
-http://flash.shortgod.com/hellmit/tv7.php?id=2978
-#EXTINF:-1 group-title="24/7",24/7 CAR | Escandalosos 1 HD
-http://flash.shortgod.com/hellmit/tv7.php?id=3530
-#EXTINF:-1 group-title="24/7",24/7 CAR | El Show de Garfield
-http://flash.shortgod.com/hellmit/tv7.php?id=3532
-#EXTINF:-1 group-title="24/7",24/7 South Park
-http://flash.shortgod.com/hellmit/tv7.php?id=3533
-#EXTINF:-1 group-title="24/7",24/7 CAR | Tim�n y Pumba
-http://flash.shortgod.com/hellmit/tv7.php?id=3535
-#EXTINF:-1 group-title="24/7",24/7 CAR | Un Show Mas
-http://flash.shortgod.com/hellmit/tv7.php?id=3536
-#EXTINF:-1 group-title="24/7",24/7 CAR | Winnie The Pooh
-http://flash.shortgod.com/hellmit/tv7.php?id=3537
-#EXTINF:-1 group-title="24/7",24/7 CAR | Rick y Morty
-http://flash.shortgod.com/hellmit/tv7.php?id=3539
-#EXTINF:-1 group-title="24/7",24/7 | El Chapul�n Colorado 
-http://flash.shortgod.com/hellmit/tv7.php?id=3542
-#EXTINF:-1 group-title="24/7",24/7 | ROSA DE GUADALUPE
-http://flash.shortgod.com/hellmit/tv7.php?id=3544
-#EXTINF:-1 group-title="24/7",24/7 CAR | Lilo & Stitch
-http://flash.shortgod.com/hellmit/tv7.php?id=3545
-#EXTINF:-1 group-title="24/7",24/7 CAR | Dinosaurios
-http://flash.shortgod.com/hellmit/tv7.php?id=3547
-#EXTINF:-1 group-title="24/7",24/7 CAR | Doraemon
-http://flash.shortgod.com/hellmit/tv7.php?id=3548
-#EXTINF:-1 group-title="24/7",24/7 CAR | Looney Tunes
-http://flash.shortgod.com/hellmit/tv7.php?id=3550
-#EXTINF:-1 group-title="24/7",NETFLIX LATINO 24 HD
-#EXTINF:-1 group-title="24/7",MEXICO | CANAL 24 NRT
-#EXTINF:-1 group-title="24/7",USA NEWS | News 24
-#EXTINF:-1 group-title="24/7",Novelas 24
-#EXTINF:-1 group-title="24/7",Cultura 24 HD (E)
-#EXTINF:-1 group-title="24/7",24/7 | El Chavo Animado
-http://flash.shortgod.com/hellmit/tv8.php?id=169030
-#EXTINF:-1 group-title="24/7",24/7 Peppa Pig Temporada 1 y 2
-http://flash.shortgod.com/hellmit/tv8.php?id=168954
-#EXTINF:-1 group-title="24/7",24/7 ALF
-http://flash.shortgod.com/hellmit/tv8.php?id=168890
-#EXTINF:-1 group-title="24/7",24/7 La Reina del Flow
-http://flash.shortgod.com/hellmit/tv8.php?id=142353
-#EXTINF:-1 group-title="24/7",24/7 Transformers
-http://flash.shortgod.com/hellmit/tv8.php?id=129000
-#EXTINF:-1 group-title="24/7",24/7 Pablo Escobar, el patr�n del mal
-http://flash.shortgod.com/hellmit/tv8.php?id=128999
-#EXTINF:-1 group-title="24/7",24/7 Los Tres Chiflados
-http://flash.shortgod.com/hellmit/tv8.php?id=124210
-#EXTINF:-1 group-title="24/7",24/7 Digimon Adventure
-http://flash.shortgod.com/hellmit/tv8.php?id=115338
-#EXTINF:-1 group-title="24/7",24/7 El Auto fant�stico
-http://flash.shortgod.com/hellmit/tv8.php?id=115337
-#EXTINF:-1 group-title="24/7",24/7 Los ping�inos de Madagascar
-http://flash.shortgod.com/hellmit/tv8.php?id=115330
-#EXTINF:-1 group-title="24/7",24/7 MacGyver
-http://flash.shortgod.com/hellmit/tv8.php?id=115328
-#EXTINF:-1 group-title="24/7",24/7  Los a�os maravillosos
-http://flash.shortgod.com/hellmit/tv8.php?id=115237
-#EXTINF:-1 group-title="24/7",24/7 Los Tudor
-http://flash.shortgod.com/hellmit/tv8.php?id=112351
-#EXTINF:-1 group-title="24/7",24/7 Los simuladores
-http://flash.shortgod.com/hellmit/tv8.php?id=112350
-#EXTINF:-1 group-title="24/7",24/7 La venganza de Anal�a
-http://flash.shortgod.com/hellmit/tv8.php?id=112347
-#EXTINF:-1 group-title="24/7",24/7 Krypton
-http://flash.shortgod.com/hellmit/tv8.php?id=112346
-#EXTINF:-1 group-title="24/7",24/7 JoJo's Bizarre Adventure: Stardust Crusaders
-http://flash.shortgod.com/hellmit/tv8.php?id=112344
-#EXTINF:-1 group-title="24/7",24/7 Homeland
-http://flash.shortgod.com/hellmit/tv8.php?id=112341
-#EXTINF:-1 group-title="24/7",24/7 El Dragon El Regreso De Un Guerrero
-http://flash.shortgod.com/hellmit/tv8.php?id=112339
-#EXTINF:-1 group-title="24/7",24/7 One Punch Man
-http://flash.shortgod.com/hellmit/tv8.php?id=112337
-#EXTINF:-1 group-title="24/7",24/7 Una familia de diez
-http://flash.shortgod.com/hellmit/tv8.php?id=108271
-#EXTINF:-1 group-title="24/7",24/7 Die Hart
-http://flash.shortgod.com/hellmit/tv8.php?id=106057
-#EXTINF:-1 group-title="24/7",24/7 Dark Angel
-http://flash.shortgod.com/hellmit/tv8.php?id=106056
-#EXTINF:-1 group-title="24/7",24/7 Control Z
-http://flash.shortgod.com/hellmit/tv8.php?id=106055
-#EXTINF:-1 group-title="24/7",24/7 El payaso Plim Plim, un h�roe del coraz�n
-http://flash.shortgod.com/hellmit/tv8.php?id=106052
-#EXTINF:-1 group-title="24/7",24/7 Yo soy Betty, la fea
-http://flash.shortgod.com/hellmit/tv8.php?id=100383
-#EXTINF:-1 group-title="24/7",24/7 La isla de Gilligan
-http://flash.shortgod.com/hellmit/tv8.php?id=100275
-#EXTINF:-1 group-title="24/7",24/7 Cobra Kai
-http://flash.shortgod.com/hellmit/tv8.php?id=100272
-#EXTINF:-1 group-title="24/7",24/7 Vis a vis
-http://flash.shortgod.com/hellmit/tv8.php?id=100229
-#EXTINF:-1 group-title="24/7",24/7 One Piece
-http://flash.shortgod.com/hellmit/tv8.php?id=100228
-#EXTINF:-1 group-title="24/7",24/7 VIP | Los Simpsons S20 a S30  (e)(720)
-http://flash.shortgod.com/hellmit/tv8.php?id=193953
-#EXTINF:-1 group-title="24/7",24/7  CAILLOU
-http://flash.shortgod.com/hellmit/tv8.php?id=206403
-#EXTINF:-1 group-title="24/7",24/7  CORAJE EL PERRO COBARDE
-http://flash.shortgod.com/hellmit/tv8.php?id=206404
-#EXTINF:-1 group-title="24/7",24/7  CUENTRO GREEM
-http://flash.shortgod.com/hellmit/tv8.php?id=206405
-#EXTINF:-1 group-title="24/7",24/7  DINOSAURIOS 1991
-http://flash.shortgod.com/hellmit/tv8.php?id=206406
-#EXTINF:-1 group-title="24/7",24/7  DRAGON BALL 1984
-http://flash.shortgod.com/hellmit/tv8.php?id=206407
-#EXTINF:-1 group-title="24/7",24/7  LOS SIMPSON
-http://flash.shortgod.com/hellmit/tv8.php?id=206408
-#EXTINF:-1 group-title="24/7",24/7  SOUTH PARK
-http://flash.shortgod.com/hellmit/tv8.php?id=206409
-#EXTINF:-1 group-title="24/7",24/7  THE WALKING DEAD
-http://flash.shortgod.com/hellmit/tv8.php?id=206410
-#EXTINF:-1 group-title="24/7",24/7 A�OS MARAVILLOSOS 1988
-http://flash.shortgod.com/hellmit/tv8.php?id=206412
-#EXTINF:-1 group-title="24/7",24/7 BARNY Y SUS AMIGOS
-http://flash.shortgod.com/hellmit/tv8.php?id=206413
-#EXTINF:-1 group-title="24/7",24/7 BATMAN 1966 RETRO
-http://flash.shortgod.com/hellmit/tv8.php?id=206414
-#EXTINF:-1 group-title="24/7",24/7 BATMAN ANIMADO 1992
-http://flash.shortgod.com/hellmit/tv8.php?id=206415
-#EXTINF:-1 group-title="24/7",24/7 BOB ESPONJA
-http://flash.shortgod.com/hellmit/tv8.php?id=206416
-#EXTINF:-1 group-title="24/7",24/7 BREAKING  BAD
-http://flash.shortgod.com/hellmit/tv8.php?id=206417
-#EXTINF:-1 group-title="24/7",24/7 CANTINFLAS
-http://flash.shortgod.com/hellmit/tv8.php?id=206419
-#EXTINF:-1 group-title="24/7",24/7 CASO CERRADO
-http://flash.shortgod.com/hellmit/tv8.php?id=206421
-#EXTINF:-1 group-title="24/7",24/7 CSI: MIAMI
-http://flash.shortgod.com/hellmit/tv8.php?id=206422
-#EXTINF:-1 group-title="24/7",24/7 Death note
-http://flash.shortgod.com/hellmit/tv8.php?id=206423
-#EXTINF:-1 group-title="24/7",24/7 Dog el cazarrecompensas
-http://flash.shortgod.com/hellmit/tv8.php?id=206425
-#EXTINF:-1 group-title="24/7",24/7 DON GATO Y SU PANDILLA
-http://flash.shortgod.com/hellmit/tv8.php?id=206426
-#EXTINF:-1 group-title="24/7",24/7 DRAGON BALL GT 1996
-http://flash.shortgod.com/hellmit/tv8.php?id=206427
-#EXTINF:-1 group-title="24/7",24/7 DRAGON BALL SUPER
-http://flash.shortgod.com/hellmit/tv8.php?id=206428
-#EXTINF:-1 group-title="24/7",24/7 DRAGON BALL Z 1989
-http://flash.shortgod.com/hellmit/tv8.php?id=206429
-#EXTINF:-1 group-title="24/7",24/7 El Avisp�n Verde
-http://flash.shortgod.com/hellmit/tv8.php?id=206430
-#EXTINF:-1 group-title="24/7",24/7 EL CHAPULIN COLORADO
-http://flash.shortgod.com/hellmit/tv8.php?id=206431
-#EXTINF:-1 group-title="24/7",24/7 EL CHAVO DEL 8
-http://flash.shortgod.com/hellmit/tv8.php?id=206432
-#EXTINF:-1 group-title="24/7",24/7 EL CHEMA
-http://flash.shortgod.com/hellmit/tv8.php?id=206433
-#EXTINF:-1 group-title="24/7",24/7 EL COYOTE Y CORRE CAMINOS
-http://flash.shortgod.com/hellmit/tv8.php?id=206434
-#EXTINF:-1 group-title="24/7",24/7 EL PATRON DEL MAL
-http://flash.shortgod.com/hellmit/tv8.php?id=206435
-#EXTINF:-1 group-title="24/7",24/7 EL SE�OR DE LOS CIELOS
-http://flash.shortgod.com/hellmit/tv8.php?id=206436
-#EXTINF:-1 group-title="24/7",24/7 FUTURAMA 1999
-http://flash.shortgod.com/hellmit/tv8.php?id=206437
-#EXTINF:-1 group-title="24/7",24/7 HAPPY TREE FRIENDS
-http://flash.shortgod.com/hellmit/tv8.php?id=206438
-#EXTINF:-1 group-title="24/7",24/7 He-Man
-http://flash.shortgod.com/hellmit/tv8.php?id=206439
-#EXTINF:-1 group-title="24/7",24/7 H�ROES EN PIJAMAS
-http://flash.shortgod.com/hellmit/tv8.php?id=206440
-#EXTINF:-1 group-title="24/7",24/7 JUEGO DE TRONOS
-http://flash.shortgod.com/hellmit/tv8.php?id=206441
-#EXTINF:-1 group-title="24/7",24/7 LA CASA DE PAPEL
-http://flash.shortgod.com/hellmit/tv8.php?id=206442
-#EXTINF:-1 group-title="24/7",24/7 LA FAMILIA MONSTERS 1964
-http://flash.shortgod.com/hellmit/tv8.php?id=206443
-#EXTINF:-1 group-title="24/7",24/7 LA HORA PICO
-http://flash.shortgod.com/hellmit/tv8.php?id=206444
-#EXTINF:-1 group-title="24/7",24/7 LA PANTERA ROSA
-http://flash.shortgod.com/hellmit/tv8.php?id=206446
-#EXTINF:-1 group-title="24/7",24/7 LA RISA EN VACIONES
-http://flash.shortgod.com/hellmit/tv8.php?id=206447
-#EXTINF:-1 group-title="24/7",24/7 LA ROSA DE GUADALUPE
-http://flash.shortgod.com/hellmit/tv8.php?id=206448
-#EXTINF:-1 group-title="24/7",24/7 LE TEMES ALA OSCURIDAD
-http://flash.shortgod.com/hellmit/tv8.php?id=206450
-#EXTINF:-1 group-title="24/7",24/7 LOS LOCOS ADDAMS
-http://flash.shortgod.com/hellmit/tv8.php?id=206451
-#EXTINF:-1 group-title="24/7",24/7 LOS PICA PIEDRAS
-http://flash.shortgod.com/hellmit/tv8.php?id=206452
-#EXTINF:-1 group-title="24/7",24/7 LUIS MIGUEL LA SERIE 2018
-http://flash.shortgod.com/hellmit/tv8.php?id=206453
-#EXTINF:-1 group-title="24/7",24/7 Mazinger Z
-http://flash.shortgod.com/hellmit/tv8.php?id=206456
-#EXTINF:-1 group-title="24/7",24/7 MR BEAN
-http://flash.shortgod.com/hellmit/tv8.php?id=206457
-#EXTINF:-1 group-title="24/7",24/7 Naruto
-http://flash.shortgod.com/hellmit/tv8.php?id=206458
-#EXTINF:-1 group-title="24/7",24/7 Peliculas de terror
-http://flash.shortgod.com/hellmit/tv8.php?id=206460
-#EXTINF:-1 group-title="24/7",24/7 PINKY y CEREBRO
-http://flash.shortgod.com/hellmit/tv8.php?id=206463
-#EXTINF:-1 group-title="24/7",24/7 POWER RANGERS
-http://flash.shortgod.com/hellmit/tv8.php?id=206465
-#EXTINF:-1 group-title="24/7",24/7 Ranma  -�
-http://flash.shortgod.com/hellmit/tv8.php?id=206466
-#EXTINF:-1 group-title="24/7",24/7 ROBOTECH
-http://flash.shortgod.com/hellmit/tv8.php?id=206467
-#EXTINF:-1 group-title="24/7",24/7 SAILOR MOON
-http://flash.shortgod.com/hellmit/tv8.php?id=206468
-#EXTINF:-1 group-title="24/7",24/7 Shark Tank M�xico TEP 2
-http://flash.shortgod.com/hellmit/tv8.php?id=206470
-#EXTINF:-1 group-title="24/7",24/7 SHERA
-http://flash.shortgod.com/hellmit/tv8.php?id=206471
-#EXTINF:-1 group-title="24/7",24/7 SMALLVILLE
-http://flash.shortgod.com/hellmit/tv8.php?id=206472
-#EXTINF:-1 group-title="24/7",24/7 SPIDER-MAN
-http://flash.shortgod.com/hellmit/tv8.php?id=206473
-#EXTINF:-1 group-title="24/7",24/7 STRANGER THINGS
-http://flash.shortgod.com/hellmit/tv8.php?id=206474
-#EXTINF:-1 group-title="24/7",24/7 SUPER CAMPEONES
-http://flash.shortgod.com/hellmit/tv8.php?id=206475
-#EXTINF:-1 group-title="24/7",24/7 THUNDERCAST
-http://flash.shortgod.com/hellmit/tv8.php?id=206476
-#EXTINF:-1 group-title="24/7",24/7 Wipeout
-http://flash.shortgod.com/hellmit/tv8.php?id=206477
-#EXTINF:-1 group-title="24/7",24/7 XMEN ANIME
-http://flash.shortgod.com/hellmit/tv8.php?id=206478
-#EXTINF:-1 group-title="24/7",24/7Lucha Libre AAA Worldwide*
-http://flash.shortgod.com/hellmit/tv8.php?id=206480
-#EXTINF:-1 group-title="24/7",24/7 | Pel�culas infantiles
-http://flash.shortgod.com/hellmit/tv8.php?id=206821
-#EXTINF:-1 group-title="24/7",24/7 | Pel�culas de animaci�n
-http://flash.shortgod.com/hellmit/tv8.php?id=206822
-#EXTINF:-1 group-title="24/7",24/7 | Basado en Hechos Reales
-http://flash.shortgod.com/hellmit/tv8.php?id=206824
-#EXTINF:-1 group-title="24/7",24/7 | The Hangover (ES)
-http://flash.shortgod.com/hellmit/tv8.php?id=206825
-#EXTINF:-1 group-title="24/7",24/7 | Chespirito
-http://flash.shortgod.com/hellmit/tv8.php?id=206826
-#EXTINF:-1 group-title="24/7",24/7 | The Walking Dead
-http://flash.shortgod.com/hellmit/tv8.php?id=206827
-#EXTINF:-1 group-title="24/7",24/7 | Los Pinguinos de madagascar
-http://flash.shortgod.com/hellmit/tv8.php?id=206828
-#EXTINF:-1 group-title="24/7",24/7 | Malcolm in the Middle
-http://flash.shortgod.com/hellmit/tv8.php?id=206829
-#EXTINF:-1 group-title="24/7",24/7 | Two and a Half Men
-http://flash.shortgod.com/hellmit/tv8.php?id=206830
-#EXTINF:-1 group-title="24/7",24/7 | The Big Bang Theory
-http://flash.shortgod.com/hellmit/tv8.php?id=206831
-#EXTINF:-1 group-title="24/7",24/7 | chernobyl (ES)
-http://flash.shortgod.com/hellmit/tv8.php?id=206833
-#EXTINF:-1 group-title="24/7",24/7 | RAPIDOS Y FURIOSOS
-http://flash.shortgod.com/hellmit/tv8.php?id=206836
-#EXTINF:-1 group-title="24/7",24/7 | SPARTACUS
-http://flash.shortgod.com/hellmit/tv8.php?id=206837
-#EXTINF:-1 group-title="24/7",24/7 | SAW (ES)
-http://flash.shortgod.com/hellmit/tv8.php?id=206838
-#EXTINF:-1 group-title="24/7",24/7 | JOHN WICK
-http://flash.shortgod.com/hellmit/tv8.php?id=206839
-#EXTINF:-1 group-title="24/7",24/7 | TOY STORY
-http://flash.shortgod.com/hellmit/tv8.php?id=206841
-#EXTINF:-1 group-title="24/7",24/7 | Los originales
-http://flash.shortgod.com/hellmit/tv8.php?id=206842
-#EXTINF:-1 group-title="24/7",24/7 | La Purga
-http://flash.shortgod.com/hellmit/tv8.php?id=206843
-#EXTINF:-1 group-title="24/7",24/7 | JURASSIC PARK
-http://flash.shortgod.com/hellmit/tv8.php?id=206844
-#EXTINF:-1 group-title="24/7",24/7 | Saga X-MEN
-http://flash.shortgod.com/hellmit/tv8.php?id=206845
-#EXTINF:-1 group-title="24/7",24/7 | Chespirito
-http://flash.shortgod.com/hellmit/tv8.php?id=206846
-#EXTINF:-1 group-title="24/7",24/7 | El Principel del Rap
-http://flash.shortgod.com/hellmit/tv8.php?id=206847
-#EXTINF:-1 group-title="24/7",24/7 | Games of Thrones
-http://flash.shortgod.com/hellmit/tv8.php?id=206848
-#EXTINF:-1 group-title="24/7",24/7 | Smallville
-http://flash.shortgod.com/hellmit/tv8.php?id=206849
-#EXTINF:-1 group-title="24/7",24/7 | The Big Bang Theory
-http://flash.shortgod.com/hellmit/tv8.php?id=206850
-#EXTINF:-1 group-title="24/7",24/7 | RESIDENT EVIL (ES)
-http://flash.shortgod.com/hellmit/tv8.php?id=206851
-#EXTINF:-1 group-title="24/7",24/7 | El Chavo del Ocho
-http://flash.shortgod.com/hellmit/tv8.php?id=206852
-#EXTINF:-1 group-title="24/7",24/7 | Better Call Saul (ES)
-http://flash.shortgod.com/hellmit/tv8.php?id=206853
-#EXTINF:-1 group-title="24/7",24/7 | Spider-Man  (ES)
-http://flash.shortgod.com/hellmit/tv8.php?id=206854
-#EXTINF:-1 group-title="24/7",24/7 | Saga Transformers (ES)
-http://flash.shortgod.com/hellmit/tv8.php?id=206857
-#EXTINF:-1 group-title="24/7",24/7 | La familia P. Luche
-http://flash.shortgod.com/hellmit/tv8.php?id=206860
-#EXTINF:-1 group-title="24/7",24/7 | Pel�culas de Romance
-http://flash.shortgod.com/hellmit/tv8.php?id=206861
-#EXTINF:-1 group-title="24/7",24/7 | iCarly ( ES)
-http://flash.shortgod.com/hellmit/tv8.php?id=206862
-#EXTINF:-1 group-title="24/7",24/7 | Los magos de Waverly Place
-http://flash.shortgod.com/hellmit/tv8.php?id=206863
-#EXTINF:-1 group-title="24/7",24/7 | El cuento de la criada
-http://flash.shortgod.com/hellmit/tv8.php?id=206864
-#EXTINF:-1 group-title="24/7",24/7 | Star Trek: Picard
-http://flash.shortgod.com/hellmit/tv8.php?id=206865
-#EXTINF:-1 group-title="24/7",24/7 | Curon
-http://flash.shortgod.com/hellmit/tv8.php?id=206866
-#EXTINF:-1 group-title="24/7",24/7 | Sam y Cat
-http://flash.shortgod.com/hellmit/tv8.php?id=206867
-#EXTINF:-1 group-title="24/7",24/7 | Kenan & Kel
-http://flash.shortgod.com/hellmit/tv8.php?id=206868
-#EXTINF:-1 group-title="24/7",24/7 | Hannah Montana
-http://flash.shortgod.com/hellmit/tv8.php?id=206869
-#EXTINF:-1 group-title="24/7",24/7 | Into the Badlands
-http://flash.shortgod.com/hellmit/tv8.php?id=206871
-#EXTINF:-1 group-title="24/7",24/7 | Warrior (ES)
-http://flash.shortgod.com/hellmit/tv8.php?id=206872
-#EXTINF:-1 group-title="24/7",24/7 | Hollywood
-http://flash.shortgod.com/hellmit/tv8.php?id=206873
-#EXTINF:-1 group-title="24/7",24/7 | Space Force
-http://flash.shortgod.com/hellmit/tv8.php?id=206874
-#EXTINF:-1 group-title="24/7",24/7 | Historia de un crimen: La b�squeda
-http://flash.shortgod.com/hellmit/tv8.php?id=206875
-#EXTINF:-1 group-title="24/7",24/7 | Peppa Pig
-http://flash.shortgod.com/hellmit/tv8.php?id=206877
-#EXTINF:-1 group-title="24/7",24/7 | Los misterios de Moville
-http://flash.shortgod.com/hellmit/tv8.php?id=206881
-#EXTINF:-1 group-title="24/7",24/7 | Billy y Mandy (ES)
-http://flash.shortgod.com/hellmit/tv8.php?id=206882
-#EXTINF:-1 group-title="24/7",24/7 | CANTINFLAS (M)
-http://flash.shortgod.com/hellmit/tv8.php?id=206884
-#EXTINF:-1 group-title="24/7",24/7 | Dragon ball GT (M)
-http://flash.shortgod.com/hellmit/tv8.php?id=206885
-#EXTINF:-1 group-title="24/7",24/7 | Dragon Ball Super
-http://flash.shortgod.com/hellmit/tv8.php?id=206886
-#EXTINF:-1 group-title="24/7",24/7 | Scooby-Doo (p)(1080)
-http://flash.shortgod.com/hellmit/tv8.php?id=206887
-#EXTINF:-1 group-title="24/7",24/7 | Los Picapiedra
-http://flash.shortgod.com/hellmit/tv8.php?id=206888
-#EXTINF:-1 group-title="24/7",24/7 | Tom y Jerry
-http://flash.shortgod.com/hellmit/tv8.php?id=206889
-#EXTINF:-1 group-title="24/7",24/7 | Teen Titans Go
-http://flash.shortgod.com/hellmit/tv8.php?id=206890
-#EXTINF:-1 group-title="24/7",24/7 | Ben 10
-http://flash.shortgod.com/hellmit/tv8.php?id=206891
-#EXTINF:-1 group-title="24/7",24/7 | La Peque�a LuLu
-http://flash.shortgod.com/hellmit/tv8.php?id=206892
-#EXTINF:-1 group-title="24/7",24/7 | Garfield
-http://flash.shortgod.com/hellmit/tv8.php?id=206893
-#EXTINF:-1 group-title="24/7",24/7 | Infantiles
-http://flash.shortgod.com/hellmit/tv8.php?id=206894
-#EXTINF:-1 group-title="24/7",24/7 | Los Picapiedra
-http://flash.shortgod.com/hellmit/tv8.php?id=206895
-#EXTINF:-1 group-title="24/7",24/7 | Ranma 1/2
-http://flash.shortgod.com/hellmit/tv8.php?id=206896
-#EXTINF:-1 group-title="24/7",24/7 | Street Sharks
-http://flash.shortgod.com/hellmit/tv8.php?id=206897
-#EXTINF:-1 group-title="24/7",24/7 | El proyecto Z
-http://flash.shortgod.com/hellmit/tv8.php?id=206898
-#EXTINF:-1 group-title="24/7",24/7 | Los 4 Fant�sticos
-http://flash.shortgod.com/hellmit/tv8.php?id=206899
-#EXTINF:-1 group-title="24/7",24/7 | Static Shock
-http://flash.shortgod.com/hellmit/tv8.php?id=206900
-#EXTINF:-1 group-title="24/7",24/7 | Gravity Falls (ES)
-http://flash.shortgod.com/hellmit/tv8.php?id=206901
-#EXTINF:-1 group-title="24/7",24/7 | El Chapulin Colorado Animado (p)(480)
-http://flash.shortgod.com/hellmit/tv8.php?id=206902
-#EXTINF:-1 group-title="24/7",24/7 VIP | Alf (e)(SD)
-http://flash.shortgod.com/hellmit/tv8.php?id=206903
-#EXTINF:-1 group-title="24/7",24/7 VIP | Anatomia de Grey (e)(720)
-http://flash.shortgod.com/hellmit/tv8.php?id=206907
-#EXTINF:-1 group-title="24/7",24/7 VIP | Animaniacs (e)
-http://flash.shortgod.com/hellmit/tv8.php?id=206908
-#EXTINF:-1 group-title="24/7",24/7 VIP | Arrow (e)(720)
-http://flash.shortgod.com/hellmit/tv8.php?id=206910
-#EXTINF:-1 group-title="24/7",24/7 VIP | Avatar La Leyenda de Aang (e)(720)
-http://flash.shortgod.com/hellmit/tv8.php?id=206911
-#EXTINF:-1 group-title="24/7",24/7 VIP | Avenida Brasil (e)(SD)
-http://flash.shortgod.com/hellmit/tv8.php?id=206912
-#EXTINF:-1 group-title="24/7",24/7 VIP | Aventura (e)(1080)
-http://flash.shortgod.com/hellmit/tv8.php?id=206913
-#EXTINF:-1 group-title="24/7",24/7 VIP | Baron Rojo (e) (720) (e)
-http://flash.shortgod.com/hellmit/tv8.php?id=206914
-#EXTINF:-1 group-title="24/7",24/7 VIP | Basado en Hechos Reales (e)(720)
-http://flash.shortgod.com/hellmit/tv8.php?id=206915
-#EXTINF:-1 group-title="24/7",24/7 VIP | Batman (e)(1080)
-http://flash.shortgod.com/hellmit/tv8.php?id=206916
-#EXTINF:-1 group-title="24/7",24/7 VIP | Batman La Serie Animada (e)
-http://flash.shortgod.com/hellmit/tv8.php?id=206917
-#EXTINF:-1 group-title="24/7",24/7 VIP | Ben 10 Alien Force (e)(SD)
-http://flash.shortgod.com/hellmit/tv8.php?id=206919
-#EXTINF:-1 group-title="24/7",24/7 VIP | BeyBlade (e)
-http://flash.shortgod.com/hellmit/tv8.php?id=206920
-#EXTINF:-1 group-title="24/7",24/7 VIP | Bob Esponja (e)
-http://flash.shortgod.com/hellmit/tv8.php?id=206921
-#EXTINF:-1 group-title="24/7",24/7 VIP | Breaking Bad (e)(720)
-http://flash.shortgod.com/hellmit/tv8.php?id=206923
-#EXTINF:-1 group-title="24/7",24/7 VIP | Buffy La Cazavampiros (e)(720)
-http://flash.shortgod.com/hellmit/tv8.php?id=206925
-#EXTINF:-1 group-title="24/7",24/7 VIP | Caballeros del Zodiaco (e)(720)
-http://flash.shortgod.com/hellmit/tv8.php?id=206926
-#EXTINF:-1 group-title="24/7",24/7 VIP | Cabalozos y Dragones (e)(SD)
-http://flash.shortgod.com/hellmit/tv8.php?id=206928
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : TUDN" tvg-logo="" group-title="MUNDIAL",TUDN
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1030893
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : AZTECA 7" tvg-logo="" group-title="MUNDIAL",AZTECA 7
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1030704
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : DIRECTTV SPORT" tvg-logo="" group-title="MUNDIAL",DIRECTTV SPORT
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1030716
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : DIRECTTV SPORT 1" tvg-logo="" group-title="MUNDIAL",DIRECTTV SPORT 1
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1030717
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : DIRECTTV SPORT 2" tvg-logo="" group-title="MUNDIAL",DIRECTTV SPORT 2
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1030718
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : TELEMUNDO" tvg-logo="" group-title="MUNDIAL",TELEMUNDO
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1030797
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : TELEMUNDO INTERNATIONAL" tvg-logo="" group-title="MUNDIAL",TELEMUNDO INTERNATIONAL
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1030798
-#EXTINF:-1 tvg-id="" tvg-name="LATINO : TELEMUNDO WEST" tvg-logo="" group-title="MUNDIAL TELEMUNDO",TELEMUNDO WEST
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1030799
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: TELEMUNDO (KASA) SANTA FE NEW MEXICO" tvg-logo="" group-title="MUNDIAL TELEMUNDO",TELEMUNDO (KASA) SANTA FE NEW MEXICO
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1030819
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: TELEMUNDO (KBLR) PARADISE NEVADA" tvg-logo="" group-title="MUNDIAL TELEMUNDO",TELEMUNDO (KBLR) PARADISE NEVADA
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1030820
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: TELEMUNDO (KCSO) SACRAMENTO CALIFORNIA" tvg-logo="" group-title="MUNDIAL TELEMUNDO",TELEMUNDO (KCSO) SACRAMENTO CALIFORNIA
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1030821
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: TELEMUNDO (KDEN) LONGMONT COLORADO" tvg-logo="" group-title="MUNDIAL TELEMUNDO",TELEMUNDO (KDEN) LONGMONT COLORADO
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1030822
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: TELEMUNDO (KFBI) MEDFORD OREGON" tvg-logo="" group-title="MUNDIAL TELEMUNDO",TELEMUNDO (KFBI) MEDFORD OREGON
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1030823
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: TELEMUNDO (KFDY) LINCOLN NEBRASKA" tvg-logo="" group-title="MUNDIAL TELEMUNDO",TELEMUNDO (KFDY) LINCOLN NEBRASKA
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1030824
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: TELEMUNDO (KGLA) HAMMOND LOUISIANA" tvg-logo="" group-title="MUNDIAL TELEMUNDO",TELEMUNDO (KGLA) HAMMOND LOUISIANA
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1030825
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: TELEMUNDO (KHRR) TUCSON ARIZONA" tvg-logo="" group-title="MUNDIAL TELEMUNDO",TELEMUNDO (KHRR) TUCSON ARIZONA
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1030826
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: TELEMUNDO (KNSO) MERCED CALIFORNIA" tvg-logo="" group-title="MUNDIAL TELEMUNDO",TELEMUNDO (KNSO) MERCED CALIFORNIA
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1030827
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: TELEMUNDO (KSTS) SAN JOSE CALIFORNIA" tvg-logo="" group-title="MUNDIAL TELEMUNDO",TELEMUNDO (KSTS) SAN JOSE CALIFORNIA
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1030828
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: TELEMUNDO (KTAZ) PHOENIX ARIZONA" tvg-logo="" group-title="MUNDIAL TELEMUNDO",TELEMUNDO (KTAZ) PHOENIX ARIZONA
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1030829
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: TELEMUNDO (KTLM) RIO GRANDE CITY TEXAS" tvg-logo="" group-title="MUNDIAL TELEMUNDO",TELEMUNDO (KTLM) RIO GRANDE CITY TEXAS
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1030830
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: TELEMUNDO (KTMD) GALVESTON TEXAS" tvg-logo="" group-title="MUNDIAL TELEMUNDO",TELEMUNDO (KTMD) GALVESTON TEXAS
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1030831
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: TELEMUNDO (KTMW) SALT LAKE CITY UTAH" tvg-logo="" group-title="MUNDIAL TELEMUNDO",TELEMUNDO (KTMW) SALT LAKE CITY UTAH
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1030832
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: TELEMUNDO (KTUZ) SHAWNEE OKLAHOMA" tvg-logo="" group-title="MUNDIAL TELEMUNDO",TELEMUNDO (KTUZ) SHAWNEE OKLAHOMA
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1030833
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: TELEMUNDO (KUTU) TULSA OKLAHOMA" tvg-logo="" group-title="MUNDIAL TELEMUNDO",TELEMUNDO (KUTU) TULSA OKLAHOMA
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1030834
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: TELEMUNDO (KVDA) SAN ANTONIO TEXAS" tvg-logo="" group-title="MUNDIAL TELEMUNDO",TELEMUNDO (KVDA) SAN ANTONIO TEXAS
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1030835
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: TELEMUNDO (KVEA) CORONA CALIFORNIA" tvg-logo="" group-title="MUNDIAL TELEMUNDO",TELEMUNDO (KVEA) CORONA CALIFORNIA
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1030836
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: TELEMUNDO (KXTQ) LUBBOCK TEXAS" tvg-logo="" group-title="MUNDIAL TELEMUNDO",TELEMUNDO (KXTQ) LUBBOCK TEXAS
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1030837
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: TELEMUNDO (KXTX) DALLAS TEXAS" tvg-logo="" group-title="MUNDIAL TELEMUNDO",TELEMUNDO (KXTX) DALLAS TEXAS
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1030838
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: TELEMUNDO (WKTB) NORCROSS GEORGIA" tvg-logo="" group-title="MUNDIAL TELEMUNDO",TELEMUNDO (WKTB) NORCROSS GEORGIA
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1030839
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: TELEMUNDO (WNEU) MERRIMACK NEW HAMPSHIRE" tvg-logo="" group-title="MUNDIAL TELEMUNDO",TELEMUNDO (WNEU) MERRIMACK NEW HAMPSHIRE
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1030840
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: TELEMUNDO (WNJU) 47 NEW YORK" tvg-logo="" group-title="MUNDIAL TELEMUNDO",TELEMUNDO (WNJU) 47 NEW YORK
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1030841
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: TELEMUNDO (WNJU) LINDEN NEW JERSEY" tvg-logo="" group-title="MUNDIAL TELEMUNDO",TELEMUNDO (WNJU) LINDEN NEW JERSEY
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1030842
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: TELEMUNDO (WRDM) HARTFORD CONNECTICUT" tvg-logo="" group-title="MUNDIAL TELEMUNDO",TELEMUNDO (WRDM) HARTFORD CONNECTICUT
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1030843
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: TELEMUNDO (WRMD) TAMPA FLORIDA" tvg-logo="" group-title="MUNDIAL TELEMUNDO",TELEMUNDO (WRMD) TAMPA FLORIDA
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1030844
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: TELEMUNDO (WSCV) FORT LAUDERDALE FLORIDA" tvg-logo="" group-title="MUNDIAL TELEMUNDO",TELEMUNDO (WSCV) FORT LAUDERDALE FLORIDA
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1030845
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: TELEMUNDO (WSNS) CHICAGO ILLINOIS" tvg-logo="" group-title="MUNDIAL TELEMUNDO",TELEMUNDO (WSNS) CHICAGO ILLINOIS
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1030846
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: TELEMUNDO (WTMO) ORLANDO FLORIDA" tvg-logo="" group-title="MUNDIAL TELEMUNDO",TELEMUNDO (WTMO) ORLANDO FLORIDA
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1030847
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: TELEMUNDO (WWDT) NAPLES FLORIDA" tvg-logo="" group-title="MUNDIAL TELEMUNDO",TELEMUNDO (WWDT) NAPLES FLORIDA
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1030848
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: TELEMUNDO (WWSI) MOUNT LAUREL PENNSYLVANIA" tvg-logo="" group-title="MUNDIAL TELEMUNDO",TELEMUNDO (WWSI) MOUNT LAUREL PENNSYLVANIA
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1030849
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: TELEMUNDO (WZDC) WASHINGTON DC" tvg-logo="" group-title="MUNDIAL TELEMUNDO",TELEMUNDO (WZDC) WASHINGTON DC
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1030850
-#EXTINF:-1 tvg-id="" tvg-name="LATINO: TELEMUNDO 47 (KTMD) HOUSTON TEXAS" tvg-logo="" group-title="MUNDIAL TELEMUNDO",TELEMUNDO 47 (KTMD) HOUSTON TEXAS
-https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1030851
- 
+http://210.210.155.35/uq2663/h/h05/index.m3u8 
 #EXTINF:-1 tvg-id="Retro Magico" tvg-name="Retro Magico" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/2b903ff4-40ae-4b68-8726-53095a95cc89-profile_image-70x70.png" group-title="TWITCH",Retro Magico 
 #EXTINF:-1 tvg-id="Fox Kids" tvg-name="Fox Kids" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b66ecfa2-7963-4030-91ce-f8857c1f37eb-profile_image-70x70.png" group-title="TWITCH",Fox Kids 
 #EXTINF:-1 tvg-id="Cartoon Network Clasico" tvg-name="Cartoon Network Clasico" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/cb54da87-027e-4bde-9d50-63360bfc07f1-profile_image-70x70.png" group-title="TWITCH",Cartoon Network 
@@ -8594,13 +7686,14 @@ https://p2052.securepoint.io:443/SynTAxResHAredLinE35223/Hgt58CddH74D5/1030851
 #EXTINF:-1 tvg-id="Magic Kids OK" tvg-name="Magic Kids OK" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/54a36e12-3324-43cb-a3d5-ef84afce6471-profile_image-70x70.png" group-title="TWITCH",Magic Kids OK 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/867973dd-9cc8-49e4-ab5f-158681d0a516-profile_image-70x70.png" group-title="TWITCH",La Casa del Anime HD 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/f8b099e9-9c63-4ec2-910d-e40ddb911f1c-profile_image-70x70.png" group-title="TWITCH",Anime Live 
-https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CqoEyoTo0sjp0dx0tAzialBa2QJ4Pnls_hTr9sldB2tsjycawq6PE-Qf_m7043vDMNU-_wW0WPjX1nrPW2qn4dWksvSRocfMEWITN6OET_FZieQxN0wEVfEexfQCSdRcTXmLi8SMkSM86sfZG58AonmgYYsTz-DLN52Ho_GwrHuWFBelHSfA0DvjWHO7CRSoDW41iE1y9hbNUcVd30u1Z2hh45XlM54ysRkJ2eJilY125OhxvjWch8IRMT2-LugL1HwiAzY3Ux7RMAjxWY5xqiezPR934rw3t_2NNWAoVSeIGLhOGEq43mynL7wAO7vvaBWCwDI3iQcodG_4Xzs1OKlGptTd99txXoM1WhDhL6Za-6tqFmQZ2eSOLbo_L8SyuIYsYhuUpt3Z4hP_EghrP9-qy76X1WMphvRoScOSigZqVI8Ulz_EAKMvNU4_OBjaqbZLgbeKpgTwWI3dEku_CcbTOfm7Gn9ZYfi97vjw-yt2NzTi6_F7QG8dNwH_6uxmVP1v6Qc2vGRPzjXCRUmoPhkl6wrqWhjzFPBRfnTIuJtBcgNVyUwJuJS3GQHh7BPdjtU8rBr9IuUat_ol09C7fdLpsyleYCPti25xomK60Jm9zZq0d4_Y-ifkpxc3wT7EDLLEP1aybWjh2ZlMzwpeaxjXLZXmT0uTzDIJFwvKm36OOGjaIZ0k5gq-RQghspup8BUtapsUMdHQizAyz-LwO4SBaSqEq-I0ZPOeq6oaDOiU_N5-XZ8ye67YwSABKglldS13ZXN0LTIw1QU.m3u8 
+https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CqoEfyATS8uJu3SoYcjpOgclduK58BQOzAN3ysqM944_XYjOcIIMjaYQWcKF7s17vel_lOdUYyMlauSbwrYOSo9N9tlBOscXeVrlGn1xXG5arSspGfbqPS7fj0wTeCgL0jcTy3ZxAwr5BGtmF-1e53kCW0O4w-D28XUQ-7M0L6j9csQ_HRYM7nRxHrXSPLvi0UEf8_sywYrvanZlBNr_iAIO2ovk9eptLcyW_rfut9rRpWrAp_7hvhCjKE0k3BHYdke1-YDQEvJJJPMEyXGVA_gK3n4DFeXVRJtmUxbrj6nzm3oYU-mSQkJCkVVD8Wg6Q7HkqmzH_0Z_kt8H_eAsc-05BwA2UzN0NGOUA3ROAiZeuAqRRmw7B3vPq9Jb0-14chgR4ElHxICYp027OY-P5oOWi0N243h1rneLUU9seDEe2_UayLEga1JF-Q8gUxLJEGmR_UfewBavvzdrMkq9OhTMLtN1R_aMNQYGnF8vDzEJ67eTwf0r9leKsNhlAJNV6DGGCbxUIpZ9FdmCNXQhSnuCwFeG1prOOopnY6x6QfLvz0i-7YktTu8uh5JER_0GHL0wd1ScS5GNlRBKkKDW4hoqjJADluaMUGtAqIfMeAKCuea0KDkAerwGFnBe7Subb4tnErLqJirbTYLh1WgisGVed6cWw_NKhdgE-PnK--HQ9JDoixPjQfmLsU1AcYS-NQRMF85jP78MQkLafLJVUO2ZpFxJYK-ScwRa-okaDGmQ3EpAYWsPTUCT6SABKglldS13ZXN0LTIw2QU.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/0a5e3115-8e85-4f25-84e5-7656b9177443-profile_image-70x70.png" group-title="TWITCH",Anime Live Deluxe 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8af0c5e3-ce96-4b5f-8b3b-97e34e704a12-profile_image-70x70.jpeg" group-title="TWITCH",Locomotion Plus 
+https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CrEE4qo2sHueEJAnNDJSMB2SPI3s-SPAnapeDQqTo_5QGP5ydttSub3Yo0fF1XTzKG0UEFcfLn7OTzNX4pVkM0irIcVqZLtoI_awZe-xDVJE_iaW-GwlddmTwpG_YbiGwE4MOEYJbEcFKPe3s6xHuR3ejPaZadwQ5JkMwEmZhXf3o7jdvKPgggzMaJnzRXGRpYr7BxEbIjmrxmb4w7XzYpzPeoO4wzsd9wtzUphncjJgNODGcoWH5ZwTnY-X5zxFuh3Zksyy32EvoMU3OESgM4_DyCL3-bRATISVSJAcgBzuudM-vtYoWJfu6U4aDf1PK9JKKm8qBzeD_pvaBINifpAP7FBtAIxU3Rpe7KwZTq_lEJP6F3G8cA1NwD5EFD8r3u01Z5vyX2ND-HaekR4fbQFEYxLQ0GWDak0UV6KJtT4IcrRK5sXhrMfn4EGJblBjyY76z4-qxEmAHPtGhvF3YQeafXcFfMdAckQpohkbvxowVsAUcU2myn1cgVabwP61kzGsB8u3UiCANL0XyiVfbRXv8r2S6DibUEGMx3BSUZeJAVYQIzEUd6yIjQoq0UofyQLeacRicYJUfH6E381ctJAvHnvkP62p5jC-0tg6kJ1qYTs9yAInEzGzBhHxwT1jBmVZG3ReaDdVH_FyOObJy04zQjSIW6CnemrB2N2Qw2SCKBJ-j4bTqhh5Kx-qwgeyNHJucX5Xsrs0ANuyCdUXDc7E9XnRjuq63AQP_6n4yNe_Qh8RGgwPmIYec4Q2kKmuYjIgASoJdXMtZWFzdC0xMI4E.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/a98cf3c4-3670-4a14-8d1d-4d6a06d85300-profile_image-70x70.png" group-title="TWITCH",Japanimotion 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/fbd54a0c-ec4f-4ad8-829c-364f140cbe26-profile_image-70x70.png" group-title="TWITCH",Tvnoizu 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/2e78616a-4ae7-4af9-8706-0a5437bf3406-profile_image-70x70.png" group-title="TWITCH",Peliculas Mania 
-https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CrEEMXrutmtqTAYD2atKBUJdrKIybOcM2Z88T6ncxf4MfxtOh0gqR7pcEtVUF_UcFhTwNWuLntRkR187FJ4H6OLCwz-MLoYO_k24Fp6jh8FzoTQGZmgwt9VNW7w3A2ZzcxwRxDhlpBfTQbaRisms1Ow6HoQHITnCrLZlInItnt4J-4Zc2Z2p7raxkUTfttBRl4TjRclhE8CJvAcRtiDN6cprch6yY2Anz20pre1hivGTm6_YGGaXxomphPCFb3-S7jz-_sMTZtutNioxOi3QzELmdXB1hlB2Liywa5uEYEGXGIWSQWdQfMVkTPKJ34muhelg0Uy_QBQ9hQw5CMZIezZK_KTOxu7IM7Fn1OA153bEJ3t0fZVMeA0yGEGptb3oVUqromn4t1Nn3v1ZdQglWeAo1bfq_ctV9hSCjx8sfPN9Na84wx1TaoXWVvEwhsNew-N6tS51CSfG7tymlr393ovhZ3LxGRvtLH6RcKUYazoEtQl_p9MRC-D34Oqc7EWQwTETXl6S-SlbE5hvjGevhzqIi1Cao93KOxiQ-E5cbWGXuvlmS9gbMPu4QeYK_sSYY7DZw_hRHjVKpW16H1NgtUJ-RkrjqXso-sol4-JDLNvYqSwFUqJ-fR1E2OKm-lZs2i-m1qiSgg2pM_E6q2iSPNB5pnAoFhZTmXBQYLDy6j6ytt_WyBxwj5U7MdBH1F6pFSpgnQ4AUUzdeEcXQffp1vGte2U-h5C5IhEbc0B98tZ0QuaVGgzE6SbM_fRNFLUB5F0gASoJZXUtd2VzdC0yMNUF.m3u8 
+https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CrAEWNeLFZD_bWBpyrjHrbQAMdXCNHERvO4HL2gLNcHuGFcnf3ZqWRQkEvmQVasnx7-Y1p44sPTALiqfyuge5VfXaRycdVRnzY7yhQUDFCSSdKP_T5_TP51OToGrDGrS2vs7Vmt1wrNn7XiksJMHHZ4sieKszW88MSQXJWBY6X8_hqqiBJxjK4TwTqlv2uJfE5DJ5LQIKUXyu5BTrtT9xAZ1pe6x3Q8vO9QVroVhLwmpfdK4G4lz1yXU9yMc01MyU2MqQ6X93AdjNJEGT_-I4itb8rlOgQiGKyXtZ0Zp9_Tl5vjiN14ESFOrnw2qd0lyTAZUmZENKIVkPU9WpyVJrM0dBuXXLm95OS3ZVZb536l_nhHjF8-oc_VaeocE8N1CUPyteRI2isOoWBStOOeDw9GQq6gOmFJMvj06nIhE1As5u5BqYmFwsxJfB8BYdzk-eynxuCFeb_a4fWVQp-C35lviOYWVNMALnZRgY8s35lFced1AnAHjgYLt5rcKZkfnZBThqg_wHiC9OHgdLxyzlm01unt4c6dD0LvJL7gMF0_kLg8EUWTlagDeuHmWmonGoxsuncqr1FMugFEdSsRaDXbK_R5DwnwQTjv0vczCCoUv1rDTvJ94Ja_yEwLQolW5OvM1YdZqBIc9emzLBWMgIGBA3rx7JWnFgGinc-oHZSsVp6KlKtxBPcaIcb7FR2vT0wuXa-Q3Zf_l1B_iw_bKBT9s_MNyaKmMhUZOeAiA9ARPVPQaDK-v1wlBF1CvXMCXHiABKglldS13ZXN0LTIw2QU.m3u8 
 #EXTINF:-1 tvg-id="Los Simpson" tvg-name="Los Simpson" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8676dfd5-f07e-439c-bdf9-df36080e39dc-profile_image-70x70.png" group-title="TWITCH",Los Simpsons 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/a6ff53a0-0641-4c6c-9adf-475c952c8571-profile_image-70x70.png" group-title="TWITCH",7 central tv 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/760449bd-621b-4777-b7bc-9fde4d1f27cb-profile_image-70x70.png" group-title="TWITCH",Chespirito 
@@ -8627,6 +7720,7 @@ https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CrEEMXrutmtqTAYD2atKBUJdrKI
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/b4ad84c6-f53e-4078-b5f5-cc9222fa398b-profile_image-70x70.png" group-title="TWITCH",Cartoon Network Clasico 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title="TWITCH",Latino Kids TV 
 
+
 
 
 
