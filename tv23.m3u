@@ -3090,8 +3090,6 @@ http://live.budtvlight.com:25461/jaime/LUXeeh69JX/37789
 http://live.budtvlight.com:25461/jaime/LUXeeh69JX/41240
 #EXTINF:-1,Azteca 7 MTY SD
 http://live.budtvlight.com:25461/jaime/LUXeeh69JX/2125
-#EXTINF:-1,8.1 La Octava
-http://magmas5.com:8000/live/malotv/gratis/149119.m3u8
 #EXTINF:-1,14.1 Canal Catorce
 https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/playlist.m3u8
 #EXTINF:-1,21.1 Capital 21
@@ -3208,12 +3206,12 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
 #EXTINF:-1,Energeek Animate op | Chile
 https://wifispeed.trapemn.tv:1936/infantil/energeek-tres/playlist.m3u8
-#EXTINF:-1,ACS Network Tv | Puerto Rico
-https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
 #EXTINF:-1,Dreiko TV | Panamá
 https://tv.fullhd-streaming.com:3807/live/dreikotvlive.m3u8
 #EXTINF:-1,Geekdot TV | Brasil
 https://stream.ichibantv.ga:3764/hybrid/play.m3u8
+#EXTINF:-1,Latino Kids TV | Uruguay
+https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
 #EXTINF:-1,LIM TV | Paraguay
 http://live.limplay.ml/limtv.m3u8
 #EXTINF:-1,Moni TV HD |
@@ -3224,6 +3222,8 @@ https://v4.tustreaming.cl/poptv/index.m3u8
 https://panel.miplay.cl:8081/spectrumchannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Tele Estrella | Argentina
 https://stmvideo2.livecastv.com/telestrella/telestrella/chunklist.m3u8
+#EXTINF:-1,Toonizaki | Argentina
+https://stream-linkyprojects.linky.com.co/hls/toonizaki01.m3u8
 #EXTINF:-1,Tv Costa | Chile
 https://tv.clientetvstudio.net:3486/live/costatv1live.m3u8
 #EXTINF:-1,Voice Over RTV | Costa Rica
@@ -3330,6 +3330,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziomoovimex/CDN/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1,My Time Movie | Mexico
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1,Orbit TV | Republica Dominicana
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 #EXTINF:-1,PlanetaTV Movie | Chile
 https://tls-cl.cdnz.cl/movie/live/chunklist_w451618268.m3u8
 #EXTINF:-1,PlanetaTV Movie | Chile
@@ -3344,6 +3346,8 @@ https://linear-309.frequency.stream/dist/localnow/309/hls/master/playlist.m3u8
 https://linear-330.frequency.stream/dist/localnow/330/hls/master/playlist.m3u8
 #EXTINF:-1,Wow Tv | El Salvador
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+#EXTINF:-1,ZZ American Horrors | Estados Unidos
+http://170.178.189.66:1935/live/Stream1/.m3u8
 #EXTINF:-1,America TV | Argentina
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 #EXTINF:-1,America TV | Argentina
@@ -3363,13 +3367,13 @@ https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 #EXTINF:-1,Comedy Central | México
 http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/37975
 #EXTINF:-1,Distrito Comedia | México
+http://kuchini.site:8080/Unplugged83/SRp5327XyDFI2h08Mp2u/9126
+#EXTINF:-1,Distrito Comedia | México
 https://linear-405.frequency.stream/dist/vix/405/hls/master/playlist.m3u8
 #EXTINF:-1,El Nueve | Argentina
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
 #EXTINF:-1,El Trece | Argentina
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:-1,El Trece | Argentina
-http://magmas5.com:8000/live/malotv/gratis/4904.m3u8
 #EXTINF:-1,Europa Europa
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/13828
 #EXTINF:-1,Europa Europa
@@ -3378,6 +3382,8 @@ http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/38447
 https://mediacpstreamchile.com:1936/evavision/evavision/playlist.m3u8
 #EXTINF:-1,GenTV HD | Argentina
 https://inliveserver.com:1936/14056/14056/playlist.m3u8
+#EXTINF:-1,Global TV | RD
+https://ss3.domint.net:3136/gtv_str/globalhd/playlist.m3u8
 #EXTINF:-1,Iquique Tv | Chile
 https://marine2.miplay.cl/arcatel/iquiquetv720/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Mega | Chile
@@ -3390,14 +3396,10 @@ https://cloudvideo.servers10.com:8081/8214/index.m3u8
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1,NET TV | Argentina
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
-#EXTINF:-1,Norte Informativo TV | Costa Rica
-https://videohd.live:19360/8076/8076.m3u8
 #EXTINF:-1,Retro Play TV | Chile
 https://v4.tustreaming.cl/retroplaytv/index.m3u8
 #EXTINF:-1,Retro Plus TV | Chile
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
-#EXTINF:-1,Señal Colombia | Colombia
-http://magmas5.com:8000/live/malotv/gratis/4875.m3u8
 #EXTINF:-1,Solo Stand Up | Chile
 https://paneltv.online:1936/8116/8116/chunklist_w1465366289.m3u8
 #EXTINF:-1,Tec TV | Argentina
@@ -3426,14 +3428,8 @@ https://v-ny.mybtv.net/live/663.m3u8?env=prd&uid=-1&x=1
 https://ia601400.us.archive.org/35/items/315428072-838370143950950-8778652918756389992-n/315428072_838370143950950_8778652918756389992_n.mp4
 #EXTINF:-1,Copa Mundial 2022 | FIFA
 https://ia904507.us.archive.org/26/items/brasil-vs-alemania-final-copa-mundial-de-futbol-2002-partido-completofull-match-/Alemanha%200%20X%202%20Brasil%20-%20HD%20720p%20-%20Completo%20-%20Final%20Copa%20do%20Mundo%20de%202002.mp4
-#EXTINF:-1,AfiZZionados | México
-http://magmas5.com:8000/live/malotv/gratis/148890.m3u8
 #EXTINF:-1,Eventos Deportivos mix
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:-1,Fox Sports 3 | Mexico
-http://magmas5.com:8000/live/malotv/gratis/144619.m3u8
-#EXTINF:-1,Fox Sports Premium | Argentina
-http://magmas5.com:8000/live/malotv/gratis/146541.m3u8
 #EXTINF:-1,Garage TV | Argentina
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1736280510_b1296000_sleng.m3u8
 #EXTINF:-1,MLB Channel | PlutoTV
@@ -3444,8 +3440,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1,Teletrak | Chile
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
-#EXTINF:-1,TUDN | Mexico
-http://magmas5.com:8000/live/malotv/gratis/146603.m3u8
 #EXTINF:-1,Viasat sport | Suecia
 http://persik.by/stream/2944/263250/10249.m3u8
 #EXTINF:-1,Zona TUDN | Mexico
@@ -3550,6 +3544,8 @@ http://5.79.86.14:8202/;stream.nsv
 http://espora.org:8000/jenpojradio
 #EXTINF:-1,Radio Santa Ana - California
 http://s10.voscast.com:7688/;stream1575414865714/1
+#EXTINF:-1,Radio Exa Zamora
+http://live.exafmzamora.mx:55252/exafmzamora.mp3
 #EXTINF:-1,Radio La Candela 97.7 Zacapu
 http://s4.mexside.net:2094/;stream.nsv
 #EXTINF:-1,Radio La Pantera Jiquilpan
@@ -3598,8 +3594,6 @@ https://centova.hostingelectrica.net/proxy/grupera12?mp=/stream
 http://tropical100.net:8026/;
 #EXTINF:-1,Radio Merengue Tropical 100
 http://tropical100.net:8012/;
-#EXTINF:-1,Radio Merengue Tropicalisima
-http://23.237.150.178:8004/;?icy=http
 #EXTINF:-1,Radio Reggae Feverpitch
 http://82.94.166.107:8097/stream?icy=http
 #EXTINF:-1,Radio Reggae Mix Station
@@ -3616,16 +3610,14 @@ http://node-13.zeno.fm:80/0guzsnntsnhvv
 http://node-34.zeno.fm/s5494s8pta0uv?rj-ttl=5&rj-tok=AAABeMmnxIcAFJ64ThNbIiZ4sA
 #EXTINF:-1,Radio Modoradio
 https://modoradiocl.radioca.st/live
-#EXTINF:-1,Radio Conexion Latam
-https://stream-41.zeno.fm/yxynr8zy71zuv?zs=Q53Ef4h_REylYh2kLlkhsQ&aw_0_req_lsid=4eb47ee5d8a0b937c4c3f51c4ce10329&triton-uid=cookie%3A01f3e335-0842-4c59-8141-c796024c45b9
 #EXTINF:-1,Radio Voice Over Radio
 https://server1.streamingradio.online/proxy/voiceoverradio/stream
-#EXTINF:-1,Radio Electronica
-https://strm112.1.fm/electronica_mobile_mp3
 #EXTINF:-1,Radio Electronica CircuitPride
 http://185.33.21.112/circuitpride_128?icy=http
 #EXTINF:-1,Radio Pop
 http://node-15.zeno.fm/94abs07w82quv?rj-ttl=5&rj-tok=AAABdqgGbDsANLkFqNQ2h-p5IA
+#EXTINF:-1,Radio Hotmixradio 80S
+http://streaming.hotmix-radio.net/hotmixradio-80-128.mp3
 #EXTINF:-1,Coco (2017)
 https://ia902802.us.archive.org/13/items/coco2018spanishfanta_202002/Coco-2018-Spanish-Fanta.mp4
 #EXTINF:-1,Dia de Muertos (2019)
@@ -3950,8 +3942,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320ddef274b1b0007b2ee
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63211ba9cad976000794f988/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,Naruto en español
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60493045fbb5e50007b36f4d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121d440-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=94e07421-ca3c-463f-b308-3fd75bb5431d&userId=&serverSideAds=true
-#EXTINF:-1,Cine Latino
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f984c1dc54853000797a5e8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,Pluto TV Cine Clásico
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,Lucha Libre AAA
