@@ -3116,8 +3116,6 @@ https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 #EXTINF:-1,CAM: TRC Television
 https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8
-#EXTINF:-1,CHP: Canal 10
-https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 #EXTINF:-1,CHH: Canal 28 Chihuahua
 https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
 #EXTINF:-1,CHH: CANAL 44
@@ -3178,14 +3176,10 @@ https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/chunklist_w190
 http://s5.mexside.net:1935/telemax/telemax/chunklist_w586584359.m3u8
 #EXTINF:-1,TAM: Impactovision TV matamoros
 https://5ca9af4645e15.streamlock.net/impactovision/videoimpactovision/chunklist_w1470907735.m3u8
-#EXTINF:-1,TLA: Tlaxcala Television
-https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8
 #EXTINF:-1,VER: TVMAS Veracruz
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 #EXTINF:-1,ZAC: Canal 24 Zacatecas
 https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
-#EXTINF:-1,Monte Maria | México
-https://616eee1852d6c.streamlock.net/live/myStream_360p/playlist.m3u8
 #EXTINF:-1,DIOS Te Ve Kids | Honduras
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Radio ILCE | México
@@ -3210,8 +3204,6 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-tres/playlist.m3u8
 https://tv.fullhd-streaming.com:3807/live/dreikotvlive.m3u8
 #EXTINF:-1,Geekdot TV | Brasil
 https://stream.ichibantv.ga:3764/hybrid/play.m3u8
-#EXTINF:-1,Latino Kids TV | Uruguay
-https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
 #EXTINF:-1,LIM TV | Paraguay
 http://live.limplay.ml/limtv.m3u8
 #EXTINF:-1,Moni TV HD |
@@ -3222,8 +3214,6 @@ https://v4.tustreaming.cl/poptv/index.m3u8
 https://panel.miplay.cl:8081/spectrumchannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Tele Estrella | Argentina
 https://stmvideo2.livecastv.com/telestrella/telestrella/chunklist.m3u8
-#EXTINF:-1,Toonizaki | Argentina
-https://stream-linkyprojects.linky.com.co/hls/toonizaki01.m3u8
 #EXTINF:-1,Tv Costa | Chile
 https://tv.clientetvstudio.net:3486/live/costatv1live.m3u8
 #EXTINF:-1,Voice Over RTV | Costa Rica
@@ -3290,6 +3280,8 @@ https://tls-cl.cdnz.cl/planetatvkids/live/chunklist_w1953958808.m3u8
 https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF:-1,Rakuten TV Familia | España
 http://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1,Retro Infantil | ND
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 #EXTINF:-1,Tigueritos TV | Republica Dominicana
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 #EXTINF:-1,Toon Googles (español) | Estados Unidos
@@ -3382,8 +3374,6 @@ http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/38447
 https://mediacpstreamchile.com:1936/evavision/evavision/playlist.m3u8
 #EXTINF:-1,GenTV HD | Argentina
 https://inliveserver.com:1936/14056/14056/playlist.m3u8
-#EXTINF:-1,Global TV | RD
-https://ss3.domint.net:3136/gtv_str/globalhd/playlist.m3u8
 #EXTINF:-1,Iquique Tv | Chile
 https://marine2.miplay.cl/arcatel/iquiquetv720/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Mega | Chile
@@ -3392,10 +3382,10 @@ https://unlimited1-cl-isp.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 #EXTINF:-1,Multizonas Tv | Costa Rica
 https://cloudvideo.servers10.com:8081/8214/index.m3u8
-#EXTINF:-1,Neo TV | Argentina
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1,NET TV | Argentina
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
+#EXTINF:-1,Norte Informativo TV | Costa Rica
+https://videohd.live:19360/8076/8076.m3u8
 #EXTINF:-1,Retro Play TV | Chile
 https://v4.tustreaming.cl/retroplaytv/index.m3u8
 #EXTINF:-1,Retro Plus TV | Chile
@@ -3410,8 +3400,6 @@ https://v-ny.mybtv.net/live/660.m3u8?env=prd&uid=-1&x=1
 http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/38500
 #EXTINF:-1,Telered | Costa Rica
 https://video20.klm99.com:3558/live/teleredlive.m3u8
-#EXTINF:-1,Telesistema | Costa Rica
-https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w1149197827.m3u8
 #EXTINF:-1,TeleSUR | Costa Rica
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 #EXTINF:-1,TL Novelas | Mexico
@@ -3516,6 +3504,8 @@ http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 #EXTINF:-1,Tu Musica HD | Latino
 https://cloudflare.streamgato.us:3735/live/tumusicahdlive.m3u8
+#EXTINF:-1,TV Exitos | Republica Dominicana
+https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
 #EXTINF:-1,Radio Ranchito Morelia
 http://server.laradio.online:8157/live.mp3
 #EXTINF:-1,Radio La Grupera 93.1 Morelia
@@ -3544,8 +3534,6 @@ http://5.79.86.14:8202/;stream.nsv
 http://espora.org:8000/jenpojradio
 #EXTINF:-1,Radio Santa Ana - California
 http://s10.voscast.com:7688/;stream1575414865714/1
-#EXTINF:-1,Radio Exa Zamora
-http://live.exafmzamora.mx:55252/exafmzamora.mp3
 #EXTINF:-1,Radio La Candela 97.7 Zacapu
 http://s4.mexside.net:2094/;stream.nsv
 #EXTINF:-1,Radio La Pantera Jiquilpan
@@ -3594,6 +3582,8 @@ https://centova.hostingelectrica.net/proxy/grupera12?mp=/stream
 http://tropical100.net:8026/;
 #EXTINF:-1,Radio Merengue Tropical 100
 http://tropical100.net:8012/;
+#EXTINF:-1,Radio Merengue Tropicalisima
+http://23.237.150.178:8004/;?icy=http
 #EXTINF:-1,Radio Reggae Feverpitch
 http://82.94.166.107:8097/stream?icy=http
 #EXTINF:-1,Radio Reggae Mix Station
@@ -3602,16 +3592,16 @@ http://france1.coollabel-productions.com:8142/;
 http://194.97.151.139/classic-perlen
 #EXTINF:-1,Radio Super Music FM
 http://node-09.zeno.fm:80/agdhpd11808uv
-#EXTINF:-1,Delmi Series Hits | Espana
-https://stream-51.zeno.fm/iurgzhzglduvv?zs=QsfmoEvoSvOKAvUTtari2g
 #EXTINF:-1,Animax Radio
 http://node-13.zeno.fm:80/0guzsnntsnhvv
-#EXTINF:-1,Radio Michy Miau FM
-http://node-34.zeno.fm/s5494s8pta0uv?rj-ttl=5&rj-tok=AAABeMmnxIcAFJ64ThNbIiZ4sA
 #EXTINF:-1,Radio Modoradio
 https://modoradiocl.radioca.st/live
+#EXTINF:-1,Radio Conexion Latam
+https://stream-41.zeno.fm/yxynr8zy71zuv?zs=Q53Ef4h_REylYh2kLlkhsQ&aw_0_req_lsid=4eb47ee5d8a0b937c4c3f51c4ce10329&triton-uid=cookie%3A01f3e335-0842-4c59-8141-c796024c45b9
 #EXTINF:-1,Radio Voice Over Radio
 https://server1.streamingradio.online/proxy/voiceoverradio/stream
+#EXTINF:-1,Radio Electronica
+https://strm112.1.fm/electronica_mobile_mp3
 #EXTINF:-1,Radio Electronica CircuitPride
 http://185.33.21.112/circuitpride_128?icy=http
 #EXTINF:-1,Radio Pop
