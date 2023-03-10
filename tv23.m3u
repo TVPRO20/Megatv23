@@ -3070,14 +3070,16 @@ https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
 
 #EXTM3U
 
-#EXTINF:-1,ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO
-http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #EXTINF:-1,3.1 Imagen TV
 http://user.tvcluboficial.com/stream/web/play/341.m3u8
 #EXTINF:-1,4.1 Foro TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1,5.1 El Cinco
 http://user.tvcluboficial.com/stream/web/play/14.m3u8
+#EXTINF:-1,6.1 Canal 6
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+#EXTINF:-1,7.1 Azteca 7
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1,AZTECA 7 LQ
 http://live.budtvlight.com:25461/jaime/LUXeeh69JX/16514
 #EXTINF:-1,AZTECA 7 HD
@@ -3090,6 +3092,10 @@ http://live.budtvlight.com:25461/jaime/LUXeeh69JX/37789
 http://live.budtvlight.com:25461/jaime/LUXeeh69JX/41240
 #EXTINF:-1,Azteca 7 MTY SD
 http://live.budtvlight.com:25461/jaime/LUXeeh69JX/2125
+#EXTINF:-1,7.2 A Mas
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1,11.1 Once de Mexico
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1,14.1 Canal Catorce
 https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/playlist.m3u8
 #EXTINF:-1,21.1 Capital 21
@@ -3108,6 +3114,18 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 #EXTINF:-1,Central FM
 https://5fe2654d6127d.streamlock.net/centralfm/smil:centralfm.smil/playlist.m3u8
+#EXTINF:-1,Multimedios Monterrey
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1,Multimedios Laguna
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:-1,Multimedios Guadalajara
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+#EXTINF:-1,Multimedios Puebla
+https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
+#EXTINF:-1,Multimedios Bajio
+https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
+#EXTINF:-1,Multimedios Saltillo
+https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 #EXTINF:-1,AGU: Presumiendo Mexico
 http://streamingcws10.com:1935/telemetrika/videotelemetrika/playlist.m3u8
 #EXTINF:-1,AGU: Presumiendo Mexico
@@ -3116,8 +3134,8 @@ https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 #EXTINF:-1,CAM: TRC Television
 https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8
-#EXTINF:-1,CHH: Canal 28 Chihuahua
-https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
+#EXTINF:-1,CHP: Canal 10
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 #EXTINF:-1,CHH: CANAL 44
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 #EXTINF:-1,CMX: Efekto TV
@@ -3130,6 +3148,8 @@ http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
 http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
 #EXTINF:-1,COA: Canal 4 Saltillo
 http://162.241.190.126:1935/live/canal4/playlist.m3u8
+#EXTINF:-1,COA: 15TV Sabinas
+https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
 #EXTINF:-1,DUR: Canal 10 Durango
 http://204.12.193.98:1935/TvHD/canal10/playlist.m3u8
 #EXTINF:-1,DUR: TV Lobo Durango
@@ -3176,10 +3196,18 @@ https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/chunklist_w190
 http://s5.mexside.net:1935/telemax/telemax/chunklist_w586584359.m3u8
 #EXTINF:-1,TAM: Impactovision TV matamoros
 https://5ca9af4645e15.streamlock.net/impactovision/videoimpactovision/chunklist_w1470907735.m3u8
+#EXTINF:-1,TLA: Tlaxcala Television
+https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8
 #EXTINF:-1,VER: TVMAS Veracruz
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 #EXTINF:-1,ZAC: Canal 24 Zacatecas
 https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
+#EXTINF:-1,Maria vision | México
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
+#EXTINF:-1,Maria vision Capilla | México
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Privado2/playlist.m3u8
+#EXTINF:-1,Monte Maria | México
+https://616eee1852d6c.streamlock.net/live/myStream_360p/playlist.m3u8
 #EXTINF:-1,DIOS Te Ve Kids | Honduras
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Radio ILCE | México
@@ -3188,6 +3216,8 @@ http://radio.ilce.edu.mx:8000/radioilce.mp3
 http://cultural-crtvg.flumotion.com/chunks.m3u8
 #EXTINF:-1,Educa  TV | Ecuador
 https://cloud7.streamingcnt.net/cnt/educa/chunklist_w960768250.m3u8
+#EXTINF:-1,Saber Mas | USA
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-sabermas-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=6bSLyFJzzvyW_ngsjtWh&channelId=6018913ea15130002b284195
 #EXTINF:-1,EnerGeek Retro | Chile
 https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
 #EXTINF:-1,EnerGeek Retro op | Chile
@@ -3200,6 +3230,8 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
 #EXTINF:-1,Energeek Animate op | Chile
 https://wifispeed.trapemn.tv:1936/infantil/energeek-tres/playlist.m3u8
+#EXTINF:-1,Energeek Radio TV | Chile
+https://stream.wifiexpert.cl/energeek/radio/playlist.m3u8
 #EXTINF:-1,Dreiko TV | Panamá
 https://tv.fullhd-streaming.com:3807/live/dreikotvlive.m3u8
 #EXTINF:-1,Geekdot TV | Brasil
@@ -3218,6 +3250,72 @@ https://stmvideo2.livecastv.com/telestrella/telestrella/chunklist.m3u8
 https://tv.clientetvstudio.net:3486/live/costatv1live.m3u8
 #EXTINF:-1,Voice Over RTV | Costa Rica
 https://cloudvideo.servers10.com:8081/8198/index.m3u8
+#EXTINF:-1,Boing | Spain
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/38096
+#EXTINF:-1,Boing | Spain
+http://flash.shortgod.com/2023prendido/tv5.php?id=11803
+#EXTINF:-1,Canal Chicos Ipe | Perú
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1,Cartoon Network | México
+http://flash.shortgod.com/2023prendido/tv5.php?id=3133
+#EXTINF:-1,Cartoon Network | Sur
+http://flash.shortgod.com/2023prendido/tv5.php?id=1942
+#EXTINF:-1,Cartoon Network Latino
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+#EXTINF:-1,Cartoon Network Latino
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
+#EXTINF:-1,Cartoonito | Mexico
+http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/52087
+#EXTINF:-1,Chiquilines | USA
+https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
+#EXTINF:-1,Chiquilines | USA
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8
+#EXTINF:-1,Clan TVE | Spain
+http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/38076
+#EXTINF:-1,Clan TVE | Spain
+http://flash.shortgod.com/2023prendido/tv4.php?id=4131
+#EXTINF:-1,My Toonz (Inglés) | Estados Unidos
+https://api-ott.mytoonz.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=1356&timestamp=1616163185&ip=92.38.148.59&override_expiration=1500&sign=H3u8RDpNqe3HutWOLVaTs1EhOpDrg5DdwoJ27cnRla8%3D
+#EXTINF:-1,NTV | Chile
+https://marine2.miplay.cl/ntv/playlist.m3u8
+#EXTINF:-1,PBS Kids (Inglés) | Estados Unidos
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1,Pequeradio | Spain
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1,Planeta Junior TV | Spain
+http://deaplaneta-planetakidz-1-es.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1,Planeta Junior TV 2 | Spain
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609501978c069d00074e0dd2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+#EXTINF:-1,PlanetaTV Kids | Chile
+https://tls-cl.cdnz.cl/planetatvkids/live/chunklist_w1953958808.m3u8
+#EXTINF:-1,PlanetaTV Kids | Chile
+https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
+#EXTINF:-1,Rakuten TV Familia | Spain
+http://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1,Retro Infantil | ND
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
+#EXTINF:-1,Supertoons TV | Spain
+https://kedoo-supertoonstv-2-es.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1,Tooncast | Colombia
+http://flash.shortgod.com/2023prendido/tv5.php?id=13781
+#EXTINF:-1,Toon Googles (espanol) | Estados Unidos
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
+#EXTINF:-1,Toon Googles (Inglés) | Estados Unidos
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5eea605574085f0040ddc794&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=1&us_privacy=1---
+#EXTINF:-1,Toon Googles Jr. (Inglés) | Estados Unidos
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5f123330eca6a20040b328e8&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=1&us_privacy=1---
+#EXTINF:-1,Xabarin TV | Spain
+https://infantil-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1,Xabarin TV op | Spain
+http://infantil-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1,Xabarin TV Cativoas | Spain
+http://xabarintv-r2-crtvg.flumotion.com/chunks.m3u8
+#EXTINF:-1,Xabarin TV Mocinoas | Spain
+http://xabarintv-r3-crtvg.flumotion.com/chunks.m3u8
+#EXTINF:-1,Xabarin TV Pequerrechoas | Spain
+http://xabarintv-r1-crtvg.flumotion.com/chunks.m3u8
+#EXTINF:-1,Zaz TV | Mexico
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2701&live=1&avod=1&cb=[CACHEBUSTER]&app_bundle=[APP_BUNDLE]&app_name=[APP_NAME]&app_domain=[APP_DOMAIN]&app_version=[APP_VERSION]&app_category=[APP_CATEGORY]&app_store_url=[APP_STORE_URL]&hls_marker=1&pod_duration=[POD_DURATION]&ua=[%UA%]&ip=[IP]&min_ad_duration=6&max_ad_duration=120?is_lat=[LIMITED_AD_TRACKING]&player_width=[WIDTH]&player_height=[HEIGHT]&ua=[%UA%]&ip=[IP]&cb=[CACHEBUSTER]&hls_marker=1&app_version=[APP_VERSION]&app_store_url=[APP_STORE_URL]&app_name=[APP_NAME]&app_domain=[APP_DOMAIN]&app_category=[APP_CATEGORY]&did=[DID]&app_bundle=[APP_BUNDLE]&network_id=2701&live=1&avod=1&stream_url=https%3A%2F%2Fb81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com%2Fv1%2Fchannel%2FZAZ_Linear%2Findex-zaz-linear.m3u8
 #EXTINF:-1,Animax TV | Asia
 https://redlabmcdn.s.llnwi.net/nv02/bs14hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Anime TV | Brasil
@@ -3226,28 +3324,8 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 https://stream.ichibantv.ga:3741/live/aniplustvlive.m3u8
 #EXTINF:-1,Bit Me | México
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/40126
-#EXTINF:-1,Boing | España
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/38096
-#EXTINF:-1,Canal Chicos Ipe | Perú
-http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1,Canal Punto 99 | Chile
 https://stmv1.zcasthn.com.br/juanantunez/juanantunez/playlist.m3u8
-#EXTINF:-1,Cartoon Network Latino
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
-#EXTINF:-1,Cartoon Network Latino
-https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
-#EXTINF:-1,Cartoonito | Mexico
-http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/52087
-#EXTINF:-1,Chiquilines | USA
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8
-#EXTINF:-1,Clan TVE | España
-http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/38076
-#EXTINF:-1,El Chavo del 8 | 24/7
-http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/35022
-#EXTINF:-1,El Chavo Animado | 24/7
-http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/12023
-#EXTINF:-1,El Chapulin Colorado | 24/7
-http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/38714
 #EXTINF:-1,Frecuencia Musical Tv | USA
 https://cloud2.streaminglivehd.com:1936/8018/8018/playlist.m3u8
 #EXTINF:-1,Kanade |
@@ -3262,54 +3340,46 @@ https://magicstream.ddns.net:443/magicstream/stream.m3u8
 https://tuvideoonline.com.ar:3937/stream/play.m3u8
 #EXTINF:-1,Retro Magico | Argentina
 https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
-#EXTINF:-1,MaximaTV | ND
-https://cdnhd.iblups.com/hls/Qzfdy1OvHt.m3u8
-#EXTINF:-1,NTV | Chile
-https://marine2.miplay.cl/ntv/playlist.m3u8
-#EXTINF:-1,PBS Kids (Inglés) | Estados Unidos
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1,Pequeradio | España
-https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:-1,Planeta Junior TV | España
-http://deaplaneta-planetakidz-1-es.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1,Planeta Junior TV 2 | España
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609501978c069d00074e0dd2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
-#EXTINF:-1,PlanetaTV Kids | Chile
-https://tls-cl.cdnz.cl/planetatvkids/live/chunklist_w1953958808.m3u8
-#EXTINF:-1,PlanetaTV Kids | Chile
-https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
-#EXTINF:-1,Rakuten TV Familia | España
-http://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1,Retro Infantil | ND
-https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 #EXTINF:-1,Tigueritos TV | Republica Dominicana
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
-#EXTINF:-1,Toon Googles (español) | Estados Unidos
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
-#EXTINF:-1,Toon Googles (Inglés) | Estados Unidos
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5eea605574085f0040ddc794&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=1&us_privacy=1---
-#EXTINF:-1,Toon Googles Jr. (Inglés) | Estados Unidos
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5f123330eca6a20040b328e8&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=1&us_privacy=1---
 #EXTINF:-1,VariedTV | ND
 https://6362ca6f1fc28.streamlock.net/8066/8066/chunklist_w667003534.m3u8
-#EXTINF:-1,Xabarin TV op | España
-http://infantil-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1,Xabarin TV Cativoas | España
-http://xabarintv-r2-crtvg.flumotion.com/chunks.m3u8
-#EXTINF:-1,Xabarin TV Mociñoas | España
-http://xabarintv-r3-crtvg.flumotion.com/chunks.m3u8
-#EXTINF:-1,Xabarin TV Pequerrechoas | España
-http://xabarintv-r1-crtvg.flumotion.com/chunks.m3u8
-#EXTINF:-1,Zaz TV | Mexico
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2701&live=1&avod=1&cb=[CACHEBUSTER]&app_bundle=[APP_BUNDLE]&app_name=[APP_NAME]&app_domain=[APP_DOMAIN]&app_version=[APP_VERSION]&app_category=[APP_CATEGORY]&app_store_url=[APP_STORE_URL]&hls_marker=1&pod_duration=[POD_DURATION]&ua=[%UA%]&ip=[IP]&min_ad_duration=6&max_ad_duration=120?is_lat=[LIMITED_AD_TRACKING]&player_width=[WIDTH]&player_height=[HEIGHT]&ua=[%UA%]&ip=[IP]&cb=[CACHEBUSTER]&hls_marker=1&app_version=[APP_VERSION]&app_store_url=[APP_STORE_URL]&app_name=[APP_NAME]&app_domain=[APP_DOMAIN]&app_category=[APP_CATEGORY]&did=[DID]&app_bundle=[APP_BUNDLE]&network_id=2701&live=1&avod=1&stream_url=https%3A%2F%2Fb81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com%2Fv1%2Fchannel%2FZAZ_Linear%2Findex-zaz-linear.m3u8
+#EXTINF:-1,Yamato Animation | Italia
+https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,El Chavo del 8 | 24/7
+http://flash.shortgod.com/2023prendido/tv5.php?id=35022
+#EXTINF:-1,El Chavo del 8 | 24/7
+http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/35022
+#EXTINF:-1,El Chavo Animado | 24/7
+http://flash.shortgod.com/2023prendido/tv5.php?id=12023
+#EXTINF:-1,El Chavo Animado | 24/7
+http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/12023
+#EXTINF:-1,El Chapulin Colorado | 24/7
+http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/38714
+#EXTINF:-1,Chespirito | 24/7
+http://flash.shortgod.com/2023prendido/tv2.php?id=355&token=ShortGod&file=.m3u8
+#EXTINF:-1,A3Cine | Spain
+http://flash.shortgod.com/2023prendido/tv10.php?id=2251343
 #EXTINF:-1,Bayres TV | Argentina
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1,Bjgtjme | Argentina
 https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8
+#EXTINF:-1,Butaca TV | Spain
+https://veranda-butacatv-2-mx.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1,Cine Club | Perú
 https://servilive.com:3176/live/cineclublive.m3u8
+#EXTINF:-1,Cine Horrorfy | Estados Unidos
+https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
+#EXTINF:-1,Cine Juntos | Estados Unidos
+https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
+#EXTINF:-1,Cine Sureno | Estados Unidos
+https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master_4.m3u8
+#EXTINF:-1,De Pelicula | Estados Unidos
+http://flash.shortgod.com/2023prendido/tv5.php?id=1469
 #EXTINF:-1,De Pelicula Clasico | Mexico
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/13833
+#EXTINF:-1,De Pelicula Plus | Mexico
+http://flash.shortgod.com/2023prendido/tv5.php?id=1470
 #EXTINF:-1,De Pelicula Plus | Mexico
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/13832
 #EXTINF:-1,Extrema TV | Costa Rica
@@ -3318,16 +3388,20 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 #EXTINF:-1,MOOVIMEX | Mexico
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziomoovimex/CDN/playlist.m3u8
-#EXTINF:-1,Movies Central by tv player | España
+#EXTINF:-1,Movies Central by tv player | Spain
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1,My Time Movie | Mexico
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1,Orbit TV | Republica Dominicana
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 #EXTINF:-1,PlanetaTV Movie | Chile
 https://tls-cl.cdnz.cl/movie/live/chunklist_w451618268.m3u8
 #EXTINF:-1,PlanetaTV Movie | Chile
 https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
+#EXTINF:-1,Rakuten Comedy Movies | Spain
+https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,Rakuten Action Movies | Spain
+https://rakuten-actionmovies-2-es.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1,Top Cine | Estados Unidos
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF:-1,Vix
 https://linear-307.frequency.stream/dist/localnow/307/hls/master/playlist.m3u8
 #EXTINF:-1,Vix
@@ -3352,14 +3426,22 @@ https://bst.buin.cl/0.m3u8
 https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/chunklist_w1908572533_b316000.m3u8
 #EXTINF:-1,Canal 4 San Juan | Argentina
 http://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w1603184235.m3u8
+#EXTINF:-1,Canal 13 | Chile
+http://flash.shortgod.com/2023prendido/tv5.php?id=38540
 #EXTINF:-1,Canal 74 TV | Chile
 https://stmv1.zcasthn.com.br/canal74hd/canal74hd/playlist.m3u8
+#EXTINF:-1,Caracol TV | Colombia
+http://flash.shortgod.com/2023prendido/tv5.php?id=38551
 #EXTINF:-1,Caracola TV | Chile
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 #EXTINF:-1,Comedy Central | México
 http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/37975
+#EXTINF:-1,Comedy Central | México
+http://flash.shortgod.com/2023prendido/tv5.php?id=30319
 #EXTINF:-1,Distrito Comedia | México
 http://kuchini.site:8080/Unplugged83/SRp5327XyDFI2h08Mp2u/9126
+#EXTINF:-1,Distrito Comedia | México
+http://flash.shortgod.com/2023prendido/tv5.php?id=3284
 #EXTINF:-1,Distrito Comedia | México
 https://linear-405.frequency.stream/dist/vix/405/hls/master/playlist.m3u8
 #EXTINF:-1,El Nueve | Argentina
@@ -3370,6 +3452,8 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/13828
 #EXTINF:-1,Europa Europa
 http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/38447
+#EXTINF:-1,Europa Europa
+http://flash.shortgod.com/2023prendido/tv5.php?id=1493
 #EXTINF:-1,EvaStream TV | Chile
 https://mediacpstreamchile.com:1936/evavision/evavision/playlist.m3u8
 #EXTINF:-1,GenTV HD | Argentina
@@ -3380,8 +3464,12 @@ https://marine2.miplay.cl/arcatel/iquiquetv720/tracks-v1a1/mono.m3u8
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8
 #EXTINF:-1,Mi TV Television Clasica | Estados Unidos
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
+#EXTINF:-1,Multicanal | Ecuador
+https://multicanal.streamseguro.com/hls/streaming.m3u8
 #EXTINF:-1,Multizonas Tv | Costa Rica
 https://cloudvideo.servers10.com:8081/8214/index.m3u8
+#EXTINF:-1,Neo TV | Argentina
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1,NET TV | Argentina
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 #EXTINF:-1,Norte Informativo TV | Costa Rica
@@ -3398,12 +3486,24 @@ https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 https://v-ny.mybtv.net/live/660.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1,Teleclasicos 1| Costa Rica
 http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/38500
+#EXTINF:-1,Telefe | Argentina
+http://flash.shortgod.com/2023prendido/tv2.php?id=45&token=ShortGod&file=.m3u8
+#EXTINF:-1,Telefuturo | Paraguay
+http://flash.shortgod.com/2023prendido/tv4.php?id=7529
 #EXTINF:-1,Telered | Costa Rica
 https://video20.klm99.com:3558/live/teleredlive.m3u8
+#EXTINF:-1,Telesistema | Costa Rica
+https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w1149197827.m3u8
 #EXTINF:-1,TeleSUR | Costa Rica
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:-1,TeleSUR | Costa Rica
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 #EXTINF:-1,TL Novelas | Mexico
 http://higherpro.xyz:8080/restreambestlive/w4e7kFKr29Ya/12366
+#EXTINF:-1,TL Novelas | Mexico
+http://flash.shortgod.com/2023prendido/tv5.php?id=15237
+#EXTINF:-1,TL Novelas Univision | USA
+http://flash.shortgod.com/2023prendido/tv10.php?id=709629
 #EXTINF:-1,TV Retro Palmares | Costa Rica
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 #EXTINF:-1,UniMás | Estados Unidos
@@ -3412,10 +3512,14 @@ https://v-ny.mybtv.net/live/713.m3u8?env=prd&uid=-1&x=1
 https://v-ny.mybtv.net/live/643.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1,Vision Latina | USA
 https://v-ny.mybtv.net/live/663.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1,Warner Channel | Chile
+http://flash.shortgod.com/2023prendido/tv2.php?id=40&token=ShortGod&file=.m3u8
 #EXTINF:-1,Copa Mundial 2022 NIKE | FIFA
 https://ia601400.us.archive.org/35/items/315428072-838370143950950-8778652918756389992-n/315428072_838370143950950_8778652918756389992_n.mp4
 #EXTINF:-1,Copa Mundial 2022 | FIFA
 https://ia904507.us.archive.org/26/items/brasil-vs-alemania-final-copa-mundial-de-futbol-2002-partido-completofull-match-/Alemanha%200%20X%202%20Brasil%20-%20HD%20720p%20-%20Completo%20-%20Final%20Copa%20do%20Mundo%20de%202002.mp4
+#EXTINF:-1,All Sports | Brasil
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1,Eventos Deportivos mix
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF:-1,Garage TV | Argentina
@@ -3432,11 +3536,13 @@ http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 http://persik.by/stream/2944/263250/10249.m3u8
 #EXTINF:-1,Zona TUDN | Mexico
 https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
-#EXTINF:-1,24h TVE | España
+#EXTINF:-1,24h TVE | Spain
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1,24h TVE | Spain
 https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr.m3u8
 #EXTINF:-1,CGTN en Espanol | China
 https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1,CNN en Español | Estados Unidos
+#EXTINF:-1,CNN en Espanol | Estados Unidos
 https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/VIDEO_0_1964000.m3u8
 #EXTINF:-1,Cubavision Internacional | Cuba
 http://190.122.96.187:8888/http/010
@@ -3444,6 +3550,8 @@ http://190.122.96.187:8888/http/010
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1,El Financiero Bloomberg | Mexico
 https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
+#EXTINF:-1,Euronews | Union Europea
+https://rakuten-euronews-4-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1,France 24 Espanol | Francia
 https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 #EXTINF:-1,France 24 | Francia
@@ -3460,7 +3568,7 @@ https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3
 https://paneltv.online:1936/8056/8056/playlist.m3u8
 #EXTINF:-1,Fashion Tv | Francia
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
-#EXTINF:-1,Cancionero TV | España
+#EXTINF:-1,Cancionero TV | Spain
 http://89.140.229.4/hls1/cancionero.m3u8
 #EXTINF:-1,CITY RADIO TV | Bulgaria
 https://tv.city.bg/play/tshls/citytv/index.m3u8
@@ -3492,6 +3600,8 @@ https://tls-cl.cdnz.cl/music/live/chunklist_w260426131.m3u8
 https://scl.edge.grupoz.cl/music/live/playlist.m3u8
 #EXTINF:-1,Portal FoxMix Tv HD | Chile
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+#EXTINF:-1,Radio U | Estados Unidos
+https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8
 #EXTINF:-1,RETRO MUSIC TV | Checoslovaquia
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1,Retro Plus TV | Chile
@@ -3514,6 +3624,8 @@ http://www.tuasesorweb.com:8000/;stream/1
 http://srmx.ddns.net:8100/;
 #EXTINF:-1,Radio Kiss Morelia
 http://192.99.44.11:9861/stream/1/
+#EXTINF:-1,Radio Radio Tormenta 100.1 Morelia
+https://cdn-embed.tunein.com/resources/media/blank.mp3
 #EXTINF:-1,Radio 40 Principales Morelia
 http://s4.mexside.net:7040/;
 #EXTINF:-1,Radio Nicolaíta Morelia
@@ -3530,26 +3642,50 @@ http://5.79.86.14:8199/;stream.nsv
 http://167.114.116.223:3334/stream/1/streams.mp3
 #EXTINF:-1,Radio Los 40 Principales Uruapan
 http://5.79.86.14:8202/;stream.nsv
+#EXTINF:-1,Radio La Ley 94.9  Patzcuaro
+https://streamingv2.shoutcast.com/la-ley-949-fm
+#EXTINF:-1,Radio La Pura Ley Apatzingan
+https://streamingv2.shoutcast.com/la-pura-ley-921-fm
 #EXTINF:-1,Radio Comunitaria Jenpoj Mexico
 http://espora.org:8000/jenpojradio
+#EXTINF:-1,Radio Purenchécuaro Michoacán
+https://sp2.servidorrprivado.com/8080/stream
 #EXTINF:-1,Radio Santa Ana - California
 http://s10.voscast.com:7688/;stream1575414865714/1
+#EXTINF:-1,Radio Exa Zamora
+http://live.exafmzamora.mx:55252/exafmzamora.mp3
 #EXTINF:-1,Radio La Candela 97.7 Zacapu
 http://s4.mexside.net:2094/;stream.nsv
 #EXTINF:-1,Radio La Pantera Jiquilpan
 http://192.187.112.50:8434/stream/1/
 #EXTINF:-1,Radio Impacto Jiquilpan
 http://192.187.112.50:8234/stream/1/
+#EXTINF:-1,Radio Sol 103.9 Ciudad Hidalgo
+https://streamingv2.shoutcast.com/radio-sol-1039-fm
+#EXTINF:-1,Radio Azul Lazaro Cardenas
+https://s2.mexside.net/8010/stream
 #EXTINF:-1,Radio Fantasia Zitacuaro
 http://162.212.56.146:8344/stream.mp3
+#EXTINF:-1,Radio Mexiquense 91.7 fm Amecameca
+https://streamingcwsradio30.com:7047/;
 #EXTINF:-1,Radio MVS Noticias
 http://20323.live.streamtheworld.com/XHMVSFM_SC
+#EXTINF:-1,Radio Opus-94 94.5 fm
+https://s2.mexside.net/8016/stream
+#EXTINF:-1,Radio Tropicalisima 1350 am
+https://s2.mexside.net/8030/stream
+#EXTINF:-1,Radio XEB La B grande Cd. México
+https://s2.mexside.net/8024/stream
+#EXTINF:-1,Radio Mexico Internacional
+https://s2.mexside.net/8020/stream
 #EXTINF:-1,Radio Ranchito Guadalajara
 http://192.99.16.17:9870/;stream/1
 #EXTINF:-1,Radio La Ranchera de Monterrey
 http://streamingcwsradio20.com:9410/stream
 #EXTINF:-1,Radio Bonita Oaxaca
 http://node-19.zeno.fm/05g7pygka3quv?rj-ttl=5&rj-tok=AAABcjgJJpIAM_RurmDtn1qn5g
+#EXTINF:-1,Radio Infinita fm Radio
+https://cloudstream2032.conectarhosting.com/9586/;
 #EXTINF:-1,Radio India Romantica
 https://max.miradio.in/proxy/indiaromantica/stream
 #EXTINF:-1,Radio Colombia Salsa Rosa
@@ -3568,22 +3704,34 @@ http://64.37.50.226:8018/stream
 http://64.37.50.226:8024/stream
 #EXTINF:-1,Radio Colombia Romantica
 http://64.37.50.226:8030/stream
+#EXTINF:-1,Radio Romanticas Inolvidables Morelos
+https://node-09.zeno.fm/6m1ba7yt3vduv
+#EXTINF:-1,Radio Romanticas Inolvidables
+https://node-26.zeno.fm/6m1ba7yt3vduv?rj-ttl=5&rj-token=AAABbOht4Wom1Pf5HTn7n4QeZ_QXMwJwuJTklw67fX2PxIbcrArfMQ
 #EXTINF:-1,Radio Ochentas
 http://streaming.radionomy.com/JamendoLounge
 #EXTINF:-1,Radio Recuerdos Inolvidables
 http://167.114.173.72:8030/;
+#EXTINF:-1,Radio Cumbias Inmortales
+https://panel.retrolandigital.com/radio/8120/listen
 #EXTINF:-1,Radio Viva El Mariachi
 http://node-03.zeno.fm/gs4xg5s0csmtv?rj-ttl=5&rj-tok=AAABeHBWouQA9m2GhtVlBW72EA
 #EXTINF:-1,Radio Banda Duranguense 93.3
 http://node-25.zeno.fm/ksykvw16avduv?rj-ttl=5&rj-tok=AAABeNiPueQAr80XAC6vekxRNQ
 #EXTINF:-1,Radio La Grupera MX
 https://centova.hostingelectrica.net/proxy/grupera12?mp=/stream
+#EXTINF:-1,Radio Banda 3 wctn-950-am
+https://streamingv2.shoutcast.com/wctn-950-am?lang=es-ES,es;q=0.9
 #EXTINF:-1,Radio Banda Tropical 100 Regional Mexicana
 http://tropical100.net:8026/;
 #EXTINF:-1,Radio Merengue Tropical 100
 http://tropical100.net:8012/;
 #EXTINF:-1,Radio Merengue Tropicalisima
 http://23.237.150.178:8004/;?icy=http
+#EXTINF:-1,Radio Merengue La MerenguerardCom
+https://streamingv2.shoutcast.com/LaMerenguerardCom?lang=es-ES,es;q=0.9
+#EXTINF:-1,Radio Reggae Jairie
+https://streamingv2.shoutcast.com/jairie-radio?icy=http
 #EXTINF:-1,Radio Reggae Feverpitch
 http://82.94.166.107:8097/stream?icy=http
 #EXTINF:-1,Radio Reggae Mix Station
@@ -3594,18 +3742,28 @@ http://194.97.151.139/classic-perlen
 http://node-09.zeno.fm:80/agdhpd11808uv
 #EXTINF:-1,Animax Radio
 http://node-13.zeno.fm:80/0guzsnntsnhvv
+#EXTINF:-1,Radio Michy Miau FM
+http://node-34.zeno.fm/s5494s8pta0uv?rj-ttl=5&rj-tok=AAABeMmnxIcAFJ64ThNbIiZ4sA
 #EXTINF:-1,Radio Modoradio
 https://modoradiocl.radioca.st/live
 #EXTINF:-1,Radio Conexion Latam
 https://stream-41.zeno.fm/yxynr8zy71zuv?zs=Q53Ef4h_REylYh2kLlkhsQ&aw_0_req_lsid=4eb47ee5d8a0b937c4c3f51c4ce10329&triton-uid=cookie%3A01f3e335-0842-4c59-8141-c796024c45b9
 #EXTINF:-1,Radio Voice Over Radio
 https://server1.streamingradio.online/proxy/voiceoverradio/stream
+#EXTINF:-1,Radio Atlantida FM 89.9
+https://server-usa2.radioseninternet.net/8034/stream
+#EXTINF:-1,Radio Bestmusic 90.1 Fm
+https://node-13.zeno.fm/uewmruc9bm8uv.aac?rj-ttl=5&rj-tok=AAABeRSNpRIA5DxPxsZROdyKZg
+#EXTINF:-1,Radio Instrumental hits
+https://panel.retrolandigital.com/radio/8130/listen
 #EXTINF:-1,Radio Electronica
 https://strm112.1.fm/electronica_mobile_mp3
 #EXTINF:-1,Radio Electronica CircuitPride
 http://185.33.21.112/circuitpride_128?icy=http
 #EXTINF:-1,Radio Pop
 http://node-15.zeno.fm/94abs07w82quv?rj-ttl=5&rj-tok=AAABdqgGbDsANLkFqNQ2h-p5IA
+#EXTINF:-1,Radio Portal FoxMix Chile
+https://sonic.portalfoxmix.cl/8002/stream
 #EXTINF:-1,Radio Hotmixradio 80S
 http://streaming.hotmix-radio.net/hotmixradio-80-128.mp3
 #EXTINF:-1,Coco (2017)
@@ -3626,10 +3784,16 @@ https://ia802503.us.archive.org/14/items/aterrados-2017-english-subtitles-720p-h
 https://archive.org/serve/Dogmilk/Dogmilk.mp4
 #EXTINF:-1,El pequeno salvaje
 https://ia601207.us.archive.org/1/items/1970ElPequeoSalvajeZooXaZoochat/1970%20El%20peque%C3%B1o%20salvaje%20Zoo%20xa%20Zoochat.mp4
+#EXTINF:-1,El septimo sello
+https://peertube.librelabucm.org/download/videos/f94c257d-2bc2-4d81-a0c6-c025fc8b6258-480.mp4?_=1
 #EXTINF:-1,Angry Birds (2016)
 https://ia801204.us.archive.org/2/items/AngryBirds1080LatinoPelistvhd.com.mkv/Angry%20Birds1080%20Latino-%20pelistvhd.com.mkv.mp4
 #EXTINF:-1,EL CAZADOR Y LA REINA DEL HIELO
 https://onedrive.live.com/download?cid=A4A1F0763FCC8C65&resid=A4A1F0763FCC8C65%21117&authkey=AOHQ65nCGoFIA3M
+#EXTINF:-1,PIXEL
+https://unadmexicomx-my.sharepoint.com/personal/al13500861_unadmexico_mx/_layouts/15/download.aspx?guestaccesstoken=LcMieXFnnYNH1HBvA6MsOwyRJ7%2BB6Yk9EXt8EcO%2BiPI%3D&docid=1050c4ba6508b4e46929f617180c33200
+#EXTINF:-1,Zootopia (2016)
+https://dl.dropboxusercontent.com/s/fezzhlyasrxkzax/SalynPM-Zootopia.mp4?dl=0
 #EXTINF:-1,ANGRY BIRDS
 http://cecegeek@goo.gl/3KGMLf
 #EXTINF:-1,El Gigante de Hierro (1999)
@@ -3786,7 +3950,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee92e72fb286e0007285f
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efb8c19b2678b000780d032/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,Misterios Medicos
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f230e416b68ff00075b0139/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1,Empeños a lo bestia
+#EXTINF:-1,Empenos a lo bestia
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f23102d5e239d00074b092a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,Pluto TV Sci-Fi
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -3838,7 +4002,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff608e60e2996000768c366/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,Comedy Central Pluto TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc21a432945000762d06b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1,Pluto TV España
+#EXTINF:-1,Pluto TV Spain
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffe17e3d765170007c3a4fe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,Paramount+ Presenta
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -3878,7 +4042,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6144d313b34fbf00071077
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/615b9855c6b58b000724477f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,Younger
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d56d9fa3070000709e3f7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1,Euronews Español
+#EXTINF:-1,Euronews Espanol
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d59b7cbef25000728221c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,Baby Shark TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d5e6a093e7c0007489211/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -3888,7 +4052,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61a52615cbef2500072876
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b793ccf571b80007b7a610/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,Rock Story
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f159209fcc3800076ed4a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1,Señorita Pólvora
+#EXTINF:-1,Senorita Pólvora
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f323397027f90007542bc3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,Chilevision Noticias
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f94a2866401100074e9dee/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -3930,7 +4094,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/631fb6be21b7440007b9f6
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320ddef274b1b0007b2ee88/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,La Selección
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63211ba9cad976000794f988/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1,Naruto en español
+#EXTINF:-1,Naruto en espanol
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60493045fbb5e50007b36f4d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121d440-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=94e07421-ca3c-463f-b308-3fd75bb5431d&userId=&serverSideAds=true
 #EXTINF:-1,Pluto TV Cine Clásico
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -3946,11 +4110,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96b1c4f1ca3f0629f4b
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,Telemundo telenovelas clásicas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1,MTV en español
+#EXTINF:-1,MTV en espanol
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96d351652631e36d4331f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1,Nick en español
+#EXTINF:-1,Nick en espanol
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1,Nick Jr. en español
+#EXTINF:-1,Nick Jr. en espanol
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,Foodies
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -3962,7 +4126,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d164d92e97a5e107638
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,Mi obsesión favorita
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d93b4d71754e6a4298d086e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1,The Walking Dead en español
+#EXTINF:-1,The Walking Dead en espanol
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,Amantes del romance
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e84db2db3851800077c871e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -3978,7 +4142,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d882d5233170007ee88
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f513564e4622a0007c578c0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,Cine XOXO
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5136317aedfb0007016f93/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1,CSI en Español
+#EXTINF:-1,CSI en Espanol
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604928d54a4f730007ff76bc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,Viaje a las estrellas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6049295e7dcef800073c2499/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -3986,7 +4150,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6049295e7dcef800073c24
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492a1e6361250007679665/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,Mundo paranormal
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492a9bbca75b0007b1bfd5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1,Hell's Kitchen en español
+#EXTINF:-1,Hell's Kitchen en espanol
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492b2794116800073e32dc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,Sony Canal Comedias
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492bb931054f00073c0b4e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -4000,11 +4164,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492dcf1c9b6a00089f41
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492e6d7f3f560007ab0f62/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,Nosey escándalos
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492ee6375a3900079a158c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1,beIN SPORTS XTRA en español
+#EXTINF:-1,beIN SPORTS XTRA en espanol
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1,Naruto en español
+#EXTINF:-1,Naruto en espanol
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60493045fbb5e50007b36f4d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1,Yu-Gi-Oh! en español
+#EXTINF:-1,Yu-Gi-Oh! en espanol
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604930bc28b24d0007e0e171/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,Mundo viajero
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60511efd71ec430007f50d97/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -4018,15 +4182,15 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c25ec6da6d6600074233
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d393e5579a420007ee553c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,Pelis y Popcorn
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb2f47c133270007327375/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1,Series con Ñ
+#EXTINF:-1,Series con n
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb3087fbbc120007fc46be/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1,Top Gear en español
+#EXTINF:-1,Top Gear en espanol
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61325566b3c86a00078e4819/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,Corazón turco
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61b3e21d56fee300087e4cba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1,CSI: Miami en Español
+#EXTINF:-1,CSI: Miami en Espanol
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/632b5950b515b000079e6b81/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1,CSI: NY en Español
+#EXTINF:-1,CSI: NY en Espanol
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/632b606e12a67b0007c9e371/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,Telemundo Al Día
 https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_telemundoaldia_001.m3u8?ads.caid=TelemundoAlDia&ads.csid=samsungtvplus_us_telemundoaldia_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2561&ads.xumo_contentName=TelemundoAlDia&ads.xumo_providerId=2561&ads.xumo_providerName=TelemundoAlDia&ads.xumo_channelId=9999544&ads.xumo_channelName=Telemundoaldia&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
@@ -4070,12 +4234,102 @@ https://d3fr64zqebnqn3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://dri82941jql2y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1,XITE Just Chill
 https://d3ai750ol9my06.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/JustChill-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1,Vevo Latino
+https://na.linear.zype.com/634387d4-169a-45db-a7e3-10e4e02fbd67/2e2e55d0495040c4868bcdc9ddf16471-samsung/live.m3u8?sitesection_id=vevo_linear%3A_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&us_privacy=1YNY&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D
+#EXTINF:-1,Vevo R&B
+https://na.linear.zype.com/6faae100-3b35-4797-bb10-7f804b932d16/992f9669ef444754919c6bac2c8d11b3-samsung/live.m3u8?sitesection_id=vevo_linear%3A_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&us_privacy=1YNY&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D
 #EXTINF:-1,Vevo Hip-Hop
 https://d2p8vga36q26tv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tbi3tu3ko2mz4-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1,Vevo 2K
 https://d2lzzmzt70lih2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cci0vkzzomoo0-prod/26c1e462-824a-4fc9-8a80-764352bf45d4/ee3fcf1d-1183-42c6-97f7-e6e1e3ab856f-samsung-tv/live.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1,Vevo Country
 https://duj0m5mtx2apx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tmtp539lujxbj-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1,Vevo Pop
+https://na.linear.zype.com/b99e99b3-4fad-ceab-7f71-27f319b5416b/c5e1968c592947d79609414b21abf9ff-samsung/live.m3u8?sitesection_id=vevo_linear%3A_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&us_privacy=1YNY&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D
+#EXTINF:-1,Galicia TV Europa HD
+http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
+#EXTINF:-1,Galicia TV America HD
+http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
+#EXTINF:-1,Momentos G
+http://momentog-crtvg.flumotion.com/chunks.m3u8
+#EXTINF:-1,Tvg2 HD/Eventos 1
+http://events1-crtvg.flumotion.com/crtvg/events1_high/chunks.m3u8
+#EXTINF:-1,Tvg2 HD/Eventos 2
+http://events2-crtvg.flumotion.com/crtvg/events2_high/chunks.m3u8
+#EXTINF:-1,Tvg2 HD/Eventos 3
+http://events3-crtvg.flumotion.com/crtvg/events3_high/chunks.m3u8
+#EXTINF:-1,Tvg2 HD/Amodino
+http://amodino-crtvg.flumotion.com/crtvg/amodino_high/chunks.m3u8
+#EXTINF:-1,Tvg Musigal
+http://musigal-crtvg.flumotion.com/crtvg/musigal/chunks.m3u8
+#EXTINF:-1,Tpa7
+https://cdnlive.codev8.net/rtpalive/smil:directo/.m3u8?DVR
+#EXTINF:-1,Anove TV HD
+https://cloud.fastchannel.es/mic/manifiest/hls/anove/anove.m3u8
+#EXTINF:-1,Televigo HD
+https://cloud.fastchannel.es/mic/manifiest/hls/televigo/televigo.m3u8
+#EXTINF:-1,TV Ferrol
+https://directo.tvferrol.es/tv.m3u8
+#EXTINF:-1,Canal Extremadura HD
+https://cdnlive.codev8.net/canalextremaduralive/smil:channel1.smil/chunklist_b1500000.m3u8
+#EXTINF:-1,ETB 1 HD
+https://multimedia.eitb.eus/live-content/etb1hd-hls/bitrate_4.m3u8
+#EXTINF:-1,ETB 2 HD
+https://multimedia.eitb.eus/live-content/etb2hd-hls/bitrate_4.m3u8
+#EXTINF:-1,ETB BASQUE
+https://multimedia.eitb.eus/live-content/eitbbasque-hls/bitrate_3.m3u8
+#EXTINF:-1,Rakuten TV Comedia
+http://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,Distrito TV
+https://live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
+#EXTINF:-1,interalmeria tv HD
+http://interalmeria.tv/directo/live.m3u8
+#EXTINF:-1,Cgtn Espanol HD (opcion 2)
+https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+#EXTINF:-1,TV Melilla
+https://tvmelilla-hls-rm-lw.flumotion.com/tvmelilla/live-fake-ori_high/chunks.m3u8
+#EXTINF:-1,Rtvce HD
+https://cdnlive.codev8.net/rtvcelive/channel1.smil/chunklist_b4000000.m3u8
+#EXTINF:-1,La 7 de CyLTV HD
+https://cdnlive.shooowit.net/la7live/channel1.smil/.m3u8
+#EXTINF:-1,La 8 Leon de CyLTV HD
+https://cdnlive.shooowit.net/la8leonlive/smil:streamswitchingchannel.smil/chunklist_b2200000.m3u8
+#EXTINF:-1,Telemadrid
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8
+#EXTINF:-1,La Otra
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/bitrate_1.m3u8
+#EXTINF:-1,Onda Madrid
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/ondamadrid_1/bitrate_1.m3u8
+#EXTINF:-1,CANAL 33 MADRID
+https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/chunklist_w958295046.m3u8
+#EXTINF:-1,Canal Sur Andalucia HD
+https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
+#EXTINF:-1,Canal Sur Andalucia 2
+https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
+#EXTINF:-1,Canal Malaga
+http://canalmalaga-tv-live.flumotion.com/chunks.m3u8
+#EXTINF:-1,PTV Malaga HD
+https://streamer.zapitv.com/PTV-malaga/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Onda Algeciras TV
+https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
+#EXTINF:-1,Popular TV Murcia
+https://cloud.fastchannel.es/mic/manifiest/hls/populartvrm/populartvrm.m3u8
+#EXTINF:-1,Popular TV Cantabria
+https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
+#EXTINF:-1,Popular TV Melilla
+https://5940924978228.streamlock.net/8009/8009/chunklist_w1267857749.m3u8
+#EXTINF:-1,A Punt tv HD
+https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/profile_0/chunklist_dvr.m3u8
+#EXTINF:-1,Alacanti TV
+https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
+#EXTINF:-1,Elche 7 TV
+https://elche7tv.gestec-video.com/hls/canal2.m3u8
+#EXTINF:-1,Bon Dia TV HD (geobloqueo)
+https://directes-tv-int.ccma.cat/live-origin/bondia-hls/master.m3u8
+#EXTINF:-1,El Toro TV HD
+https://streaming011.gestec-video.com/hls/eltoro_bal.m3u8
+#EXTINF:-1,Aragon TV
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1,ATG (432p)
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 #EXTINF:-1,Canal Motor (720p)
@@ -4158,7 +4412,25 @@ http://217.174.225.146/hls/ch004_720/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 #EXTINF:-1,TVRI Sport HD (480p)
 http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+#EXTINF:-1,TVS Boxing (720p)
+https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
 #EXTINF:-1,TVS Classic Sports (720p)
 http://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8
+#EXTINF:-1,TVS Sports (960p)
+https://rpn1.bozztv.com/36bay2/gusa-tvssports/index.m3u8
+#EXTINF:-1,TVS Sports Bureau (720p)
+https://rpn1.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8
+#EXTINF:-1,TVS Turbo (360p)
+https://rpn1.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
+#EXTINF:-1,TVS Women Sports (480p)
+https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
 #EXTINF:-1,Wired2Fish (720p)
 https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8
+#EXTINF:-1,Anime Live
+https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/Cq4EA8meRPNT5q2JSsm7mjRRvBC78U9gauRWgez3WiMm29nE5Wk70zJKm181RQxVO2m3yqI4ftvqw_Ia3xBCnJPv4AhtiXYrrM7pfGJG8BOp3KsAnv3yCGVGaIvBqnloR1wmjA3adyFM62vbYBol4PviHLUvCeAb-CDmUq89JersfcIV3za-VYoJcUOitJ49Hp3a_TakPOVFXnwkMyJtk53VDEizVLalvVWUqSwYow8ZIsQkw2KtBHDmRbn1EiO6vNbK60_X1hNjmmUcgcJUZvrHeAj_93_ktgguu6xPvAYKMXQmd4RfkDfOmISpnZbmswc-H7rMwgDoVn0HxlgKWT16vp_E5L6d5-H44pRib5f7t8fAWpeazuT0IJYSX4bQeNxkUBu5i2GKcxd6emb1UEcfG22aPu8kLpZMLRneP4GnH9gWW4booPJL1iPH6KowiR_4qfUdLA4OL6Hh5KI0ibye-ZYgxqouHCUYVK--xx6B4011gvBGHcgFv8KbW4N1txgmyar22KSWIRPI0FuicuODpMqVwH6q7q_yX-v_8eT0k2raYUpj4g8amvxprMgSMuZfj-tD4RyFpyWKxilCDG8uVe1LgI0-ownsZ84CYe-qIuZlydVQtwmWm9-wXleclb54vT_4NOcSANL-V3MIrVtRfI4KRk9t63dLdrmznvSVSRD2cZrTYxMjhuLR4BYJW9Y8UiMZHebzvsSdeUNN80msihbfhsYii_3o1-JdSObmGgyq4A4b9iqEy14v0SAgASoJZXUtd2VzdC0yMIYG.m3u8
+#EXTINF:-1,Peliculas Mania
+https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CrQEAwTW0bmzh1rXbyouc14RVIUVTC38a38COnQQDB2MiDtTNXInf4FsJIq4AQLTSQCCbnshoDJ4noPt7vNK_9R0TFvkFcJisy-CXcfGYm3c0GIQqdnrq5vyQD1peyjyZm74ux6V8hg1jxvW3H8SScb0F4zfN9jSKldDI5nfs1QG6115gJeeDbr1DucI_DrLquOb7t9ymalvl1U8g_CNO0br6QQs49byx6JdJ4tUZQSWf87jIoljS5Gg4KZAutxx45hGQ5cAGIqg7dA5AnSrArOBrYu2dYJdszUIWTJ_Zr4V42hfaazKc-SjvuHd9CQsUF5jnA6D1hmPZ9iuJX2B06SA8eWkVXXVW8RMo6KadDttBLCu-16O5Uo6VEDvpoJ0mshN45pfRRgZ3qv1x2x6RID4176NmAH6QHu21w-xdMzYm1dVly6Aw9cdnq3ie6YLcLOaRPDXqB6zgx-tMPgtz-7tMFR_BtLrCDeVthqO69TRNcfAS43DVEMQbUu74YkADAwO8Bnf5LeCZ_SO-K8NNvG6RWAyE2mWGIEtiaTxGd9RDb7-e6fkJexYbq6MWXi2EsyX0IFxTsj4K1BdOUT_-AaefT0b0_jIjKUSZPSzREl__MFhr2UDClsdlCvKQKNt6pJ6BjAxqh7j6BLIsSyt4sYQyobxcPCPBXM9TGXKT20T54GPW_cI4JkVUS9b93AkOjRtQkEQN2bq8vJ38x6L0m7Cmv-28Kqc5L_3BLUpFwXkh_77kJFqGgylxoh-FhLLY6u9b6YgASoJZXUtd2VzdC0yMIYG.m3u8
+#EXTINF:-1,Gogoplay TV
+https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CqQEO2vX6TPnNaEMtpnK7WL5QOY2bdQx55SKr7ImN92_H_95cQzNoVghH88Dbk4BfMlq7USUujZl0r3oxvJhPOC2WbQOUBEc9SXnYrqdrKA4zXHy35tgk-maVQ0ye_IoSet5PmPR9plc8h2r2PhDy6cWQ1JzQzO5lC3UAKoKz-aj4xTlmwD_6KpxnB7ZXHlzwPGUUWlD2xE2soCHvgYhuquOyi9XGq66fo8gOTPIJt_DwvF5MEtkobYYGZf4TWNm4NrgjNAR4WgIT913D2P6ohYHFoX9A2q_c0qxiR-bDVio-sjnPhvHrbp7-3o1I6uZIbEkvRcp0l1rJnP5lsYpRDb1S9rUddQI2WKUu0I93oF3kWoTx5JN4kDnoHTHjjYoF6pa5QtcRZdtXzjWzk2lJCuUtIbqkFPbhdQn_K6iuoCW0BeCPA7bzazjggJhYpcZVF2JaPs1lbYcvJ3tnaZ0SLE5UgwWb6ZTOR9MPEvFF9EN2FwOu7U27wTSmlUw-XAHCFu6oYqBuMUQwaVPUctzu19NJIurywcSnOG6nGL1Hhxs34v3_6y2nPNx4H_-gRYd7XssnKbnhwaqAUpgFg9oMnrNAn-6Lh3T9CU5dmC4rosKfxV8bOu9lBDVUzZF3wsMUjMR0xZNHlILljRip32XrFsdaDqIDWI_3zz1KTZyNhsUVMBCtNdxAGXVV18ooLQQUyI6362dW4AKP3X5HGppq9BiDJ8PJWoaDI91gQAuT5jnvuUP6yABKgl1cy1lYXN0LTEwuwQ.m3u8
+#EXTINF:-1,Canal Mundo Mas
+https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CqoEsJWXAzgHRzD1QiWRxI169lIKYfx5cHXV_nxx2QqLSJ_yTrJnNksgXu5PqTP7ie3n-rs1nsBZM8xoX3vQtPz2bTd1yQsOEvYxYg-_jndunFLj9YBJm3JzLF6xXeRQ58hL9Osautr5LxHFuG8f3eL1JTkINJi2HgOiNP6SI-WbYaRh45UccXIR40-NGOcmRFxnIobwhMpXHM30xnZoU5LCo6jBbTUJE0YwgWoauMnLShK7qxv9GRXmOrp-DFYYtWkkOT3pIZt5_jsgfhrtuHxyKAMOlU-wNS7mmL3Mgy39o_uoBZzOwYH-5vDCsHQ3I1HEsYxYFVo4zZegUmsIMkynqcdhZvzsWXJMhjRa4zCX9JETtFLGiHQDLzcI8QlHVAV1Pdo-QyWm_4KIzOeKHZXTM8lpj07rbmTg76o8idbybImwlddl-fNBgtwV0pI6R0nCJkSBQwZCymCvX9CGHBAEXyrutZPtie_6fpglAt75cnGp7UMRfZaJkazBZG0ddfsr-02fyVs-X5lE8JrPgDJCwIy8ji8uTMSi5o3z7Afzhg5Jx7ejJ5TlycBwvqCp0cd4LjY0vmfbiiRCFxofivS1dmj4ChGd46YitU4bjfHKGFDnRzwIhNYod33710hrA2JXgIL7Li3zOcTM4CoVF5fnfrmaq7v8sTf1m_w8tpHiwgf_EuB1RvZWitHWKoypUGpLNqIXL0dR6DzCUmLp_KdiCl5FonBhGVzshf0aDBpYFZw_8Q8cRQbCPiABKgl1cy1lYXN0LTEwuwQ.m3u8
