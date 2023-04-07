@@ -3186,14 +3186,10 @@ https://cloud7.streamingcnt.net/cnt/educa/chunklist_w960768250.m3u8
 https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
 #EXTINF:-1,EnerGeek Retro op | Chile
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
-#EXTINF:-1,Energeek Fanpop | Chile
+#EXTINF:-1,Modoradio TV | Chile
 https://stream.wifispeed.cl:3247/live/energeek2live.m3u8
-#EXTINF:-1,Energeek Fanpop op | Chile
+#EXTINF:-1,Modoradio TV op | Chile
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
-#EXTINF:-1,Energeek Animate | Chile
-https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
-#EXTINF:-1,Energeek Animate op | Chile
-https://wifispeed.trapemn.tv:1936/infantil/energeek-tres/playlist.m3u8
 #EXTINF:-1,Energeek Radio TV | Chile
 https://stream.wifiexpert.cl/energeek/radio/playlist.m3u8
 #EXTINF:-1,ACS Network Tv | Puerto Rico
@@ -3212,6 +3208,8 @@ https://magicstream.ddns.net:443/magicstream/stream.m3u8
 https://tuvideoonline.com.ar:3937/stream/play.m3u8
 #EXTINF:-1,Retro Magico | Argentina
 https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
+#EXTINF:-1,Maxima TV | ND
+https://cdnhd.iblups.com/hls/Qzfdy1OvHt.m3u8
 #EXTINF:-1,Moni TV HD |
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 #EXTINF:-1,POP TV | Chile
@@ -3306,6 +3304,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziomoovimex/CDN/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1,My Time Movie | Mexico
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1,Orbit TV | Republica Dominicana
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 #EXTINF:-1,PlanetaTV Movie | Chile
 https://tls-cl.cdnz.cl/movie/live/chunklist_w451618268.m3u8
 #EXTINF:-1,PlanetaTV Movie | Chile
@@ -3346,8 +3346,6 @@ https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/
 http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/38447
 #EXTINF:-1,EvaStream TV | Chile
 https://mediacpstreamchile.com:1936/evavision/evavision/playlist.m3u8
-#EXTINF:-1,GenTV HD | Argentina
-https://inliveserver.com:1936/14056/14056/playlist.m3u8
 #EXTINF:-1,Global TV | RD
 https://ss3.domint.net:3136/gtv_str/globalhd/playlist.m3u8
 #EXTINF:-1,Iquique Tv | Chile
@@ -3364,8 +3362,6 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 #EXTINF:-1,Norte Informativo TV | Costa Rica
 https://videohd.live:19360/8076/8076.m3u8
-#EXTINF:-1,Retro Play TV | Chile
-https://v4.tustreaming.cl/retroplaytv/index.m3u8
 #EXTINF:-1,Retro Plus TV | Chile
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
 #EXTINF:-1,Solo Stand Up | Chile
@@ -3382,8 +3378,6 @@ http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 #EXTINF:-1,Eventos Deportivos mix
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:-1,MLB Network | Estados Unidos
-http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1,MLB Channel | PlutoTV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97d882-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f1832274-98b7-4765-ad8b-c533c4382008&userId=&serverSideAds=true
 #EXTINF:-1,PGA Tour | PlutoTV
@@ -3392,6 +3386,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1,Teletrak | Chile
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:-1,Viasat sport | Suecia
+http://persik.by/stream/2944/263250/10249.m3u8
 #EXTINF:-1,Zona TUDN | Mexico
 https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
 #EXTINF:-1,24h TVE | Spain
@@ -3492,6 +3488,8 @@ http://5.79.86.14:8202/;stream.nsv
 http://espora.org:8000/jenpojradio
 #EXTINF:-1,Radio Santa Ana - California
 http://s10.voscast.com:7688/;stream1575414865714/1
+#EXTINF:-1,Radio Exa Zamora
+http://live.exafmzamora.mx:55252/exafmzamora.mp3
 #EXTINF:-1,Radio La Candela 97.7 Zacapu
 http://s4.mexside.net:2094/;stream.nsv
 #EXTINF:-1,Radio La Pantera Jiquilpan
@@ -3506,8 +3504,6 @@ http://20323.live.streamtheworld.com/XHMVSFM_SC
 http://192.99.16.17:9870/;stream/1
 #EXTINF:-1,Radio La Ranchera de Monterrey
 http://streamingcwsradio20.com:9410/stream
-#EXTINF:-1,Radio Bonita Oaxaca
-http://node-19.zeno.fm/05g7pygka3quv?rj-ttl=5&rj-tok=AAABcjgJJpIAM_RurmDtn1qn5g
 #EXTINF:-1,Radio Colombia Salsa Rosa
 http://64.37.50.226:8036/stream
 #EXTINF:-1,Radio Colombia Salsa Dura
@@ -3526,6 +3522,8 @@ http://64.37.50.226:8024/stream
 http://64.37.50.226:8030/stream
 #EXTINF:-1,Radio Ochentas
 http://streaming.radionomy.com/JamendoLounge
+#EXTINF:-1,Radio Recuerdos Inolvidables
+http://167.114.173.72:8030/;
 #EXTINF:-1,Radio Viva El Mariachi
 http://node-03.zeno.fm/gs4xg5s0csmtv?rj-ttl=5&rj-tok=AAABeHBWouQA9m2GhtVlBW72EA
 #EXTINF:-1,Radio Banda Duranguense 93.3
