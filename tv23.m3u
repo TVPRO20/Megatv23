@@ -3070,6 +3070,8 @@ https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
 
 #EXTM3U
 
+#EXTINF:-1,ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO
+http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #EXTINF:-1,4.1 Foro TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1,AZTECA 7 LQ
@@ -3140,6 +3142,8 @@ https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
 https://5f1af61612fb5.streamlock.net/tv43/videotv43_720p/playlist.m3u8
 #EXTINF:-1,JAL: Jalisco TV
 https://5fa5de1a545ae.streamlock.net:443/sisjalisciense/sisjalisciense/playlist.m3u8
+#EXTINF:-1,MIC: Transmedia TV
+http://streamingcws20.com:1935/tmtv/videotmtv/playlist.m3u8
 #EXTINF:-1,MIC: SMRTV Michoacan
 https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/playlist.m3u8
 #EXTINF:-1,MIC: Canal 13 Michoacan
@@ -3154,6 +3158,8 @@ http://189.240.210.28:1935/envivo/puecom/chunklist_w166335976.m3u8
 http://189.240.210.28:1935/envivo/puecom/chunklist_w745561738.m3u8
 #EXTINF:-1,PUE: TV comunicaciones Puebla
 http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
+#EXTINF:-1,QUE: Super 9 Tv
+https://tv.radiohosting.online:1936/TV344/TV344/playlist.m3u8
 #EXTINF:-1,ROO: Canal 10 Cancun
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1,SIN: TVP Mazatlan
@@ -3196,6 +3202,8 @@ https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
 https://stream.wifiexpert.cl/energeek/radio/playlist.m3u8
 #EXTINF:-1,ACS Network Tv | Puerto Rico
 https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
+#EXTINF:-1,Dreiko TV | Panamá
+https://cloudvideo.servers10.com:8081/8138/index.m3u8
 #EXTINF:-1,Frecuencia Musical Tv | USA
 https://cloud2.streaminglivehd.com:1936/8018/8018/playlist.m3u8
 #EXTINF:-1,Geekdot TV | Brasil
@@ -3258,10 +3266,6 @@ http://tv.multitv.live:39001/henrydcruz/EBUIhmWzrI/1886
 http://31.42.185.216:8000/vegastvservice/U6TPQUX/149686
 #EXTINF:-1,Chiquilines | USA
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8
-#EXTINF:-1,Clan TVE | Spain
-http://31.42.185.216:8000/vegastvservice/U6TPQUX/126407
-#EXTINF:-1,ETC TV | Chile
-http://tv.multitv.live:39001/henrydcruz/EBUIhmWzrI/1027
 #EXTINF:-1,ETC TV | Chile
 http://31.42.185.216:8000/vegastvservice/U6TPQUX/4822
 #EXTINF:-1,NTV | Chile
@@ -3312,6 +3316,8 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1,Wording TV HD | Brasil
 https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
+#EXTINF:-1,A3Cine
+http://31.42.185.216:8000/vegastvservice/U6TPQUX/135875
 #EXTINF:-1,A3 Series
 http://31.42.185.216:8000/vegastvservice/U6TPQUX/3698
 #EXTINF:-1,Bjgtjme | Argentina
@@ -3332,6 +3338,8 @@ http://tv.multitv.live:39001/henrydcruz/EBUIhmWzrI/1450
 http://31.42.185.216:8000/vegastvservice/U6TPQUX/3730
 #EXTINF:-1,Extrema TV | Costa Rica
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1,Mega Cine Tv | Republica Dominicana
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 #EXTINF:-1,MOOVIMEX | Mexico
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziomoovimex/CDN/playlist.m3u8
 #EXTINF:-1,Movies Central by tv player | Spain
@@ -3356,6 +3364,8 @@ https://linear-308.frequency.stream/dist/localnow/308/hls/master/playlist.m3u8
 https://linear-309.frequency.stream/dist/localnow/309/hls/master/playlist.m3u8
 #EXTINF:-1,Vix
 https://linear-330.frequency.stream/dist/localnow/330/hls/master/playlist.m3u8
+#EXTINF:-1,Wow Tv | El Salvador
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 #EXTINF:-1,ZZ American Horrors | Estados Unidos
 http://170.178.189.66:1935/live/Stream1/.m3u8
 #EXTINF:-1,America TV | Argentina
@@ -3408,6 +3418,8 @@ http://31.42.185.216:8000/vegastvservice/U6TPQUX/150281
 http://tv.multitv.live:39001/henrydcruz/EBUIhmWzrI/26755
 #EXTINF:-1,Europa Europa
 http://31.42.185.216:8000/vegastvservice/U6TPQUX/7988
+#EXTINF:-1,EvaStream TV | Chile
+https://mediacpstreamchile.com:1936/evavision/evavision/playlist.m3u8
 #EXTINF:-1,GenTV HD | Argentina
 https://inliveserver.com:1936/14056/14056/playlist.m3u8
 #EXTINF:-1,Glitz | Argentina
@@ -3538,6 +3550,8 @@ https://mediacp.us:8081/8002/tracks-v1a1/mono.m3u8
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 #EXTINF:-1,Music Top SD | Argentina
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1,PlanetaTV 90s | Chile
+https://mediacpstreamchile.com:1936/8102/8102/chunklist_w1159975531.m3u8
 #EXTINF:-1,PlanetaTV Music | Chile
 https://tls-cl.cdnz.cl/music/live/chunklist_w260426131.m3u8
 #EXTINF:-1,PlanetaTV Music | Chile
@@ -3604,8 +3618,6 @@ http://streamingcwsradio20.com:9410/stream
 http://node-19.zeno.fm/05g7pygka3quv?rj-ttl=5&rj-tok=AAABcjgJJpIAM_RurmDtn1qn5g
 #EXTINF:-1,Radio India Romantica
 https://max.miradio.in/proxy/indiaromantica/stream
-#EXTINF:-1,Radio Colombia Salsa Rosa
-http://64.37.50.226:8036/stream
 #EXTINF:-1,Radio Colombia Salsa Dura
 http://64.37.50.226:8054/stream
 #EXTINF:-1,Radio Colombia Bachata
@@ -3636,8 +3648,6 @@ http://france1.coollabel-productions.com:8142/;
 http://194.97.151.139/classic-perlen
 #EXTINF:-1,Radio Super Music FM
 http://node-09.zeno.fm:80/agdhpd11808uv
-#EXTINF:-1,Delmi Series Hits | Espana
-https://stream-51.zeno.fm/iurgzhzglduvv?zs=QsfmoEvoSvOKAvUTtari2g
 #EXTINF:-1,Animax Radio
 http://node-13.zeno.fm:80/0guzsnntsnhvv
 #EXTINF:-1,Radio Michy Miau FM
@@ -3648,8 +3658,8 @@ http://argentina.republicahosting.com:8158/;
 https://modoradiocl.radioca.st/live
 #EXTINF:-1,Radio Conexion Latam
 https://stream-41.zeno.fm/yxynr8zy71zuv?zs=Q53Ef4h_REylYh2kLlkhsQ&aw_0_req_lsid=4eb47ee5d8a0b937c4c3f51c4ce10329&triton-uid=cookie%3A01f3e335-0842-4c59-8141-c796024c45b9
-#EXTINF:-1,Radio Voice Over Radio
-https://server1.streamingradio.online/proxy/voiceoverradio/stream
+#EXTINF:-1,Radio Electronica
+https://strm112.1.fm/electronica_mobile_mp3
 #EXTINF:-1,Radio Electronica CircuitPride
 http://185.33.21.112/circuitpride_128?icy=http
 #EXTINF:-1,Radio Pop
@@ -4266,10 +4276,14 @@ http://31.42.185.216:8000/vegastvservice/U6TPQUX/129321
 http://tv.multitv.live:39001/henrydcruz/EBUIhmWzrI/37746
 #EXTINF:-1,El Chavo del 8 | 24/7
 http://31.42.185.216:8000/vegastvservice/U6TPQUX/129315
+#EXTINF:-1,El Chavo Animado | 24/7
+http://31.42.185.216:8000/vegastvservice/U6TPQUX/131452
 #EXTINF:-1,El Chapulin Colorado | 24/7
 http://tv.multitv.live:39001/henrydcruz/EBUIhmWzrI/37765
 #EXTINF:-1,El Chapulin Colorado | 24/7
 http://31.42.185.216:8000/vegastvservice/U6TPQUX/129323
+#EXTINF:-1,Chespirito | 24/7
+http://31.42.185.216:8000/vegastvservice/U6TPQUX/129322
 #EXTINF:-1,Futurama | Chile
 http://tv.multitv.live:39001/henrydcruz/EBUIhmWzrI/37835
 #EXTINF:-1,ATG (432p)
@@ -4306,6 +4320,8 @@ http://109.205.166.68/server124/idman_az/index.m3u8
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1,KBP Sports (720p)
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1,Monterrico TV (1080p) [Not 24/7]
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 #EXTINF:-1,Motorvision TV (720p)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60817e1aa6997500072d0d6d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc51b0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ede55dfe-45a7-4aa8-a283-7b8008be8d2e
 #EXTINF:-1,New Japan Pro Wrestling World (540p)
