@@ -3070,8 +3070,6 @@ https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
 
 #EXTM3U
 
-#EXTINF:-1,ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO
-http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #EXTINF:-1,4.1 Foro TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1,AZTECA 7 LQ
@@ -3112,8 +3110,6 @@ https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 #EXTINF:-1,CAM: TRC Television
 https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8
-#EXTINF:-1,CHP: Canal 10
-https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 #EXTINF:-1,CHH: Canal 28 Chihuahua
 https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
 #EXTINF:-1,CHH: CANAL 44
@@ -3188,17 +3184,17 @@ http://radio.ilce.edu.mx:8000/radioilce.mp3
 http://cultural-crtvg.flumotion.com/chunks.m3u8
 #EXTINF:-1,Educa  TV | Ecuador
 https://cloud7.streamingcnt.net/cnt/educa/chunklist_w960768250.m3u8
-#EXTINF:-1,EnerGeek Retro | Chile
-https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
 #EXTINF:-1,EnerGeek Retro op | Chile
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
-#EXTINF:-1,Modoradio TV | Chile
-https://stream.wifispeed.cl:3247/live/energeek2live.m3u8
 #EXTINF:-1,Modoradio TV op | Chile
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 #EXTINF:-1,CCP Radio | Chile
+https://wifiexpert-1.energeek.cl/energeek/canal-3/playlist.m3u8
+#EXTINF:-1,CCP Radio op | Chile
 https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
 #EXTINF:-1,Energeek Radio TV | Chile
+https://wifiexpert-1.energeek.cl/energeek/radio/playlist.m3u8
+#EXTINF:-1,Energeek Radio TV op | Chile
 https://stream.wifiexpert.cl/energeek/radio/playlist.m3u8
 #EXTINF:-1,ACS Network Tv | Puerto Rico
 https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
@@ -3216,8 +3212,6 @@ https://magicstream.ddns.net:443/magicstream/stream.m3u8
 https://kali.vdopanel.com:3704/stream/play.m3u8
 #EXTINF:-1,Retro Magico | Argentina
 https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
-#EXTINF:-1,Maxima TV | ND
-https://cdnhd.iblups.com/hls/Qzfdy1OvHt.m3u8
 #EXTINF:-1,Mi TV Television Clasica | Estados Unidos
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 #EXTINF:-1,Moni TV HD |
@@ -3266,8 +3260,6 @@ http://tv.multitv.live:39001/henrydcruz/EBUIhmWzrI/1886
 http://31.42.185.216:8000/vegastvservice/U6TPQUX/149686
 #EXTINF:-1,Chiquilines | USA
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8
-#EXTINF:-1,ETC TV | Chile
-http://31.42.185.216:8000/vegastvservice/U6TPQUX/4822
 #EXTINF:-1,NTV | Chile
 https://marine2.miplay.cl/ntv/playlist.m3u8
 #EXTINF:-1,PBS Kids (Inglés) | Estados Unidos
@@ -3276,10 +3268,6 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1,Planeta Junior TV | Spain
 http://deaplaneta-planetakidz-1-es.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1,PlanetaTV Kids | Chile
-https://tls-cl.cdnz.cl/planetatvkids/live/chunklist_w1953958808.m3u8
-#EXTINF:-1,PlanetaTV Kids | Chile
-https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
 #EXTINF:-1,Retro Infantil | ND
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 #EXTINF:-1,Tooncast | Colombia
@@ -3308,6 +3296,10 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 https://stream.ichibantv.ga:3741/live/aniplustvlive.m3u8
 #EXTINF:-1,Aniplus HD | Asia
 http://210.210.155.37/dr9445/h/h02/index.m3u8
+#EXTINF:-1,ETC TV | Chile
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/8969
+#EXTINF:-1,ETC TV | Chile
+http://31.42.185.216:8000/vegastvservice/U6TPQUX/4822
 #EXTINF:-1,Kanade |
 https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
 #EXTINF:-1,Kpop Tv Play | Brasil
@@ -3317,9 +3309,13 @@ https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1,Wording TV HD | Brasil
 https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 #EXTINF:-1,A3Cine
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/283299
+#EXTINF:-1,A3Cine
 http://31.42.185.216:8000/vegastvservice/U6TPQUX/135875
 #EXTINF:-1,A3 Series
 http://31.42.185.216:8000/vegastvservice/U6TPQUX/3698
+#EXTINF:-1,Bayres TV | Argentina
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1,Bjgtjme | Argentina
 https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8
 #EXTINF:-1,Cine Real | Estados Unidos
@@ -3332,6 +3328,8 @@ http://tv.multitv.live:39001/henrydcruz/EBUIhmWzrI/26754
 http://31.42.185.216:8000/vegastvservice/U6TPQUX/3729
 #EXTINF:-1,De Pelicula Clasico | Mexico
 http://tv.multitv.live:39001/henrydcruz/EBUIhmWzrI/69583
+#EXTINF:-1,De Pelicula Clasico | Mexico
+http://31.42.185.216:8000/vegastvservice/U6TPQUX/131133
 #EXTINF:-1,De Pelicula Plus | Mexico
 http://tv.multitv.live:39001/henrydcruz/EBUIhmWzrI/1450
 #EXTINF:-1,De Pelicula Plus | Mexico
@@ -3348,10 +3346,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-sams
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1,Orbit TV | Republica Dominicana
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
-#EXTINF:-1,PlanetaTV Movie | Chile
-https://tls-cl.cdnz.cl/movie/live/chunklist_w451618268.m3u8
-#EXTINF:-1,PlanetaTV Movie | Chile
-https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 #EXTINF:-1,Tu Cine | Estados Unidos
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucineeurope-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1,Tu Cine | Estados Unidos
@@ -3424,8 +3418,6 @@ https://mediacpstreamchile.com:1936/evavision/evavision/playlist.m3u8
 https://inliveserver.com:1936/14056/14056/playlist.m3u8
 #EXTINF:-1,Glitz | Argentina
 http://31.42.185.216:8000/vegastvservice/U6TPQUX/4956
-#EXTINF:-1,Global TV | RD
-https://ss3.domint.net:3136/gtv_str/globalhd/playlist.m3u8
 #EXTINF:-1,Iquique Tv | Chile
 https://marine2.miplay.cl/arcatel/iquiquetv720/tracks-v1a1/mono.m3u8
 #EXTINF:-1,La Popular TV | Chile
@@ -3580,20 +3572,14 @@ http://srmx.ddns.net:8100/;
 http://192.99.44.11:9861/stream/1/
 #EXTINF:-1,Radio 40 Principales Morelia
 http://s4.mexside.net:7040/;
-#EXTINF:-1,Radio Nicolaíta Morelia
-http://148.216.0.21:8000/rnic.m3u
 #EXTINF:-1,Radio Aguerrido Morelia
 https://srstreaming.com/proxy/guadalu1?mp=/stream&1609133961240
 #EXTINF:-1,Radio Maxima 100.9 fm Morelia
 http://omegaingenieria.com:8034/stream/1/
 #EXTINF:-1,Radio La Poderosa Uruapan Michoacán
 http://5.79.86.14:8150/;stream.nsv
-#EXTINF:-1,Radio La Mexicana 102.1 Uruapan
-http://5.79.86.14:8199/;stream.nsv
 #EXTINF:-1,Radio Candela 91.1 Uruapan
 http://167.114.116.223:3334/stream/1/streams.mp3
-#EXTINF:-1,Radio Los 40 Principales Uruapan
-http://5.79.86.14:8202/;stream.nsv
 #EXTINF:-1,Radio Comunitaria Jenpoj Mexico
 http://espora.org:8000/jenpojradio
 #EXTINF:-1,Radio Santa Ana - California
@@ -3618,12 +3604,12 @@ http://streamingcwsradio20.com:9410/stream
 http://node-19.zeno.fm/05g7pygka3quv?rj-ttl=5&rj-tok=AAABcjgJJpIAM_RurmDtn1qn5g
 #EXTINF:-1,Radio India Romantica
 https://max.miradio.in/proxy/indiaromantica/stream
+#EXTINF:-1,Radio Colombia Salsa Rosa
+http://64.37.50.226:8036/stream
 #EXTINF:-1,Radio Colombia Salsa Dura
 http://64.37.50.226:8054/stream
 #EXTINF:-1,Radio Colombia Bachata
 http://perseus.shoutca.st:8312/;stream/1
-#EXTINF:-1,Radio Colombia Vallenata
-http://64.37.50.226:8042/stream
 #EXTINF:-1,Radio Colombia Crossover
 http://64.37.50.226:8006/stream
 #EXTINF:-1,Radio Colombia la Viejoteca de Richy
@@ -3648,6 +3634,8 @@ http://france1.coollabel-productions.com:8142/;
 http://194.97.151.139/classic-perlen
 #EXTINF:-1,Radio Super Music FM
 http://node-09.zeno.fm:80/agdhpd11808uv
+#EXTINF:-1,Delmi Series Hits | Espana
+https://stream-51.zeno.fm/iurgzhzglduvv?zs=QsfmoEvoSvOKAvUTtari2g
 #EXTINF:-1,Animax Radio
 http://node-13.zeno.fm:80/0guzsnntsnhvv
 #EXTINF:-1,Radio Michy Miau FM
@@ -3658,8 +3646,8 @@ http://argentina.republicahosting.com:8158/;
 https://modoradiocl.radioca.st/live
 #EXTINF:-1,Radio Conexion Latam
 https://stream-41.zeno.fm/yxynr8zy71zuv?zs=Q53Ef4h_REylYh2kLlkhsQ&aw_0_req_lsid=4eb47ee5d8a0b937c4c3f51c4ce10329&triton-uid=cookie%3A01f3e335-0842-4c59-8141-c796024c45b9
-#EXTINF:-1,Radio Electronica
-https://strm112.1.fm/electronica_mobile_mp3
+#EXTINF:-1,Radio Voice Over Radio
+https://server1.streamingradio.online/proxy/voiceoverradio/stream
 #EXTINF:-1,Radio Electronica CircuitPride
 http://185.33.21.112/circuitpride_128?icy=http
 #EXTINF:-1,Radio Pop
@@ -3774,8 +3762,6 @@ https://ia904604.us.archive.org/33/items/y-2-mate.is-caminos-de-michoacan-pelicu
 https://ia801502.us.archive.org/3/items/elchavo_201709/El%20Chavo%20del%208%20-%20Vacaciones%20en%20Acapulco.mp4
 #EXTINF:-1,La Presidenta Municipal (1975)
 https://ia801503.us.archive.org/11/items/LaIndiaMariaLaPresidentaMunicipal/La%20India%20Maria%20La%20Presidenta%20Municipal.mp4
-#EXTINF:-1,El Libro de Piedra (1969)
-https://ia801507.us.archive.org/16/items/ElLibroDePiedra/el%20libro%20de%20piedra.mp4
 #EXTINF:-1,Caperucita y Pulgarcito Contra los Monstruos (1960)
 https://ia801504.us.archive.org/9/items/CaperusitaYPulgarcitoContraLosLobos/Caperusita%20y%20pulgarcito%20contra%20los%20lobos.mp4
 #EXTINF:-1,El Dolor de Pagar la Renta (1960)
@@ -4308,8 +4294,6 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:-1,fubo Sports Network (720p)
 https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
-#EXTINF:-1,Fuel TV (1080p)
-http://fueltv-fueltv-14-nl.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Glory Kickboxing (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
 #EXTINF:-1,Hard Knocks (1080p)
@@ -4320,8 +4304,6 @@ http://109.205.166.68/server124/idman_az/index.m3u8
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1,KBP Sports (720p)
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1,Monterrico TV (1080p) [Not 24/7]
-http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 #EXTINF:-1,Motorvision TV (720p)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60817e1aa6997500072d0d6d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc51b0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ede55dfe-45a7-4aa8-a283-7b8008be8d2e
 #EXTINF:-1,New Japan Pro Wrestling World (540p)
