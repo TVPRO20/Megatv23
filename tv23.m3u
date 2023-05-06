@@ -3103,6 +3103,8 @@ https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 #EXTINF:-1,Central FM
 https://5fe2654d6127d.streamlock.net/centralfm/smil:centralfm.smil/playlist.m3u8
 #EXTINF:-1,AGU: Presumiendo Mexico
+http://streamingcws10.com:1935/telemetrika/videotelemetrika/playlist.m3u8
+#EXTINF:-1,AGU: Presumiendo Mexico
 https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
 #EXTINF:-1,AGU: Canal 26
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
@@ -3110,8 +3112,6 @@ http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8
 #EXTINF:-1,CHP: Canal 10
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
-#EXTINF:-1,CHH: Canal 28 Chihuahua
-https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
 #EXTINF:-1,CHH: CANAL 44
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 #EXTINF:-1,CMX: Efekto TV
@@ -3138,8 +3138,6 @@ https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
 https://5f1af61612fb5.streamlock.net/tv43/videotv43_720p/playlist.m3u8
 #EXTINF:-1,JAL: Jalisco TV
 https://5fa5de1a545ae.streamlock.net:443/sisjalisciense/sisjalisciense/playlist.m3u8
-#EXTINF:-1,MIC: SMRTV Michoacan
-https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/playlist.m3u8
 #EXTINF:-1,MIC: Canal 13 Michoacan
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
 #EXTINF:-1,PUE: Canal 16.1
@@ -3166,8 +3164,6 @@ https://5ca3e84a76d30.streamlock.net/gpacifico2/smil:mochis.smil/playlist.m3u8
 https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/chunklist_w1903526755_b1428000_sleng.m3u8
 #EXTINF:-1,SON: Telemax Sonora
 http://s5.mexside.net:1935/telemax/telemax/chunklist_w586584359.m3u8
-#EXTINF:-1,TAM: Impactovision TV matamoros
-https://5ca9af4645e15.streamlock.net/impactovision/videoimpactovision/chunklist_w1470907735.m3u8
 #EXTINF:-1,TLA: Tlaxcala Television
 https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8
 #EXTINF:-1,VER: TVMAS Veracruz
@@ -3182,8 +3178,12 @@ http://radio.ilce.edu.mx:8000/radioilce.mp3
 http://cultural-crtvg.flumotion.com/chunks.m3u8
 #EXTINF:-1,Educa  TV | Ecuador
 https://cloud7.streamingcnt.net/cnt/educa/chunklist_w960768250.m3u8
+#EXTINF:-1,EnerGeek Retro | Chile
+https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
 #EXTINF:-1,EnerGeek Retro op | Chile
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
+#EXTINF:-1,Modoradio TV | Chile
+https://stream.wifispeed.cl:3247/live/energeek2live.m3u8
 #EXTINF:-1,Modoradio TV op | Chile
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 #EXTINF:-1,CCP Radio | Chile
@@ -3200,6 +3200,8 @@ https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
 #EXTINF:-1,Frecuencia Musical Tv | USA
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
+#EXTINF:-1,Geekdot TV | Brasil
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1,Latino Kids TV | Uruguay
 https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
 #EXTINF:-1,Lena Radio TV
@@ -3212,8 +3214,6 @@ https://kali.vdopanel.com:3704/stream/play.m3u8
 https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 #EXTINF:-1,Maxima TV | ND
 https://cdnhd.iblups.com/hls/Qzfdy1OvHt.m3u8
-#EXTINF:-1,Mi TV Television Clasica | Estados Unidos
-https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 #EXTINF:-1,Moni TV HD |
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 #EXTINF:-1,POP TV | Chile
@@ -3226,6 +3226,8 @@ https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 https://panel.miplay.cl:8081/spectrumchannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Tele Estrella | Argentina
 https://stmvideo2.livecastv.com/telestrella/telestrella/chunklist.m3u8
+#EXTINF:-1,Tigueritos TV | Republica Dominicana
+https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 #EXTINF:-1,Tv Costa | Chile
 https://tv.clientetvstudio.net:3486/live/costatv1live.m3u8
 #EXTINF:-1,VariedTV | ND
@@ -3236,6 +3238,8 @@ https://cloudvideo.servers10.com:8081/8198/index.m3u8
 http://31.42.185.216:8000/vegastvservice/U6TPQUX/151648
 #EXTINF:-1,Boing | Spain
 http://31.42.185.216:8000/vegastvservice/U6TPQUX/126236
+#EXTINF:-1,Boomerang | Peru
+http://tv.multitv.live:39001/henrydcruz/EBUIhmWzrI/35825
 #EXTINF:-1,Canal Chicos Ipe | Perú
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1,Cartoon Network | México
@@ -3252,8 +3256,6 @@ http://tv.multitv.live:39001/henrydcruz/EBUIhmWzrI/1886
 http://31.42.185.216:8000/vegastvservice/U6TPQUX/149686
 #EXTINF:-1,Chiquilines | USA
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8
-#EXTINF:-1,Clan TVE | Spain
-http://31.42.185.216:8000/vegastvservice/U6TPQUX/126407
 #EXTINF:-1,NTV | Chile
 https://marine2.miplay.cl/ntv/playlist.m3u8
 #EXTINF:-1,PBS Kids (Inglés) | Estados Unidos
@@ -3299,9 +3301,9 @@ http://210.210.155.37/dr9445/h/h02/index.m3u8
 #EXTINF:-1,ETC TV | Chile
 http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/8969
 #EXTINF:-1,ETC TV | Chile
+http://tv.multitv.live:39001/henrydcruz/EBUIhmWzrI/1027
+#EXTINF:-1,ETC TV | Chile
 http://31.42.185.216:8000/vegastvservice/U6TPQUX/4822
-#EXTINF:-1,Kpop Tv Play | Brasil
-https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1,Loading Brasil | Brasil
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1,Locomotion | República Dominicana
@@ -3310,6 +3312,8 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 #EXTINF:-1,A3Cine
 http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/283299
+#EXTINF:-1,A3Cine
+http://31.42.185.216:8000/vegastvservice/U6TPQUX/135875
 #EXTINF:-1,A3 Series
 http://31.42.185.216:8000/vegastvservice/U6TPQUX/3698
 #EXTINF:-1,Bayres TV | Argentina
@@ -3320,8 +3324,6 @@ https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/
 http://31.42.185.216:8000/vegastvservice/U6TPQUX/138475
 #EXTINF:-1,De Pelicula | Estados Unidos
 http://31.42.185.216:8000/vegastvservice/U6TPQUX/131132
-#EXTINF:-1,De Pelicula | Mexico
-http://tv.multitv.live:39001/henrydcruz/EBUIhmWzrI/26754
 #EXTINF:-1,De Pelicula | Mexico
 http://31.42.185.216:8000/vegastvservice/U6TPQUX/3729
 #EXTINF:-1,De Pelicula Clasico | Mexico
@@ -3376,12 +3378,16 @@ http://tv.multitv.live:39001/henrydcruz/EBUIhmWzrI/22097
 http://31.42.185.216:8000/vegastvservice/U6TPQUX/3565
 #EXTINF:-1,Canal 4 Jujuy | Argentina
 https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/chunklist_w1908572533_b316000.m3u8
+#EXTINF:-1,Canal 4 San Juan | Argentina
+http://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w1603184235.m3u8
 #EXTINF:-1,Canal 13 | Chile
 http://tv.multitv.live:39001/henrydcruz/EBUIhmWzrI/153867
 #EXTINF:-1,Canal 13 | Chile
 http://31.42.185.216:8000/vegastvservice/U6TPQUX/3315
 #EXTINF:-1,Canal 74 TV | Chile
 https://stmv1.zcasthn.com.br/canal74hd/canal74hd/playlist.m3u8
+#EXTINF:-1,Canal Punto 99 | Chile
+https://stmv1.zcasthn.com.br/juanantunez/juanantunez/playlist.m3u8
 #EXTINF:-1,Caracol TV | Colombia
 http://tv.multitv.live:39001/henrydcruz/EBUIhmWzrI/22146
 #EXTINF:-1,Caracol TV | Colombia
@@ -3391,7 +3397,11 @@ https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 #EXTINF:-1,Colome TV | NY
 https://ss5.domint.net:3170/cotv_str/colometv/chunklist_w793077443.m3u8
 #EXTINF:-1,Chilevision | Chile
+http://tv.multitv.live:39001/henrydcruz/EBUIhmWzrI/1011
+#EXTINF:-1,Chilevision | Chile
 http://tv.multitv.live:39001/henrydcruz/EBUIhmWzrI/140901
+#EXTINF:-1,Comedy Central | México
+http://tv.multitv.live:39001/henrydcruz/EBUIhmWzrI/26719
 #EXTINF:-1,Comedy Central | México
 http://31.42.185.216:8000/vegastvservice/U6TPQUX/150324
 #EXTINF:-1,Distrito Comedia | México
@@ -3410,6 +3420,8 @@ http://tv.multitv.live:39001/henrydcruz/EBUIhmWzrI/26755
 http://31.42.185.216:8000/vegastvservice/U6TPQUX/7988
 #EXTINF:-1,EvaStream TV | Chile
 https://mediacpstreamchile.com:1936/evavision/evavision/playlist.m3u8
+#EXTINF:-1,Glitz | Argentina
+http://31.42.185.216:8000/vegastvservice/U6TPQUX/4956
 #EXTINF:-1,Global TV | RD
 https://ss3.domint.net:3136/gtv_str/globalhd/playlist.m3u8
 #EXTINF:-1,Iquique Tv | Chile
@@ -3424,6 +3436,8 @@ https://cloudvideo.servers10.com:8081/8214/index.m3u8
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1,NET TV | Argentina
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
+#EXTINF:-1,Norte Informativo TV | Costa Rica
+https://videohd.live:19360/8076/8076.m3u8
 #EXTINF:-1,RCN | Colombia
 http://31.42.185.216:8000/vegastvservice/U6TPQUX/4811
 #EXTINF:-1,Retro Play TV | Chile
@@ -3442,6 +3456,8 @@ https://video20.klm99.com:3558/live/teleredlive.m3u8
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w1149197827.m3u8
 #EXTINF:-1,TeleSUR | Costa Rica
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:-1,Television Publica | Argentina
+http://tv.multitv.live:39001/henrydcruz/EBUIhmWzrI/116203
 #EXTINF:-1,Television Publica | Argentina
 http://31.42.185.216:8000/vegastvservice/U6TPQUX/3534
 #EXTINF:-1,TL Novelas | Mexico
@@ -3500,6 +3516,8 @@ https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1,SKY News | Reino Unido
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1,Chic Magazine | Chile
+https://paneltv.online:1936/8056/8056/playlist.m3u8
 #EXTINF:-1,Fashion Tv | Francia
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 #EXTINF:-1,Cancionero TV | Spain
@@ -3586,8 +3604,6 @@ http://192.99.16.17:9870/;stream/1
 http://streamingcwsradio20.com:9410/stream
 #EXTINF:-1,Radio Bonita Oaxaca
 http://node-19.zeno.fm/05g7pygka3quv?rj-ttl=5&rj-tok=AAABcjgJJpIAM_RurmDtn1qn5g
-#EXTINF:-1,Radio India Romantica
-https://max.miradio.in/proxy/indiaromantica/stream
 #EXTINF:-1,Radio Colombia Salsa Rosa
 http://64.37.50.226:8036/stream
 #EXTINF:-1,Radio Colombia Salsa Dura
@@ -4232,8 +4248,6 @@ http://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8
 http://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 #EXTINF:-1,TV Ferrol
 https://directo.tvferrol.es/tv.m3u8
-#EXTINF:-1,Tvg2 HD/Eventos 1
-http://events1-crtvg.flumotion.com/crtvg/events1_high/chunks.m3u8
 #EXTINF:-1,Tvg2 HD/Eventos 2
 http://events2-crtvg.flumotion.com/crtvg/events2_high/chunks.m3u8
 #EXTINF:-1,Tvg2 HD/Eventos 3
@@ -4248,12 +4262,16 @@ http://31.42.185.216:8000/vegastvservice/U6TPQUX/129321
 http://tv.multitv.live:39001/henrydcruz/EBUIhmWzrI/37746
 #EXTINF:-1,El Chavo del 8 | 24/7
 http://31.42.185.216:8000/vegastvservice/U6TPQUX/129315
+#EXTINF:-1,El Chavo Animado | 24/7
+http://31.42.185.216:8000/vegastvservice/U6TPQUX/131452
 #EXTINF:-1,El Chapulin Colorado | 24/7
 http://tv.multitv.live:39001/henrydcruz/EBUIhmWzrI/37765
 #EXTINF:-1,El Chapulin Colorado | 24/7
 http://31.42.185.216:8000/vegastvservice/U6TPQUX/129323
 #EXTINF:-1,Chespirito | 24/7
 http://31.42.185.216:8000/vegastvservice/U6TPQUX/129322
+#EXTINF:-1,Futurama | Chile
+http://tv.multitv.live:39001/henrydcruz/EBUIhmWzrI/37835
 #EXTINF:-1,ATG (432p)
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 #EXTINF:-1,Canal Motor (720p)
@@ -4286,8 +4304,6 @@ http://109.205.166.68/server124/idman_az/index.m3u8
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1,KBP Sports (720p)
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1,Monterrico TV (1080p) [Not 24/7]
-http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 #EXTINF:-1,Motorvision TV (720p)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60817e1aa6997500072d0d6d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc51b0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ede55dfe-45a7-4aa8-a283-7b8008be8d2e
 #EXTINF:-1,New Japan Pro Wrestling World (540p)
