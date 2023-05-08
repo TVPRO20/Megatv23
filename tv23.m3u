@@ -1,33 +1,7 @@
-#EXTINF:-1,AZTECA UNO I
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE05.m3u8
-#EXTINF:-1,AZTECA UNO
-https://v-sd.mybtv.net/live/760/1920x1080.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1,LAS ESTRELLAS centro
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdnea=exp=1664336881~acl=/*~hmac=1ec2d2fbd8abe6748c87141ee89bc75436f4eec73a5811fe4190ce6cc435f208
-#EXTINF:-1,LAS ESTRELLAS I
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
-#EXTINF:-1,LAS ESTRELLAS Ch
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2037/PROFILE05.m3u8
-#EXTINF:-1,LAS ESTRELLAS Tj
-https://v-sd.mybtv.net/live/530/index.m3u8?
-#EXTINF:-1,LAS ESTRELLAS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL52/PROFILE05.m3u8
 #EXTINF:-1,LAS ESTRELLAS INTERNACIONAL
 https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
-#EXTINF:-1,BAJÍO LAS ESTRELLAS I
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2237/PROFILE05.m3u8?
-#EXTINF:-1,AZTECA BAJÍO I
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2336/PROFILE05.m3u8?
-#EXTINF:-1,TELEVISA DEL BAJÍO I
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2355/PROFILE05.m3u8?
-#EXTINF:-1,TELEVISA GUADALAJARA
-https://linear-402.frequency.stream/402/hls/master/playlist_1920x1080.m3u8
-#EXTINF:-1,TELEVISA PUEBLA CANAL 4
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2312/PROFILE05.m3u8?
-#EXTINF:-1,TELEVISA MONTERREY CANAL 8
-https://linear-403.frequency.stream/403/hls/master/playlist_1920x1080.m3u8
-#EXTINF:-1,SUMA TV 13.1
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/6986b84809734a3eb8bb110f7c96456b/chunklist_b4628000.m3u8?p=79
 #EXTINF:-1,TVT Tabasco
 https://5e50264bd6766.streamlock.net:443/tabasco/videotabasco/playlist.m3u8
 #EXTINF:-1,TVMÁS
@@ -38,8 +12,6 @@ https://stream.oursnetworktv.com/latin/SRTC/index.m3u8?
 https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m3u8
 #EXTINF:-1,Canal Del Congreso 45.2
 https://edgeplay.canaldelcongreso.gob.mx/live_sd2/smil:canal-sd2.smil/playlist.m3u8
-#EXTINF:-1,ONCE I
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL111/PROFILE05.m3u8
 #EXTINF:-1,CANAL 22
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist_1920x1080.m3u8?
 #EXTINF:-1,CANAL 22.2
@@ -50,20 +22,14 @@ https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/playlist.m3u8?
 https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/chunklist_w854109519.m3u8?
 #EXTINF:-1,CAPITAL21
 https://video.cdmx.gob.mx/livestream/stream.m3u8?
-#EXTINF:-1,MEXIQUENSE TELEVISIÓN I
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL44/PROFILE05.m3u8
 #EXTINF:-1,MEXIQUENSE TELEVISIÓN 2
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?
-#EXTINF:-1,CANAL 10 QUERÉTARO
-http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8?
 #EXTINF:-1,TV Migrante
 https://60ed5b6d0df78.streamlock.net:1936/prueba/prueba/playlist.m3u8
 #EXTINF:-1,SET TV 26.1
 http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
 #EXTINF:-1,CANAL 10 Y HERALDO Tv
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,TV4.1 GUANAJUATO I
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2357/PROFILE05.m3u8
 #EXTINF:-1,TV4.1 GUANAJUATO
 https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
 #EXTINF:-1,TV4.2 GUANAJUATO
@@ -76,32 +42,12 @@ http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/chunklist_w1756871
 https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,MVS TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
-#EXTINF:-1,IMAGEN TELEVISION I
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2298/PROFILE05.m3u8?
-#EXTINF:-1,AZTECA 7  I
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE05.m3u8?
-#EXTINF:-1,CANAL 5 I
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE05.m3u8?
-#EXTINF:-1,NU9VE II
-https://linear-352.frequency.stream/352/hls/master/playlist.m3u8
-#EXTINF:-1,CANAL 6 CDMX I
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE05.m3u8
-#EXTINF:-1,MILENIO NOTICIAS
-https://v-sd.mybtv.net/live/521/1920x1080.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1,FORO TV I
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL104/PROFILE05.m3u8
 #EXTINF:-1,FORO TV II
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1,N+MEDIA
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_6.m3u8
-#EXTINF:-1,ADN 40 I
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2/PROFILE05.m3u8
-#EXTINF:-1,TELEFORMULA
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL161/PROFILE05.m3u8?
 #EXTINF:-1,AMX NOTICIAS
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1,PROFOXMIX
-http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 #EXTINF:-1,MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
 #EXTINF:-1,OXIGENO
@@ -150,96 +96,12 @@ http://ventdelnord.tv:8080/mola/directe.m3u8
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 #EXTINF:-1,ÓČKO STAR
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.m3u8
-#EXTINF:-1,ARABICA TV
-http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1,Azteca Uno Web
 https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8
-#EXTINF:-1,Azteca America San Diego SD
-https://v-sd.mybtv.net/live/508/768x432.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1,Azteca America San Diego HD
-https://v-sd.mybtv.net/live/508/1280x720.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1,Azteca America San Diego FHD
-https://v-sd.mybtv.net/live/508/1920x1080.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1,Azteca 7 Web
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-#EXTINF:-1,Azteca 7 Tijuana
-https://v-sd.mybtv.net/live/502.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1,A+ Tij
-https://v-sd.mybtv.net/live/503.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1,A+ Tij
-https://v-sd.mybtv.net/live/503/768x432.m3u8?env=prd&uid=-1&x=1
 #EXTINF:-1,ADN 40 Web
 https://dai.google.com/linear/hls/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
-#EXTINF:-1,ADN 40 TJ
-https://v-sd.mybtv.net/live/484/768x432.m3u8?env=prd&uid=-1&x=1
-#EXTINF:-1,TELEMUNDO INTERNACIONAL
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL85/PROFILE05.m3u8?
-#EXTINF:-1,TLNOVELAS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE05.m3u8?
-#EXTINF:-1,UNICABLE
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL218/PROFILE05.m3u8?
-#EXTINF:-1,DISTRITO COMEDIA
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL272/PROFILE05.m3u8?
-#EXTINF:-1,BIT ME
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2591/PROFILE05.m3u8?
-#EXTINF:-1,CLIC
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL725/PROFILE05.m3u8?
-#EXTINF:-1,MUNDO
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL276/PROFILE05.m3u8?
-#EXTINF:-1,CORAZON
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL250/PROFILE05.m3u8?
-#EXTINF:-1,CINEMA
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL425/PROFILE05.m3u8?
-#EXTINF:-1,DE PELICULA PLUS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL442/PROFILE05.m3u8
-#EXTINF:-1,DE PELICULA
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL335/PROFILE05.m3u8
-#EXTINF:-1,GOLDEN
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL123/PROFILE05.m3u8?
-#EXTINF:-1,GOLDEN PLUS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL436/PROFILE05.m3u8?
-#EXTINF:-1,GOLDEN EDGE
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL484/PROFILE05.m3u8?
-#EXTINF:-1,STUDIO UNIVERSAL
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL492/PROFILE05.m3u8?
-#EXTINF:-1,LIFETIME
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL379/PROFILE05.m3u8?
-#EXTINF:-1,TNT
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL435/PROFILE05.m3u8?
-#EXTINF:-1,STAR CHANNEL
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE05.m3u8?
-#EXTINF:-1,europe europe
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL136/PROFILE05.m3u8?
-#EXTINF:-1,Sony Channel
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE05.m3u8?
-#EXTINF:-1,Warner
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE05.m3u8?
-#EXTINF:-1,Universal TV
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE05.m3u8?
-#EXTINF:-1,FX
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE05.m3u8?
-#EXTINF:-1,A&E
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL211/PROFILE05.m3u8?
-#EXTINF:-1,Cinecanal
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL430/PROFILE05.m3u8?
-#EXTINF:-1,AMC
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL444/PROFILE05.m3u8?
-#EXTINF:-1,Space
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL445/PROFILE05.m3u8?
-#EXTINF:-1,Cinemax
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL481/PROFILE05.m3u8?
-#EXTINF:-1,PARAMONT
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1726/PROFILE05.m3u8?
-#EXTINF:-1,DISNEY CHANNEL
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL312/PROFILE05.m3u8?
-#EXTINF:-1,BANDAMAX
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL732/PROFILE05.m3u8?
-#EXTINF:-1,TELEHIT
-https://linear-417.frequency.stream/417/hls/master/playlist.m3u8
-#EXTINF:-1,TELEHIT MUSICA
-https://linear-418.frequency.stream/418/hls/master/playlist.m3u8
-#EXTINF:-1,TELEHIT MUSICA PLUS
-https://linear-419.frequency.stream/419/hls/master/playlist.m3u8
 #EXTINF:-1,Nosotros los Guapos
 https://linear-451.frequency.stream/451/hls/master/playlist.m3u8
 #EXTINF:-1,Videos Chistosos
@@ -272,36 +134,22 @@ https://linear-316.frequency.stream/dist/localnow/316/hls/master/playlist.m3u8
 https://linear-317.frequency.stream/dist/localnow/317/hls/master/playlist.m3u8
 #EXTINF:-1,Alegrijes y Rebujos
 https://linear-319.frequency.stream/dist/localnow/319/hls/master/playlist.m3u8
-#EXTINF:-1,Amigas y Rivales
-https://linear-320.frequency.stream/dist/localnow/320/hls/master/playlist.m3u8
 #EXTINF:-1,Tres Veces Ana
 https://linear-321.frequency.stream/dist/localnow/321/hls/master/playlist.m3u8
-#EXTINF:-1,Clase 406
-https://linear-322.frequency.stream/dist/localnow/322/hls/master/playlist.m3u8
 #EXTINF:-1,Héroes del Norte
 https://linear-323.frequency.stream/dist/localnow/323/hls/master/playlist.m3u8
-#EXTINF:-1,Teresa
-https://linear-324.frequency.stream/dist/localnow/324/hls/master/playlist.m3u8
 #EXTINF:-1,Corazón Salvaje
 https://linear-325.frequency.stream/dist/localnow/325/hls/master/playlist.m3u8
 #EXTINF:-1,Juana la Virgen
 https://linear-327.frequency.stream/dist/localnow/327/hls/master/playlist.m3u8
 #EXTINF:-1,María Mercedes
 https://linear-328.frequency.stream/dist/localnow/328/hls/master/playlist.m3u8
-#EXTINF:-1,Que Bonito Amor
-https://linear-329.frequency.stream/dist/localnow/329/hls/master/playlist.m3u8
 #EXTINF:-1,ViX
 https://linear-330.frequency.stream/dist/localnow/330/hls/master/playlist.m3u8
-#EXTINF:-1,Muchachitas
-https://linear-331.frequency.stream/dist/localnow/331/hls/master/playlist.m3u8
-#EXTINF:-1,Muchachitas como Tu
-https://linear-332.frequency.stream/dist/localnow/332/hls/master/playlist.m3u8
 #EXTINF:-1,Mi Gorda Bella
 https://linear-334.frequency.stream/dist/localnow/334/hls/master/playlist.m3u8
 #EXTINF:-1,Rebelde
 https://linear-335.frequency.stream/dist/localnow/335/hls/master/playlist.m3u8
-#EXTINF:-1,Papa a toda Madre
-https://linear-336.frequency.stream/dist/localnow/336/hls/master/playlist.m3u8
 #EXTINF:-1,Sortilegio
 https://linear-337.frequency.stream/dist/localnow/337/hls/master/playlist.m3u8
 #EXTINF:-1,Triunfo del Amor
@@ -314,8 +162,6 @@ https://linear-341.frequency.stream/dist/localnow/341/hls/master/playlist.m3u8
 https://linear-342.frequency.stream/dist/localnow/342/hls/master/playlist.m3u8
 #EXTINF:-1,La Promesa
 https://linear-343.frequency.stream/dist/localnow/343/hls/master/playlist.m3u8
-#EXTINF:-1,La Selecc10n
-https://linear-345.frequency.stream/dist/localnow/345/hls/master/playlist.m3u8
 #EXTINF:-1,Niche
 https://linear-346.frequency.stream/dist/localnow/346/hls/master/playlist.m3u8
 #EXTINF:-1,Kids
@@ -406,20 +252,12 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604bdf4e6
 
 
 DEPORTES
-#EXTINF:-1,TUDN I
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1975/PROFILE05.m3u8
 #EXTINF:-1,CLARO SPORTS
 https://d225juk6ahds7e.cloudfront.net/out/v1/977f6b1ef10c4011aecc2103c06966ac/index_1.m3u8
-#EXTINF:-1,FOX SPORTS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE05.m3u8
 #EXTINF:-1,FOX SPORTS 2
 https://d17lgdx4t7a4od.cloudfront.net:443/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index_155.m3u8
-#EXTINF:-1,ADRENALINA SPORTS
-https://linear-393.frequency.stream/393/hls/master/playlist.m3u8
 #EXTINF:-1,La Liga Premier | Paramount+
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d816fcf24d280008762ee9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1,beIN SPORTS XTRA en español
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 #EXTINF:-1,LO MEJOR DE LA LIGA MX
 https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
 #EXTINF:-1,Motorvision TV
@@ -432,8 +270,6 @@ http://streamer1.streamhost.org/salive/logosH/playlist.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 #EXTINF:-1,Tlaxcala Televisión
 https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?token=null
-#EXTINF:-1,El Garage TV
-http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
 #EXTINF:-1,Tastemade en Español
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1,Cultura 24 TV
@@ -448,8 +284,6 @@ http://azxtv.com/hls/stream.m3u8
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1,Classic Arts Showcase
 https://gcamhls02-i.akamaihd.net/hls/live/1024257/ClassicArts/master.m3u8
-#EXTINF:-1,SoloStandUp
-https://paneltv.online:1936/8116/8116/playlist.m3u8
 #EXTINF:-1,NHK World Japan (1080p)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1,CGTN Documentary (576p)
@@ -466,8 +300,6 @@ http://cdnh4.iblups.com/hls/irtp.m3u8
 http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
 #EXTINF:-1,Moovimex (432p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
-#EXTINF:-1,Conecta TV (720p)
-http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8
 #EXTINF:-1,Radio San Borja TV (720p)
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
 #EXTINF:-1,Vallenato Internacional (720p)
@@ -476,14 +308,6 @@ https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
 #EXTINF:-1,Alcarria TV (576p)
 http://217.182.77.27/live/alcarriatv-livestream.m3u8
-#EXTINF:-1,Azteca Uno (XHJK-TDT)
-http://190.122.96.187:8888/http/002
-#EXTINF:-1,Canal 10 Cancún (720p)
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1,Canal 26 (720p)
-http://200.115.193.177/live/26hd-720/playlist.m3u8
-#EXTINF:-1,Canal 44 Chihuahua (720p)
-https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 #EXTINF:-1,Capital 21 (720p)
 https://video.cdmx.gob.mx/livestream/stream.m3u8
 #EXTINF:-1,CorTV (800p)
@@ -496,8 +320,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://euronews.alteox.app/hls/es_stream.m3u8
 #EXTINF:-1,Hiperconectados Televisión (720p)
 https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
-#EXTINF:-1,Hipódromo de las Américas (480p) [Geo-blocked]
-http://wms.tecnoxia.com:1935/8158/8158/playlist.m3u8
 #EXTINF:-1,Jalisco TV (720p) [Geo-blocked]
 https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
 #EXTINF:-1,NASA TV (720p)
@@ -520,8 +342,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1,RT News (1080p) [Geo-blocked]
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1,RTQ Queretaro (360p)
-http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
 #EXTINF:-1,TELE SISTEMA CANAL 9 (486p) [Geo-blocked]
 http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
 #EXTINF:-1,Telemax (XEWH-TDT) (720p)
@@ -540,8 +360,6 @@ https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8
 https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
 #EXTINF:-1,HBO LATINO R
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126315
-#EXTINF:-1,HBO ESTE
-http://txm.flysat.live:2089/152018884933620/152021106724749/198408
 #EXTINF:-1,HBO SD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60994
 #EXTINF:-1,HBO
@@ -552,16 +370,12 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/68650
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140173
 #EXTINF:-1,HBO
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126316
-#EXTINF:-1,HBO 2
-http://txm.flysat.live:2089/152018884933620/152021106724749/198412
 #EXTINF:-1,HBO 2 SD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60991
 #EXTINF:-1,HBO 2
 http://iptvglobal.site:25461/rrtv/rrtv12345/131122
 #EXTINF:-1,HBO 2 HD R
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126308
-#EXTINF:-1,HBO PLUS
-http://txm.flysat.live:2089/152018884933620/152021106724749/198411
 #EXTINF:-1,HBO PLUS
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140175
 #EXTINF:-1,HBO PLUS
@@ -574,8 +388,6 @@ http://iptvglobal.site:25461/rrtv/rrtv12345/87463
 http://iptvglobal.site:25461/rrtv/rrtv12345/131117
 #EXTINF:-1,HBO PLUS
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126307
-#EXTINF:-1,HBO FAMILY
-http://txm.flysat.live:2089/152018884933620/152021106724749/198410
 #EXTINF:-1,HBO Family SD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60992
 #EXTINF:-1,Hbo Family
@@ -584,8 +396,6 @@ http://iptvglobal.site:25461/rrtv/rrtv12345/131118
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126309
 #EXTINF:-1,HBO FAMILY R
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126314
-#EXTINF:-1,HBO SIGNATURE
-http://txm.flysat.live:2089/152018884933620/152021106724749/198409
 #EXTINF:-1,HBO SIGNATURE HD R
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/126311
 #EXTINF:-1,HBO SIGNATURE
@@ -636,8 +446,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140163
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140164
 #EXTINF:-1,UNIVERSO
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/259
-#EXTINF:-1,CINECANAL
-http://txm.flysat.live:2089/152018884933620/152021106724749/198377
 #EXTINF:-1,Cinecanal
 http://iptvglobal.site:25461/rrtv/rrtv12345/87436
 #EXTINF:-1,Cinecanal
@@ -646,42 +454,14 @@ http://iptvglobal.site:25461/rrtv/rrtv12345/131121
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59082
 #EXTINF:-1,CINECANAL HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140151
-#EXTINF:-1,AXN
-http://txm.flysat.live:2089/152018884933620/152021106724749/198386
-#EXTINF:-1,TNT
-http://txm.flysat.live:2089/152018884933620/152021106724749/198365
-#EXTINF:-1,TNT SERIES
-http://txm.flysat.live:2089/152018884933620/152021106724749/198366
-#EXTINF:-1,DISCOVERY HOME&HEALTH
-http://txm.flysat.live:2089/152018884933620/152021106724749/198333
-#EXTINF:-1,DISCOVERY CHANNEL
-http://txm.flysat.live:2089/152018884933620/152021106724749/198335
-#EXTINF:-1,DISCOVERY INVESTIGATION
-http://txm.flysat.live:2089/152018884933620/152021106724749/198334
-#EXTINF:-1,DISCOVERY TURBO
-http://txm.flysat.live:2089/152018884933620/152021106724749/198331
-#EXTINF:-1,DISCOVERY THEATER
-http://txm.flysat.live:2089/152018884933620/152021106724749/198330
-#EXTINF:-1,DISCOVERY SCIENCE
-http://txm.flysat.live:2089/152018884933620/152021106724749/198329
-#EXTINF:-1,DISCOVERY KIDS
-http://txm.flysat.live:2089/152018884933620/152021106724749/198332
-#EXTINF:-1,ANIMAL PLANET
-http://txm.flysat.live:2089/152018884933620/152021106724749/198328
 #EXTINF:-1,STAR CHANNEL
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60989
 #EXTINF:-1,STAR CHANNEL MX
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59119
-#EXTINF:-1,FOX
-http://txm.flysat.live:2089/152018884933620/152021106724749/198393
 #EXTINF:-1,STAR ACTION HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59077
-#EXTINF:-1,FOX ACTION
-http://txm.flysat.live:2089/152018884933620/152021106724749/198392
 #EXTINF:-1,STAR SERIES HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59071
-#EXTINF:-1,FOX PREMIUM SERIES
-http://txm.flysat.live:2089/152018884933620/152021106724749/198402
 #EXTINF:-1,STAR HITS HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59072
 #EXTINF:-1,STAR FUN HD
@@ -690,12 +470,8 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59073
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59074
 #EXTINF:-1,STAR CLASSIC HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59075
-#EXTINF:-1,FOX CLASSIC
-http://txm.flysat.live:2089/152018884933620/152021106724749/198390
 #EXTINF:-1,STAR CINEMA HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59076
-#EXTINF:-1,WARNER CHANNEL
-http://txm.flysat.live:2089/152018884933620/152021106724749/198374
 #EXTINF:-1,WARNER
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/254
 #EXTINF:-1,Warner HD
@@ -710,8 +486,6 @@ http://iptvglobal.site:25461/rrtv/rrtv12345/87458
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59116
 #EXTINF:-1,FX HD SUR
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140169
-#EXTINF:-1,SPACE
-http://txm.flysat.live:2089/152018884933620/152021106724749/198369
 #EXTINF:-1,SPACE LATINO HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59184
 #EXTINF:-1,SPACE MEXICO
@@ -720,14 +494,10 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140157
 http://iptvglobal.site:25461/rrtv/rrtv12345/131130
 #EXTINF:-1,PARAMOUNT
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140155
-#EXTINF:-1,SYFY
-http://txm.flysat.live:2089/152018884933620/152021106724749/198395
 #EXTINF:-1,CINEMAX ESP
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59079
 #EXTINF:-1,CINEMAX HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140158
-#EXTINF:-1,MULTIPREMIER
-http://txm.flysat.live:2089/152018884933620/152021106724749/198376
 #EXTINF:-1,Telemundo West HH ESP
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140232
 #EXTINF:-1,Telemundo East HD ESP
@@ -742,8 +512,6 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140227
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140225
 #EXTINF:-1,UNIVERSO WEST
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140226
-#EXTINF:-1,CANAL DE LAS ESTRELLAS.
-http://txm.flysat.live:2089/152018884933620/152021106724749/198342
 #EXTINF:-1,Estrellas HD (MX VIP)
 http://hidra.live:80/yhehteog/NeN02o7t1o/302641
 #EXTINF:-1,LAS ESTRELLAS
@@ -768,44 +536,16 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140230
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140231
 #EXTINF:-1,NFL HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140200
-#EXTINF:-1,NBA League Pass 1
-http://iptvmedia.live:8080/bubullea83/092df5a7953b/198961
 #EXTINF:-1,NBA Live 1 Match Time HD US
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/688198
 #EXTINF:-1,NBA 01
 http://185.156.74.135:80/universal123/universal123/395251.ts
 #EXTINF:-1,NBA 02
 http://185.156.74.135:80/universal123/universal123/395253.ts
-#EXTINF:-1,NBA 03
-http://185.156.74.135:80/universal123/universal123/1818831.ts
-#EXTINF:-1,NBA 04
-http://185.156.74.135:80/universal123/universal123/395254.ts
-#EXTINF:-1,NBA 06
-http://185.156.74.135:80/universal123/universal123/395256.ts
-#EXTINF:-1,Sacramento Kings
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/78480
-#EXTINF:-1,Orlando Magic
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/78481
 #EXTINF:-1,New York Knicks
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/78482
 #EXTINF:-1,Los Angeles Lakers
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/78485
-#EXTINF:-1,Dallas Mavericks
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/78491
-#EXTINF:-1,Cleveland Cavaliers
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/78492
-#EXTINF:-1,Brooklyn Nets
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/78493
-#EXTINF:-1,Milwaukee Bucks
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/78498
-#EXTINF:-1,Chicago Bulls
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/78500
-#EXTINF:-1,Atlanta Hawks
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/78502
-#EXTINF:-1,Portland Trail Blazers
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/78503
-#EXTINF:-1,Phoenix Suns
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/78504
 #EXTINF:-1,NBA ON TNT
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59664
 #EXTINF:-1,NBA ON ESPN
@@ -822,76 +562,20 @@ http://185.156.74.135:80/universal123/universal123/176154.ts
 http://185.156.74.135:80/universal123/universal123/395217.ts
 #EXTINF:-1,NBA TV SD
 http://185.156.74.135:80/universal123/universal123/1284155.ts
-#EXTINF:-1,NBA HD
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/94135.ts
-#EXTINF:-1,NBA TV
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/92744.ts
 #EXTINF:-1,NBA ON TNT
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/65910
 #EXTINF:-1,NBA ON ESPN
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/65907
 #EXTINF:-1,NBA TV
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/387
-#EXTINF:-1,Toronto Raptors
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/550
-#EXTINF:-1,Sacramento Kings
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/551
-#EXTINF:-1,Orlando Magic
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/552
 #EXTINF:-1,New York Knicks
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/553
-#EXTINF:-1,New Orleans Pelicans
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/554
-#EXTINF:-1,Minnesota Timberwolves
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/555
 #EXTINF:-1,Los Angeles Lakers
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/556
-#EXTINF:-1,Los Angeles Clippers
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/557
-#EXTINF:-1,Indiana Pacers
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/558
-#EXTINF:-1,Houston Rockets
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/559
 #EXTINF:-1,Golden State Warriors
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/560
-#EXTINF:-1,Denver Nuggets
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/561
-#EXTINF:-1,Dallas Mavericks
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/562
-#EXTINF:-1,Cleveland Cavaliers
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/563
-#EXTINF:-1,Brooklyn Nets
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/564
-#EXTINF:-1,Boston Celtics
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/565
-#EXTINF:-1,Utah Jazz
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/566
-#EXTINF:-1,San Antonio Spurs
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/567
-#EXTINF:-1,Washington Wizards
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/568
-#EXTINF:-1,Milwaukee Bucks
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/569
-#EXTINF:-1,Detroit Pistons
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/570
-#EXTINF:-1,Chicago Bulls
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/571
-#EXTINF:-1,Charlotte Hornets
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/572
-#EXTINF:-1,Atlanta Hawks
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/573
-#EXTINF:-1,Portland Trail Blazers
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/574
-#EXTINF:-1,Phoenix Suns
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/575
-#EXTINF:-1,Philadelphia 76ers
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/576
-#EXTINF:-1,Oklahoma City Thunder
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/577
 #EXTINF:-1,Miami Heat
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/578
-#EXTINF:-1,Memphis Grizzlies
-http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/579
 #EXTINF:-1,NBA ON FOX SPORTS
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/65908
 #EXTINF:-1,NBA ON ABC
@@ -900,20 +584,6 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/65909
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/108963
 #EXTINF:-1,NBA ON TNT SD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/127844
-#EXTINF:-1,FOX SPORTS PREMIUM
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/164581.ts
-#EXTINF:-1,FOX SPORTS PREMIUM HD
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/48998.ts
-#EXTINF:-1,FOX DEPORTES
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/92437.ts
-#EXTINF:-1,FOX DEPORTES
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/1973.ts
-#EXTINF:-1,FOX SPORT
-http://txm.flysat.live:2089/152018884933620/152021106724749/198320
-#EXTINF:-1,FOX SPORTS 1  (SUR)
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/85775.ts
-#EXTINF:-1,FOX SPORTS 1 HD (SUR)
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/48959.ts
 #EXTINF:-1,Fox Sports
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/60988
 #EXTINF:-1,Fox Sports
@@ -924,20 +594,10 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/414
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/457
 #EXTINF:-1,FOX SPORTS 1 ARG
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/48299
-#EXTINF:-1,Fox Sports 1
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/71130.ts
-#EXTINF:-1,FOX SPORTS 1
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/1974.ts
 #EXTINF:-1,FOX SPORTS
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140197
 #EXTINF:-1,FOX SPORTS HD MEX
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140323
-#EXTINF:-1,Fox Sports 1
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/2020.ts
-#EXTINF:-1,FOX SPORTS 2 (SUR)
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/82237.ts
-#EXTINF:-1,FOX SPORTS 2 HD (SUR)
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/66643.ts
 #EXTINF:-1,Fox Sports 2
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/63965
 #EXTINF:-1,FOX SPORTS 2 MX
@@ -952,14 +612,6 @@ http://iptvglobal.site:25461/rrtv/rrtv12345/87456
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140195
 #EXTINF:-1,FOX SPORTS 2 HD MEX
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140324
-#EXTINF:-1,FOX SPORTS 3 FHD (SUR)
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/82238.ts
-#EXTINF:-1,FOX SPORTS 3 HD (ECU)
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/324630.ts
-#EXTINF:-1,FOX SPORTS 3 HD (MX)
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/49002.ts
-#EXTINF:-1,FOX SPORTS 3 HD (SUR)
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/48963.ts
 #EXTINF:-1,FOX SPORTS 3 MX
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/415
 #EXTINF:-1,Fox Sports 3 SD
@@ -972,18 +624,12 @@ http://iptvglobal.site:25461/rrtv/rrtv12345/87457
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140196
 #EXTINF:-1,FOX SPORTS 3 HD MEX
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140325
-#EXTINF:-1,Afizzionados
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/71117.ts
-#EXTINF:-1,Afizzionados FHD
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/19188.ts
 #EXTINF:-1,Afizzionados HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140312
 #EXTINF:-1,TUDN
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/73630
 #EXTINF:-1,TUDN
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/354
-#EXTINF:-1,TUDN (USA)
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/71140.ts
 #EXTINF:-1,TUDN MX
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140278
 #EXTINF:-1,Zona TUDN US
@@ -992,74 +638,32 @@ http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140279
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140280
 #EXTINF:-1,TUDN HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140281
-#EXTINF:-1,ESPN
-http://txm.flysat.live:2089/152018884933620/152021106724749/198323
 #EXTINF:-1,ESPN 1 HD (MX VIP)
 http://hidra.live:80/yhehteog/NeN02o7t1o/302638
-#EXTINF:-1,ESPN 1 (COL)
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/82236.ts
-#EXTINF:-1,ESPN 1 (MX)
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/48983.ts
-#EXTINF:-1,ESPN 1 SUR
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/113714.ts
 #EXTINF:-1,ESPN 1 SUR FHD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/63967
-#EXTINF:-1,Espn 1
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/71118.ts
 #EXTINF:-1,ESPN HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140203
-#EXTINF:-1,ESPN 2
-http://txm.flysat.live:2089/152018884933620/152021106724749/198322
 #EXTINF:-1,ESPN 2 HD (MX VIP)
 http://hidra.live:80/yhehteog/NeN02o7t1o/302639
-#EXTINF:-1,ESPN 2 (COL)
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/88002.ts
-#EXTINF:-1,ESPN 2 (MX)
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/82220.ts
-#EXTINF:-1,ESPN 2 SUR
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/48967.ts
 #EXTINF:-1,ESPN 2 HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140204
-#EXTINF:-1,ESPN 3
-http://txm.flysat.live:2089/152018884933620/152021106724749/198321
 #EXTINF:-1,ESPN 3 HD (MX VIP)
 http://hidra.live:80/yhehteog/NeN02o7t1o/302640
-#EXTINF:-1,ESPN 3 (COL)
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/102612.ts
-#EXTINF:-1,ESPN 3 (MX)
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/48987.ts
-#EXTINF:-1,ESPN 3 SUR
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/49007.ts
 #EXTINF:-1,ESPN 3 SUR FHD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/63969
-#EXTINF:-1,ESPN 4
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/137845.ts
-#EXTINF:-1,ESPN 4 opcion 2
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/49000.ts
 #EXTINF:-1,ESPN 4 ARG
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140316
-#EXTINF:-1,Espn Extra
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/71127.ts
 #EXTINF:-1,ESPN Extra
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140202
 #EXTINF:-1,ESPN EXTRA HD MX
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140218
 #EXTINF:-1,ESPN PREMIUM ARG
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140317
-#EXTINF:-1,ESPN PREMIUM
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/165275.ts
 #EXTINF:-1,ESPN DEPORTES
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/74909
-#EXTINF:-1,ESPN DEPORTES
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/1971.ts
 #EXTINF:-1,ESPN DEPORTES HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140318
-#EXTINF:-1,ESPN DEPORTES
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/78749.ts
-#EXTINF:-1,ESPN DEPORTES HD
-http://tv.dominiotv.xyz:25461/live/iptvprivado/K8XNXMTMm9/94154.ts
-#EXTINF:-1,CARTOON NETWORK
-http://txm.flysat.live:2089/152018884933620/152021106724749/198341
 #EXTINF:-1,CARTOON NETWORK
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/330
 #EXTINF:-1,Cartoon Network SD
@@ -1072,26 +676,16 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/332
 http://iptvglobal.site:25461/rrtv/rrtv12345/87434
 #EXTINF:-1,CARTOONITO MX
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140141
-#EXTINF:-1,DISNEY CHANNEL
-http://txm.flysat.live:2089/152018884933620/152021106724749/198352
-#EXTINF:-1,DISNEY CHANNEL
-http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140143
 #EXTINF:-1,DISNEY JR HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140144
 #EXTINF:-1,DISCOVERY KIDS MX HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140145
 #EXTINF:-1,UNIVERSAL KIDS HD
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140148
-#EXTINF:-1,NICKELODEON
-http://txm.flysat.live:2089/152018884933620/152021106724749/198347
-#EXTINF:-1,NICK 2
-http://txm.flysat.live:2089/152018884933620/152021106724749/198349
 #EXTINF:-1,Tooncast
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/61383
 #EXTINF:-1,Tooncast
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/314
-#EXTINF:-1,AZTECA UNO
-http://txm.flysat.live:2089/152018884933620/152021106724749/198383
 #EXTINF:-1,AZTECA UNO
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/50654
 #EXTINF:-1,AZTECA UNO
@@ -1102,32 +696,14 @@ http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/61336
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/140111
 #EXTINF:-1,AZTECA UNO -2
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/51197
-#EXTINF:-1,AZTECA 7
-http://txm.flysat.live:2089/152018884933620/152021106724749/198381
 #EXTINF:-1,Azteca 7 SD
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/61335
-#EXTINF:-1,AZTECA CINEMA
-http://txm.flysat.live:2089/152018884933620/152021106724749/198380
-#EXTINF:-1,AZTECA CORAZON
-http://txm.flysat.live:2089/152018884933620/152021106724749/198379
-#EXTINF:-1,AZTECA CLIC
-http://txm.flysat.live:2089/152018884933620/152021106724749/198378
-#EXTINF:-1,MTV
-http://txm.flysat.live:2089/152018884933620/152021106724749/198308
-#EXTINF:-1,VH1
-http://txm.flysat.live:2089/152018884933620/152021106724749/198306
 #EXTINF:-1,AMERICA PERU
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/42952
 #EXTINF:-1,AMERICA PERU
 http://kp-thebestiptv.com:8080/Galindo21/5anJqAHmvb/55632
-#EXTINF:-1,America TV
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/26.ts
 #EXTINF:-1,AMERICA TV
 http://allstar.is-by.us:25461/CELIAPLAN/DS23Xum3dh/59398
-#EXTINF:-1,FORO TV
-http://txm.flysat.live:2089/152018884933620/152021106724749/198429
-#EXTINF:-1,MILENIO TV
-http://txm.flysat.live:2089/152018884933620/152021106724749/198424
 #EXTINF:-1,Canal Catorce
 https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/playlist.m3u8
 #EXTINF:-1,TV UNAM
@@ -1136,8 +712,6 @@ https://5e50264bd6766.streamlock.net/tvunam2/videotvunam2/playlist.m3u8
 https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8
 #EXTINF:-1,Canal 22.2
 https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8
-#EXTINF:-1,Mexiquense Televisión
-https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 #EXTINF:-1,Canal 28 NL
 https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
 #EXTINF:-1,TV4 Gto.
@@ -1160,26 +734,16 @@ http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 https://cloud37.ecuatel.com/iglesia2020/Stream1/chunklist_w1384570274_DVR.m3u8
 #EXTINF:-1,ECUAVISA INTERNACIONAL
 http://190.60.39.62:8000/play/b073
-#EXTINF:-1,TC HD
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/515
 #EXTINF:-1,OROMAR TV
 http://186.101.70.92:25501/play/a015/index.m3u8
-#EXTINF:-1,TELEAMAZONAS HQ
-http://181.175.41.170:8000/play/a02h
 #EXTINF:-1,RTU
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/513
 #EXTINF:-1,HECHOS TV
 https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
-#EXTINF:-1,ZARACAY TV
-https://streamingwowza.com:19360/zaracaytv/zaracaytv.m3u8
-#EXTINF:-1,WUAN TV
-https://streamingwowza.com:19360/wuanplus/wuanplus.m3u8
 #EXTINF:-1,EL SOL NETWORK TV
 https://rctvhd.net:8081/elsol105fm/index.m3u8
 #EXTINF:-1,AUSTRAL TV
 https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
-#EXTINF:-1,HISTORY 2
-http://45.160.12.253:8000/play/033
 #EXTINF:-1,INT| HBO HD
 http://170.83.242.30:5350/play/a001
 #EXTINF:-1,HBO POP HD
@@ -1190,10 +754,6 @@ http://190.60.39.62:8000/play/a01g
 http://170.83.242.156:5350/play/a02r
 #EXTINF:-1,HBO PLUS
 http://170.83.242.156:5350/play/a02p
-#EXTINF:-1,HBO PLUS HD
-http://45.160.12.253:8000/play/019
-#EXTINF:-1,HBO XTREME
-http://45.160.12.253:8000/play/020
 #EXTINF:-1,HBO XTREME HD
 http://170.83.242.156:5350/play/a02q
 #EXTINF:-1,HBO SIGNATURE
@@ -1204,24 +764,12 @@ http://181.175.41.170:8000/play/a0g7
 http://200.41.79.165:8000/play/a04a/index.m3u8
 #EXTINF:-1,TNT SERIES
 http://181.175.41.170:8000/play/a0gr
-#EXTINF:-1,CINECANAL HD
-http://45.160.12.253:8000/play/107
-#EXTINF:-1,LOVE NATURE
-http://181.176.148.142:8000/play/a02q
 #EXTINF:-1,DISCOVERY CHANNEL
 http://170.83.242.30:5350/play/a00o
-#EXTINF:-1,DISCOVERY
-http://181.176.148.142:8000/play/a029
 #EXTINF:-1,DISCOVERY H&H
 http://170.83.242.156:5350/play/a01c
 #EXTINF:-1,DISCOVERY TURBO
 http://200.41.79.165:8000/play/a04t/index.m3u8
-#EXTINF:-1,NATGEO
-http://190.61.101.9:8000/play/a03e/index.m3u8
-#EXTINF:-1,NATGEO HD
-http://45.160.12.253:8000/play/027
-#EXTINF:-1,WARNER BROTHER HQ
-http://190.61.101.9:8000/play/a010/index.m3u8
 #EXTINF:-1,UNIVERSAL TV HQ
 http://200.41.79.165:8000/play/a0ht/index.m3u8
 #EXTINF:-1,UNIVERSAL REALITY
@@ -1246,8 +794,6 @@ http://190.60.39.62:8000/play/b012
 http://181.175.41.170:8000/play/a0gv
 #EXTINF:-1,MTV
 http://200.41.79.165:8000/play/a042/index.m3u8
-#EXTINF:-1,KUMBIA TV
-http://181.176.148.142:8000/play/a02o
 #EXTINF:-1,ZONA LATINA
 http://190.60.39.62:8000/play/a00q
 #EXTINF:-1,RCN NOVELAS
@@ -1258,14 +804,10 @@ http://186.101.70.92:25501/play/a029/index.m3u8
 http://200.41.79.165:8000/play/a067/index.m3u8
 #EXTINF:-1,HOLA TV
 http://181.175.41.170:8000/play/a0ga
-#EXTINF:-1,FASHION TV
-https://siloh-latam-aka.plutotv.net/lilo/production/FashionTV/master.m3u8
 #EXTINF:-1,AXN WHITE
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/1781
 #EXTINF:-1,FX
 http://170.83.242.156:5350/play/a006
-#EXTINF:-1,TBS
-http://8.242.187.233:5800/play/a0bn/index.m3u8
 #EXTINF:-1,TLC
 http://200.41.79.165:8000/play/a062/index.m3u8
 #EXTINF:-1,SYFY HD
@@ -1282,18 +824,6 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 http://181.175.41.170:8000/play/a0gb
 #EXTINF:-1,CLOVER CHANNEL
 http://160.20.165.246:8000/play/a006/index.m3u8
-#EXTINF:-1,MX PRIME
-http://45.160.12.253:8000/play/122
-#EXTINF:-1,MX FAMILY
-http://45.160.12.253:8000/play/120
-#EXTINF:-1,CLUB SERIES
-http://181.176.148.142:8000/play/a02y
-#EXTINF:-1,CINE PREMIUM
-http://181.176.148.142:8000/play/a025
-#EXTINF:-1,CINE FAMILIAR
-http://181.176.148.142:8000/play/a023
-#EXTINF:-1,CINE INFANTIL
-http://181.129.186.36:8089/play/a00w/index.m3u8
 #EXTINF:-1,AXN ESPAÑA
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/1780
 #EXTINF:-1,MOVISTAR DRAMA ESPAÑA
@@ -1308,12 +838,8 @@ http://disfruta.net:80/kikeledesma/dFvFKDYx57/1868
 http://200.41.79.165:8000/play/a06y/index.m3u8
 #EXTINF:-1,CARTOON NETWORK
 http://200.41.79.165:8000/play/a049/index.m3u8
-#EXTINF:-1,ZOOMOO TV
-http://181.176.148.142:8000/play/a032
 #EXTINF:-1,MAGIC KIDS
 https://magicstream.ddns.net:443/magicstream/stream.m3u8
-#EXTINF:-1,DOS KIDS
-http://45.160.12.253:8000/play/002
 #EXTINF:-1,PLANETA JUNIOR TV
 http://deaplaneta-planetakidz-1-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1,BEIN SPORTS QATAR
@@ -1328,26 +854,12 @@ http://disfruta.net:80/kikeledesma/dFvFKDYx57/7449
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/1398
 #EXTINF:-1,ESPN CHILE
 http://190.60.39.62:8000/play/a01v
-#EXTINF:-1,ESPN COL
-http://8.242.187.233:5800/play/a0bq/index.m3u8
-#EXTINF:-1,ESPN PERU
-http://181.176.148.142:8000/play/a02d
-#EXTINF:-1,ESPN MEXICO
-http://45.160.12.253:8000/play/212
 #EXTINF:-1,ESPN 2
 http://200.41.79.165:8000/play/a05k/index.m3u8
-#EXTINF:-1,ESPN 4 ARG
-http://45.160.12.253:8000/play/218
 #EXTINF:-1,ESPN DEPORTES
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/1385
-#EXTINF:-1,GOLTV
-http://170.83.242.30:5350/play/a00v
 #EXTINF:-1,GOL TV ECUA
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/1214
-#EXTINF:-1,TNT SPORT 3
-http://45.160.12.253:8000/play/235
-#EXTINF:-1,FOX SPORT
-http://45.160.12.253:8000/play/209
 #EXTINF:-1,EL CANAL DEL FUTBOL OP2
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/7617
 #EXTINF:-1,EL CANAL DEL FUTBOL OP4
@@ -1366,16 +878,6 @@ http://disfruta.net:80/kikeledesma/dFvFKDYx57/3260
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 #EXTINF:-1,XTREME SPORT
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1,MOVISTAR DEPORTES 1
-http://186.5.31.251:8000/play/a09t/index.m3u8
-#EXTINF:-1,LATINA
-http://170.239.188.253:50000/play/a03t/index.m3u8
-#EXTINF:-1,TIGO SPORT 2 HD
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/7657
-#EXTINF:-1,WIN SPORT PLUS
-http://190.131.228.59:8000/play/a04m/index.m3u8
-#EXTINF:-1,SKY SPORT
-http://disfruta.net:80/kikeledesma/dFvFKDYx57/14526
 #EXTINF:-1,DZ FORMULA 1
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/1694
 #EXTINF:-1,FORMULA 1
@@ -1384,24 +886,6 @@ http://live.iristv.xyz:8080/marcial/123456/5853
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/1810
 #EXTINF:-1,CANAL DE TENIS
 https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
-#EXTINF:-1,El juego del calamar S01 E01
-http://vods.tuxchannel.tv/series/el_juego_del_calamar/s_01_e_01.mkv
-#EXTINF:-1,El juego del calamar S01 E02
-http://vods.tuxchannel.tv/series/el_juego_del_calamar/s_01_e_02.mkv
-#EXTINF:-1,El juego del calamar S01 E03
-http://vods.tuxchannel.tv/series/el_juego_del_calamar/s_01_e_03.mkv
-#EXTINF:-1,El juego del calamar S01 E04
-http://vods.tuxchannel.tv/series/el_juego_del_calamar/s_01_e_04.mkv
-#EXTINF:-1,El juego del calamar S01 E05
-http://vods.tuxchannel.tv/series/el_juego_del_calamar/s_01_e_05.mkv
-#EXTINF:-1,El juego del calamar S01 E06
-http://vods.tuxchannel.tv/series/el_juego_del_calamar/s_01_e_06.mkv
-#EXTINF:-1,El juego del calamar S01 E07
-http://vods.tuxchannel.tv/series/el_juego_del_calamar/s_01_e_07.mkv
-#EXTINF:-1,El juego del calamar S01 E08
-http://vods.tuxchannel.tv/series/el_juego_del_calamar/s_01_e_08.mkv
-#EXTINF:-1,El juego del calamar S01 E09
-http://vods.tuxchannel.tv/series/el_juego_del_calamar/s_01_e_09.mkv
 #EXTINF:-1,Los anillos de poder S01 E01
 http://51.81.208.167/series2022/El.senor.de.los.anillos.Los.anillos.de.poder/El.senor.de.los.anillos.Los.anillos.de.poder01.lati.mp4
 #EXTINF:-1,Los anillos de poder S01 E02
@@ -1600,16 +1084,10 @@ http://51.81.208.167/peli2021/No.mires.arriba.mp4
 http://51.81.208.167/peli2021/Old.2021.lati.mp4
 #EXTINF:-1,VIP Cuentos de la Cripta SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50589
-#EXTINF:-1,VIP DC Hero Super Girls FHD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50590
-#EXTINF:-1,VIP Agreetsuko HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50591
 #EXTINF:-1,VIP Death Note HD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50592
 #EXTINF:-1,VIP Detective Conan SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50593
-#EXTINF:-1,VIP Dinosaurios SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50594
 #EXTINF:-1,VIP Disney Live Action FHD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50595
 #EXTINF:-1,VIP Disney Princess FHD
@@ -1622,30 +1100,18 @@ http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50598
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50599
 #EXTINF:-1,VIP Happy tree friends FHD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50601
-#EXTINF:-1,VIP HEY Kids FHD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50602
-#EXTINF:-1,VIP House of Mouse SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50603
 #EXTINF:-1,VIP Jimmy Neutron SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50604
 #EXTINF:-1,VIP Kung Fu Panda HD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50606
 #EXTINF:-1,VIP La Casa de Mickey Mouse HD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50607
-#EXTINF:-1,VIP La Guardia del Leon FHD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50608
-#EXTINF:-1,VIP La Sirenita HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50609
 #EXTINF:-1,VIP La Tropa Goofy HD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50610
 #EXTINF:-1,VIP Lilo & Stitch SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50611
 #EXTINF:-1,VIP Lo Mejor de Donald SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50612
-#EXTINF:-1,VIP Lo Mejor de Mickey SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50613
-#EXTINF:-1,VIP Los Cazafantasmas SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50614
 #EXTINF:-1,VIP Los Locos Adams
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50615
 #EXTINF:-1,VIP Los Simpsons FHD
@@ -1682,40 +1148,18 @@ http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50633
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50635
 #EXTINF:-1,VIP Sailor Moon SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50636
-#EXTINF:-1,VIP Pato Aventura SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50637
-#EXTINF:-1,VIP Quack Pack SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50638
-#EXTINF:-1,VIP Animaniacs SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50640
 #EXTINF:-1,VIP Tiny Toons SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50642
 #EXTINF:-1,Pantera Rosa OLD SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/34443
-#EXTINF:-1,El Chavo del 8 SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/34474
-#EXTINF:-1,Alf SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/34475
 #EXTINF:-1,Dragon Ball Z
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35448
 #EXTINF:-1,Peppa Pig HD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35480
-#EXTINF:-1,Looney Tunes Platinum SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35481
-#EXTINF:-1,Ben 10: Fuerza Alienigena HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35482
-#EXTINF:-1,Daniel El Travieso SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35483
 #EXTINF:-1,Tom y Jerry SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35484
-#EXTINF:-1,Las Nuevas Aventuras De Hi-Man SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35485
 #EXTINF:-1,Hi-Man SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35486
-#EXTINF:-1,Transformers SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35487
-#EXTINF:-1,Pinky ElMyra Y Cerebro SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35488
 #EXTINF:-1,Thundercat SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35490
 #EXTINF:-1,Star Trek
@@ -1726,20 +1170,8 @@ http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35492
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35493
 #EXTINF:-1,Robotech SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35494
-#EXTINF:-1,El Pájaro Loco SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35495
-#EXTINF:-1,Batman HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35496
-#EXTINF:-1,Los Picapiedras SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35497
-#EXTINF:-1,Fenomenoide SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35500
 #EXTINF:-1,La Pequeña LuLú SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35501
-#EXTINF:-1,El Conde Patula SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35504
-#EXTINF:-1,Gasparin Y Sus Amigos SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35506
 #EXTINF:-1,South Park HD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35509
 #EXTINF:-1,Phineas Y Ferb HD
@@ -1748,20 +1180,12 @@ http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35510
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35511
 #EXTINF:-1,Padre De Familia HD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35512
-#EXTINF:-1,Miraculous: Las Aventura De Ladybug HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35513
-#EXTINF:-1,La Ley De Milo Murphy HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35514
 #EXTINF:-1,Gravity falls HD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35515
-#EXTINF:-1,Chapulín Colorado Animado HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35516
 #EXTINF:-1,Bob Esponja HD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35517
 #EXTINF:-1,PatoAventuras 1987 SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35518
-#EXTINF:-1,Megaman SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35522
 #EXTINF:-1,Malcolm HD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35523
 #EXTINF:-1,Los Caballeros Del Zodiaco HD
@@ -1770,8 +1194,6 @@ http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35524
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35525
 #EXTINF:-1,El Show De Looney Tunes HD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35526
-#EXTINF:-1,Duck Dodgers HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35527
 #EXTINF:-1,Dragon ball Super HD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35528
 #EXTINF:-1,Dragon ball  Gt HD
@@ -1780,136 +1202,64 @@ http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35529
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35530
 #EXTINF:-1,Ben 10 HD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35531
-#EXTINF:-1,Baron Rojo SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35532
 #EXTINF:-1,Scooby Doo HD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35533
 #EXTINF:-1,Ranma 1/2 HD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35534
 #EXTINF:-1,Halcones Galáctico SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/35535
-#EXTINF:-1,Exponiendo Infieles SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49158
 #EXTINF:-1,Caso Cerrado Inmigracion SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49159
 #EXTINF:-1,Caso Cerrado La Familia 1 SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49160
-#EXTINF:-1,Caso Cerrado La Familia 2 SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49161
 #EXTINF:-1,Caso Cerrado La Familia 3 SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49162
 #EXTINF:-1,Laura Bozzo SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49163
 #EXTINF:-1,Miguelito SD (Chile)
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49164
-#EXTINF:-1,Lo Que Callamos Las Mujeres SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49165
 #EXTINF:-1,Mayday Catastrofes Aereas SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49166
-#EXTINF:-1,Alienigenas Ancestrales SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49167
 #EXTINF:-1,El Mundo De Beakman Temp 1 SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49168
-#EXTINF:-1,Castle Temp 1 SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49172
 #EXTINF:-1,NCIS Los Angeles SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49181
 #EXTINF:-1,Los Magnificos Temp 1 SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49182
-#EXTINF:-1,El Auto Fantastico SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49184
-#EXTINF:-1,El Auto Fantastico (2008) SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49185
 #EXTINF:-1,MacGiver (2016) Temp 1 SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49186
 #EXTINF:-1,ER Sala de Urgencias SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49188
 #EXTINF:-1,Los 3 Chiflados SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49190
-#EXTINF:-1,Pedro Infante SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49191
 #EXTINF:-1,Hechizada Temp 1 SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49192
 #EXTINF:-1,La Niñera Temp 1 SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49198
 #EXTINF:-1,Friends Temp 1 SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49199
-#EXTINF:-1,Hannah Montana Temp 1 SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49201
 #EXTINF:-1,Paso A Paso SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49203
-#EXTINF:-1,La Hora Pico SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49204
-#EXTINF:-1,Vecinos Temp 1 SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49207
 #EXTINF:-1,Vecinos Temp 2 SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49208
 #EXTINF:-1,Vecinos Temp 3 SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49209
 #EXTINF:-1,Vecinos Temp 4 SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49210
-#EXTINF:-1,Vecinos Temp 5 SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49211
-#EXTINF:-1,Full House Temp 1 SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49212
 #EXTINF:-1,Paradise PD SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49214
 #EXTINF:-1,Brickleberry SD (+15)
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49217
-#EXTINF:-1,Barney y sus Amigos SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49219
-#EXTINF:-1,Animaniacs SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49221
-#EXTINF:-1,Autobus Magico SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49222
-#EXTINF:-1,Bubble Guppies SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49224
-#EXTINF:-1,Donde esta Wally SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49225
-#EXTINF:-1,Dora la Exploradora SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49226
-#EXTINF:-1,Dora y sus Amigos en la Ciudad SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49227
-#EXTINF:-1,El Laboratorio de Dexter SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49230
-#EXTINF:-1,Fabulas de Esopo SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49232
 #EXTINF:-1,La Casa de Mickey Mouse SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49233
 #EXTINF:-1,La Doctora Juguete SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49234
-#EXTINF:-1,Las Pistas de Blue SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49235
-#EXTINF:-1,Paw Patroll SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49236
 #EXTINF:-1,She-Ra La Princesa del Poder SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49239
-#EXTINF:-1,Capitán Planeta y Los Planetarios SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49240
 #EXTINF:-1,Sailor Moon SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49241
-#EXTINF:-1,Las Guerreras Magicas SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49242
-#EXTINF:-1,Angry Birds Toons SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49244
-#EXTINF:-1,Aladino SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49245
 #EXTINF:-1,Birdman SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49246
-#EXTINF:-1,Gargolas Heroes Goticos SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49247
-#EXTINF:-1,Spiderman SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49248
-#EXTINF:-1,Super Mario Bross 3 SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49249
-#EXTINF:-1,Beast Wars SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49251
-#EXTINF:-1,Beast Wars Machines SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49252
-#EXTINF:-1,Gi Joe SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49253
-#EXTINF:-1,Rugrats Aventura en Pañales SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49254
 #EXTINF:-1,Capitan Cabernicola SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49256
 #EXTINF:-1,Jhonny Bravo SD
@@ -1918,52 +1268,14 @@ http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49257
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49258
 #EXTINF:-1,Los Años Maravillosos SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49259
-#EXTINF:-1,Las Aventuras de Tin Tin SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49260
-#EXTINF:-1,Inspector Gadget SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49261
 #EXTINF:-1,El Oso Yogui SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49262
-#EXTINF:-1,Los Muppet Babys SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49263
 #EXTINF:-1,Candy Candy SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49264
-#EXTINF:-1,El Reto de los Super Amigos SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49267
-#EXTINF:-1,Fenomenoide SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49268
-#EXTINF:-1,La Hormiga y el Oso Hormiguero SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49269
-#EXTINF:-1,El Super Libro SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49271
-#EXTINF:-1,Los 7 Pecados Capitales SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49272
-#EXTINF:-1,Timon & Pumbaa SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49273
 #EXTINF:-1,La Casa de los Dibujos SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49274
 #EXTINF:-1,El Gallo Claudio SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49275
-#EXTINF:-1,Sonic X SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49280
-#EXTINF:-1,Street Sharks SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49281
-#EXTINF:-1,Generador Rex SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49282
-#EXTINF:-1,Megaman NT Warrior SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49286
-#EXTINF:-1,Xena La Princesa Guerrera SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49287
-#EXTINF:-1,Hercules Los Viajes Legendarios SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49288
-#EXTINF:-1,Liveman SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49289
-#EXTINF:-1,1000 Maneras de Morir SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49291
-#EXTINF:-1,Contacto Extranormal SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49293
-#EXTINF:-1,Historias de Ultratumba SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/49294
 #EXTINF:-1,VIP Cinema Marvel Studios Este FHD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58067
 #EXTINF:-1,VIP Cinema Marvel Studios Oeste FHD
@@ -1974,316 +1286,94 @@ http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58069
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58071
 #EXTINF:-1,VIP 31 Minutos SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58073
-#EXTINF:-1,VIP Camaras Escondidas TV ⁽ᴴᴰ⁾
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58075
 #EXTINF:-1,VIP Bob Esponja SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58076
-#EXTINF:-1,VIP YooHoo and Friends HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58079
-#EXTINF:-1,VIP Donald Channel SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58081
 #EXTINF:-1,VIP Dragon Ball HD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58082
 #EXTINF:-1,VIP Dragon Ball 2 HD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58083
 #EXTINF:-1,VIP Dragon Ball GT SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58084
-#EXTINF:-1,VIP Duck Dodgers SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58085
 #EXTINF:-1,VIP El Pajaro Loco SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58086
-#EXTINF:-1,VIP Fenomenoide SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58087
 #EXTINF:-1,VIP Gallo claudio SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58088
 #EXTINF:-1,VIP Amazon Kids (Test) FHD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58090
-#EXTINF:-1,VIP Happy Halloween Kids HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58091
-#EXTINF:-1,VIP Novasur HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58092
-#EXTINF:-1,VIP Huevos Verdes con Jamon HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58094
-#EXTINF:-1,VIP Teen Titans GO FHD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58095
-#EXTINF:-1,VIP Little Pet Shop HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58096
-#EXTINF:-1,VIP El Show de Garfield FHD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58097
-#EXTINF:-1,VIP Timon y Pumba SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58099
-#EXTINF:-1,VIP Mickey Mouse
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58100
 #EXTINF:-1,VIP Lo Mejor de Pluto SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58101
-#EXTINF:-1,VIP Doug SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58103
 #EXTINF:-1,VIP Dragon Ball Super 1 Saga la Batalla de los Dioses y la resurreccion de Frezzer HD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58105
 #EXTINF:-1,VIP Dragon Ball Super 2 Saga Universo 6 y Goku Black HD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58106
 #EXTINF:-1,VIP Dragon Ball Super 3 Saga de la Supervivencia Universal HD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58107
-#EXTINF:-1,VIP Doraemon FHD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58108
 #EXTINF:-1,VIP Supercampeones SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58109
-#EXTINF:-1,VIP Los Croods HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58111
-#EXTINF:-1,VIP Los Picapiedras SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58112
-#EXTINF:-1,VIP Street Shark SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58114
-#EXTINF:-1,VIP She-ra SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58115
-#EXTINF:-1,VIP Looney Tunes Show FHD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58116
-#EXTINF:-1,VIP Looney Tunes HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58117
-#EXTINF:-1,VIP Grupo Increible SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58119
 #EXTINF:-1,VIP El Chavo HD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58120
 #EXTINF:-1,VIP Chespirito TV
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58121
-#EXTINF:-1,VIP Sam y Cat HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58122
 #EXTINF:-1,VIP Mr.Bean SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58123
-#EXTINF:-1,VIP TWD Channel FHD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58125
-#EXTINF:-1,VIP Buenazo TV FHD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58126
 #EXTINF:-1,VIP Cocina Real TV FHD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58127
-#EXTINF:-1,VIP Riquisimo FHD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58128
-#EXTINF:-1,VIP Mega Gourmet HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58129
-#EXTINF:-1,VIP 13 Docu SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58130
 #EXTINF:-1,VIP Hagalo Usted Mismo TV
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58131
-#EXTINF:-1,VIP La Resistencia FHD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58134
-#EXTINF:-1,VIP La Resistencia Canal 2 FHD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58135
-#EXTINF:-1,ALF SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58260
-#EXTINF:-1,Animaniacs SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58262
-#EXTINF:-1,11 Beetlejuice HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58263
 #EXTINF:-1,Cantinflas HD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58264
 #EXTINF:-1,Caso Cerrado HD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58265
 #EXTINF:-1,Coraje SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58267
-#EXTINF:-1,Daniel el travieso SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58268
-#EXTINF:-1,Dinky Dog SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58269
 #EXTINF:-1,Dragon Ball GT HD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58271
 #EXTINF:-1,Dragon Ball Super HD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58273
-#EXTINF:-1,Drama Total SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58276
-#EXTINF:-1,El Fantastico Max SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58277
 #EXTINF:-1,El Chavo Del 8 SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58278
-#EXTINF:-1,El Escuadron De Super Heroes SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58279
-#EXTINF:-1,El Gato Felix SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58280
-#EXTINF:-1,11 El General Naranjo HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58281
-#EXTINF:-1,El Jinete Sable y los comisarios estrella SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58283
 #EXTINF:-1,El Principe De Rap SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58284
 #EXTINF:-1,El Principe Del Rap 2 SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58285
-#EXTINF:-1,El Reto De Los Super Amigos HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58286
-#EXTINF:-1,Escuela de Heroes SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58288
-#EXTINF:-1,Especiales de Halloween 2019 SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58289
-#EXTINF:-1,Foofur SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58290
 #EXTINF:-1,Friends HD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58291
-#EXTINF:-1,Hong Kong Phooey SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58296
 #EXTINF:-1,Las aventuras de Tom Sawyer SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58298
-#EXTINF:-1,Las Nuevas Peliculas De Scooby Doo SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58300
 #EXTINF:-1,Los Caballeros del Zodiaco SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58301
-#EXTINF:-1,Los Cazafantasmas SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58302
-#EXTINF:-1,Los Cuentos De La Calle Broca SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58303
-#EXTINF:-1,Los Dragones de la Mesa Cuadrada SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58304
-#EXTINF:-1,Los Locos Addams SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58306
-#EXTINF:-1,Los peligros De Penelope Glamour SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58307
-#EXTINF:-1,Los peligros De Penelope Glamour SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58308
-#EXTINF:-1,Los pequeños Looney Tunes HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58309
 #EXTINF:-1,Los pequeños Tom y Jerry SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58310
-#EXTINF:-1,Los Picapiedras SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58311
 #EXTINF:-1,11 Los Simpsons HD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58314
-#EXTINF:-1,Los Super Globetrotters SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58315
 #EXTINF:-1,MALCOLM SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58317
-#EXTINF:-1,Mi Monstruito SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58319
 #EXTINF:-1,Pajaro Loco HD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58322
-#EXTINF:-1,Piernas Locas Crane SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58325
-#EXTINF:-1,Abbott y Costello SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58157
 #EXTINF:-1,Timon y Pumba HD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58230
 #EXTINF:-1,The Big Bang Theory FHD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58228
 #EXTINF:-1,Supercampeones SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58223
-#EXTINF:-1,Shurato SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58220
-#EXTINF:-1,Seabert SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58218
-#EXTINF:-1,Pulgarcito Investigador Privado SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58215
-#EXTINF:-1,Pequeños Planetas HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58212
-#EXTINF:-1,Mighty Ducks SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58210
-#EXTINF:-1,Mi pobre angelito SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58209
-#EXTINF:-1,Los Imposibles SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58208
-#EXTINF:-1,Loop y De Loop SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58149
 #EXTINF:-1,Looney Tunes  1 SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58207
-#EXTINF:-1,La ranita Demetan SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58203
-#EXTINF:-1,La Guerra de Sakura SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58201
-#EXTINF:-1,La Granja SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58200
-#EXTINF:-1,La Familia Proud SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58198
-#EXTINF:-1,Kidd-Video SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58194
-#EXTINF:-1,Historias De Fantasmas HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58190
-#EXTINF:-1,He Man SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58189
 #EXTINF:-1,Guerra De Bestias Transformers SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58188
-#EXTINF:-1,Full metal Alchemist SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58185
-#EXTINF:-1,Family Guy HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58183
-#EXTINF:-1,Fábulas del Bosque Verde SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58186
 #EXTINF:-1,Espíritu de lucha SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58182
-#EXTINF:-1,Elfen Lied HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58181
 #EXTINF:-1,El show de Scooby Doo y ScrappyDoo SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58179
-#EXTINF:-1,El Principe del Tenis SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58178
 #EXTINF:-1,Dr House HD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58177
-#EXTINF:-1,Dog City SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58176
-#EXTINF:-1,DNA² SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58175
-#EXTINF:-1,Dartacán y los tres mosqueperros SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58174
-#EXTINF:-1,Cowboy Bebop SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58173
-#EXTINF:-1,Clue Club SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58172
-#EXTINF:-1,Chicos Del Barrio HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58171
-#EXTINF:-1,Chica Marioneta SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58169
 #EXTINF:-1,Capitan Futuro SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58167
 #EXTINF:-1,Capitán Centella SD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58168
-#EXTINF:-1,Burst Angel HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58166
-#EXTINF:-1,Bandidos en el tiempo SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58164
-#EXTINF:-1,Bailando con vampiros HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58163
-#EXTINF:-1,Aventuras de un lobo adolescente SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58162
-#EXTINF:-1,Archie y Sabrina la Hechicera SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58161
-#EXTINF:-1,Angel la niña de la flores SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58160
-#EXTINF:-1,American Dad 2 HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58159
-#EXTINF:-1,Almendrita SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58158
-#EXTINF:-1,Zoids Fuzors SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58237
-#EXTINF:-1,X Men Evolution SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58236
 #EXTINF:-1,Transformers Prime HD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58233
-#EXTINF:-1,Tokko HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58231
-#EXTINF:-1,11 La Tortuga DArtagnan y DumDum SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58204
-#EXTINF:-1,11 Locos Dieciséis SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58206
-#EXTINF:-1,11 Oban Star-Racers HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58211
-#EXTINF:-1,11 Saikano HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58217
 #EXTINF:-1,11 SuperGirl HD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58224
-#EXTINF:-1,11 Tarzan HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58226
-#EXTINF:-1,el señor de la jungla SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58227
-#EXTINF:-1,el barbaro SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58229
-#EXTINF:-1,11 Wildcats SD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/58234
-#EXTINF:-1,VIP Cinema Ciencia Ficcion FHD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50573
-#EXTINF:-1,VIP Cinema Horror Classics HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50574
-#EXTINF:-1,VIP Cinema Comedia FHD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50575
-#EXTINF:-1,VIP Cinema DC Comics FHD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50576
-#EXTINF:-1,VIP Cinema DC Universe HD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50577
-#EXTINF:-1,VIP Cinema Disney Family FHD
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50578
 #EXTINF:-1,VIP Cinema Disney Pixar FHD
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50579
 #EXTINF:-1,VIP Cinema Dreamworks FHD
@@ -2324,8 +1414,6 @@ http://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8
 http://209.133.209.195:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
 #EXTINF:-1,Antena Seis TV (720p) [Geo-blocked]
 http://inliveserver.com:1935/14510/14510/playlist.m3u8
-#EXTINF:-1,Argentinísima Satelital (720p)
-http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
 #EXTINF:-1,Atacama TV (Copiapó) (720p) [Not 24/7]
 https://v2.tustreaming.cl/atacamatv/index.m3u8
 #EXTINF:-1,ATB (614p) [Not 24/7]
@@ -2400,8 +1488,6 @@ https://vcp.myplaytv.com/canali/canali/playlist.m3u8
 https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8
 #EXTINF:-1,Canal RCN Novelas (480p)
 http://45.179.140.242:8000/play/a0jf
-#EXTINF:-1,Canal San Roque (720p) [Not 24/7]
-https://elastic10.todostreaming.es/live/sanroque-livestream.m3u8
 #EXTINF:-1,Canal SCÑ (San Carlos Ñuble) (720p)
 https://live.tvcontrolcp.com:1936/sancarlostv/sancarlostv/playlist.m3u8
 #EXTINF:-1,Canal SiTV (410p) [Not 24/7]
@@ -2440,14 +1526,10 @@ http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
 http://45.179.140.242:8000/play/a0ht
 #EXTINF:-1,Click TV (Coronel) (720p)
 http://v2.tustreaming.cl/clicktv/playlist.m3u8
-#EXTINF:-1,ClipsTV (Ica) (360p) [Not 24/7]
-https://7.innovatestream.pe:19360/clipstv/clipstv.m3u8
 #EXTINF:-1,Colosal TV (720p) [Not 24/7]
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1,CR Television (Moyobamba) (720p) [Not 24/7]
 https://live.obslivestream.com/crtvmux/index.m3u8
-#EXTINF:-1,Crossing TV (Crossing Contenidos) (720p) [Not 24/7]
-https://vivo.solumedia.com:19360/crossing/crossing.m3u8
 #EXTINF:-1,CTNi (Christian Television Network International) (480p) [Not 24/7]
 https://584097344c1f0.streamlock.net/48/smil:48.smil/playlist.m3u8
 #EXTINF:-1,CubaVision Internacional (480p) [Not 24/7]
@@ -2458,8 +1540,6 @@ http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
 http://unlimited10-cl.dps.live/decimatv/decimatv.smil/playlist.m3u8
 #EXTINF:-1,Digital Vision (720p) [Not 24/7]
 https://ss3.domint.net:3120/dv6_str/digitalvision/playlist.m3u8
-#EXTINF:-1,DMJ (Cuzco) (720p) [Not 24/7]
-https://v4.tustreaming.cl/s1tv/playlist.m3u8
 #EXTINF:-1,Doctor Who (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3574e97f10800078455de/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1,DTV Play (Deporte Total) (720p) [Not 24/7]
@@ -2468,12 +1548,8 @@ https://tv.portalexpress.es:3044/live/dtplaylive.m3u8
 http://45.179.140.242:8000/play/a0jp
 #EXTINF:-1,El Conflecto (480p)
 https://content.uplynk.com/channel/c56a6c94a53843c79d3eca411d39f96f.m3u8
-#EXTINF:-1,El Futuro en tu mano (720p)
-https://limited24.todostreaming.es/live/renjillo-livestream.m3u8
 #EXTINF:-1,Elion Canal Digital (Chillan) (288p) [Not 24/7]
 https://paneltv.online:1936/8154/8154/playlist.m3u8
-#EXTINF:-1,Exitosa TV (720p)
-https://cu.onliv3.com/livevd1/user2.m3u8
 #EXTINF:-1,Exprezión TV (EXTV | Los Álamos) (720p) [Not 24/7]
 https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
 #EXTINF:-1,Farra Play (720p) [Not 24/7]
@@ -2482,12 +1558,8 @@ http://159.203.148.226/live/farra.m3u8
 https://video.misistemareseller.com/Fuegotv/Fuegotv/playlist.m3u8
 #EXTINF:-1,GDMTV (720p) [Not 24/7]
 https://ss2.domint.net:3200/gdm_str/gdmtv/playlist.m3u8
-#EXTINF:-1,Globo TV (720p) [Not 24/7]
-https://panel.dattalive.com/8122/8122/playlist.m3u8
 #EXTINF:-1,HiperTV (720p)
 https://inliveserver.com:1936/11010/11010/playlist.m3u8
-#EXTINF:-1,Hipodromo de las Americas (720p) [Not 24/7]
-http://wms10.tecnoxia.com/soelvi/slv423/playlist.m3u8
 #EXTINF:-1,Hits 360 TV (720p) [Not 24/7]
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
 #EXTINF:-1,HM (720p) [Geo-blocked]
@@ -2504,52 +1576,30 @@ https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8
 https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8
 #EXTINF:-1,JBN (480p)
 https://emisoras.hn:8081/jbn/index.m3u8
-#EXTINF:-1,JBN (720p) [Not 24/7]
-https://inliveserver.com:1936/17510/17510/playlist.m3u8
 #EXTINF:-1,Juventud Renovada en el Espiritu Santo (720p) [Not 24/7]
 http://teleredmcp.com:1935/jrestv/jrestv/playlist.m3u8
 #EXTINF:-1,Kachorro (Super TV | Amazonas) (720p) [Not 24/7]
 https://tvdatta.com:3517/live/kachorrotvlive.m3u8
-#EXTINF:-1,Karibeña (720p) [Not 24/7]
-https://cu.onliv3.com/livevd/user1.m3u8
 #EXTINF:-1,La 1 Catalunya (576p) [Geo-blocked]
 https://rtvelivestreamv3.akamaized.net/cat/la1_cat_main_dvr.m3u8
 #EXTINF:-1,La Abeja (720p) [Not 24/7]
 http://cdnhd.iblups.com/hls/F87ppt1YAT.m3u8
 #EXTINF:-1,La Metro TV (720p)
 https://emisoras.hn:8081/metrotv/index.m3u8
-#EXTINF:-1,Lebrija TV (360p) [Not 24/7]
-http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
-#EXTINF:-1,Levante TV (320p) [Not 24/7]
-https://play.cdn.enetres.net/C2F6CBB67E5B4D08A16CE5FE67ABCEC9023/029/playlist.m3u8
-#EXTINF:-1,LotPlus TV (Chiclayo) (720p) [Not 24/7]
-https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8
 #EXTINF:-1,LTV (720p) [Not 24/7]
 https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8
 #EXTINF:-1,LVM (720p)
 https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/playlist.m3u8
 #EXTINF:-1,M95 Televisión Marbella (576p) [Not 24/7]
 https://limited2.todostreaming.es/live/m95-livestream.m3u8
-#EXTINF:-1,Majestad Televisión (480p)
-https://5b3050bb1b2d8.streamlock.net/majestadtv/majestadtv/playlist.m3u8
-#EXTINF:-1,Master TV (Tarapoto) (480p) [Not 24/7]
-https://tv.oyotunstream.com:1936/master/master/playlist.m3u8
-#EXTINF:-1,MaticesTV (Cañete) (720p) [Not 24/7]
-http://v4.tustreaming.cl/matices/index.m3u8
 #EXTINF:-1,MAXIMA (720p) [Not 24/7]
 https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/playlist.m3u8
 #EXTINF:-1,Mega TV (Jaen) (720p) [Not 24/7]
 https://tv.portalexpress.es:3399/hybrid/play.m3u8
 #EXTINF:-1,MegaTV (720p) [Not 24/7]
 https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8
-#EXTINF:-1,MegaTV (Yacuiba) (720p) [Not 24/7]
-https://stmv.panel.grupolimalive.com/mega/mega/playlist.m3u8
 #EXTINF:-1,Megavision Canal 43 (480p) [Not 24/7]
 http://stream3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
-#EXTINF:-1,Millenium 49 TV (Pucallpa) (720p) [Not 24/7]
-https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/playlist.m3u8
-#EXTINF:-1,MINEDU IPTV 1 (320p) [Not 24/7]
-http://iptv.perueduca.pe:1935/canal1/canal11/playlist.m3u8
 #EXTINF:-1,MINEDU IPTV 2 (320p) [Not 24/7]
 http://iptv.perueduca.pe:1935/canal2/canal22/playlist.m3u8
 #EXTINF:-1,MovieFe (360p) [Not 24/7]
@@ -2558,8 +1608,6 @@ https://vcp.myplaytv.com/moviefe/ngrp:moviefe_all/playlist.m3u8
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 #EXTINF:-1,MusicTop (720p)
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-#EXTINF:-1,NacionalTV (720p) [Not 24/7]
-https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
 #EXTINF:-1,NET TV (720p)
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 #EXTINF:-1,NicoyaTV (720p) [Not 24/7]
@@ -2568,8 +1616,6 @@ https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
 https://cloudvideo.servers10.com:8081/8032/index.m3u8
 #EXTINF:-1,NorSelva RTV (Rioja) (288p) [Not 24/7]
 https://live.tvcontrolcp.com:1936/8140/8140/playlist.m3u8
-#EXTINF:-1,Noti Uno Puerto Rico (854p) [Not 24/7]
-https://59514edd5dd8e.streamlock.net/unoradio/unoradio1/playlist.m3u8
 #EXTINF:-1,Ñuble RTV (Chillán) (720p) [Not 24/7]
 https://live.tvcontrolcp.com:1936/guzman/guzman/playlist.m3u8
 #EXTINF:-1,Oasis RTV (Trujillo) (720p) [Not 24/7]
@@ -2578,16 +1624,12 @@ https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
 https://5940924978228.streamlock.net/8161/8161/master.m3u8
 #EXTINF:-1,Omega Tv (720p) [Not 24/7]
 https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8
-#EXTINF:-1,Oriental TV 21 (Pucallpa) (480p) [Not 24/7]
-https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8
 #EXTINF:-1,Ovacion TV (720p) [Not 24/7]
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 #EXTINF:-1,Oxigeno TV (360p) [Not 24/7]
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
 #EXTINF:-1,Paraíso Digital (240p) [Not 24/7]
 https://cloudvideo.servers10.com:8081/8106/index.m3u8
-#EXTINF:-1,Pauta (720p)
-https://unlimited1-us.dps.live/pautatv/pautatv.smil/playlist.m3u8
 #EXTINF:-1,Pequeradio (720p) [Not 24/7]
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1,PH (720p) [Not 24/7]
@@ -2606,8 +1648,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acce7f
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acc3e061597000768d4ea/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1,Pluto TV Animakids (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1,Pluto TV Animakids Plus (720p) [Not 24/7]
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a0b44cc331900075e7769/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1,Pluto TV Animales (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1,Pluto TV Anime (720p)
@@ -2686,14 +1726,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d0007
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1,Pluto TV FailArmy (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebaccf1734aaf0007142c86/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1,Pluto TV Fashion TV (720p)
-https://siloh.pluto.tv/lilo/production/FashionTV/master.m3u8
 #EXTINF:-1,Pluto TV FashionBox (480p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee8d84bfb286e0007285aad/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1,Pluto TV Fitness (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6140a074a99e79000738162a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1,Pluto TV Fuel TV (720p)
-https://siloh.pluto.tv/lilo/production/FuelTV/SP/master.m3u8
 #EXTINF:-1,Pluto TV Garfield (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054ab20a365c70007e4fd44/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1,Pluto TV Guía de canales (720p)
@@ -2802,14 +1838,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6690befbdf780007
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/612ce5214bb5790007ad3016/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1,Pluto TV Peleas (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98b0447665f200078caded/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1,Pluto TV Pistas de Blue (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aa82c150b2500077733d7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1,Pluto TV Planeta Junior TV (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609501978c069d00074e0dd2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&serverSideAds=false&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1,Pluto TV Qello Concerts (720p)
-https://siloh.pluto.tv/lilo/production/Qello/ES/master.m3u8
-#EXTINF:-1,Pluto TV Qwest TV Jazz & Beyond (720p)
-https://siloh.pluto.tv/lilo/production/QwestJazz/master.m3u8
 #EXTINF:-1,Pluto TV Realities ESP (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b4d71754e6a4298d086e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d93b4d71754e6a4298d086e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=953&terminate=false&userId=
 #EXTINF:-1,Pluto TV Reality (720p)
@@ -2866,12 +1894,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fceaab478f2af0008
 https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
 #EXTINF:-1,Popular TV Melilla (720p) [Not 24/7]
 http://5940924978228.streamlock.net:1935/8009/8009/playlist.m3u8
-#EXTINF:-1,Portalfoxmix (288p) [Not 24/7]
-http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 #EXTINF:-1,PromarTV (Yaracuy) (728p) [Not 24/7]
 http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
-#EXTINF:-1,Punta Cana TV (720p) [Not 24/7]
-https://cdn4.hostlagarto.com:8081/static/puntacanatv/playlist.m3u8
 #EXTINF:-1,Pura Palabra (718p) [Not 24/7]
 https://59825a54e4454.streamlock.net:8443/william233/william233/playlist.m3u8
 #EXTINF:-1,Radio Inka TV (480p) [Not 24/7]
@@ -2902,8 +1926,6 @@ http://media.neuquen.gov.ar/rtn/television/media.m3u8
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
 #EXTINF:-1,RTS (RadioTeleSistema) (480p)
 http://45.179.140.242:8000/play/a0kw
-#EXTINF:-1,RTV Total (Yurimaguas) (480p) [Not 24/7]
-https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
 #EXTINF:-1,Santa María Televisión (720p) [Not 24/7]
 https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8
 #EXTINF:-1,Sercano TV (720p)
@@ -2912,8 +1934,6 @@ http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/playlist.m3u8
 http://190.122.104.221/Player/sitv.m3u8
 #EXTINF:-1,Sofy TV (720p)
 https://sofytv-samsunges.amagi.tv/playlist.m3u8
-#EXTINF:-1,Sol Stereo TV (Casma) (360p) [Not 24/7]
-https://stmv.panel.grupolimalive.com/solstereotv/solstereotv/playlist.m3u8
 #EXTINF:-1,Solidaria TV (720p)
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 #EXTINF:-1,SonLife Broadcasting (SBN) (720p)
@@ -2924,12 +1944,6 @@ https://www.onairport.live/sophiatv-es-live/livestream/master.m3u8
 https://stv.janus.cl/playlist/stream.m3u8
 #EXTINF:-1,STV El Camal Familiar (720p) [Not 24/7]
 http://tiquiciatv.com:1935/stv/web/playlist.m3u8
-#EXTINF:-1,Sumac TV (Lima) (480p) [Not 24/7]
-https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8
-#EXTINF:-1,Super Canal (Yurimaguas) (720p) [Not 24/7]
-https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8
-#EXTINF:-1,TDI Colombia (720p) [Not 24/7]
-https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
 #EXTINF:-1,Tele Uno (720p) [Not 24/7]
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 #EXTINF:-1,Telecanal 28 (360p) [Geo-blocked]
@@ -2940,12 +1954,8 @@ http://cm.hostlagarto.com:8081/Telecibao/Telecibao/playlist.m3u8
 https://5940924978228.streamlock.net/Directo1/Directo1/master.m3u8
 #EXTINF:-1,Telemax (720p)
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-#EXTINF:-1,Telemilenio (720p) [Not 24/7]
-http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
 #EXTINF:-1,Telenord 12 (720p) [Not 24/7]
 http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
-#EXTINF:-1,Telepacífico (Santiago de Cali | Valle del Cauca) (720p) [Not 24/7]
-https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 #EXTINF:-1,TeleRibera (720p) [Not 24/7]
 http://37.187.7.106/teleribera/live.m3u8
 #EXTINF:-1,Telesistema (486p)
@@ -2964,14 +1974,6 @@ https://v2.tustreaming.cl/tnetv/index.m3u8
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 #EXTINF:-1,Top Gear (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1,TPTO TV (Tarapoto) (720p) [Not 24/7]
-https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8
-#EXTINF:-1,Transmedia Televisión Morelia (614p) [Not 24/7]
-http://streamingcws20.com:1935/tmtv/videotmtv/playlist.m3u8
-#EXTINF:-1,Trebujena TV (360p) [Not 24/7]
-http://212.104.160.156:1935/live/trebujenatv2/master.m3u8
-#EXTINF:-1,Trece Paraguay (720p) [Not 24/7]
-http://174.138.118.252/live/trece.m3u8
 #EXTINF:-1,Trece TV (576p)
 https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8
 #EXTINF:-1,TribunaTV (720p) [Not 24/7]
@@ -3002,10 +2004,6 @@ https://v4.tustreaming.cl/poptv/playlist.m3u8
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
 #EXTINF:-1,TV Sur Canal 14 (720p)
 https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
-#EXTINF:-1,TV Vega Baja (576p)
-http://185.29.68.24/tvb.m3u8
-#EXTINF:-1,TV5 Limares (720p) [Not 24/7]
-https://unlimited1-us.dps.live/tv5/tv5.smil/playlist.m3u8
 #EXTINF:-1,TVenLinea (Cuzco) (720p) [Not 24/7]
 https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
 #EXTINF:-1,Tvfaces Online (360p) [Not 24/7]
@@ -3024,8 +2022,6 @@ https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 https://tna5.bozztv.com/Cusco/index.m3u8
 #EXTINF:-1,UCV3 TV (480p)
 http://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
-#EXTINF:-1,Unicanal (720p) [Not 24/7]
-http://45.55.127.106/live/unicanal.m3u8
 #EXTINF:-1,UNO PLAY (720p) [Not 24/7]
 https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
 #EXTINF:-1,Vallevision Canal 10 (720p) [Not 24/7]
