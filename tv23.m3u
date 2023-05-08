@@ -2064,8 +2064,8 @@ https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
 
 
 
-#EXTINF:-1,ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO
-http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
+#EXTM3U
+
 #EXTINF:-1,US: ABC Sacramento California KXTV TV
 http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/281172
 #EXTINF:-1,4.1 Foro TV
