@@ -2188,22 +2188,16 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1,Latino Kids TV | Uruguay
 https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
-#EXTINF:-1,Lena Radio TV
-https://live.teledomdr.com:3736/live/lenatvlive.m3u8
 #EXTINF:-1,Magic Kids | Argentina
 https://magicstream.ddns.net:443/magicstream/stream.m3u8
 #EXTINF:-1,El Magic TV | Argentina
 https://kali.vdopanel.com:3704/stream/play.m3u8
 #EXTINF:-1,Retro Magico | Argentina
 https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
-#EXTINF:-1,Maxima TV | ND
-https://cdnhd.iblups.com/hls/Qzfdy1OvHt.m3u8
 #EXTINF:-1,Moni TV HD |
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 #EXTINF:-1,POP TV | Chile
 https://v4.tustreaming.cl/poptv/index.m3u8
-#EXTINF:-1,Rewind TV | Chile
-https://tls-cl.cdnz.cl/rewindtv/live/chunklist_w211465902.m3u8
 #EXTINF:-1,Sicardi TV
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 #EXTINF:-1,Spectrum Channel | Chile
@@ -2274,6 +2268,8 @@ http://210.210.155.37/dr9445/h/h02/index.m3u8
 https://stream.ichibantv.com:3612/live/kanadetvlive.m3u8
 #EXTINF:-1,Kpop Tv Play | Brasil
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+#EXTINF:-1,Loading Brasil | Brasil
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1,Locomotion | República Dominicana
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1,Wording TV HD | Brasil
@@ -2330,10 +2326,10 @@ https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 https://ss5.domint.net:3170/cotv_str/colometv/chunklist_w793077443.m3u8
 #EXTINF:-1,El Nueve | Argentina
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
-#EXTINF:-1,EvaStream TV | Chile
-https://mediacpstreamchile.com:1936/evavision/evavision/playlist.m3u8
 #EXTINF:-1,GenTV HD | Argentina
 https://inliveserver.com:1936/14056/14056/playlist.m3u8
+#EXTINF:-1,Global TV | RD
+https://ss3.domint.net:3136/gtv_str/globalhd/playlist.m3u8
 #EXTINF:-1,Iquique Tv | Chile
 https://marine2.miplay.cl/arcatel/iquiquetv720/tracks-v1a1/mono.m3u8
 #EXTINF:-1,La Popular TV | Chile
@@ -2406,10 +2402,10 @@ https://paneltv.online:1936/8056/8056/playlist.m3u8
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 #EXTINF:-1,Cancionero TV | Spain
 http://89.140.229.4/hls1/cancionero.m3u8
-#EXTINF:-1,CITY RADIO TV | Bulgaria
-https://tv.city.bg/play/tshls/citytv/index.m3u8
 #EXTINF:-1,Colosal TV | Costa Rica
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+#EXTINF:-1,Conecta TV | México
+https://tna5.bozztv.com/Conectatvmexico/index.m3u8
 #EXTINF:-1,Corazon Llanero TV | Venezuela
 https://vcp.myplaytv.com:443/coll/coll/playlist.m3u8
 #EXTINF:-1,FS1 | Austria
@@ -2484,6 +2480,8 @@ http://192.99.16.17:9870/;stream/1
 http://streamingcwsradio20.com:9410/stream
 #EXTINF:-1,Radio Bonita Oaxaca
 http://node-19.zeno.fm/05g7pygka3quv?rj-ttl=5&rj-tok=AAABcjgJJpIAM_RurmDtn1qn5g
+#EXTINF:-1,Radio Colombia Salsa Rosa
+http://64.37.50.226:8036/stream
 #EXTINF:-1,Radio Colombia Salsa Dura
 http://64.37.50.226:8054/stream
 #EXTINF:-1,Radio Colombia Bachata
@@ -2494,6 +2492,8 @@ http://64.37.50.226:8042/stream
 http://64.37.50.226:8006/stream
 #EXTINF:-1,Radio Colombia la Viejoteca de Richy
 http://64.37.50.226:8018/stream
+#EXTINF:-1,Radio Colombia Bohemia
+http://64.37.50.226:8024/stream
 #EXTINF:-1,Radio Colombia Romantica
 http://64.37.50.226:8030/stream
 #EXTINF:-1,Radio Ochentas
@@ -3090,6 +3090,8 @@ https://d1jgsg6cns4jzy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/profile_0/chunklist_dvr.m3u8
 #EXTINF:-1,Alacanti TV
 https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
+#EXTINF:-1,Anove TV HD
+https://media2.streambrothers.com:19360/8186/8186.m3u8
 #EXTINF:-1,CANAL 33 MADRID
 https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/chunklist_w958295046.m3u8
 #EXTINF:-1,Canal Malaga
@@ -3210,5 +3212,4 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 http://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8
 #EXTINF:-1,Wired2Fish (720p)
 https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8
-
 
