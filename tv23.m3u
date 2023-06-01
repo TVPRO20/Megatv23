@@ -2065,8 +2065,6 @@ https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
 
 
 #EXTM3U
-#EXTINF:-1,MARATON RANMA 1/2
-https://cdnhd.iblups.com/hls/9loIOeAx9w.m3u8
 #EXTINF:-1,ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #EXTINF:-1,4.1 Foro TV
@@ -2199,6 +2197,8 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1,Latino Kids TV | Uruguay
 https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
+#EXTINF:-1,Lena Radio TV
+https://live.teledomdr.com:3736/live/lenatvlive.m3u8
 #EXTINF:-1,Magic Kids | Argentina
 https://magicstream.ddns.net:443/magicstream/stream.m3u8
 #EXTINF:-1,El Magic TV | Argentina
@@ -2411,6 +2411,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1,Teletrak | Chile
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:-1,Viasat sport | Suecia
+http://persik.by/stream/2944/263250/10249.m3u8
 #EXTINF:-1,Zona TUDN | Mexico
 https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
 #EXTINF:-1,24h TVE | Spain
@@ -2447,6 +2449,8 @@ http://89.140.229.4/hls1/cancionero.m3u8
 https://tv.city.bg/play/tshls/citytv/index.m3u8
 #EXTINF:-1,Colosal TV | Costa Rica
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+#EXTINF:-1,Conecta TV | México
+https://tna5.bozztv.com/Conectatvmexico/index.m3u8
 #EXTINF:-1,Corazon Llanero TV | Venezuela
 https://vcp.myplaytv.com:443/coll/coll/playlist.m3u8
 #EXTINF:-1,FS1 | Austria
@@ -2563,6 +2567,8 @@ http://node-34.zeno.fm/s5494s8pta0uv?rj-ttl=5&rj-tok=AAABeMmnxIcAFJ64ThNbIiZ4sA
 http://argentina.republicahosting.com:8158/;
 #EXTINF:-1,Radio Modoradio
 https://modoradiocl.radioca.st/live
+#EXTINF:-1,Radio Conexion Latam
+https://stream-41.zeno.fm/yxynr8zy71zuv?zs=Q53Ef4h_REylYh2kLlkhsQ&aw_0_req_lsid=4eb47ee5d8a0b937c4c3f51c4ce10329&triton-uid=cookie%3A01f3e335-0842-4c59-8141-c796024c45b9
 #EXTINF:-1,Radio Voice Over Radio
 https://server1.streamingradio.online/proxy/voiceoverradio/stream
 #EXTINF:-1,Radio Electronica
@@ -2907,8 +2913,6 @@ https://i.mjh.nz/PlutoTV/61099f2b40d0640007fc5aa2-alt.m3u8
 https://i.mjh.nz/PlutoTV/6109a9f5531b840007a4a187-alt.m3u8
 #EXTINF:-1,Pluto TV Mi Obsesión Favorita
 https://i.mjh.nz/PlutoTV/6109ab25b84d6a0007504886-alt.m3u8
-#EXTINF:-1,El Mariachi
-https://i.mjh.nz/PlutoTV/612f8b455ed5810007170b5f-alt.m3u8
 #EXTINF:-1,FUEL TV
 https://i.mjh.nz/PlutoTV/6144d313b34fbf0007107714-alt.m3u8
 #EXTINF:-1,Iron Chef
@@ -2947,8 +2951,6 @@ https://i.mjh.nz/PlutoTV/624f4d4a4321e200073f46e0-alt.m3u8
 https://i.mjh.nz/PlutoTV/6254598f5083f800076d8563-alt.m3u8
 #EXTINF:-1,MTV Catfish
 https://i.mjh.nz/PlutoTV/625461ef01f27a0007976ad1-alt.m3u8
-#EXTINF:-1,Maestros de la Ilusión
-https://i.mjh.nz/PlutoTV/6254ab6fa74f8e0007ba6879-alt.m3u8
 #EXTINF:-1,Death Note
 https://i.mjh.nz/PlutoTV/626c2ed933a2890007e91422-alt.m3u8
 #EXTINF:-1,Chilevision Contigo
@@ -2959,8 +2961,6 @@ https://i.mjh.nz/PlutoTV/62c5d80dc6de440007e033eb-alt.m3u8
 https://i.mjh.nz/PlutoTV/62d0895ebe7a970008785244-alt.m3u8
 #EXTINF:-1,La Familia del Barrio
 https://i.mjh.nz/PlutoTV/62d08af527ce19000731eaa0-alt.m3u8
-#EXTINF:-1,La Liga Premier | Paramount+
-https://i.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
 #EXTINF:-1,The Ed Sullivan Show
 https://i.mjh.nz/PlutoTV/62e017e44823db000726cd9a-alt.m3u8
 #EXTINF:-1,Hechizada
@@ -3011,8 +3011,6 @@ https://i.mjh.nz/PlutoTV/5cf96d351652631e36d4331f-alt.m3u8
 https://i.mjh.nz/PlutoTV/5cf96dad1652631e36d43320-alt.m3u8
 #EXTINF:-1,Nick en español
 https://i.mjh.nz/PlutoTV/5d8d08395f39465da6fb3ec4-alt.m3u8
-#EXTINF:-1,Nick Jr. en español
-https://i.mjh.nz/PlutoTV/5d8d0ec7b0f7015fbe0a3bf7-alt.m3u8
 #EXTINF:-1,Foodies
 https://i.mjh.nz/PlutoTV/5d8d0fbaa8742fa3093899da-alt.m3u8
 #EXTINF:-1,Spike ¡extremo!
@@ -3133,8 +3131,6 @@ https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/60
 https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
 #EXTINF:-1,Anove TV HD
 https://media2.streambrothers.com:19360/8186/8186.m3u8
-#EXTINF:-1,CANAL 33 MADRID
-https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/chunklist_w958295046.m3u8
 #EXTINF:-1,Canal Malaga
 http://canalmalaga-tv-live.flumotion.com/chunks.m3u8
 #EXTINF:-1,El Toro TV HD
@@ -3169,6 +3165,8 @@ http://events1-crtvg.flumotion.com/crtvg/events1_high/chunks.m3u8
 http://events2-crtvg.flumotion.com/crtvg/events2_high/chunks.m3u8
 #EXTINF:-1,Tvg2 HD/Eventos 3
 http://events3-crtvg.flumotion.com/crtvg/events3_high/chunks.m3u8
+#EXTINF:-1,Tvg2 HD/Amodino
+http://amodino-crtvg.flumotion.com/crtvg/amodino_high/chunks.m3u8
 #EXTINF:-1,Tvg Musigal
 http://musigal-crtvg.flumotion.com/crtvg/musigal/chunks.m3u8
 #EXTINF:-1,ATG (432p)
