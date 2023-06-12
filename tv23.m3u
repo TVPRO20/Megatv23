@@ -2065,8 +2065,6 @@ https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
 
 
 #EXTM3U
-#EXTINF:-1,MARATON RANMA 1/2
-https://cdnhd.iblups.com/hls/9loIOeAx9w.m3u8
 #EXTINF:-1,ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #EXTINF:-1,4.1 Foro TV
@@ -2181,26 +2179,14 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 https://stream.wifispeed.cl:3247/live/energeek2live.m3u8
 #EXTINF:-1,Modoradio TV op | Chile
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
-#EXTINF:-1,CCP Radio | Chile
-https://wifiexpert-1.energeek.cl/energeek/canal-3/playlist.m3u8
-#EXTINF:-1,CCP Radio op | Chile
-https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
-#EXTINF:-1,Energeek Radio TV | Chile
-https://wifiexpert-1.energeek.cl/energeek/radio/playlist.m3u8
-#EXTINF:-1,Energeek Radio TV op | Chile
-https://stream.wifiexpert.cl/energeek/radio/playlist.m3u8
 #EXTINF:-1,ACS Network Tv | Puerto Rico
 https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
 #EXTINF:-1,Dreiko TV | Panamá
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
-#EXTINF:-1,Diti TV | AR
-https://clientes.videostreaming.ar:19360/dititv/dititv.m3u8
 #EXTINF:-1,Frecuencia Musical Tv | USA
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1,Geekdot TV | Brasil
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
-#EXTINF:-1,Latino Kids TV | Uruguay
-https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
 #EXTINF:-1,Magic Kids | Argentina
 https://magicstream.ddns.net:443/magicstream/stream.m3u8
 #EXTINF:-1,El Magic TV | Argentina
@@ -2343,8 +2329,8 @@ https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 https://ss5.domint.net:3170/cotv_str/colometv/chunklist_w793077443.m3u8
 #EXTINF:-1,El Nueve | Argentina
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
-#EXTINF:-1,Global TV | RD
-https://ss3.domint.net:3136/gtv_str/globalhd/playlist.m3u8
+#EXTINF:-1,GenTV HD | Argentina
+https://inliveserver.com:1936/14056/14056/playlist.m3u8
 #EXTINF:-1,Iquique Tv | Chile
 https://marine2.miplay.cl/arcatel/iquiquetv720/tracks-v1a1/mono.m3u8
 #EXTINF:-1,La Popular TV | Chile
@@ -2449,6 +2435,8 @@ https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
 http://server.laradio.online:8157/live.mp3
 #EXTINF:-1,Radio La Grupera 93.1 Morelia
 http://www.tuasesorweb.com:8000/;stream/1
+#EXTINF:-1,Radio La Z Morelia
+http://srmx.ddns.net:8100/;
 #EXTINF:-1,Radio Kiss Morelia
 http://192.99.44.11:9861/stream/1/
 #EXTINF:-1,Radio 40 Principales Morelia
@@ -3135,20 +3123,8 @@ http://events3-crtvg.flumotion.com/crtvg/events3_high/chunks.m3u8
 http://amodino-crtvg.flumotion.com/crtvg/amodino_high/chunks.m3u8
 #EXTINF:-1,Tvg Musigal
 http://musigal-crtvg.flumotion.com/crtvg/musigal/chunks.m3u8
-#EXTINF:-1,Cartoon Network | México
-http://177.128.115.10:8000/play/a08x
 #EXTINF:-1,Cartoonito | Mexico
 http://190.83.119.67:8000/play/a00z/index.m3u8
-#EXTINF:-1,ETC TV | Chile
-http://177.128.115.10:8000/play/a0a6
-#EXTINF:-1,Canal 13 | Chile
-http://177.128.115.10:8000/play/a097
-#EXTINF:-1,Chilevision | Chile
-http://177.128.115.10:8000/play/a07w
-#EXTINF:-1,Comedy Central | México
-http://177.128.115.10:8000/play/a086
-#EXTINF:-1,TVN | Chile
-http://177.128.115.10:8000/play/a07v
 #EXTINF:-1,Warner Channel | USA
 http://45.181.122.169:8000/play/a00u
 #EXTINF:-1,ATG (432p)
