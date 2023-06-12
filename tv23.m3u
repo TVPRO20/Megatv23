@@ -2103,8 +2103,12 @@ https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 #EXTINF:-1,CMX: Efekto TV
 https://cdn.jwplayer.com/manifests/bez1terN.m3u8
+#EXTINF:-1,COA: NRT Mexico
+https://5caf24a595d94.streamlock.net:1937/stream56/stream56/playlist.m3u8
 #EXTINF:-1,COA: RCG 2 Saltillo
 http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+#EXTINF:-1,COA: RCG 3 Saltillo
+http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
 #EXTINF:-1,COA: Canal 4 Saltillo
 http://162.241.190.126:1935/live/canal4/playlist.m3u8
 #EXTINF:-1,COA: 15TV Sabinas
@@ -2167,6 +2171,8 @@ https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 http://radio.ilce.edu.mx:8000/radioilce.mp3
 #EXTINF:-1,Cultura365 | Espana
 http://cultural-crtvg.flumotion.com/chunks.m3u8
+#EXTINF:-1,Educa  TV | Ecuador
+https://cloud7.streamingcnt.net/cnt/educa/chunklist_w960768250.m3u8
 #EXTINF:-1,EnerGeek Retro | Chile
 https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
 #EXTINF:-1,EnerGeek Retro op | Chile
@@ -2195,8 +2201,6 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1,Latino Kids TV | Uruguay
 https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
-#EXTINF:-1,Lena Radio TV
-https://live.teledomdr.com:3736/live/lenatvlive.m3u8
 #EXTINF:-1,Magic Kids | Argentina
 https://magicstream.ddns.net:443/magicstream/stream.m3u8
 #EXTINF:-1,El Magic TV | Argentina
@@ -2221,8 +2225,6 @@ https://panel.miplay.cl:8081/spectrumchannel/tracks-v1a1/mono.m3u8
 https://stmvideo2.livecastv.com/telestrella/telestrella/chunklist.m3u8
 #EXTINF:-1,Tigueritos TV | Republica Dominicana
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
-#EXTINF:-1,Toonizaki | Argentina
-https://stmvideo1.livecastv.com/toonizakistudios/toonizakistudios/chunklist_w1841323217.m3u8
 #EXTINF:-1,Tv Costa | Chile
 https://tv.clientetvstudio.net:3486/live/costatv1live.m3u8
 #EXTINF:-1,TVS Retro | Guatemala
@@ -2341,8 +2343,6 @@ https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 https://ss5.domint.net:3170/cotv_str/colometv/chunklist_w793077443.m3u8
 #EXTINF:-1,El Nueve | Argentina
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
-#EXTINF:-1,GenTV HD | Argentina
-https://inliveserver.com:1936/14056/14056/playlist.m3u8
 #EXTINF:-1,Global TV | RD
 https://ss3.domint.net:3136/gtv_str/globalhd/playlist.m3u8
 #EXTINF:-1,Iquique Tv | Chile
@@ -2367,6 +2367,8 @@ https://paneltv.online:1936/8116/8116/chunklist_w1465366289.m3u8
 https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 #EXTINF:-1,Telered | Costa Rica
 https://video20.klm99.com:3558/live/teleredlive.m3u8
+#EXTINF:-1,Telesistema | Costa Rica
+https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w1149197827.m3u8
 #EXTINF:-1,Eventos Deportivos mix
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF:-1,MLB Channel | PlutoTV
@@ -2447,8 +2449,6 @@ https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
 http://server.laradio.online:8157/live.mp3
 #EXTINF:-1,Radio La Grupera 93.1 Morelia
 http://www.tuasesorweb.com:8000/;stream/1
-#EXTINF:-1,Radio La Z Morelia
-http://srmx.ddns.net:8100/;
 #EXTINF:-1,Radio Kiss Morelia
 http://192.99.44.11:9861/stream/1/
 #EXTINF:-1,Radio 40 Principales Morelia
@@ -3127,6 +3127,8 @@ http://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 https://directo.tvferrol.es/tv.m3u8
 #EXTINF:-1,Tvg2 HD/Eventos 1
 http://events1-crtvg.flumotion.com/crtvg/events1_high/chunks.m3u8
+#EXTINF:-1,Tvg2 HD/Eventos 2
+http://events2-crtvg.flumotion.com/crtvg/events2_high/chunks.m3u8
 #EXTINF:-1,Tvg2 HD/Eventos 3
 http://events3-crtvg.flumotion.com/crtvg/events3_high/chunks.m3u8
 #EXTINF:-1,Tvg2 HD/Amodino
