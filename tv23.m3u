@@ -2071,6 +2071,8 @@ https://cdnhd.iblups.com/hls/9loIOeAx9w.m3u8
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #EXTINF:-1,4.1 Foro TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+#EXTINF:-1,21.1 Capital 21
+https://video.cdmx.gob.mx/livestream/stream.m3u8
 #EXTINF:-1,22.1 Canal 22
 https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIxIDExOjQ2OjAzIFBNJmhhc2hfdmFsdWU9WmpCTERYMHh6UVVzcTJ0cmtNd25mQT09JnZhbGlkbWludXRlcz01JmlkPQ==
 #EXTINF:-1,22.2 Canal 22 +
@@ -2085,6 +2087,8 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 #EXTINF:-1,Central FM
 https://5fe2654d6127d.streamlock.net/centralfm/smil:centralfm.smil/playlist.m3u8
+#EXTINF:-1,AGU: Presumiendo Mexico
+http://streamingcws10.com:1935/telemetrika/videotelemetrika/playlist.m3u8
 #EXTINF:-1,AGU: Presumiendo Mexico
 https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
 #EXTINF:-1,AGU: Canal 26
@@ -2155,16 +2159,12 @@ https://5ca9af4645e15.streamlock.net/impactovision/videoimpactovision/chunklist_
 https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8
 #EXTINF:-1,VER: TVMAS Veracruz
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
-#EXTINF:-1,ZAC: Canal 24 Zacatecas
-https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
 #EXTINF:-1,DIOS Te Ve Kids | Honduras
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Radio ILCE | México
 http://radio.ilce.edu.mx:8000/radioilce.mp3
 #EXTINF:-1,Cultura365 | Espana
 http://cultural-crtvg.flumotion.com/chunks.m3u8
-#EXTINF:-1,Educa  TV | Ecuador
-https://cloud7.streamingcnt.net/cnt/educa/chunklist_w960768250.m3u8
 #EXTINF:-1,EnerGeek Retro | Chile
 https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
 #EXTINF:-1,EnerGeek Retro op | Chile
@@ -2207,8 +2207,6 @@ https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 #EXTINF:-1,POP TV | Chile
 https://v4.tustreaming.cl/poptv/index.m3u8
-#EXTINF:-1,Rewind TV | Chile
-https://tls-cl.cdnz.cl/rewindtv/live/chunklist_w211465902.m3u8
 #EXTINF:-1,Sicardi TV
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 #EXTINF:-1,Spectrum Channel | Chile
@@ -2361,6 +2359,8 @@ https://paneltv.online:1936/8116/8116/chunklist_w1465366289.m3u8
 https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 #EXTINF:-1,Telered | Costa Rica
 https://video20.klm99.com:3558/live/teleredlive.m3u8
+#EXTINF:-1,Telesistema | Costa Rica
+https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w1149197827.m3u8
 #EXTINF:-1,Eventos Deportivos mix
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF:-1,MLB Channel | PlutoTV
@@ -2461,8 +2461,6 @@ http://5.79.86.14:8202/;stream.nsv
 http://espora.org:8000/jenpojradio
 #EXTINF:-1,Radio Santa Ana - California
 http://s10.voscast.com:7688/;stream1575414865714/1
-#EXTINF:-1,Radio Exa Zamora
-http://live.exafmzamora.mx:55252/exafmzamora.mp3
 #EXTINF:-1,Radio La Candela 97.7 Zacapu
 http://s4.mexside.net:2094/;stream.nsv
 #EXTINF:-1,Radio La Pantera Jiquilpan
@@ -2473,8 +2471,6 @@ http://192.187.112.50:8234/stream/1/
 http://162.212.56.146:8344/stream.mp3
 #EXTINF:-1,Radio Ranchito Guadalajara
 http://192.99.16.17:9870/;stream/1
-#EXTINF:-1,Radio La Ranchera de Monterrey
-http://streamingcwsradio20.com:9410/stream
 #EXTINF:-1,Radio Bonita Oaxaca
 http://node-19.zeno.fm/05g7pygka3quv?rj-ttl=5&rj-tok=AAABcjgJJpIAM_RurmDtn1qn5g
 #EXTINF:-1,Radio India Romantica
@@ -2523,8 +2519,6 @@ https://modoradiocl.radioca.st/live
 https://stream-41.zeno.fm/yxynr8zy71zuv?zs=Q53Ef4h_REylYh2kLlkhsQ&aw_0_req_lsid=4eb47ee5d8a0b937c4c3f51c4ce10329&triton-uid=cookie%3A01f3e335-0842-4c59-8141-c796024c45b9
 #EXTINF:-1,Radio Voice Over Radio
 https://server1.streamingradio.online/proxy/voiceoverradio/stream
-#EXTINF:-1,Radio Electronica
-https://strm112.1.fm/electronica_mobile_mp3
 #EXTINF:-1,Radio Electronica CircuitPride
 http://185.33.21.112/circuitpride_128?icy=http
 #EXTINF:-1,Radio Pop
