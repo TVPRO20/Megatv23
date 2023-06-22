@@ -2065,8 +2065,6 @@ https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
 
 
 #EXTM3U
-#EXTINF:-1,MARATONES HE-MAN
-https://cdnhd.iblups.com/hls/9loIOeAx9w.m3u8
 #EXTINF:-1,ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #EXTINF:-1,4.1 Foro TV
@@ -2095,6 +2093,8 @@ https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 #EXTINF:-1,CAM: TRC Television
 https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8
+#EXTINF:-1,CHP: Canal 10
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 #EXTINF:-1,CHH: Canal 28 Chihuahua
 https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
 #EXTINF:-1,CHH: CANAL 44
@@ -2127,10 +2127,24 @@ http://streamingcws20.com:1935/tmtv/videotmtv/playlist.m3u8
 https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/playlist.m3u8
 #EXTINF:-1,MIC: Canal 13 Michoacan
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+#EXTINF:-1,PUE: Canal 16.1
+https://5d0d1d7a6be9e.streamlock.net/envivo/puecom/playlist.m3u8
+#EXTINF:-1,PUE: Canal 16.2
+https://5d0d1d7a6be9e.streamlock.net/live/setpuebla/playlist.m3u8
+#EXTINF:-1,PUE: Canal 26.1
+http://189.240.210.28:1935/envivo/puecom/chunklist_w166335976.m3u8
+#EXTINF:-1,PUE: Canal 26.2
+http://189.240.210.28:1935/envivo/puecom/chunklist_w745561738.m3u8
+#EXTINF:-1,PUE: TV comunicaciones Puebla
+http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
 #EXTINF:-1,QUE: Super 9 Tv
 https://tv.radiohosting.online:1936/TV344/TV344/playlist.m3u8
+#EXTINF:-1,ROO: SipseTv Cancun
+https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 #EXTINF:-1,ROO: Canal 10 Cancun
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1,SLP: Nueve TV
+https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/chunklist_w2067160029.m3u8
 #EXTINF:-1,SIN: TVP Mazatlan
 https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
 #EXTINF:-1,SIN: TVP Culiacan
@@ -2143,6 +2157,8 @@ https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/chunklist_w190
 http://s5.mexside.net:1935/telemax/telemax/chunklist_w586584359.m3u8
 #EXTINF:-1,TAM: Impactovision TV matamoros
 https://5ca9af4645e15.streamlock.net/impactovision/videoimpactovision/chunklist_w1470907735.m3u8
+#EXTINF:-1,TLA: Tlaxcala Television
+https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8
 #EXTINF:-1,VER: TVMAS Veracruz
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 #EXTINF:-1,ZAC: Canal 24 Zacatecas
@@ -2175,6 +2191,8 @@ https://stream.wifiexpert.cl/energeek/radio/playlist.m3u8
 https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
 #EXTINF:-1,Dreiko TV | Panamá
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
+#EXTINF:-1,Diti TV | AR
+https://clientes.videostreaming.ar:19360/dititv/dititv.m3u8
 #EXTINF:-1,Frecuencia Musical Tv | USA
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1,Geekdot TV | Brasil
@@ -2189,8 +2207,6 @@ https://magicstream.ddns.net:443/magicstream/stream.m3u8
 https://kali.vdopanel.com:3683/stream/play.m3u8
 #EXTINF:-1,Retro Magico | Argentina
 https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
-#EXTINF:-1,Maxima TV | ND
-https://cdnhd.iblups.com/hls/Qzfdy1OvHt.m3u8
 #EXTINF:-1,Mi TV Television Clasica | Estados Unidos
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 #EXTINF:-1,Moni TV HD |
@@ -2329,8 +2345,6 @@ https://inliveserver.com:1936/14056/14056/playlist.m3u8
 https://ss3.domint.net:3136/gtv_str/globalhd/playlist.m3u8
 #EXTINF:-1,Iquique Tv | Chile
 https://marine2.miplay.cl/arcatel/iquiquetv720/tracks-v1a1/mono.m3u8
-#EXTINF:-1,La Popular TV | Chile
-https://tv.streaming-chile.com:1936/lapopulartv/lapopulartv/playlist.m3u8
 #EXTINF:-1,Mega | Chile
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8
 #EXTINF:-1,Neo TV | Argentina
@@ -2387,12 +2401,8 @@ https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1,SKY News | Reino Unido
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-#EXTINF:-1,Chic Magazine | Chile
-https://paneltv.online:1936/8056/8056/playlist.m3u8
 #EXTINF:-1,Fashion Tv | Francia
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
-#EXTINF:-1,Colosal TV | Costa Rica
-http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1,Conecta TV | México
 https://tna5.bozztv.com/Conectatvmexico/index.m3u8
 #EXTINF:-1,Corazon Llanero TV | Venezuela
@@ -2465,6 +2475,10 @@ http://192.187.112.50:8234/stream/1/
 http://162.212.56.146:8344/stream.mp3
 #EXTINF:-1,Radio Ranchito Guadalajara
 http://192.99.16.17:9870/;stream/1
+#EXTINF:-1,Radio La Ranchera de Monterrey
+http://streamingcwsradio20.com:9410/stream
+#EXTINF:-1,Radio Bonita Oaxaca
+http://node-19.zeno.fm/05g7pygka3quv?rj-ttl=5&rj-tok=AAABcjgJJpIAM_RurmDtn1qn5g
 #EXTINF:-1,Radio India Romantica
 https://max.miradio.in/proxy/indiaromantica/stream
 #EXTINF:-1,Radio Colombia Salsa Rosa
@@ -2485,6 +2499,10 @@ http://64.37.50.226:8024/stream
 http://64.37.50.226:8030/stream
 #EXTINF:-1,Radio Ochentas
 http://streaming.radionomy.com/JamendoLounge
+#EXTINF:-1,Radio Viva El Mariachi
+http://node-03.zeno.fm/gs4xg5s0csmtv?rj-ttl=5&rj-tok=AAABeHBWouQA9m2GhtVlBW72EA
+#EXTINF:-1,Radio Banda Duranguense 93.3
+http://node-25.zeno.fm/ksykvw16avduv?rj-ttl=5&rj-tok=AAABeNiPueQAr80XAC6vekxRNQ
 #EXTINF:-1,Radio La Grupera MX
 https://centova.hostingelectrica.net/proxy/grupera12?mp=/stream
 #EXTINF:-1,Radio Merengue Tropicalisima
@@ -2493,6 +2511,12 @@ http://23.237.150.178:8004/;?icy=http
 http://france1.coollabel-productions.com:8142/;
 #EXTINF:-1,Radio Rock Antenne Classic Perlen
 http://194.97.151.139/classic-perlen
+#EXTINF:-1,Radio Super Music FM
+http://node-09.zeno.fm:80/agdhpd11808uv
+#EXTINF:-1,Animax Radio
+http://node-13.zeno.fm:80/0guzsnntsnhvv
+#EXTINF:-1,Radio Michy Miau FM
+http://node-34.zeno.fm/s5494s8pta0uv?rj-ttl=5&rj-tok=AAABeMmnxIcAFJ64ThNbIiZ4sA
 #EXTINF:-1,Radio Proyecto Magic Kids
 http://argentina.republicahosting.com:8158/;
 #EXTINF:-1,Radio Modoradio
@@ -2503,6 +2527,8 @@ https://stream-41.zeno.fm/yxynr8zy71zuv?zs=Q53Ef4h_REylYh2kLlkhsQ&aw_0_req_lsid=
 https://server1.streamingradio.online/proxy/voiceoverradio/stream
 #EXTINF:-1,Radio Electronica CircuitPride
 http://185.33.21.112/circuitpride_128?icy=http
+#EXTINF:-1,Radio Pop
+http://node-15.zeno.fm/94abs07w82quv?rj-ttl=5&rj-tok=AAABdqgGbDsANLkFqNQ2h-p5IA
 #EXTINF:-1,Radio Hotmixradio 80S
 http://streaming.hotmix-radio.net/hotmixradio-80-128.mp3
 #EXTINF:-1,Coco (2017)
@@ -3063,8 +3089,12 @@ https://media2.streambrothers.com:19360/8186/8186.m3u8
 https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/chunklist_w958295046.m3u8
 #EXTINF:-1,Canal Malaga
 http://canalmalaga-tv-live.flumotion.com/chunks.m3u8
+#EXTINF:-1,Cancionero TV
+http://89.140.229.5/hls1/cancionero.m3u8
 #EXTINF:-1,El Toro TV HD
 https://streaming011.gestec-video.com/hls/eltoro_bal.m3u8
+#EXTINF:-1,Elche 7 TV
+https://elche7tv.gestec-video.com/hls/canal2.m3u8
 #EXTINF:-1,Galicia TV America HD
 http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
 #EXTINF:-1,Galicia TV Europa HD
@@ -3097,8 +3127,6 @@ http://events3-crtvg.flumotion.com/crtvg/events3_high/chunks.m3u8
 http://amodino-crtvg.flumotion.com/crtvg/amodino_high/chunks.m3u8
 #EXTINF:-1,Tvg Musigal
 http://musigal-crtvg.flumotion.com/crtvg/musigal/chunks.m3u8
-#EXTINF:-1,Warner Channel | USA
-http://45.181.122.169:8000/play/a00u
 #EXTINF:-1,ATG (432p)
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 #EXTINF:-1,Canal Motor (720p)
@@ -3131,6 +3159,8 @@ http://109.205.166.68/server124/idman_az/index.m3u8
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1,KBP Sports (720p)
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1,Monterrico TV (1080p) [Not 24/7]
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 #EXTINF:-1,Motorvision TV (720p)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60817e1aa6997500072d0d6d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc51b0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ede55dfe-45a7-4aa8-a283-7b8008be8d2e
 #EXTINF:-1,New Japan Pro Wrestling World (540p)
