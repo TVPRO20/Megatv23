@@ -2071,6 +2071,8 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1,14.1 Canal Catorce
 https://s6.mexside.net:1936/canal14/canal14/chunklist_w2087089291.m3u8
+#EXTINF:-1,21.1 Capital 21
+https://video.cdmx.gob.mx/livestream/stream.m3u8
 #EXTINF:-1,22.1 Canal 22
 https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIxIDExOjQ2OjAzIFBNJmhhc2hfdmFsdWU9WmpCTERYMHh6UVVzcTJ0cmtNd25mQT09JnZhbGlkbWludXRlcz01JmlkPQ==
 #EXTINF:-1,22.2 Canal 22 +
@@ -2085,8 +2087,6 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 #EXTINF:-1,Central FM
 https://5fe2654d6127d.streamlock.net/centralfm/smil:centralfm.smil/playlist.m3u8
-#EXTINF:-1,AGU: Presumiendo Mexico
-http://streamingcws10.com:1935/telemetrika/videotelemetrika/playlist.m3u8
 #EXTINF:-1,AGU: Presumiendo Mexico
 https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
 #EXTINF:-1,AGU: Canal 26
@@ -2121,8 +2121,6 @@ https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
 https://5f1af61612fb5.streamlock.net/tv43/videotv43_720p/playlist.m3u8
 #EXTINF:-1,JAL: Jalisco TV
 https://5fa5de1a545ae.streamlock.net:443/sisjalisciense/sisjalisciense/playlist.m3u8
-#EXTINF:-1,MIC: Transmedia TV
-http://streamingcws20.com:1935/tmtv/videotmtv/playlist.m3u8
 #EXTINF:-1,MIC: SMRTV Michoacan
 https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/playlist.m3u8
 #EXTINF:-1,MIC: Canal 13 Michoacan
@@ -2155,8 +2153,6 @@ https://5ca3e84a76d30.streamlock.net/gpacifico2/smil:mochis.smil/playlist.m3u8
 https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/chunklist_w1903526755_b1428000_sleng.m3u8
 #EXTINF:-1,SON: Telemax Sonora
 http://s5.mexside.net:1935/telemax/telemax/chunklist_w586584359.m3u8
-#EXTINF:-1,TAM: Impactovision TV matamoros
-https://5ca9af4645e15.streamlock.net/impactovision/videoimpactovision/chunklist_w1470907735.m3u8
 #EXTINF:-1,TLA: Tlaxcala Television
 https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8
 #EXTINF:-1,VER: TVMAS Veracruz
@@ -2207,12 +2203,16 @@ https://magicstream.ddns.net:443/magicstream/stream.m3u8
 https://kali.vdopanel.com:3683/stream/play.m3u8
 #EXTINF:-1,Retro Magico | Argentina
 https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
+#EXTINF:-1,Maxima TV | ND
+https://cdnhd.iblups.com/hls/Qzfdy1OvHt.m3u8
 #EXTINF:-1,Mi TV Television Clasica | Estados Unidos
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 #EXTINF:-1,Moni TV HD |
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 #EXTINF:-1,POP TV | Chile
 https://v4.tustreaming.cl/poptv/index.m3u8
+#EXTINF:-1,Rewind TV | Chile
+https://tls-cl.cdnz.cl/rewindtv/live/chunklist_w211465902.m3u8
 #EXTINF:-1,Sicardi TV
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 #EXTINF:-1,Spectrum Channel | Chile
@@ -2345,6 +2345,8 @@ https://inliveserver.com:1936/14056/14056/playlist.m3u8
 https://ss3.domint.net:3136/gtv_str/globalhd/playlist.m3u8
 #EXTINF:-1,Iquique Tv | Chile
 https://marine2.miplay.cl/arcatel/iquiquetv720/tracks-v1a1/mono.m3u8
+#EXTINF:-1,La Popular TV | Chile
+https://tv.streaming-chile.com:1936/lapopulartv/lapopulartv/playlist.m3u8
 #EXTINF:-1,Mega | Chile
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8
 #EXTINF:-1,Neo TV | Argentina
@@ -2363,8 +2365,6 @@ https://paneltv.online:1936/8116/8116/chunklist_w1465366289.m3u8
 https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 #EXTINF:-1,Telered | Costa Rica
 https://video20.klm99.com:3558/live/teleredlive.m3u8
-#EXTINF:-1,Telesistema | Costa Rica
-https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w1149197827.m3u8
 #EXTINF:-1,Eventos Deportivos mix
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF:-1,MLB Channel | PlutoTV
@@ -2401,8 +2401,12 @@ https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1,SKY News | Reino Unido
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1,Chic Magazine | Chile
+https://paneltv.online:1936/8056/8056/playlist.m3u8
 #EXTINF:-1,Fashion Tv | Francia
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+#EXTINF:-1,Colosal TV | Costa Rica
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1,Conecta TV | México
 https://tna5.bozztv.com/Conectatvmexico/index.m3u8
 #EXTINF:-1,Corazon Llanero TV | Venezuela
@@ -2487,8 +2491,6 @@ http://64.37.50.226:8036/stream
 http://64.37.50.226:8054/stream
 #EXTINF:-1,Radio Colombia Bachata
 http://perseus.shoutca.st:8312/;stream/1
-#EXTINF:-1,Radio Colombia Vallenata
-http://64.37.50.226:8042/stream
 #EXTINF:-1,Radio Colombia Crossover
 http://64.37.50.226:8006/stream
 #EXTINF:-1,Radio Colombia la Viejoteca de Richy
@@ -2521,10 +2523,10 @@ http://node-34.zeno.fm/s5494s8pta0uv?rj-ttl=5&rj-tok=AAABeMmnxIcAFJ64ThNbIiZ4sA
 http://argentina.republicahosting.com:8158/;
 #EXTINF:-1,Radio Modoradio
 https://modoradiocl.radioca.st/live
-#EXTINF:-1,Radio Conexion Latam
-https://stream-41.zeno.fm/yxynr8zy71zuv?zs=Q53Ef4h_REylYh2kLlkhsQ&aw_0_req_lsid=4eb47ee5d8a0b937c4c3f51c4ce10329&triton-uid=cookie%3A01f3e335-0842-4c59-8141-c796024c45b9
 #EXTINF:-1,Radio Voice Over Radio
 https://server1.streamingradio.online/proxy/voiceoverradio/stream
+#EXTINF:-1,Radio Electronica
+https://strm112.1.fm/electronica_mobile_mp3
 #EXTINF:-1,Radio Electronica CircuitPride
 http://185.33.21.112/circuitpride_128?icy=http
 #EXTINF:-1,Radio Pop
@@ -2577,8 +2579,6 @@ https://ia601907.us.archive.org/26/items/sanson-samson-2018-1080p-lat/Sanson%20-
 https://ia802202.us.archive.org/5/items/resucitado-2016-pelicula-completa-en-espanol-latino-hd-1080-p-pelismayo/Resucitado%20%282016%29%20Pelicula%20completa%20en%20espa%C3%B1ol%20Latino%20HD1080P-PELISMAYO.mp4
 #EXTINF:-1,David y Goliat (2015)
 https://ia802909.us.archive.org/17/items/david-e-goliat-pelicula-completa-doblada-pelicula-de-fe-y-familia-net-movie/David%20e%20Goliat%20%20%20Pel%C3%ADcula%20Completa%20Doblada%20%20%20Pel%C3%ADcula%20de%20Fe%20y%20Familia%20%20%20NetMovie.mp4
-#EXTINF:-1,Dioses y Reyes (2014)
-https://ia801609.us.archive.org/16/items/exodo-dioses-y-reyes-2014-1080p-latino-720-p/Exodo%20Dioses%20Y%20Reyes%20%282014%29%201080p%20Latino%28720_P%29.mp4
 #EXTINF:-1,Son of God (hijo de dios) (2014)
 https://ia803401.us.archive.org/20/items/hijo-de-dios-1080-p/Hijo%20de%20Dios%201080P.mp4
 #EXTINF:-1,Son of God (hijo de dios) (2014)
