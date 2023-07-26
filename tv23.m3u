@@ -5415,8 +5415,6 @@ http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1,14.1 Canal Catorce
 https://s6.mexside.net:1936/canal14/canal14/chunklist_w2087089291.m3u8
-#EXTINF:-1,21.1 Capital 21
-https://video.cdmx.gob.mx/livestream/stream.m3u8
 #EXTINF:-1,22.1 Canal 22
 https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIxIDExOjQ2OjAzIFBNJmhhc2hfdmFsdWU9WmpCTERYMHh6UVVzcTJ0cmtNd25mQT09JnZhbGlkbWludXRlcz01JmlkPQ==
 #EXTINF:-1,22.2 Canal 22 +
@@ -5439,10 +5437,10 @@ https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 #EXTINF:-1,CAM: TRC Television
 https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8
-#EXTINF:-1,CHP: Canal 10
-https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 #EXTINF:-1,CHH: Canal 28 Chihuahua
 https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
+#EXTINF:-1,CHH: CANAL 44
+https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 #EXTINF:-1,CMX: Efekto TV
 https://cdn.jwplayer.com/manifests/bez1terN.m3u8
 #EXTINF:-1,COA: Canal 4 Saltillo
@@ -5537,10 +5535,10 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1,Latino Kids TV | Uruguay
 https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
-#EXTINF:-1,Lena Radio TV
-https://5790d294af2dc.streamlock.net/lenaradiotv/lenaradiotv/playlist.m3u8
 #EXTINF:-1,Magic Kids | Argentina
 https://magicstream.ddns.net:443/magicstream/stream.m3u8
+#EXTINF:-1,El Magic TV | Argentina
+https://kali.vdopanel.com:3448/stream/play.m3u8
 #EXTINF:-1,Retro Magico | Argentina
 https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 #EXTINF:-1,Maxima TV op2 | ND
@@ -5637,8 +5635,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziomoovimex/CDN/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1,My Time Movie | Mexico
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1,Orbit TV | Republica Dominicana
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 #EXTINF:-1,PlanetaTV Movie | Chile
 https://tls-cl.cdnz.cl/movie/live/chunklist_w451618268.m3u8
 #EXTINF:-1,PlanetaTV Movie | Chile
@@ -5675,6 +5671,8 @@ https://ss5.domint.net:3170/cotv_str/colometv/chunklist_w793077443.m3u8
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
 #EXTINF:-1,GenTV HD | Argentina
 https://inliveserver.com:1936/14056/14056/playlist.m3u8
+#EXTINF:-1,Global TV | RD
+https://ss3.domint.net:3136/gtv_str/globalhd/playlist.m3u8
 #EXTINF:-1,Iquique Tv | Chile
 https://marine2.miplay.cl/arcatel/iquiquetv720/tracks-v1a1/mono.m3u8
 #EXTINF:-1,La Popular TV | Chile
@@ -5695,6 +5693,8 @@ https://paneltv.online:1936/8116/8116/chunklist_w1465366289.m3u8
 https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 #EXTINF:-1,Telered | Costa Rica
 https://video20.klm99.com:3558/live/teleredlive.m3u8
+#EXTINF:-1,Telesistema | Costa Rica
+https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w1149197827.m3u8
 #EXTINF:-1,Eventos Deportivos mix
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF:-1,MLB Channel | PlutoTV
@@ -5705,6 +5705,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1,Teletrak | Chile
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:-1,Viasat sport | Suecia
+http://persik.by/stream/2944/263250/10249.m3u8
 #EXTINF:-1,24h TVE | Spain
 https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr.m3u8
 #EXTINF:-1,CGTN en Espanol | China
@@ -5729,6 +5731,8 @@ https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1,SKY News | Reino Unido
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1,Chic Magazine | Chile
+https://paneltv.online:1936/8056/8056/playlist.m3u8
 #EXTINF:-1,Fashion Tv | Francia
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 #EXTINF:-1,Colosal TV | Costa Rica
@@ -5793,6 +5797,8 @@ http://5.79.86.14:8202/;stream.nsv
 http://espora.org:8000/jenpojradio
 #EXTINF:-1,Radio Santa Ana - California
 http://s10.voscast.com:7688/;stream1575414865714/1
+#EXTINF:-1,Radio Exa Zamora
+http://live.exafmzamora.mx:55252/exafmzamora.mp3
 #EXTINF:-1,Radio La Candela 97.7 Zacapu
 http://s4.mexside.net:2094/;stream.nsv
 #EXTINF:-1,Radio La Pantera Jiquilpan
@@ -5859,142 +5865,10 @@ http://185.33.21.112/circuitpride_128?icy=http
 http://node-15.zeno.fm/94abs07w82quv?rj-ttl=5&rj-tok=AAABdqgGbDsANLkFqNQ2h-p5IA
 #EXTINF:-1,Radio Hotmixradio 80S
 http://streaming.hotmix-radio.net/hotmixradio-80-128.mp3
-#EXTINF:-1,Coco (2017)
-https://ia902802.us.archive.org/13/items/coco2018spanishfanta_202002/Coco-2018-Spanish-Fanta.mp4
-#EXTINF:-1,Dia de Muertos (2019)
-https://archive.org/download/251244si-12545df/251244si_12545df.avi
-#EXTINF:-1,El Libro de la Vida (2014)
-https://archive.org/download/122455lo-45556abc/122455lo_45556abc.avi
-#EXTINF:-1,Beetle Juice (1988)
-https://ia801306.us.archive.org/32/items/BeetleJuice1988/Beetle%20Juice%20%5B1988%5D%20byhermita%C3%B1o.mp4
-#EXTINF:-1,La Leyenda de la Nahuala (2007)
-https://ia802202.us.archive.org/17/items/la-leyenda-de-la-nahuala_1/la-leyenda-de-la-nahuala_1.mp4
-#EXTINF:-1,La Leyenda de la Llorona (2011)
-https://ia600700.us.archive.org/24/items/alvasaa_20181017_2159/La%20leyenda%20de%20la%20llorona%20%282011%29%20%28Animacion%29.mp4
-#EXTINF:-1,Aterrados | Argentina
-https://ia802503.us.archive.org/14/items/aterrados-2017-english-subtitles-720p-horror-movie/Aterrados%202017%20English%20Subtitles%20720p%20HORROR%20MOVIE.mp4
-#EXTINF:-1,dogville op2
-https://archive.org/serve/Dogmilk/Dogmilk.mp4
-#EXTINF:-1,El pequeno salvaje
-https://ia601207.us.archive.org/1/items/1970ElPequeoSalvajeZooXaZoochat/1970%20El%20peque%C3%B1o%20salvaje%20Zoo%20xa%20Zoochat.mp4
-#EXTINF:-1,El septimo sello
-https://ia801504.us.archive.org/26/items/ben-hur-1959_202209/Ver%20El%20S%C3%A9ptimo%20Sello%20%281957%29%20Online%20Latino%20HD%20-%20PELISPLUS.mp4
-#EXTINF:-1,Manos milagrosas
-https://ia801509.us.archive.org/1/items/manos-milagrosas-2009-1080/Manos%20milagrosas%20%282009%29%201080.mp4
-#EXTINF:-1,la naranja mecanica
-https://ia801504.us.archive.org/26/items/ben-hur-1959_202209/Ver%20La%20Naranja%20Mec%C3%A1nica%20%281971%29%20Online%20Latino%20HD%20-%20PELISPLUS.mp4
-#EXTINF:-1,si solo pudiera imaginar
-https://ia601803.us.archive.org/13/items/tt6450186_LAT_HD/tt6450186_LAT_HD.mp4
-#EXTINF:-1,Orgullo y prejuicio
-https://ia802500.us.archive.org/14/items/youtube-RA_LdzGfyAk/RA_LdzGfyAk.mp4
-#EXTINF:-1,Angry Birds (2016)
-https://ia801204.us.archive.org/2/items/AngryBirds1080LatinoPelistvhd.com.mkv/Angry%20Birds1080%20Latino-%20pelistvhd.com.mkv.mp4
 #EXTINF:-1,EL CAZADOR Y LA REINA DEL HIELO
 https://onedrive.live.com/download?cid=A4A1F0763FCC8C65&resid=A4A1F0763FCC8C65%21117&authkey=AOHQ65nCGoFIA3M
-#EXTINF:-1,la muerte de superman
-https://ia800809.us.archive.org/13/items/La.muerte.de.Superman./La.muerte.de.Superman..mp4
-#EXTINF:-1,ANGRY BIRDS
-http://cecegeek@goo.gl/3KGMLf
-#EXTINF:-1,El Gigante de Hierro (1999)
-https://ia903109.us.archive.org/18/items/el.gigante.de.hierro.dvdrip.www.divxtotal.com.leoparis/El.Gigante.de.Hierro.DVDRip.%5Bwww.DivxTotal.com%5D.LeoParis.mp4
 #EXTINF:-1,CRONICAS DE NAVIDAD
 http://ia801502.us.archive.org/1/items/The.Predator.BRSf.Latino489498498494/Cr0nicaNav1dad.m1080p.Castellano64867489749486498.mp4
-#EXTINF:-1,Sanson (2018)
-https://ia601907.us.archive.org/26/items/sanson-samson-2018-1080p-lat/Sanson%20-%20Samson%20%282018%29%201080p%20lat.mp4
-#EXTINF:-1,Risen (Resucitado) (2016)
-https://ia802202.us.archive.org/5/items/resucitado-2016-pelicula-completa-en-espanol-latino-hd-1080-p-pelismayo/Resucitado%20%282016%29%20Pelicula%20completa%20en%20espa%C3%B1ol%20Latino%20HD1080P-PELISMAYO.mp4
-#EXTINF:-1,David y Goliat (2015)
-https://ia802909.us.archive.org/17/items/david-e-goliat-pelicula-completa-doblada-pelicula-de-fe-y-familia-net-movie/David%20e%20Goliat%20%20%20Pel%C3%ADcula%20Completa%20Doblada%20%20%20Pel%C3%ADcula%20de%20Fe%20y%20Familia%20%20%20NetMovie.mp4
-#EXTINF:-1,Son of God (hijo de dios) (2014)
-https://ia803401.us.archive.org/20/items/hijo-de-dios-1080-p/Hijo%20de%20Dios%201080P.mp4
-#EXTINF:-1,Son of God (hijo de dios) (2014)
-https://ia801700.us.archive.org/19/items/hijo-de-dios/Hijo%20de%20Dios.mp4
-#EXTINF:-1,Un Dios Prohibido (2013)
-https://ia904708.us.archive.org/21/items/youtube-tsZ1K5IxNrE/tsZ1K5IxNrE.mp4
-#EXTINF:-1,La Pasion de Cristo op(2004)
-https://archive.org/serve/LaPasionDeCristo2004LatinoSun/La%20pasio%CC%81n%20de%20Cristo%202004%20%28Latino%29.mp4
-#EXTINF:-1,La Pasion de Cristo Esp (2004)
-https://ia904709.us.archive.org/25/items/la-pasion-de-cristo-completo-en-espanol-latino/La%20Pasi%C3%B3n%20de%20Cristo%20completo%20en%20Espa%C3%B1ol%20Latino.mp4
-#EXTINF:-1,El Arca de Noe (1999)
-https://ia804704.us.archive.org/27/items/el-arca-de-noe-1990/EL%20ARCA%20DE%20NOE%20%281990%29.mp4
-#EXTINF:-1,El Principe de Egipto (Infantil) (1998)
-https://ia904701.us.archive.org/27/items/el-principe-de-egipto_20221208/El%20principe%20de%20Egipto.mp4
-#EXTINF:-1,La Vida Publica de Jesus (1979)
-https://ia804702.us.archive.org/10/items/2-jesus-1979/2%20Jes%C3%BAs%20%281979%29.mp4
-#EXTINF:-1,La Vida Publica de Jesus (1979)
-https://ia804701.us.archive.org/7/items/Jesus1979PeliculaCompletaEnEspanolLatinoOriginalHDLow480x360/Jesus%20%281979%29%20Pel%C3%ADcula%20Completa%20en%20Espa%C3%B1ol%20Latino%20Original%20HD%20%5BLow%2C%20480x360%5D.mp4
-#EXTINF:-1,La Vida de Brian (1979)
-https://ia601404.us.archive.org/12/items/youtube-Ue76CUvt1RY/Ue76CUvt1RY.mp4
-#EXTINF:-1,Jesus de Nazareth (1977)
-https://ia601400.us.archive.org/33/items/jes-naz-esp-lat/Jes%C3%BAs%20de%20Nazareth%20%281977%29.mp4
-#EXTINF:-1,Jesucristo Superstar (1971)
-https://ia801504.us.archive.org/26/items/ben-hur-1959_202209/Ver%20Jesucristo%20Superstar%20%281973%29%20Online%20Latino%20HD%20-%20PELISPLUS.mp4
-#EXTINF:-1,La Biblia... En el Principio (1966)
-https://ia601504.us.archive.org/26/items/ben-hur-1959_202209/Ver%20La%20Biblia%20En%20el%20Principio%20%281966%29%20Online%20Latino%20HD%20-%20PELISPLUS.mp4
-#EXTINF:-1,El Evangelio Segun San Mateo (1964)
-https://ia800103.us.archive.org/16/items/1964ElEvangelioSegnSanMateo/1964%20-%20El%20Evangelio%20seg%C3%BAn%20San%20Mateo.mp4
-#EXTINF:-1,Cleopatra (1963)
-https://ia801504.us.archive.org/26/items/ben-hur-1959_202209/Ver%20Cleopatra%20%281963%29%20Online%20Latino%20HD%20-%20PELISPLUS.mp4
-#EXTINF:-1,Barrabas (1961)
-https://ia803201.us.archive.org/1/items/barrabas-1080p-60-fps-1961.mkv/Barrabas_1080p60FPS%201961.mp4
-#EXTINF:-1,Rey de Reyes (1961)
-https://ia804507.us.archive.org/7/items/rey-de-reyes_202107/rey%20de%20reyes.mp4
-#EXTINF:-1,Ben Hur (1959)
-https://ia801504.us.archive.org/26/items/ben-hur-1959_202209/Ben-Hur%20%281959.mp4
-#EXTINF:-1,Salomon y la Reina de Saba (1959)
-https://ia801504.us.archive.org/26/items/ben-hur-1959_202209/Ver%20Salom%C3%B3n%20y%20La%20Reina%20de%20Saba%20%281959%29%20Online%20Latino%20HD%20-%20PELISPLUS.mp4
-#EXTINF:-1,Los Diez Mandamientos (1956)
-https://ia802203.us.archive.org/28/items/the-ten-commandments-1956-720p-lat/The%20Ten%20Commandments%201956%20720p%20Lat.MP4
-#EXTINF:-1,Marcelino Pan y Vino (1954)
-https://ia801504.us.archive.org/26/items/ben-hur-1959_202209/Ver%20Marcelino%2C%20Pan%20y%20Vino%20%281954%29%20Online%20Latino%20HD%20-%20PELISPLUS.mp4
-#EXTINF:-1,Marcelino Pan y Vino (1954)
-https://ia804504.us.archive.org/28/items/marcelino-pan-y-vino/Marcelino%20pan%20y%20vino.mp4
-#EXTINF:-1,El Beso de Judas (1954)
-https://ia800806.us.archive.org/13/items/ElBesoDeJudasGil/el%20beso%20de%20judas%20-%20gil%20-.mp4
-#EXTINF:-1,El Manto Sagrado (The Robe) (1953)
-https://ia601403.us.archive.org/10/items/mant-sag-esp-lat/El%20Manto%20Sagrado%20%281953%29.mp4
-#EXTINF:-1,Quo Vadis? (A Donde Vas?) (1951)
-https://ia601407.us.archive.org/34/items/q-vad-esp-lat/Quo%20Vadis%20%281951%29.mp4
-#EXTINF:-1,Sanson y Dalila (1949)
-https://ia801504.us.archive.org/26/items/ben-hur-1959_202209/Ver%20Sans%C3%B3n%20y%20Dalila%20%281949%29%20Online%20Latino%20HD%20-%20PELISPLUS.mp4
-#EXTINF:-1,Caminos de Michoacan (1979)
-https://ia904604.us.archive.org/33/items/y-2-mate.is-caminos-de-michoacan-pelicula-completa-1979-0v-zp-2i-sum-j-0-720p-1639973551399/Y2Mate.is%20-%20CAMINOS%20DE%20MICHOACAN%20PELICULA%20COMPLETA%281979%29-0vZP2iSumJ0-720p-1639973551399.mp4
-#EXTINF:-1,El chavo-Vacaciones en Acapulco (1977)
-https://ia801502.us.archive.org/3/items/elchavo_201709/El%20Chavo%20del%208%20-%20Vacaciones%20en%20Acapulco.mp4
-#EXTINF:-1,La Presidenta Municipal (1975)
-https://ia801503.us.archive.org/11/items/LaIndiaMariaLaPresidentaMunicipal/La%20India%20Maria%20La%20Presidenta%20Municipal.mp4
-#EXTINF:-1,El Libro de Piedra (1969)
-https://ia801507.us.archive.org/16/items/ElLibroDePiedra/el%20libro%20de%20piedra.mp4
-#EXTINF:-1,Caperucita y Pulgarcito Contra los Monstruos (1960)
-https://ia801504.us.archive.org/9/items/CaperusitaYPulgarcitoContraLosLobos/Caperusita%20y%20pulgarcito%20contra%20los%20lobos.mp4
-#EXTINF:-1,El Dolor de Pagar la Renta (1960)
-https://ia801501.us.archive.org/0/items/CAPULINAELDOLORDEPAGARLARENTA/CAPULINA%20EL%20DOLOR%20DE%20%20PAGAR%20LA%20RENTA.mp4
-#EXTINF:-1,Macario (1960)
-https://ia801503.us.archive.org/17/items/tecnotv_201709/Macario.mp4
-#EXTINF:-1,Angelitos del Trapecio (1959)
-https://ia801508.us.archive.org/29/items/AngelitosDeTrapecio/Angelitos%20de%20trapecio.mp4
-#EXTINF:-1,Yo Soy Muy Macho (1953)
-https://ia801502.us.archive.org/32/items/YoSoyMuyMachoSilviaPinal/Yo%20Soy%20Muy%20Macho%20-%20Silvia%20Pinal.mp4
-#EXTINF:-1,El Bello Durmiente (1952)
-https://ia801504.us.archive.org/10/items/TinTanElBelloDurmiente/Tin%20Tan%2C%20El%20Bello%20Durmiente.mp4
-#EXTINF:-1,Aca las Tortas (1951)
-https://ia801500.us.archive.org/22/items/AcaLasTortas/aca%20las%20tortas.mp4
-#EXTINF:-1,Simbad el Mareado (1950)
-https://ia801502.us.archive.org/1/items/SimbadElMareado/Simbad%20el%20mareado.mp4
-#EXTINF:-1,La Familia Perez (1949)
-https://ia801507.us.archive.org/20/items/LaFamiliaPerez_201709/La%20familia%20Perez.mp4
-#EXTINF:-1,Una Familia de Tantas (1949)
-https://ia601503.us.archive.org/13/items/UNAFAMILIADETANTAS/uNA%20FAMILIA%20DE%20TANTAS.mp4
-#EXTINF:-1,Los Tres Huastecos (1948)
-https://ia801500.us.archive.org/31/items/LosTresHuaztecos/Los%20tres%20huaztecos.mp4
-#EXTINF:-1,Nosotros - los Pobres (1948)
-https://ia801505.us.archive.org/34/items/NosotrosLosPobres/Nosotros%20los%20pobres.mp4
-#EXTINF:-1,Si Adelita se Fuera con Otro (1948)
-https://ia601506.us.archive.org/6/items/SiAdelitaSeFueraConOtro/Si%20Adelita%20Se%20Fuera%20Con%20Otro.mp4
-#EXTINF:-1,Ustedes - los Ricos (1948)
-https://ia601504.us.archive.org/23/items/Ustedes.Los.Ricos/Ustedes.Los.Ricos.mp4
-#EXTINF:-1,La Bella Durmiente (1959)
-http://bit.ly/LABELLAMOVIE
 #EXTINF:-1,Guía de canales
 https://i.mjh.nz/PlutoTV/5e793a7cfbdf780007f7eb75-alt.m3u8
 #EXTINF:-1,MTV MIAW Pluto TV
@@ -6505,8 +6379,6 @@ http://109.205.166.68/server124/idman_az/index.m3u8
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1,KBP Sports (720p)
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1,Monterrico TV (1080p) [Not 24/7]
-http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 #EXTINF:-1,Motorvision TV (720p)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60817e1aa6997500072d0d6d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc51b0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ede55dfe-45a7-4aa8-a283-7b8008be8d2e
 #EXTINF:-1,New Japan Pro Wrestling World (540p)
@@ -6541,6 +6413,8 @@ https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
 http://stadium.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,STIRR Whistle Sports (720p)
 https://dai.google.com/linear/hls/event/Wu11mwhnTKGNhwZimEK6Jg/master.m3u8
+#EXTINF:-1,TDM Sports Macau (720p)
+http://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
 #EXTINF:-1,Tennis Channel (720p)
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1,Trace Sport Stars (Australia) (1080p)
