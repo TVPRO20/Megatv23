@@ -5461,12 +5461,14 @@ https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
 https://5f1af61612fb5.streamlock.net/tv43/videotv43_720p/playlist.m3u8
 #EXTINF:-1,JAL: Jalisco TV
 https://5fa5de1a545ae.streamlock.net:443/sisjalisciense/sisjalisciense/playlist.m3u8
-#EXTINF:-1,MIC: Transmedia TV
-http://streamingcws20.com:1935/tmtv/videotmtv/playlist.m3u8
 #EXTINF:-1,MIC: SMRTV Michoacan
 https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/playlist.m3u8
 #EXTINF:-1,MIC: Canal 13 Michoacan
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+#EXTINF:-1,PUE: Canal 16.1
+https://5d0d1d7a6be9e.streamlock.net/envivo/puecom/playlist.m3u8
+#EXTINF:-1,PUE: Canal 16.2
+https://5d0d1d7a6be9e.streamlock.net/live/setpuebla/playlist.m3u8
 #EXTINF:-1,PUE: Canal 26.1
 http://189.240.210.28:1935/envivo/puecom/chunklist_w166335976.m3u8
 #EXTINF:-1,PUE: Canal 26.2
@@ -5493,8 +5495,6 @@ https://5ca3e84a76d30.streamlock.net/gpacifico2/smil:mochis.smil/playlist.m3u8
 https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/chunklist_w1903526755_b1428000_sleng.m3u8
 #EXTINF:-1,SON: Telemax Sonora
 http://s5.mexside.net:1935/telemax/telemax/chunklist_w586584359.m3u8
-#EXTINF:-1,TLA: Tlaxcala Television
-https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8
 #EXTINF:-1,VER: TVMAS Veracruz
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 #EXTINF:-1,ZAC: Canal 24 Zacatecas
@@ -5527,8 +5527,6 @@ https://stream.wifiexpert.cl/energeek/radio/playlist.m3u8
 https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
 #EXTINF:-1,Dreiko TV | Panamá
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
-#EXTINF:-1,Diti TV | AR
-https://clientes.videostreaming.ar:19360/dititv/dititv.m3u8
 #EXTINF:-1,Frecuencia Musical Tv | USA
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1,Geekdot TV | Brasil
@@ -5639,6 +5637,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziomoovimex/CDN/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1,My Time Movie | Mexico
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1,Orbit TV | Republica Dominicana
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 #EXTINF:-1,PlanetaTV Movie | Chile
 https://tls-cl.cdnz.cl/movie/live/chunklist_w451618268.m3u8
 #EXTINF:-1,PlanetaTV Movie | Chile
@@ -5803,8 +5803,6 @@ http://s10.voscast.com:7688/;stream1575414865714/1
 http://live.exafmzamora.mx:55252/exafmzamora.mp3
 #EXTINF:-1,Radio La Candela 97.7 Zacapu
 http://s4.mexside.net:2094/;stream.nsv
-#EXTINF:-1,Radio La Pantera Jiquilpan
-http://192.187.112.50:8434/stream/1/
 #EXTINF:-1,Radio Impacto Jiquilpan
 http://192.187.112.50:8234/stream/1/
 #EXTINF:-1,Radio Fantasia Zitacuaro
@@ -5831,8 +5829,6 @@ http://64.37.50.226:8006/stream
 http://64.37.50.226:8018/stream
 #EXTINF:-1,Radio Colombia Bohemia
 http://64.37.50.226:8024/stream
-#EXTINF:-1,Radio Colombia Romantica
-http://64.37.50.226:8030/stream
 #EXTINF:-1,Radio Ochentas
 http://streaming.radionomy.com/JamendoLounge
 #EXTINF:-1,Radio Viva El Mariachi
@@ -5847,18 +5843,12 @@ http://france1.coollabel-productions.com:8142/;
 http://194.97.151.139/classic-perlen
 #EXTINF:-1,Radio Super Music FM
 http://node-09.zeno.fm:80/agdhpd11808uv
-#EXTINF:-1,Animax Radio
-http://node-13.zeno.fm:80/0guzsnntsnhvv
-#EXTINF:-1,Radio Michy Miau FM
-http://node-34.zeno.fm/s5494s8pta0uv?rj-ttl=5&rj-tok=AAABeMmnxIcAFJ64ThNbIiZ4sA
 #EXTINF:-1,Radio Proyecto Magic Kids
 http://argentina.republicahosting.com:8158/;
 #EXTINF:-1,Radio Modoradio
 https://modoradiocl.radioca.st/live
 #EXTINF:-1,Radio Voice Over Radio
 https://server1.streamingradio.online/proxy/voiceoverradio/stream
-#EXTINF:-1,Radio Electronica
-https://strm112.1.fm/electronica_mobile_mp3
 #EXTINF:-1,Radio Electronica CircuitPride
 http://185.33.21.112/circuitpride_128?icy=http
 #EXTINF:-1,Radio Pop
@@ -6041,8 +6031,6 @@ https://i.mjh.nz/PlutoTV/5f523aa5523ae000074745ec-alt.m3u8
 https://i.mjh.nz/PlutoTV/61f94a2866401100074e9dee-alt.m3u8
 #EXTINF:-1,TeleFórmula
 https://i.mjh.nz/PlutoTV/63d2c140c111bc0008cb890b-alt.m3u8
-#EXTINF:-1,Pluto TV Fútbol
-https://i.mjh.nz/PlutoTV/63c6e37e636b7e0007ccb635-alt.m3u8
 #EXTINF:-1,Pluto TV Deportes
 https://i.mjh.nz/PlutoTV/5dcde07af1c85b0009b18651-alt.m3u8
 #EXTINF:-1,ITV Deportes
@@ -6327,8 +6315,6 @@ http://interalmeria.tv/directo/live.m3u8
 http://momentog-crtvg.flumotion.com/chunks.m3u8
 #EXTINF:-1,Popular TV Cantabria
 https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
-#EXTINF:-1,Popular TV Melilla
-https://5940924978228.streamlock.net/8009/8009/chunklist_w1267857749.m3u8
 #EXTINF:-1,PTV Malaga HD
 https://streamer.zapitv.com/PTV-malaga/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Rakuten TV Cine Espanol
