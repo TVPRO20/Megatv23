@@ -5435,6 +5435,8 @@ http://streamingcws10.com:1935/telemetrika/videotelemetrika/playlist.m3u8
 https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
 #EXTINF:-1,AGU: Canal 26
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
+#EXTINF:-1,CAM: TRC Television
+https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8
 #EXTINF:-1,CHP: Canal 10
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 #EXTINF:-1,CHH: Canal 28 Chihuahua
@@ -5483,8 +5485,6 @@ https://tv.radiohosting.online:1936/TV344/TV344/playlist.m3u8
 https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 #EXTINF:-1,ROO: Canal 10 Cancun
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1,SLP: Nueve TV
-https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/chunklist_w2067160029.m3u8
 #EXTINF:-1,SIN: TVP Mazatlan
 https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
 #EXTINF:-1,SIN: TVP Culiacan
@@ -5529,6 +5529,8 @@ https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
 #EXTINF:-1,Diti TV | AR
 https://clientes.videostreaming.ar:19360/dititv/dititv.m3u8
+#EXTINF:-1,El Magic TV | Argentina
+https://kali.vdopanel.com:3448/stream/play.m3u8
 #EXTINF:-1,Frecuencia Musical Tv | USA
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1,Geekdot TV | Brasil
@@ -5541,8 +5543,6 @@ https://5790d294af2dc.streamlock.net/lenaradiotv/lenaradiotv/playlist.m3u8
 https://tv.invasivamedia.com/hls/limtv.m3u8
 #EXTINF:-1,Magic Kids | Argentina
 https://magicstream.ddns.net:443/magicstream/stream.m3u8
-#EXTINF:-1,El Magic TV | Argentina
-https://kali.vdopanel.com:3448/stream/play.m3u8
 #EXTINF:-1,Maxima TV op2 | ND
 https://vivo.solumedia.com:19360/corrientes/corrientes.m3u8
 #EXTINF:-1,Mi TV Television Clasica | USA
@@ -5589,6 +5589,8 @@ https://rtvelivestream-clnx.rtve.es/rtvesec/clan/clan_main_720.m3u8
 https://marine2.miplay.cl/ntv/playlist.m3u8
 #EXTINF:-1,PBS Kids (Inglés) | Estados Unidos
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1,Pequeradio | Spain
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1,Planeta Junior TV | Spain
 http://deaplaneta-planetakidz-1-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1,PlanetaTV Kids | Chile
@@ -5639,8 +5641,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziomoovimex/CDN/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00712-alchimie-moviescentrales-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1,My Time Movie | Mexico
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1,Orbit TV | Republica Dominicana
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 #EXTINF:-1,PlanetaTV Movie | Chile
 https://tls-cl.cdnz.cl/movie/live/chunklist_w451618268.m3u8
 #EXTINF:-1,PlanetaTV Movie | Chile
@@ -5671,6 +5671,8 @@ https://ss5.domint.net:3170/cotv_str/colometv/chunklist_w793077443.m3u8
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
 #EXTINF:-1,GenTV HD | Argentina
 https://inliveserver.com:1936/14056/14056/playlist.m3u8
+#EXTINF:-1,Global TV | RD
+https://ss3.domint.net:3136/gtv_str/globalhd/playlist.m3u8
 #EXTINF:-1,Iquique Tv | Chile
 https://marine2.miplay.cl/arcatel/iquiquetv720/tracks-v1a1/mono.m3u8
 #EXTINF:-1,La Popular TV | Chile
@@ -5733,6 +5735,8 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1,Conecta TV | México
 https://tna5.bozztv.com/Conectatvmexico/index.m3u8
+#EXTINF:-1,Corazon Llanero TV | Venezuela
+https://vcp.myplaytv.com:443/coll/coll/playlist.m3u8
 #EXTINF:-1,FS1 | Austria
 http://stream.fs1.tv:8080/hls/webstream.m3u8
 #EXTINF:-1,KMK Radio TV | Costa Rica
@@ -5787,8 +5791,6 @@ http://5.79.86.14:8202/;stream.nsv
 http://espora.org:8000/jenpojradio
 #EXTINF:-1,Radio Santa Ana - California
 http://s10.voscast.com:7688/;stream1575414865714/1
-#EXTINF:-1,Radio Exa Zamora
-http://live.exafmzamora.mx:55252/exafmzamora.mp3
 #EXTINF:-1,Radio La Candela 97.7 Zacapu
 http://s4.mexside.net:2094/;stream.nsv
 #EXTINF:-1,Radio La Pantera Jiquilpan
@@ -6301,8 +6303,6 @@ https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/chunklis
 http://canalmalaga-tv-live.flumotion.com/chunks.m3u8
 #EXTINF:-1,Cancionero TV
 http://89.140.229.5/hls1/cancionero.m3u8
-#EXTINF:-1,Cope TV
-https://hls-directo01-cope-stream.flumotion.com/playlist.m3u8
 #EXTINF:-1,El Toro TV HD
 https://streaming011.gestec-video.com/hls/eltoro_bal.m3u8
 #EXTINF:-1,Elche 7 TV
@@ -6315,8 +6315,8 @@ http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
 http://interalmeria.tv/directo/live.m3u8
 #EXTINF:-1,Momentos G
 http://momentog-crtvg.flumotion.com/chunks.m3u8
-#EXTINF:-1,Popular TV Melilla
-https://5940924978228.streamlock.net/8009/8009/chunklist_w1267857749.m3u8
+#EXTINF:-1,Popular TV Cantabria
+https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
 #EXTINF:-1,PTV Malaga HD
 https://streamer.zapitv.com/PTV-malaga/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Rakuten TV Cine Espanol
