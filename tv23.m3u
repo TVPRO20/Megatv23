@@ -5507,22 +5507,18 @@ http://radio.ilce.edu.mx:8000/radioilce.mp3
 http://cultural-crtvg.flumotion.com/chunks.m3u8
 #EXTINF:-1,EnerGeek Retro op | Chile
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
-#EXTINF:-1,Fanpop TV | Chile
-https://stream.wifispeed.cl:3247/live/energeek2live.m3u8
 #EXTINF:-1,Fanpop TV op | Chile
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 #EXTINF:-1,ACS Network Tv | Puerto Rico
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 #EXTINF:-1,Canal 6 Mar del Plata | AR
 https://panel.dattalive.com:443/8186/8186/playlist.m3u8
-#EXTINF:-1,Conectate TV | Puerto Rico
-https://250weu.bozztv.com/ssh101/ssh101/conectatetvpr/playlist.m3u8
 #EXTINF:-1,Dreiko TV | Panamá
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
 #EXTINF:-1,Diti TV | AR
 https://inliveserver.com:1936/8386/8386/playlist.m3u8
 #EXTINF:-1,El Magic TV | Argentina
-https://kali.vdopanel.com:3754/stream/play.m3u8
+https://kali.vdopanel.com:3311/stream/play.m3u8
 #EXTINF:-1,Frecuencia Musical Tv | USA
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1,Geekdot TV | Brasil
@@ -5629,6 +5625,8 @@ https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucineeurope-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1,Tu Cine | Estados Unidos
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucineus-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1,Wow Tv | El Salvador
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 #EXTINF:-1,Vix
 https://linear-330.frequency.stream/dist/localnow/330/hls/master/playlist.m3u8
 #EXTINF:-1,Buin Somos Todos | Chile
@@ -5657,8 +5655,6 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 https://videohd.live:19360/8076/8076.m3u8
 #EXTINF:-1,Retro Plus TV 3 | Chile
 https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
-#EXTINF:-1,Solo Stand Up | Chile
-https://paneltv.online:1936/8116/8116/chunklist_w1465366289.m3u8
 #EXTINF:-1,Tec TV | Argentina
 https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 #EXTINF:-1,Telesistema | Costa Rica
@@ -5673,8 +5669,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1,Teletrak | Chile
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
-#EXTINF:-1,Viasat sport | Suecia
-http://persik.by/stream/2944/263250/10249.m3u8
 #EXTINF:-1,24h TVE | Spain
 https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr.m3u8
 #EXTINF:-1,CGTN en Espanol | China
@@ -5717,6 +5711,8 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 https://tls-cl.cdnz.cl/music/live/chunklist_w260426131.m3u8
 #EXTINF:-1,PlanetaTV Music | Chile
 https://scl.edge.grupoz.cl/music/live/playlist.m3u8
+#EXTINF:-1,RETRO MUSIC TV | Checoslovaquia
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1,Retro Plus TV | Chile
 https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
 #EXTINF:-1,RETRO PLUS 2 TV | Chile
@@ -5733,8 +5729,6 @@ https://audio2.tustreaming.cl:8150/stream?type=mp3
 https://lt15concordia.radioca.st/stream
 #EXTINF:-1,Radio FM Vida Concordia
 https://streaming450tb.locucionar.com/proxy/fmvida979?mp=/stream
-#EXTINF:-1,Radio Conectate Retro Hits Radio
-https://us9.maindigitalstream.com/ssl/7686
 #EXTINF:-1,Radio Voice Over Radio
 https://server1.streamingradio.online/proxy/voiceoverradio/stream
 #EXTINF:-1,Radio Ranchito Morelia
@@ -5769,8 +5763,6 @@ http://s10.voscast.com:7688/;stream1575414865714/1
 http://live.exafmzamora.mx:55252/exafmzamora.mp3
 #EXTINF:-1,Radio La Candela 97.7 Zacapu
 http://s4.mexside.net:2094/;stream.nsv
-#EXTINF:-1,Radio La Pantera Jiquilpan
-http://192.187.112.50:8434/stream/1/
 #EXTINF:-1,Radio Impacto Jiquilpan
 http://192.187.112.50:8234/stream/1/
 #EXTINF:-1,Radio Fantasia Zitacuaro
@@ -5821,12 +5813,12 @@ http://node-34.zeno.fm/s5494s8pta0uv?rj-ttl=5&rj-tok=AAABeMmnxIcAFJ64ThNbIiZ4sA
 http://argentina.republicahosting.com:8158/;
 #EXTINF:-1,Radio Modoradio
 https://modoradiocl.radioca.st/live
-#EXTINF:-1,Radio Electronica
-https://strm112.1.fm/electronica_mobile_mp3
 #EXTINF:-1,Radio Electronica CircuitPride
 http://185.33.21.112/circuitpride_128?icy=http
 #EXTINF:-1,Radio Pop
 http://node-15.zeno.fm/94abs07w82quv?rj-ttl=5&rj-tok=AAABdqgGbDsANLkFqNQ2h-p5IA
+#EXTINF:-1,Radio Hotmixradio 80S
+http://streaming.hotmix-radio.net/hotmixradio-80-128.mp3
 #EXTINF:-1,EL CAZADOR Y LA REINA DEL HIELO
 https://onedrive.live.com/download?cid=A4A1F0763FCC8C65&resid=A4A1F0763FCC8C65%21117&authkey=AOHQ65nCGoFIA3M
 #EXTINF:-1,CRONICAS DE NAVIDAD
@@ -6327,6 +6319,8 @@ https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/60
 https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
 #EXTINF:-1,Anove TV HD
 https://205245.gvideo.io/cmaf/205245_786753/index.mpd
+#EXTINF:-1,CANAL 33 MADRID
+https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/chunklist_w958295046.m3u8
 #EXTINF:-1,Canal Malaga
 http://canalmalaga-tv-live.flumotion.com/chunks.m3u8
 #EXTINF:-1,Cancionero TV
