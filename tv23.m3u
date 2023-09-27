@@ -5491,6 +5491,8 @@ https://5ca3e84a76d30.streamlock.net/gpacifico2/smil:mochis.smil/playlist.m3u8
 https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/chunklist_w1903526755_b1428000_sleng.m3u8
 #EXTINF:-1,SON: Telemax Sonora
 http://s5.mexside.net:1935/telemax/telemax/chunklist_w586584359.m3u8
+#EXTINF:-1,TLA: Tlaxcala Television
+https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8
 #EXTINF:-1,VER: TVMAS Veracruz
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 #EXTINF:-1,ZAC: Canal 24 Zacatecas
@@ -5501,8 +5503,6 @@ https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 http://radio.ilce.edu.mx:8000/radioilce.mp3
 #EXTINF:-1,Cultura365 | Espana
 http://cultural-crtvg.flumotion.com/chunks.m3u8
-#EXTINF:-1,EnerGeek Retro op | Chile
-https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 #EXTINF:-1,Energeek Radio TV | Chile
 https://wifiexpert-1.energeek.cl/energeek/radio/playlist.m3u8
 #EXTINF:-1,Energeek Radio TV op | Chile
@@ -5537,16 +5537,18 @@ https://magicstream.ddns.net:443/magicstream/stream.m3u8
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 #EXTINF:-1,Moni TV HD | AR
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
+#EXTINF:-1,Sicardi TV | AR
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 #EXTINF:-1,Spectrum Channel | Chile
 https://panel.miplay.cl:8081/spectrumchannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Tele Estrella | AR
 https://stmvideo2.livecastv.com/telestrella/telestrella/chunklist.m3u8
 #EXTINF:-1,Tigueritos TV | Republica Dominicana
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
-#EXTINF:-1,Toonizaki 2 | AR
-http://190.122.96.187:8888/http/010
 #EXTINF:-1,Tv Costa | Chile
 https://tv.clientetvstudio.net:3486/live/costatv1live.m3u8
+#EXTINF:-1,TVS Retro | Guatemala
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1,VariedTV | ND
 https://6362ca6f1fc28.streamlock.net/8066/8066/chunklist_w667003534.m3u8
 #EXTINF:-1,Voice Over Radio TV | Costa Rica
@@ -5631,6 +5633,8 @@ https://bst.buin.cl/0.m3u8
 https://5cd577a3dd8ec.streamlock.net/canal4/manifest.smil/chunklist_w92188071_b316000.m3u8
 #EXTINF:-1,Canal 4 Jujuy | Argentina
 https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/chunklist_w1908572533_b316000.m3u8
+#EXTINF:-1,Canal 4 San Juan | Argentina
+http://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w1603184235.m3u8
 #EXTINF:-1,Caracola TV | Chile
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 #EXTINF:-1,Colome TV | NY
@@ -5657,8 +5661,8 @@ https://paneltv.online:1936/8116/8116/chunklist_w1465366289.m3u8
 https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 #EXTINF:-1,Telered | Costa Rica
 https://video20.klm99.com:3558/hybrid/play.m3u8
-#EXTINF:-1,Telesistema | Costa Rica
-https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w1149197827.m3u8
+#EXTINF:-1,MLB Network | Estados Unidos
+http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1,MLB Channel | PlutoTV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97d882-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f1832274-98b7-4765-ad8b-c533c4382008&userId=&serverSideAds=true
 #EXTINF:-1,PGA Tour | PlutoTV
@@ -5675,6 +5679,8 @@ https://rtvelivestreamv3.akamaized.net/24h/24h_main_dvr.m3u8
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1,CNN en Espanol | Estados Unidos
 https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/VIDEO_0_1964000.m3u8
+#EXTINF:-1,Cubavision Internacional | Cuba
+http://190.122.96.187:8888/http/010
 #EXTINF:-1,DW Latino | Alemania
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1,El Financiero Bloomberg | Mexico
@@ -5779,8 +5785,6 @@ http://64.37.50.226:8036/stream
 http://64.37.50.226:8054/stream
 #EXTINF:-1,Radio Colombia Bachata
 http://perseus.shoutca.st:8312/;stream/1
-#EXTINF:-1,Radio Colombia Vallenata
-http://64.37.50.226:8042/stream
 #EXTINF:-1,Radio Colombia Crossover
 http://64.37.50.226:8006/stream
 #EXTINF:-1,Radio Colombia la Viejoteca de Richy
