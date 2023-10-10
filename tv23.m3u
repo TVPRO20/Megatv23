@@ -5441,8 +5441,6 @@ https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 #EXTINF:-1,CMX: Efekto TV
 https://cdn.jwplayer.com/manifests/bez1terN.m3u8
-#EXTINF:-1,COA: Canal 4 Saltillo
-http://162.241.190.126:1935/live/canal4/playlist.m3u8
 #EXTINF:-1,COA: 15TV Sabinas
 https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
 #EXTINF:-1,DUR: Canal 10 Durango
@@ -5471,10 +5469,14 @@ http://189.240.210.28:1935/envivo/puecom/chunklist_w745561738.m3u8
 http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
 #EXTINF:-1,QUE: RTQ Queretaro
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+#EXTINF:-1,QUE: Super 9 Tv
+https://tv.radiohosting.online:1936/TV344/TV344/playlist.m3u8
 #EXTINF:-1,ROO: SipseTv Cancun
 https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 #EXTINF:-1,ROO: Canal 10 Cancun
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1,SLP: Nueve TV
+https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/chunklist_w2067160029.m3u8
 #EXTINF:-1,SIN: TVP Mazatlan
 https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
 #EXTINF:-1,SIN: TVP Culiacan
@@ -5511,7 +5513,7 @@ https://wifiexpert-1.energeek.cl/energeek/canal-3/playlist.m3u8
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 #EXTINF:-1,Canal 6 Mar del Plata | AR
 https://panel.dattalive.com:443/8186/8186/playlist.m3u8
-#EXTINF:-1,Ciudad Magica Tv |
+#EXTINF:-1,Ciudad Magica Tv | AR
 https://tv.initium.net.ar:3235/live/grupocitylive.m3u8
 #EXTINF:-1,Classic Channel HD | Chile
 https://paneltv.online:1936/8046/8046/playlist.m3u8
@@ -5539,8 +5541,6 @@ https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
 #EXTINF:-1,Rocket Channel | AR
 https://streaming.zappix.live:19360/toonizaki/toonizaki.m3u8
-#EXTINF:-1,Sicardi TV | AR
-https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 #EXTINF:-1,Spectrum Channel | Chile
 https://panel.miplay.cl:8081/spectrumchannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Tele Estrella | AR
@@ -5601,14 +5601,10 @@ http://xabarintv-r1-crtvg.flumotion.com/chunks.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2701&live=1&avod=1&cb=[CACHEBUSTER]&app_bundle=[APP_BUNDLE]&app_name=[APP_NAME]&app_domain=[APP_DOMAIN]&app_version=[APP_VERSION]&app_category=[APP_CATEGORY]&app_store_url=[APP_STORE_URL]&hls_marker=1&pod_duration=[POD_DURATION]&ua=[%UA%]&ip=[IP]&min_ad_duration=6&max_ad_duration=120?is_lat=[LIMITED_AD_TRACKING]&player_width=[WIDTH]&player_height=[HEIGHT]&ua=[%UA%]&ip=[IP]&cb=[CACHEBUSTER]&hls_marker=1&app_version=[APP_VERSION]&app_store_url=[APP_STORE_URL]&app_name=[APP_NAME]&app_domain=[APP_DOMAIN]&app_category=[APP_CATEGORY]&did=[DID]&app_bundle=[APP_BUNDLE]&network_id=2701&live=1&avod=1&stream_url=https%3A%2F%2Fb81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com%2Fv1%2Fchannel%2FZAZ_Linear%2Findex-zaz-linear.m3u8
 #EXTINF:-1,Anime TV | Brasil
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-#EXTINF:-1,Kpop Tv Play | Brasil
-https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1,Loading Brasil | Brasil
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1,Wording TV HD | Brasil
 https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
-#EXTINF:-1,Bayres TV | Argentina
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1,Bjgtjme | Argentina
 https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8
 #EXTINF:-1,Extrema TV | Costa Rica
@@ -5647,8 +5643,6 @@ https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 https://ss5.domint.net:3170/cotv_str/colometv/chunklist_w793077443.m3u8
 #EXTINF:-1,Iquique Tv | Chile
 https://marine2.miplay.cl/arcatel/iquiquetv720/tracks-v1a1/mono.m3u8
-#EXTINF:-1,La Popular TV | Chile
-https://tv.streaming-chile.com:1936/lapopulartv/lapopulartv/playlist.m3u8
 #EXTINF:-1,Mega | Chile
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8
 #EXTINF:-1,Neo TV | Argentina
@@ -5665,8 +5659,6 @@ https://paneltv.online:1936/8116/8116/chunklist_w1465366289.m3u8
 https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 #EXTINF:-1,Telered | Costa Rica
 https://video20.klm99.com:3558/hybrid/play.m3u8
-#EXTINF:-1,Telesistema | Costa Rica
-https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w1149197827.m3u8
 #EXTINF:-1,MLB Channel | PlutoTV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97d882-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f1832274-98b7-4765-ad8b-c533c4382008&userId=&serverSideAds=true
 #EXTINF:-1,PGA Tour | PlutoTV
@@ -5763,6 +5755,8 @@ http://5.79.86.14:8199/;stream.nsv
 http://167.114.116.223:3334/stream/1/streams.mp3
 #EXTINF:-1,Radio Los 40 Principales Uruapan
 http://5.79.86.14:8202/;stream.nsv
+#EXTINF:-1,Radio Comunitaria Jenpoj Mexico
+http://espora.org:8000/jenpojradio
 #EXTINF:-1,Radio Santa Ana California
 http://s10.voscast.com:7688/;stream1575414865714/1
 #EXTINF:-1,Radio Exa Zamora
@@ -5783,12 +5777,12 @@ http://streamingcwsradio20.com:9410/stream
 http://node-19.zeno.fm/05g7pygka3quv?rj-ttl=5&rj-tok=AAABcjgJJpIAM_RurmDtn1qn5g
 #EXTINF:-1,Radio Colombia Salsa Rosa
 http://64.37.50.226:8036/stream
-#EXTINF:-1,Radio Colombia Salsa Dura
-http://64.37.50.226:8054/stream
 #EXTINF:-1,Radio Colombia Bachata
 http://perseus.shoutca.st:8312/;stream/1
 #EXTINF:-1,Radio Colombia Vallenata
 http://64.37.50.226:8042/stream
+#EXTINF:-1,Radio Colombia la Viejoteca de Richy
+http://64.37.50.226:8018/stream
 #EXTINF:-1,Radio Colombia Bohemia
 http://64.37.50.226:8024/stream
 #EXTINF:-1,Radio Colombia Romantica
@@ -6307,6 +6301,8 @@ https://duj0m5mtx2apx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://d281w17vgfepv6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-00dgfxdry0m4p/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1,Vevo Pop
 https://d28edobz3hqdpi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-shs19slqofvwj-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+#EXTINF:-1,7MN Galicia
+https://media2.streambrothers.com:19360/8076/8076.m3u8
 #EXTINF:-1,A Punt tv HD
 https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/profile_0/chunklist_dvr.m3u8
 #EXTINF:-1,Alacanti TV
@@ -6333,6 +6329,8 @@ https://daiconnect.com/live/hls/tvup/tvfy-laliga/.m3u8
 http://momentog-crtvg.flumotion.com/chunks.m3u8
 #EXTINF:-1,Popular TV Cantabria
 https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
+#EXTINF:-1,Popular TV Melilla
+https://5940924978228.streamlock.net/8009/8009/chunklist_w1267857749.m3u8
 #EXTINF:-1,PTV Malaga HD
 https://streamer.zapitv.com/PTV-malaga/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Rakuten TV Cine Espanol
@@ -6353,8 +6351,6 @@ http://events3-crtvg.flumotion.com/crtvg/events3_high/chunks.m3u8
 http://amodino-crtvg.flumotion.com/crtvg/amodino_high/chunks.m3u8
 #EXTINF:-1,Tvg Musigal
 http://musigal-crtvg.flumotion.com/crtvg/musigal/chunks.m3u8
-#EXTINF:-1,Aurora Media Films
-https://cdn.streamhispanatv.net:3398/live/auroramflive.m3u8
 #EXTINF:-1,Barbe Tv
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 #EXTINF:-1,Canal 100 Chinique
@@ -6367,8 +6363,6 @@ https://cdn.streamhispanatv.net:3237/live/canal9tvgtlive.m3u8
 https://cdn.streamhispanatv.net:3877/live/comoantestvlive.m3u8
 #EXTINF:-1,Canal 26 Cono Sur
 https://cdn.streamhispanatv.net:3831/live/conosurlive.m3u8
-#EXTINF:-1,El Roi Tv
-https://cdn.streamhispanatv.net:3648/live/elroitvlive.m3u8
 #EXTINF:-1,Full Channel
 https://cdn.streamhispanatv.net:3845/live/fullchannelgtlive.m3u8
 #EXTINF:-1,Genesis Tv
@@ -6383,6 +6377,8 @@ https://cdn.streamhispanatv.net:3718/live/izabaltvlive.m3u8
 https://cdn.streamhispanatv.net:3189/live/jesustvlive.m3u8
 #EXTINF:-1,Jutiapa Vision
 https://cdn.streamhispanatv.net:3654/live/jutiapavisionlive.m3u8
+#EXTINF:-1,NimTv
+https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 #EXTINF:-1,Peniel Familia
 https://cdn.streamhispanatv.net:3840/live/penielfamlive.m3u8
 #EXTINF:-1,Peniel Kids and Young
@@ -6393,6 +6389,8 @@ https://cdn.streamhispanatv.net:3533/live/penielmusicagtlive.m3u8
 https://cdn.streamhispanatv.net:3787/live/pmcstvlive.m3u8
 #EXTINF:-1,Presencia Tv
 https://cdn.streamhispanatv.net:3473/live/presenciatvlive.m3u8
+#EXTINF:-1,Sas Tv
+https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
 #EXTINF:-1,Sol Tv
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 #EXTINF:-1,Totovision
@@ -6401,8 +6399,6 @@ https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
 https://cdn.streamhispanatv.net:3700/live/tv5sololalive.m3u8
 #EXTINF:-1,Tv Florencia
 https://cdn.streamhispanatv.net:3819/live/tvflorencialive.m3u8
-#EXTINF:-1,Mas Tv
-https://cdn.streamhispanatv.net:3186/live/mastvlive.m3u8
 #EXTINF:-1,Vision Tv HD
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1,Canal 35 YEPOTV
