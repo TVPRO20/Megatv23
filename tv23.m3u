@@ -5703,8 +5703,6 @@ http://189.240.210.28:1935/envivo/puecom/chunklist_w166335976.m3u8
 http://189.240.210.28:1935/envivo/puecom/chunklist_w745561738.m3u8
 #EXTINF:-1,PUE: TV comunicaciones Puebla
 http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
-#EXTINF:-1,QUE: Super 9 Tv
-https://tv.radiohosting.online:1936/TV344/TV344/playlist.m3u8
 #EXTINF:-1,ROO: SipseTv Cancun
 https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 #EXTINF:-1,ROO: Canal 10 Cancun
@@ -5719,8 +5717,6 @@ https://5ca3e84a76d30.streamlock.net/gpacifico2/smil:mochis.smil/playlist.m3u8
 https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/chunklist_w1903526755_b1428000_sleng.m3u8
 #EXTINF:-1,SON: Telemax Sonora
 http://s5.mexside.net:1935/telemax/telemax/chunklist_w586584359.m3u8
-#EXTINF:-1,TLA: Tlaxcala Television
-https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8
 #EXTINF:-1,VER: TVMAS Veracruz
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 #EXTINF:-1,EnerGeek Retro op | Chile
@@ -5741,6 +5737,8 @@ https://wifiexpert-1.energeek.cl/energeek/canal-3/playlist.m3u8
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 #EXTINF:-1,Canal 6 Mar del Plata | AR
 https://panel.dattalive.com:443/8186/8186/playlist.m3u8
+#EXTINF:-1,Canal Mas | Uruguay
+https://tv.bachistreaming.com:3774/hybrid/play.m3u8
 #EXTINF:-1,Classic Channel HD | Chile
 https://paneltv.online:1936/8046/8046/playlist.m3u8
 #EXTINF:-1,COMGO | ND
@@ -5889,8 +5887,6 @@ https://paneltv.online:1936/8116/8116/chunklist_w1465366289.m3u8
 https://d2.stweb.tv/chacra/rosario/chunks.m3u8
 #EXTINF:-1,Telered | Costa Rica
 https://video20.klm99.com:3558/hybrid/play.m3u8
-#EXTINF:-1,Telesistema | Costa Rica
-https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w1149197827.m3u8
 #EXTINF:-1,Tierra Mia | Argentina
 https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8
 #EXTINF:-1,Bayres TV | Argentina
@@ -6019,6 +6015,8 @@ http://167.114.116.223:3334/stream/1/streams.mp3
 http://espora.org:8000/jenpojradio
 #EXTINF:-1,Radio Santa Ana California
 http://s10.voscast.com:7688/;stream1575414865714/1
+#EXTINF:-1,Radio Exa Zamora
+http://live.exafmzamora.mx:55252/exafmzamora.mp3
 #EXTINF:-1,Radio La Candela 97.7 Zacapu
 http://s4.mexside.net:2094/;stream.nsv
 #EXTINF:-1,Radio Fantasia Zitacuaro
@@ -6689,8 +6687,6 @@ https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
 #EXTINF:-1,Canal 8 Santa Rosa
 https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
-#EXTINF:-1,Canal 9 Tv GT
-https://cdn.streamhispanatv.net:3237/live/canal9tvgtlive.m3u8
 #EXTINF:-1,Canal 26 Cono Sur
 https://cdn.streamhispanatv.net:3831/live/conosurlive.m3u8
 #EXTINF:-1,El Roi Tv
@@ -6713,12 +6709,16 @@ https://cdn.streamhispanatv.net:3840/live/penielfamlive.m3u8
 https://cdn.streamhispanatv.net:3155/live/penielkidslive.m3u8
 #EXTINF:-1,PMCS TV
 https://cdn.streamhispanatv.net:3787/live/pmcstvlive.m3u8
+#EXTINF:-1,Sas Tv
+https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
 #EXTINF:-1,Sol Tv
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 #EXTINF:-1,Totovision
 https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
 #EXTINF:-1,Tv 5 Solola
 https://cdn.streamhispanatv.net:3700/live/tv5sololalive.m3u8
+#EXTINF:-1,Mas Tv
+https://cdn.streamhispanatv.net:3186/live/mastvlive.m3u8
 #EXTINF:-1,Vision Tv HD
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1,ATG (432p)
