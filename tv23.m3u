@@ -1,8 +1,4 @@
-#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz"
-#http://m3u4u.com
-#https://logos.fandom.com/es/wiki/Categor%C3%ADa:Chile
-
-
+#EXTM3U 
 #EXTINF:-1 tvg-id="24_Play" tvg-logo="https://raw.githubusercontent.com/HERBERTM3/Logos/main/24 play.jpg" group-title="Televisión",24 Play
 https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?res=true&at=android-app&dnt=true
 
