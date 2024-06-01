@@ -5089,14 +5089,16 @@ http://189.240.210.28:1935/envivo/puecom/chunklist_w166335976.m3u8
 http://189.240.210.28:1935/envivo/puecom/chunklist_w745561738.m3u8
 #EXTINF:-1,PUE: TV comunicaciones Puebla
 http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
+#EXTINF:-1,QUE: Super 9 Tv
+https://tv.radiohosting.online:1936/TV344/TV344/playlist.m3u8
 #EXTINF:-1,ROO: SipseTv Cancun
 https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 #EXTINF:-1,ROO: SIPSE TV 8.1 (1080p) [Not 24/7]
 https://webprod.sipse.com.mx:8080/show/merida.m3u8
 #EXTINF:-1,ROO: Canal 10 Cancun
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1,SLP: Nueve TV
-https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/chunklist_w2067160029.m3u8
+#EXTINF:-1,SLP: Canal 7
+https://mvtvstream.com:444/live/6456eb2e56ab7/index.m3u8
 #EXTINF:-1,SIN: TVP Mazatlan
 https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
 #EXTINF:-1,SIN: TVP Culiacan
@@ -5141,8 +5143,6 @@ https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
 https://5790d294af2dc.streamlock.net/lenaradiotv/lenaradiotv/playlist.m3u8
 #EXTINF:-1,Magic Kids | Argentina
 https://magicstream.ddns.net:443/magicstream/stream.m3u8
-#EXTINF:-1,Moni TV HD | Argentina
-https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 #EXTINF:-1,Now 70 | ND
 https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:-1,Now 80 | ND
@@ -5221,6 +5221,8 @@ https://srv2.zcast.com.br/chamame/chamame/chunklist_w477677262.m3u8
 https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8
 #EXTINF:-1,Colome TV | Nueva York
 https://ss5.domint.net:3170/cotv_str/colometv/chunklist_w793077443.m3u8
+#EXTINF:-1,GenTV HD | Argentina
+https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 #EXTINF:-1,Iquique Tv | Chile
 https://marine2.miplay.cl/arcatel/iquiquetv720/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Mas TV | Paraguay
@@ -5267,8 +5269,6 @@ https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 https://linear-564.frequency.stream:443/mt/studio/564/hls/master/playlist.m3u8
 #EXTINF:-1,My Time Movie | Mexico
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1,Orbit TV | Republica Dominicana
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 #EXTINF:-1,Tu Cine | USA
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucineeurope-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1,Wow Tv | El Salvador
@@ -5413,8 +5413,6 @@ http://64.37.50.226:8036/stream
 http://64.37.50.226:8054/stream
 #EXTINF:-1,Radio Colombia Bachata
 http://perseus.shoutca.st:8312/;stream/1
-#EXTINF:-1,Radio Colombia Vallenata
-http://64.37.50.226:8042/stream
 #EXTINF:-1,Radio Colombia Bohemia
 http://64.37.50.226:8024/stream
 #EXTINF:-1,Radio Colombia Romantica
@@ -5441,6 +5439,12 @@ http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
 #EXTINF:-1,Fight Network (1080p)
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:-1,fubo Sports Network (720p)
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
+#EXTINF:-1,Glory Kickboxing (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
+#EXTINF:-1,Hard Knocks (1080p)
+https://d397e8970cd346fdac04c0af81290c3a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
 #EXTINF:-1,IMPACT! Wrestling (1080p)
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1,Motorvision TV (720p)
@@ -5503,8 +5507,6 @@ https://r.mjh.nz/PlutoTV/5dcddf1ed95e740009fef7ab-alt.m3u8
 https://r.mjh.nz/PlutoTV/5f2817d3d7573a00080f9175-alt.m3u8
 #EXTINF:-1,Runtime
 https://r.mjh.nz/PlutoTV/62c5d80dc6de440007e033eb-alt.m3u8
-#EXTINF:-1,Pluto TV Filmstream
-https://r.mjh.nz/PlutoTV/5fcea359e533cb0007215c71-alt.m3u8
 #EXTINF:-1,Pluto TV  Nuestro Cine
 https://r.mjh.nz/PlutoTV/5defde6d6c07b50009cf0757-alt.m3u8
 #EXTINF:-1,Pluto TV Cine Clásico
@@ -5521,8 +5523,6 @@ https://r.mjh.nz/PlutoTV/64ff270f30ab3300084e259c-alt.m3u8
 https://r.mjh.nz/PlutoTV/64ff26233efb5100082eeb2e-alt.m3u8
 #EXTINF:-1,Pluto TV Series
 https://r.mjh.nz/PlutoTV/5dcde1317578340009b751d0-alt.m3u8
-#EXTINF:-1,The Night Shift
-https://r.mjh.nz/PlutoTV/624f4d4a4321e200073f46e0-alt.m3u8
 #EXTINF:-1,Younger
 https://r.mjh.nz/PlutoTV/619d56d9fa3070000709e3f7-alt.m3u8
 #EXTINF:-1,Pluto TV Dramas Coreanos
@@ -5651,8 +5651,6 @@ https://r.mjh.nz/PlutoTV/646ccd3681844c000974d6f4-alt.m3u8
 https://r.mjh.nz/PlutoTV/63d2c140c111bc0008cb890b-alt.m3u8
 #EXTINF:-1,Milenio Televisión
 https://r.mjh.nz/PlutoTV/652e922db4b047000825f975-alt.m3u8
-#EXTINF:-1,La Liga Premier | Paramount+
-https://r.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
 #EXTINF:-1,DAZN Women's Football
 https://r.mjh.nz/PlutoTV/64b02bbd7d93410008fdae60-alt.m3u8
 #EXTINF:-1,Pluto TV Deportes
@@ -5721,8 +5719,6 @@ https://r.mjh.nz/PlutoTV/5dcde0657444a40009cd2422-alt.m3u8
 https://r.mjh.nz/PlutoTV/609062295c2b8f0007199e7a-alt.m3u8
 #EXTINF:-1,Tastemade
 https://r.mjh.nz/PlutoTV/5f998c1fc54853000797bacd-alt.m3u8
-#EXTINF:-1,Pluto TV Fashionstream
-https://r.mjh.nz/PlutoTV/5ee8d84bfb286e0007285aad-alt.m3u8
 #EXTINF:-1,Pluto TV Anime
 https://r.mjh.nz/PlutoTV/5dcde17bf6591d0009839e02-alt.m3u8
 #EXTINF:-1,Pluto TV Animé Acción
@@ -5747,8 +5743,6 @@ https://r.mjh.nz/PlutoTV/5ff4b9ccf938f8000779eb99-alt.m3u8
 https://r.mjh.nz/PlutoTV/5ff608e60e2996000768c366-alt.m3u8
 #EXTINF:-1,Pluto TV E-Sports
 https://r.mjh.nz/PlutoTV/5ff3934600d4c7000733ff49-alt.m3u8
-#EXTINF:-1,ESR 24/7
-https://r.mjh.nz/PlutoTV/5fb554d87a0c480007c8dada-alt.m3u8
 #EXTINF:-1,Nick Teen
 https://r.mjh.nz/PlutoTV/5fab09a8749b1a00077d35d2-alt.m3u8
 #EXTINF:-1,Nickelodeon iCarly
@@ -5773,8 +5767,6 @@ https://r.mjh.nz/PlutoTV/5ebac49ce4dc8b00078b23bc-alt.m3u8
 https://r.mjh.nz/PlutoTV/5dcde2ac4bc6c500094ab45b-alt.m3u8
 #EXTINF:-1,Barney
 https://r.mjh.nz/PlutoTV/5f29ada4bdaebd000708d49d-alt.m3u8
-#EXTINF:-1,Babar
-https://r.mjh.nz/PlutoTV/5e67e20c93312100076f3ffe-alt.m3u8
 #EXTINF:-1,El Reino Infantil
 https://r.mjh.nz/PlutoTV/5f4d3d06fb60d8000781fce8-alt.m3u8
 #EXTINF:-1,Nickelodeon Clásico
@@ -6563,10 +6555,10 @@ https://tuvideoonline.com.ar:3393/live/antena91live.m3u8
 https://stream.arcast.com.ar/atbargentina/atbargentina/playlist.m3u8
 #EXTINF:-1,Aunar (720p)
 https://538d0bde28ccf.streamlock.net/live-cont.ar/mirador/.m3u8
+#EXTINF:-1,Beats Radio (480p)
+https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
 #EXTINF:-1,Cable Imagen Armstrong (540p) [Not 24/7]
 https://stream.arcast.com.ar/casse/casse/playlist.m3u8
-#EXTINF:-1,Canal 2 de Ushuaia (1080p)
-https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
 #EXTINF:-1,Canal 2 Misiones (1080p)
 https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
 #EXTINF:-1,Canal 2 Salta (480p)
@@ -6587,8 +6579,6 @@ https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
 https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
 #EXTINF:-1,Canal 5 Santa Fe (240p)
 https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
-#EXTINF:-1,Canal 5 Tucumán (480p)
-https://videohd.live:19360/8090/8090.m3u8
 #EXTINF:-1,Canal 6 ERTV (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCgj6Vesuxfr_fVEp-rG5sxQ.m3u8
 #EXTINF:-1,Canal 6 Moreno (720p) [Not 24/7]
@@ -6603,8 +6593,6 @@ https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
 #EXTINF:-1,Canal 9 Litoral (720p)
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
-#EXTINF:-1,Canal 10 Neuquén (480p)
-https://stmv1.srvstm.com/tv10/tv10/playlist.m3u8
 #EXTINF:-1,Canal 10 Nortevision (576p)
 https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8
 #EXTINF:-1,Canal 10 Rio Negro (720p) [Not 24/7]
@@ -6639,8 +6627,6 @@ https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
 https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
 #EXTINF:-1,Canal U (720p)
 https://stream.arcast.live/canalu/canalu/playlist.m3u8
-#EXTINF:-1,Catamarca TV (720p)
-https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
 #EXTINF:-1,Celta TV (240p)
 https://vivo.solumedia.com:19360/celta/celta.m3u8
 #EXTINF:-1,Chaco TV (720p) [Not 24/7]
@@ -6649,6 +6635,8 @@ https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
 https://s8.stweb.tv/chacra/live/playlist.m3u8
 #EXTINF:-1,Chilecito TV (480p)
 https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
+#EXTINF:-1,Cinco TV (480p)
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 #EXTINF:-1,Ciudad Magazine (1080p) [Geo-blocked]
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 #EXTINF:-1,Cosmos TV (720p)
@@ -6671,14 +6659,14 @@ https://live.enhdtv.com:19360/tvplaydigital2/tvplaydigital2.m3u8
 https://stmv.video.gmpro.top/global/global/playlist.m3u8
 #EXTINF:-1,La Voz de Tucumán (480p)
 https://srv3.zcast.com.br/lavozdetucumanhd/lavozdetucumanhd/playlist.m3u8
+#EXTINF:-1,Lapacho TV Canal 11 (720p)
+https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8
 #EXTINF:-1,Litus TV (720p)
 https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
 #EXTINF:-1,Magic Kids (486p)
 https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1,Más FM 95.9 (720p)
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
-#EXTINF:-1,Milennio TV (720p)
-https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8
 #EXTINF:-1,Multivisión Federal (720p) [Not 24/7]
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 #EXTINF:-1,Neox TV (480p)
@@ -6713,14 +6701,16 @@ https://live.enhdtv.com:8081/radioiguazutv/index.m3u8
 http://204.199.3.2/.m3u8
 #EXTINF:-1,RTN (Neuquén) (720p) [Not 24/7]
 https://media.neuquen.gov.ar/rtn/television/media.m3u8
+#EXTINF:-1,Senillosa TV (360p)
+https://stmv1.srvstm.com/senillosa/senillosa/playlist.m3u8
 #EXTINF:-1,Somos La Pampa (1080p)
 https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8
 #EXTINF:-1,TeleCinco Trelew (240p)
 https://videohd.live:19360/8016/8016.m3u8
-#EXTINF:-1,Telecóndor Satelital (360p)
-https://videostream.shockmedia.com.ar:19360/canal4telecondor/canal4telecondor.m3u8
 #EXTINF:-1,Telediario TV (404p)
 https://stmvideo2.livecastv.com/telediario/telediario/playlist.m3u8
+#EXTINF:-1,Telediez (360p) [Not 24/7]
+https://videohd.live:19360/8020/8020.m3u8
 #EXTINF:-1,TeleJunín (576p)
 https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8
 #EXTINF:-1,Telenord (720p) [Not 24/7]
@@ -6797,6 +6787,8 @@ https://v2.tustreaming.cl/clicktv/playlist.m3u8
 http://live.mundogo.cl/mundo/concepciontv/index.m3u8
 #EXTINF:-1,Contivision (720p)
 https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
+#EXTINF:-1,Dance FM (720p)
+https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
 #EXTINF:-1,Décima TV (Ancud) (720p)
 https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8
 #EXTINF:-1,EGM Channel (480p)
@@ -6805,6 +6797,8 @@ https://paneltv.online:1936/8186/8186/playlist.m3u8
 http://live.mundogo.cl/mundo/EquizTV/index.m3u8
 #EXTINF:-1,El Tipógrafo (1080p)
 http://live.mundogo.cl/mundo/Tipografo/index.m3u8
+#EXTINF:-1,Enfoque Digital TV (1080p)
+https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8
 #EXTINF:-1,Gracia TV (1080p) [Not 24/7]
 http://v3.tustreaming.cl/graciatv/index.m3u8
 #EXTINF:-1,Hito Cero Television
@@ -6887,6 +6881,8 @@ https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8
 https://unlimited6-cl.dps.live/uatv/uatv.smil/playlist.m3u8
 #EXTINF:-1,UTV (720p)
 https://v2.tustreaming.cl/utv/index.m3u8
+#EXTINF:-1,V Classic TV (720p)
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 #EXTINF:-1,VC Online (720p)
 https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
 #EXTINF:-1,Voz de Poder Television (720p)
@@ -6913,6 +6909,8 @@ https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
 https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
 #EXTINF:-1,Canal 26 Cono Sur
 https://cdn.streamhispanatv.net:3831/live/conosurlive.m3u8
+#EXTINF:-1,Ixchiguan Estereo Canal 9
+https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8
 #EXTINF:-1,Jesus Tv
 https://cdn.streamhispanatv.net:3189/live/jesustvlive.m3u8
 #EXTINF:-1,Jutiapa Vision
@@ -6935,8 +6933,6 @@ https://cdn.streamhispanatv.net:3700/live/tv5sololalive.m3u8
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1,Alcance TV (720p)
 https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
-#EXTINF:-1,Así Sucede Guanajuato (720p) [Not 24/7]
-https://stream.oursnetworktv.com/latin/encoder13/playlist.m3u8
 #EXTINF:-1,Cable Noticias Jalisco (614p) [Not 24/7]
 https://stream.oursnetworktv.com/latin/encoder74/playlist.m3u8
 #EXTINF:-1,California Medios TV (720p)
@@ -6947,6 +6943,8 @@ https://stream.oursnetworktv.com/latin/encoder6/playlist.m3u8
 https://stream.oursnetworktv.com/latin/encoder6tecpan/playlist.m3u8
 #EXTINF:-1,Canal 13 Tierra Caliente (768p) [Not 24/7]
 https://stream.oursnetworktv.com/latin/encoder30/playlist.m3u8
+#EXTINF:-1,Canal 21 Chignahuapan (720p)
+https://stream.oursnetworktv.com/latin/pueblamx/playlist.m3u8
 #EXTINF:-1,Canal 21 Jalisco (720p) [Not 24/7]
 https://stream.oursnetworktv.com/latin/encoder22/playlist.m3u8
 #EXTINF:-1,Canal 21 Rioverde (720p) [Not 24/7]
@@ -7007,8 +7005,6 @@ https://59e88b197fb16.streamlock.net:4443/live/canal24/playlist.m3u8
 https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
 #EXTINF:-1,NRT México Región Sureste (720p)
 https://59e88b197fb16.streamlock.net:4443/live/canal6/playlist.m3u8
-#EXTINF:-1,Nueve TV San Luís Potosí (720p)
-https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 #EXTINF:-1,Radar TV 71 (480p) [Not 24/7]
 https://stream.oursnetworktv.com/latin/radarTV/playlist.m3u8
 #EXTINF:-1,Radio y Televisión Budokan (352p)
@@ -7243,12 +7239,12 @@ http://177.53.153.20:8001/play/a02n/index.m3u8
 http://177.53.153.20:8001/play/a0bb/index.m3u8
 #EXTINF:-1,TELESUR
 http://177.53.153.20:8001/play/a0cd/index.m3u8
+#EXTINF:-1,TELESYSTEM
+http://177.53.153.20:8001/play/a0cw/index.m3u8
 #EXTINF:-1,TNT Series HD
 http://177.53.153.20:8001/play/a02y/index.m3u8
 #EXTINF:-1,Adult Swim HD
 http://177.53.153.20:8001/play/a02k/index.m3u8
-#EXTINF:-1,TV PERU TRANSCODING
-http://177.53.153.20:8001/play/a0ij/index.m3u8
 #EXTINF:-1,TV+ HD
 http://177.53.153.20:8001/play/a034/index.m3u8
 #EXTINF:-1,TVN HD
@@ -7257,8 +7253,6 @@ http://177.53.153.20:8001/play/a026/index.m3u8
 http://177.53.153.20:8001/play/a0bu/index.m3u8
 #EXTINF:-1,Tlnovelas
 http://177.53.153.20:8001/play/a0ct/index.m3u8
-#EXTINF:-1,VISION TV
-http://177.53.153.20:8001/play/a0c9/index.m3u8
 #EXTINF:-1,Venus
 http://177.53.153.20:8001/play/a01o/index.m3u8
 #EXTINF:-1,WIN SPORTS + HD M3U
