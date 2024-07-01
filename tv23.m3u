@@ -5044,8 +5044,6 @@ http://streamingcws10.com:1935/telemetrika/videotelemetrika/playlist.m3u8
 https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
 #EXTINF:-1,AGU: Canal 26
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
-#EXTINF:-1,BCS: CANAL 66
-https://60417ddeaf0d9.streamlock.net/canal66/smil:canal66.smil/chunklist_w1330964906_b878000_sleng.m3u8
 #EXTINF:-1,CAM: TRC Television
 https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8
 #EXTINF:-1,CHP: Canal 10
@@ -5096,6 +5094,8 @@ https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 https://webprod.sipse.com.mx:8080/show/merida.m3u8
 #EXTINF:-1,ROO: Canal 10 Cancun
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1,SLP: Nueve TV
+https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/chunklist_w2067160029.m3u8
 #EXTINF:-1,SIN: TVP Mazatlan
 https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
 #EXTINF:-1,SIN: TVP Culiacan
@@ -5108,6 +5108,8 @@ https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/chunklist_w190
 http://s5.mexside.net:1935/telemax/telemax/chunklist_w586584359.m3u8
 #EXTINF:-1,TLA: Tlaxcala Television
 https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8
+#EXTINF:-1,VER: TVMAS Veracruz
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 #EXTINF:-1,EnerGeek Retro op3 | Chile
 https://wifispeed.trapemn.tv:1936/energeek/canal-1p/playlist.m3u8
 #EXTINF:-1,Energeek Radio TV op2 | Chile
@@ -5118,6 +5120,8 @@ https://wifispeed.trapemn.tv:1936/energeek/radio-p/playlist.m3u8
 https://wifispeed.trapemn.tv:1936/energeek/canal-2p/playlist.m3u8
 #EXTINF:-1,ACS Network Tv | Puerto Rico
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
+#EXTINF:-1,Canal 5 del Pueblo op2 | Argentina
+https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
 #EXTINF:-1,Ciudad Magica Tv | Argentina
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 #EXTINF:-1,Classic Channel HD | Chile
@@ -5184,8 +5188,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/pla
 http://190.211.250.102:8000/play/a01j
 #EXTINF:-1,Clan TVE | Spain
 https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
-#EXTINF:-1,Clan TVE op2 | Spain
-https://i.mjh.nz/SamsungTVPlus/ESBC4100003WE.m3u8
 #EXTINF:-1,NTV | Chile
 https://marine2.miplay.cl/ntv/playlist.m3u8
 #EXTINF:-1,PBS Kids (Inglés) | USA
@@ -5240,8 +5242,6 @@ https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1,Buin Somos Todos | Chile
 https://bst.buin.cl/0.m3u8
-#EXTINF:-1,Caldera Vision | Chile
-https://stream.skarnetchile.com:19360/calderavision/calderavision.m3u8
 #EXTINF:-1,Caldera Vision op2 | Chile
 https://us.streaminghd.cl/calderavisiontv/video.m3u8
 #EXTINF:-1,Canal 4 San Juan | Argentina
@@ -5276,6 +5276,8 @@ https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8
 https://streamaction.ddns.net/suertv_hls/suertv.m3u8
 #EXTINF:-1,Tv Costa | Chile
 https://premium.tvcontrolcp.com:19360/tvcosta1/tvcosta1.m3u8
+#EXTINF:-1,Bayres TV | Argentina
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1,Bjgtjme | Argentina
 https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8
 #EXTINF:-1,Cine Real | USA
@@ -5292,6 +5294,8 @@ https://amg01024-olympusat-chiquilines-ono-ad-et.amagi.tv/playlist/amg01024-olym
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 #EXTINF:-1,My Time Movie | Mexico
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1,Orbit TV | Republica Dominicana
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 #EXTINF:-1,Wow Tv | El Salvador
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 #EXTINF:-1,ViX Jajaja (1080p)
@@ -5310,8 +5314,6 @@ http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 http://radio.ilce.edu.mx:8000/radioilce.mp3
 #EXTINF:-1,Educa  TV | Ecuador
 https://vid2.ecuamedia.net/educatv/live/chunklist_w401884011.m3u8
-#EXTINF:-1,Love Nature | ND
-https://i.mjh.nz/Roku/03a419fc4dff59b39b176d9f76b09e38.m3u8
 #EXTINF:-1,NASA | USA
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1,24h TVE | Spain
@@ -5402,6 +5404,8 @@ http://148.216.0.21:8000/rnic.m3u
 http://espora.org:8000/jenpojradio
 #EXTINF:-1,Radio la Voz de los Purepechas 830 Cheran
 https://radios.inpi.gob.mx:8080/xepur
+#EXTINF:-1,Radio La Voz de la Sierra Oriente 1010 Tuxpan
+https://radios.inpi.gob.mx:8080/xetumi
 #EXTINF:-1,Radio Acustik 1150 Morelia
 http://server2.sit-mexico.com:8050/stream/1/
 #EXTINF:-1,Radio La Z 1340 Morelia
@@ -5480,244 +5484,6 @@ http://217.174.225.146/hls/ch004_720/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m
 https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8
 #EXTINF:-1,Unknown 11
 https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8?SBN
-#EXTINF:-1,AMC en Español
-https://i.mjh.nz/SamsungTVPlus/USBD7000017L.m3u8
-#EXTINF:-1,Zona TUDN
-https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
-#EXTINF:-1,Telemundo California
-https://i.mjh.nz/SamsungTVPlus/USBC4400020H7.m3u8
-#EXTINF:-1,Telemundo Al Día
-https://i.mjh.nz/SamsungTVPlus/USBB3200016HO.m3u8
-#EXTINF:-1,Estrella TV
-https://i.mjh.nz/SamsungTVPlus/USBA300040WR.m3u8
-#EXTINF:-1,Estrella News
-https://i.mjh.nz/SamsungTVPlus/USAJ2200020N4.m3u8
-#EXTINF:-1,Estrella Games
-https://i.mjh.nz/SamsungTVPlus/USBC24000145I.m3u8
-#EXTINF:-1,Sony Canal Competencias
-https://i.mjh.nz/SamsungTVPlus/USAJ3504719A.m3u8
-#EXTINF:-1,Sony Canal Comedias
-https://i.mjh.nz/SamsungTVPlus/USAJ22000057N.m3u8
-#EXTINF:-1,Sony Canal Novelas
-https://i.mjh.nz/SamsungTVPlus/USAJ3000002OC.m3u8
-#EXTINF:-1,Canela.TV
-https://i.mjh.nz/SamsungTVPlus/USBC39000080S.m3u8
-#EXTINF:-1,ViX Novelas de romance
-https://i.mjh.nz/SamsungTVPlus/USBB44000099N.m3u8
-#EXTINF:-1,Las 3 Marías
-https://i.mjh.nz/SamsungTVPlus/USBD17000172A.m3u8
-#EXTINF:-1,ViX Grandes Parejas
-https://i.mjh.nz/SamsungTVPlus/USBC2100012EJ.m3u8
-#EXTINF:-1,ViX Villanos de Novela
-https://i.mjh.nz/SamsungTVPlus/USBC2100011WI.m3u8
-#EXTINF:-1,ViX JaJaJa
-https://i.mjh.nz/SamsungTVPlus/USBC2100010OS.m3u8
-#EXTINF:-1,Rebelde
-https://i.mjh.nz/SamsungTVPlus/USBD1700018II.m3u8
-#EXTINF:-1,Galanes
-https://i.mjh.nz/SamsungTVPlus/USBD2700002DU.m3u8
-#EXTINF:-1,Cine Retro
-https://i.mjh.nz/SamsungTVPlus/USBD2500022U5.m3u8
-#EXTINF:-1,Cine de Oro
-https://i.mjh.nz/SamsungTVPlus/USBD2700005KL.m3u8
-#EXTINF:-1,Como Dice el Dicho
-https://i.mjh.nz/SamsungTVPlus/USBD2700004ME.m3u8
-#EXTINF:-1,Pequenos Gigantes
-https://i.mjh.nz/SamsungTVPlus/USBD2700003F3.m3u8
-#EXTINF:-1,Aquí y Ahora
-https://i.mjh.nz/SamsungTVPlus/USBD1700015J1.m3u8
-#EXTINF:-1,Noticias Univision 24/7
-https://i.mjh.nz/SamsungTVPlus/USBD1700014QU.m3u8
-#EXTINF:-1,Cine Romantico
-https://i.mjh.nz/SamsungTVPlus/USBA3800001E0.m3u8
-#EXTINF:-1,XITE Nuevo Latino
-https://i.mjh.nz/SamsungTVPlus/USBD3300007PB.m3u8
-#EXTINF:-1,XITE Siempre Latino
-https://i.mjh.nz/SamsungTVPlus/USBD3300010L9.m3u8
-#EXTINF:-1,Vevo Latino
-https://i.mjh.nz/SamsungTVPlus/USBC3600015GF.m3u8
-#EXTINF:-1,Stingray Romance Latino
-https://i.mjh.nz/SamsungTVPlus/USBD3500017CE.m3u8
-#EXTINF:-1,Acacias 38
-https://i.mjh.nz/SamsungTVPlus/ES4000016U.m3u8
-#EXTINF:-1,Euronews en directo
-https://i.mjh.nz/SamsungTVPlus/ESAJ4500024LR.m3u8
-#EXTINF:-1,Estilo y Vida – Rakuten TV
-https://i.mjh.nz/SamsungTVPlus/ESAJ2900003ND.m3u8
-#EXTINF:-1,Canal Sur Andalucía
-https://i.mjh.nz/SamsungTVPlus/ESBD3000002GP.m3u8
-#EXTINF:-1,La 1
-https://i.mjh.nz/SamsungTVPlus/ESBC4100001NZ.m3u8
-#EXTINF:-1,La 2
-https://i.mjh.nz/SamsungTVPlus/ESBC4100002AG.m3u8
-#EXTINF:-1,Azteca Internacional
-https://i.mjh.nz/SamsungTVPlus/ESBD1300004IG.m3u8
-#EXTINF:-1,FailArmy
-https://i.mjh.nz/SamsungTVPlus/ESBA1400006NP.m3u8
-#EXTINF:-1,People Are Awesome
-https://i.mjh.nz/SamsungTVPlus/ESAJ4500023Y5.m3u8
-#EXTINF:-1,The Pet Collective
-https://i.mjh.nz/SamsungTVPlus/ESAJ4500016BH.m3u8
-#EXTINF:-1,Vivir con Perros
-https://i.mjh.nz/SamsungTVPlus/ESBC3900001G6.m3u8
-#EXTINF:-1,Vivir con Gatos
-https://i.mjh.nz/SamsungTVPlus/ESBC3900002L8.m3u8
-#EXTINF:-1,Trailers
-https://i.mjh.nz/SamsungTVPlus/ESBC1700004PX.m3u8
-#EXTINF:-1,Just For Laughs
-https://i.mjh.nz/SamsungTVPlus/ESBC2700008SK.m3u8
-#EXTINF:-1,Yu-Gi-Oh!
-https://i.mjh.nz/SamsungTVPlus/ESBA1400007MR.m3u8
-#EXTINF:-1,Cuéntame cómo pasó
-https://i.mjh.nz/SamsungTVPlus/ES400002P5.m3u8
-#EXTINF:-1,Baywatch – Los Vigilantes de la Playa
-https://i.mjh.nz/SamsungTVPlus/ESBD1300001EP.m3u8
-#EXTINF:-1,Corazón
-https://i.mjh.nz/SamsungTVPlus/ESBD1300003VN.m3u8
-#EXTINF:-1,Crimen - Rakuten TV
-https://i.mjh.nz/SamsungTVPlus/ESBC2700010F6.m3u8
-#EXTINF:-1,Stormcast Novelas
-https://i.mjh.nz/SamsungTVPlus/ESBA140000504.m3u8
-#EXTINF:-1,Todo Novelas
-https://i.mjh.nz/SamsungTVPlus/ESBC43000013T.m3u8
-#EXTINF:-1,Doctor Who
-https://i.mjh.nz/SamsungTVPlus/ESBA1400001OG.m3u8
-#EXTINF:-1,BBC Drama
-https://i.mjh.nz/SamsungTVPlus/ESBA1400003LA.m3u8
-#EXTINF:-1,Vive Kanal D Drama
-https://i.mjh.nz/SamsungTVPlus/ESBC1700001QI.m3u8
-#EXTINF:-1,DATELINE 24/7
-https://i.mjh.nz/SamsungTVPlus/ESBD3700001S0.m3u8
-#EXTINF:-1,INFAST
-https://i.mjh.nz/SamsungTVPlus/ESAJ49000017H.m3u8
-#EXTINF:-1,Documentales - Rakuten TV
-https://i.mjh.nz/SamsungTVPlus/ESAJ4500021HQ.m3u8
-#EXTINF:-1,Bloomberg Originals
-https://i.mjh.nz/SamsungTVPlus/ESAJ2900002J4.m3u8
-#EXTINF:-1,Love the Planet
-https://i.mjh.nz/SamsungTVPlus/ESBC4700002TD.m3u8
-#EXTINF:-1,WaterBear
-https://i.mjh.nz/SamsungTVPlus/ESBC170000388.m3u8
-#EXTINF:-1,24H
-https://i.mjh.nz/SamsungTVPlus/ESBC4100004J1.m3u8
-#EXTINF:-1,Negocios TV
-https://i.mjh.nz/SamsungTVPlus/ESBD3400001AA.m3u8
-#EXTINF:-1,El Confidencial
-https://i.mjh.nz/SamsungTVPlus/ESBC1400001L8.m3u8
-#EXTINF:-1,CNN FAST
-https://i.mjh.nz/SamsungTVPlus/ESBD190000137.m3u8
-#EXTINF:-1,NBC News NOW
-https://i.mjh.nz/SamsungTVPlus/ESBC400003YM.m3u8
-#EXTINF:-1,El País
-https://i.mjh.nz/SamsungTVPlus/ESBC39000033J.m3u8
-#EXTINF:-1,FRANCE 24 FAST
-https://i.mjh.nz/SamsungTVPlus/ESBD1100001PQ.m3u8
-#EXTINF:-1,Bloomberg TV+
-https://i.mjh.nz/SamsungTVPlus/ESBA3300024AJ.m3u8
-#EXTINF:-1,Televisión Consciente
-https://i.mjh.nz/SamsungTVPlus/ESBC1700002IM.m3u8
-#EXTINF:-1,Hoguera
-https://i.mjh.nz/SamsungTVPlus/ESBD1500001SD.m3u8
-#EXTINF:-1,¡Hola! Play
-https://i.mjh.nz/SamsungTVPlus/ESBA1400008NE.m3u8
-#EXTINF:-1,Royalworld - Nobleza y Dinastias
-https://i.mjh.nz/SamsungTVPlus/ESBD1400003QN.m3u8
-#EXTINF:-1,Fashion TV
-https://i.mjh.nz/SamsungTVPlus/ESAJ4500017Y1.m3u8
-#EXTINF:-1,Travelxp
-https://i.mjh.nz/SamsungTVPlus/ESBD1400001L4.m3u8
-#EXTINF:-1,GoUSA TV
-https://i.mjh.nz/SamsungTVPlus/ESBC27000040I.m3u8
-#EXTINF:-1,Ideas en 5 Minutos
-https://i.mjh.nz/SamsungTVPlus/ESBC3500002PW.m3u8
-#EXTINF:-1,Tastemade
-https://i.mjh.nz/SamsungTVPlus/ESBA2200006B4.m3u8
-#EXTINF:-1,Top Gear en Español
-https://i.mjh.nz/SamsungTVPlus/ESAJ2900001Y3.m3u8
-#EXTINF:-1,Motorvision
-https://i.mjh.nz/SamsungTVPlus/ESBD3200001EG.m3u8
-#EXTINF:-1,La Liga Inside
-https://i.mjh.nz/SamsungTVPlus/ESBD4700001T2.m3u8
-#EXTINF:-1,Teledeporte
-https://i.mjh.nz/SamsungTVPlus/ESBC410000577.m3u8
-#EXTINF:-1,MyPadel TV
-https://i.mjh.nz/SamsungTVPlus/ESBC3500003YK.m3u8
-#EXTINF:-1,Tennis Channel
-https://i.mjh.nz/SamsungTVPlus/ESBD2600001ME.m3u8
-#EXTINF:-1,World Poker Tour
-https://i.mjh.nz/SamsungTVPlus/ESBD2900001P9.m3u8
-#EXTINF:-1,Surf Channel
-https://i.mjh.nz/SamsungTVPlus/ESBA140000460.m3u8
-#EXTINF:-1,Pitufo TV
-https://i.mjh.nz/SamsungTVPlus/ESBD130000205.m3u8
-#EXTINF:-1,Peter Rabbit
-https://i.mjh.nz/SamsungTVPlus/ESBD1400002W4.m3u8
-#EXTINF:-1,SuperToons TV
-https://i.mjh.nz/SamsungTVPlus/ESBD5100001G0.m3u8
-#EXTINF:-1,Familiares - Rakuten TV
-https://i.mjh.nz/SamsungTVPlus/ESBA3300017FA.m3u8
-#EXTINF:-1,Gormiti & Friends
-https://i.mjh.nz/SamsungTVPlus/ESBD3200002V5.m3u8
-#EXTINF:-1,Caillou
-https://i.mjh.nz/SamsungTVPlus/ESBA3300020W5.m3u8
-#EXTINF:-1,Rabbids : La invasion
-https://i.mjh.nz/SamsungTVPlus/ESBD2300003S5.m3u8
-#EXTINF:-1,Pocoyó
-https://i.mjh.nz/SamsungTVPlus/ESBC3900004ED.m3u8
-#EXTINF:-1,duckTV
-https://i.mjh.nz/SamsungTVPlus/ESBC4700001GR.m3u8
-#EXTINF:-1,Vevo Latino
-https://i.mjh.nz/SamsungTVPlus/ESBC2100002LV.m3u8
-#EXTINF:-1,Sol Música
-https://i.mjh.nz/SamsungTVPlus/ESBD2300004Y7.m3u8
-#EXTINF:-1,Vevo Pop
-https://i.mjh.nz/SamsungTVPlus/ESBC2100001IU.m3u8
-#EXTINF:-1,Trace Latina
-https://i.mjh.nz/SamsungTVPlus/ESBA3300042Y6.m3u8
-#EXTINF:-1,Trace Urban
-https://i.mjh.nz/SamsungTVPlus/ESBA3300043M0.m3u8
-#EXTINF:-1,Vevo '70s & '80s
-https://i.mjh.nz/SamsungTVPlus/ESBD230000289.m3u8
-#EXTINF:-1,Deluxe Lounge HD
-https://i.mjh.nz/SamsungTVPlus/ESBA1500001C4.m3u8
-#EXTINF:-1,Staccs TV
-https://i.mjh.nz/SamsungTVPlus/ESBD270000108.m3u8
-#EXTINF:-1,Vivaldi TV
-https://i.mjh.nz/SamsungTVPlus/ESBC3500001LY.m3u8
-#EXTINF:-1,Grjngo - Películas Del Oeste
-https://i.mjh.nz/SamsungTVPlus/ESBC2700002LO.m3u8
-#EXTINF:-1,Bigtime - Películas Gratis
-https://i.mjh.nz/SamsungTVPlus/ESBC2700003T8.m3u8
-#EXTINF:-1,Cine Feel Good – Verdi TV
-https://i.mjh.nz/SamsungTVPlus/ESBC2700012RP.m3u8
-#EXTINF:-1,Cines Verdi TV
-https://i.mjh.nz/SamsungTVPlus/ESBC2700011AZ.m3u8
-#EXTINF:-1,Dark Matter TV
-https://i.mjh.nz/SamsungTVPlus/ESBC40000248.m3u8
-#EXTINF:-1,Runtime
-https://i.mjh.nz/SamsungTVPlus/ESBC400001QQ.m3u8
-#EXTINF:-1,Runtime Acción
-https://i.mjh.nz/SamsungTVPlus/ESBD80000288.m3u8
-#EXTINF:-1,Runtime Comedia
-https://i.mjh.nz/SamsungTVPlus/ESBD8000033W.m3u8
-#EXTINF:-1,Runtime Familia
-https://i.mjh.nz/SamsungTVPlus/ES700004C8.m3u8
-#EXTINF:-1,Runtime Romance
-https://i.mjh.nz/SamsungTVPlus/ESBD800004KU.m3u8
-#EXTINF:-1,Cine Friki
-https://i.mjh.nz/SamsungTVPlus/ESBD800001RJ.m3u8
-#EXTINF:-1,Cine Español - Rakuten TV
-https://i.mjh.nz/SamsungTVPlus/ESBC27000062Q.m3u8
-#EXTINF:-1,Películas Románticas - Rakuten TV
-https://i.mjh.nz/SamsungTVPlus/ESBC27000079V.m3u8
-#EXTINF:-1,Comedias - Rakuten TV
-https://i.mjh.nz/SamsungTVPlus/ESAJ4500019AM.m3u8
-#EXTINF:-1,Películas Top - Rakuten TV
-https://i.mjh.nz/SamsungTVPlus/ESBC2700005EE.m3u8
-#EXTINF:-1,Dramas - Rakuten TV
-https://i.mjh.nz/SamsungTVPlus/ESAJ4500020V7.m3u8
-#EXTINF:-1,Acción - Rakuten TV
-https://i.mjh.nz/SamsungTVPlus/ESAJ45000181E.m3u8
 #EXTINF:-1,Accion Mexicana
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 #EXTINF:-1,Canela Clasicos
@@ -5796,8 +5562,6 @@ https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
 https://stmvideo2.livecastv.com/agenfor/agenfor/playlist.m3u8
 #EXTINF:-1,Canal 3 La Pampa (1080p)
 https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
-#EXTINF:-1,Canal 3 Las Heras (720p)
-https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
 #EXTINF:-1,Canal 4 Balcarce (360p)
 https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
 #EXTINF:-1,Canal 4 Esquel (540p)
@@ -5806,8 +5570,8 @@ https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
 https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
 #EXTINF:-1,Canal 5 Pico Truncado (540p)
 https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
-#EXTINF:-1,Canal 5 Tucumán (480p)
-https://videohd.live:19360/8090/8090.m3u8
+#EXTINF:-1,Canal 5 Santa Fe (240p)
+https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
 #EXTINF:-1,Canal 6 ERTV (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCgj6Vesuxfr_fVEp-rG5sxQ.m3u8
 #EXTINF:-1,Canal 6 Moreno (720p) [Not 24/7]
@@ -5834,8 +5598,6 @@ https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
 https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 #EXTINF:-1,Canal 13 La Rioja (480p)
 http://arcast.net:1935/mp/mp/playlist.m3u8
-#EXTINF:-1,Canal 20 Villa María (720p)
-https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8
 #EXTINF:-1,Canal 21 TV (1080p)
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 #EXTINF:-1,Canal 22 (720p)
@@ -5866,6 +5628,8 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
 #EXTINF:-1,DeporTV (1080p) [Not 24/7]
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1,Eco TV (720p)
+https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
 #EXTINF:-1,El SelloTV Madariaga (720p)
 https://5f700d5b2c46f.streamlock.net/elsellotv/elsellotv/playlist.m3u8
 #EXTINF:-1,El Trece (1080p)
@@ -5892,6 +5656,8 @@ https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1,NET TV (720p)
 https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1,NG Federal (720p)
+http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 #EXTINF:-1,Play Television (720p)
 https://vivo.solumedia.com:19360/playtv/playtv.m3u8
 #EXTINF:-1,Power Max Radio TV (720p)
@@ -5910,6 +5676,8 @@ https://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 https://live.enhdtv.com:8081/radioiguazutv/index.m3u8
 #EXTINF:-1,Radiocanal San Francisco (1080p)
 http://204.199.3.2/.m3u8
+#EXTINF:-1,RBD Radio Multimedia (720p)
+https://videostream.shockmedia.com.ar:19360/rbdradio/rbdradio.m3u8
 #EXTINF:-1,RTN (Neuquén) (720p) [Not 24/7]
 https://media.neuquen.gov.ar/rtn/television/media.m3u8
 #EXTINF:-1,San Pedro TV (1080p) [Not 24/7]
@@ -5936,6 +5704,8 @@ https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8
 #EXTINF:-1,TV Solidaria (576p)
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
+#EXTINF:-1,TVU Universidad Nacional de La Plata (720p) [Not 24/7]
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 #EXTINF:-1,UNAM Transmedia (1080p)
 http://192.100.186.53:8090/hls/live.stream.m3u8
 #EXTINF:-1,Uniteve (720p) [Not 24/7]
@@ -5988,6 +5758,8 @@ https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8
 http://live.mundogo.cl/mundo/Canallocalquillota/index.m3u8
 #EXTINF:-1,Canal SCN (720p)
 https://live.tvcontrolcp.com:1936/sancarlostv/sancarlostv/playlist.m3u8
+#EXTINF:-1,CDTV (720p) [Not 24/7]
+http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8
 #EXTINF:-1,Chile Channel (720p)
 https://v2.tustreaming.cl/chilechannel/index.m3u8
 #EXTINF:-1,Click TV (Coronel) (720p)
@@ -6020,6 +5792,8 @@ https://video.juntostvchile.cl:8879/hls/web-jntv.m3u8
 https://vdochile.com:3134/hybrid/play.m3u8
 #EXTINF:-1,La Red (720p) [Not 24/7]
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
+#EXTINF:-1,Madero TV (720p)
+https://www.cloudscriptdog.cl:19360/madero-video-01/madero-video-01.m3u8
 #EXTINF:-1,Molina TV (1080p)
 http://live.mundogo.cl/mundo/Molinatv/index.m3u8
 #EXTINF:-1,Nueva Región TV (720p)
@@ -6102,10 +5876,14 @@ https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8
 https://v2.tustreaming.cl/chiloered/index.m3u8
 #EXTINF:-1,Casa Sobre La Roca TV
 https://cp.panelchs.com:1936/8118/8118/playlist.m3u8
+#EXTINF:-1,Canal Chilote
+https://oracle.streaminghd.cl/canalchilote/canalchilote/playlist.m3u8
 #EXTINF:-1,Canal 74 San Antonio
 https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8
 #EXTINF:-1,Canal 100 Chinique
 https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
+#EXTINF:-1,Canal 8 Santa Rosa
+https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
 #EXTINF:-1,Canal 26 Cono Sur
 https://cdn.streamhispanatv.net:3831/live/conosurlive.m3u8
 #EXTINF:-1,Jesus Tv
@@ -6122,10 +5900,14 @@ https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
 #EXTINF:-1,Tv 5 Solola
 https://cdn.streamhispanatv.net:3700/live/tv5sololalive.m3u8
+#EXTINF:-1,Mas Tv
+https://cdn.streamhispanatv.net:3186/live/mastvlive.m3u8
 #EXTINF:-1,Vision Tv HD
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1,Alcance TV (720p)
 https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
+#EXTINF:-1,Así Sucede Guanajuato (720p) [Not 24/7]
+https://stream.oursnetworktv.com/latin/encoder13/playlist.m3u8
 #EXTINF:-1,California Medios TV (720p)
 https://s5.mexside.net:1936/medios/medios/playlist.m3u8
 #EXTINF:-1,Canal 6 de Tamazula (480p) [Not 24/7]
@@ -6138,6 +5920,8 @@ https://stream.oursnetworktv.com/latin/encoder30/playlist.m3u8
 https://stream.oursnetworktv.com/latin/pueblamx/playlist.m3u8
 #EXTINF:-1,Canal 21 Jalisco (720p) [Not 24/7]
 https://stream.oursnetworktv.com/latin/encoder22/playlist.m3u8
+#EXTINF:-1,Canal 21 Rioverde (720p) [Not 24/7]
+https://stream.oursnetworktv.com/latin/encoder91/playlist.m3u8
 #EXTINF:-1,Canal 22 Nacional (720p) [Geo-blocked]
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 #EXTINF:-1,Canal 26 Aguascalientes (1080p)
@@ -6162,6 +5946,8 @@ https://stream.oursnetworktv.com/latin/cnrtelevision/playlist.m3u8
 https://ythls.armelin.one/channel/UCL1iKKBxY_iPu7iH-1wNdwQ.m3u8
 #EXTINF:-1,DiezTV Encarnación (1080p)
 https://stream.oursnetworktv.com/latin/encoder87/playlist.m3u8
+#EXTINF:-1,Efeso Televisión (1080p) [Not 24/7]
+https://stream.oursnetworktv.com/latin/Esotelevision/playlist.m3u8
 #EXTINF:-1,Expresa TV (720p)
 https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
 #EXTINF:-1,#EXTVLCOPT:http-referrer=https://giktvmx.g3radio.mx
@@ -6170,8 +5956,6 @@ https://pistream.ddns.net/hls/stream.m3u8
 https://ythls.armelin.one/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
 #EXTINF:-1,Info TV 9 (720p)
 https://stream.oursnetworktv.com/latin/encoder25/playlist.m3u8
-#EXTINF:-1,La Imagen de Tierra Caliente (768p)
-https://stream.oursnetworktv.com/latin/encoder82/playlist.m3u8
 #EXTINF:-1,La Luperrona Ciudad Guzmán (240p)
 https://stream.oursnetworktv.com/radio/luperrongdgzman/playlist.m3u8
 #EXTINF:-1,La Luperrona Colima (256p)
@@ -6184,6 +5968,8 @@ https://cloudvideo.servers10.com:8081/8128/index.m3u8
 https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
 #EXTINF:-1,Los Altos Televisión (720p)
 https://stream.oursnetworktv.com/latin/encoder1/playlist.m3u8
+#EXTINF:-1,Metrópoli Televisión (1080p) [Not 24/7]
+https://stream.oursnetworktv.com/latin/Metropolitelevision/playlist.m3u8
 #EXTINF:-1,NMás (1080p)
 https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 #EXTINF:-1,NMás Media (1080p)
@@ -6196,6 +5982,8 @@ https://59e88b197fb16.streamlock.net:4443/live/canal24/playlist.m3u8
 https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
 #EXTINF:-1,NRT México Región Sureste (720p)
 https://59e88b197fb16.streamlock.net:4443/live/canal6/playlist.m3u8
+#EXTINF:-1,Nueve TV San Luís Potosí (720p)
+https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 #EXTINF:-1,Radar TV 71 (480p) [Not 24/7]
 https://stream.oursnetworktv.com/latin/radarTV/playlist.m3u8
 #EXTINF:-1,Radio y Televisión Budokan (352p)
