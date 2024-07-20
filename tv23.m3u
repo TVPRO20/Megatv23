@@ -5010,6 +5010,8 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTM3U
 
+#EXTINF:-1,Canal LMS 270424 | Mexico
+https://fl1001.bozztv.com/ssh101/canallms/playlist.m3u8
 #EXTINF:-1,ESTA LISTA ES DE USO PARTICULAR... NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO... TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO
 http://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
 #EXTINF:-1,4.1 Foro TV
@@ -5032,12 +5034,6 @@ https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/chunklist_w37673
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1,40.1 ADN 40
 https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
-#EXTINF:-1,45.1 Canal del Congreso1
-https://edgeplay.canaldelcongreso.gob.mx/live_sd1/smil:canal-sd1.smil/chunklist_w799228120_b3003000.m3u8
-#EXTINF:-1,45.2 Canal del Congreso2
-https://edgeplay.canaldelcongreso.gob.mx/live_sd2/smil:canal-sd2.smil/chunklist_w85973282_b3003000.m3u8
-#EXTINF:-1,45.3 Canal del Congreso3
-https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/chunklist_w1501984986_b3003000.m3u8
 #EXTINF:-1,AGU: Presumiendo Mexico
 http://streamingcws10.com:1935/telemetrika/videotelemetrika/playlist.m3u8
 #EXTINF:-1,AGU: Presumiendo Mexico
@@ -5094,6 +5090,8 @@ https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 https://webprod.sipse.com.mx:8080/show/merida.m3u8
 #EXTINF:-1,ROO: Canal 10 Cancun
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1,SLP: Nueve TV
+https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/chunklist_w2067160029.m3u8
 #EXTINF:-1,SIN: TVP Mazatlan
 https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
 #EXTINF:-1,SIN: TVP Culiacan
@@ -5106,6 +5104,8 @@ https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/chunklist_w190
 http://s5.mexside.net:1935/telemax/telemax/chunklist_w586584359.m3u8
 #EXTINF:-1,TLA: Tlaxcala Television
 https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8
+#EXTINF:-1,VER: TVMAS Veracruz
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 #EXTINF:-1,EnerGeek Retro op3 | Chile
 https://wifispeed.trapemn.tv:1936/energeek/canal-1p/playlist.m3u8
 #EXTINF:-1,Energeek Radio TV op2 | Chile
@@ -5120,6 +5120,8 @@ https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
 #EXTINF:-1,Canal Mas | Uruguay
 https://clientestv.bachistreaming.com:3721/hybrid/play.m3u8
+#EXTINF:-1,Canal Rex | Chile
+https://fl1001.bozztv.com/ssh101/rexelcanal/playlist.m3u8
 #EXTINF:-1,Casa Grande TV | Argentina
 https://fl1001.bozztv.com/ssh101/cgtve/playlist.m3u8
 #EXTINF:-1,Ciudad Magica Tv | Argentina
@@ -5142,6 +5144,8 @@ https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
 https://fl1001.bozztv.com/ssh101/gogoplay/playlist.m3u8
 #EXTINF:-1,Latino Kids TV | Uruguay
 https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
+#EXTINF:-1,Lena Radio TV | Republica Dominicana
+https://5790d294af2dc.streamlock.net/lenaradiotv/lenaradiotv/playlist.m3u8
 #EXTINF:-1,Magic Kids | Argentina
 https://magicstream.ddns.net:443/magicstream/stream.m3u8
 #EXTINF:-1,Memorias Series | Colombia
@@ -5440,6 +5444,8 @@ http://64.37.50.226:8036/stream
 http://64.37.50.226:8054/stream
 #EXTINF:-1,Radio Colombia Bachata
 http://perseus.shoutca.st:8312/;stream/1
+#EXTINF:-1,Radio Colombia Vallenata
+http://64.37.50.226:8042/stream
 #EXTINF:-1,Radio Colombia Bohemia
 http://64.37.50.226:8024/stream
 #EXTINF:-1,Radio Colombia Romantica
@@ -5558,6 +5564,118 @@ https://jmp2.uk/SamsungTVPlus/USBD3300010L9.m3u8
 https://jmp2.uk/SamsungTVPlus/USBC3600015GF.m3u8
 #EXTINF:-1,Stingray Romance Latino
 https://jmp2.uk/SamsungTVPlus/USBD3500017CE.m3u8
+#EXTINF:-1,Home Refresh
+https://jmp2.uk/SamsungTVPlus/USBC21000142T.m3u8
+#EXTINF:-1,Home.Made.Nation
+https://jmp2.uk/SamsungTVPlus/USAJ3000006X5.m3u8
+#EXTINF:-1,Tiny House Nation
+https://jmp2.uk/SamsungTVPlus/USAJ3400020KC.m3u8
+#EXTINF:-1,This Old House
+https://jmp2.uk/SamsungTVPlus/USBC13000065U.m3u8
+#EXTINF:-1,This Old House Makers
+https://jmp2.uk/SamsungTVPlus/USBC1300005T6.m3u8
+#EXTINF:-1,Flipping Nation by A&E
+https://jmp2.uk/SamsungTVPlus/USBD4200008RS.m3u8
+#EXTINF:-1,Homeful
+https://jmp2.uk/SamsungTVPlus/USBD700022M5.m3u8
+#EXTINF:-1,At Home with Family Handyman
+https://jmp2.uk/SamsungTVPlus/USBD25000138Y.m3u8
+#EXTINF:-1,Tastemade Home
+https://jmp2.uk/SamsungTVPlus/USBC3200022W6.m3u8
+#EXTINF:-1,NBC LX Home
+https://jmp2.uk/SamsungTVPlus/USBB40000028E.m3u8
+#EXTINF:-1,Million Dollar Listing
+https://jmp2.uk/SamsungTVPlus/USBB3200024V5.m3u8
+#EXTINF:-1,The Design Network
+https://jmp2.uk/SamsungTVPlus/USBD1200022S1.m3u8
+#EXTINF:-1,PBS Antiques Roadshow
+https://jmp2.uk/SamsungTVPlus/USBD4200017GS.m3u8
+#EXTINF:-1,Antiques Roadshow
+https://jmp2.uk/SamsungTVPlus/USBC600018CF.m3u8
+#EXTINF:-1,BBC Home & Garden
+https://jmp2.uk/SamsungTVPlus/USBC600017FG.m3u8
+#EXTINF:-1,BBC Food
+https://jmp2.uk/SamsungTVPlus/USBC6000108Z.m3u8
+#EXTINF:-1,America's Test Kitchen
+https://jmp2.uk/SamsungTVPlus/USBA3800002KI.m3u8
+#EXTINF:-1,Bon Appétit
+https://jmp2.uk/SamsungTVPlus/USBC44000226R.m3u8
+#EXTINF:-1,Gusto TV
+https://jmp2.uk/SamsungTVPlus/USAK3508724A.m3u8
+#EXTINF:-1,Jamie Oliver
+https://jmp2.uk/SamsungTVPlus/USBC4400016CL.m3u8
+#EXTINF:-1,Hungry
+https://jmp2.uk/SamsungTVPlus/USAJ2200009C2.m3u8
+#EXTINF:-1,Tastemade
+https://jmp2.uk/SamsungTVPlus/USBD7000189R.m3u8
+#EXTINF:-1,Tastemade Travel
+https://jmp2.uk/SamsungTVPlus/USBD700017WC.m3u8
+#EXTINF:-1,Journy
+https://jmp2.uk/SamsungTVPlus/USBB1000003HL.m3u8
+#EXTINF:-1,Localish
+https://jmp2.uk/SamsungTVPlus/USBC4400005HY.m3u8
+#EXTINF:-1,MLB Channel
+https://jmp2.uk/SamsungTVPlus/US1400001WV.m3u8
+#EXTINF:-1,CBS Sports HQ
+https://jmp2.uk/SamsungTVPlus/USBB4800005VO.m3u8
+#EXTINF:-1,NBC Sports
+https://jmp2.uk/SamsungTVPlus/USBD420002446.m3u8
+#EXTINF:-1,DraftKings Network
+https://jmp2.uk/SamsungTVPlus/USBD700013BW.m3u8
+#EXTINF:-1,SportsGrid
+https://jmp2.uk/SamsungTVPlus/USBA300031OT.m3u8
+#EXTINF:-1,FIFA+
+https://jmp2.uk/SamsungTVPlus/USBD12000255B.m3u8
+#EXTINF:-1,fubo Sports Network
+https://jmp2.uk/SamsungTVPlus/USAJ2200023Z0.m3u8
+#EXTINF:-1,Stadium
+https://jmp2.uk/SamsungTVPlus/USAJ3504705A.m3u8
+#EXTINF:-1,Pac-12 Insider
+https://jmp2.uk/SamsungTVPlus/USBA300034DB.m3u8
+#EXTINF:-1,Origin Sports
+https://jmp2.uk/SamsungTVPlus/USBD1200010I8.m3u8
+#EXTINF:-1,TNA Wrestling
+https://jmp2.uk/SamsungTVPlus/USBB1000001XP.m3u8
+#EXTINF:-1,MSG SportsZone
+https://jmp2.uk/SamsungTVPlus/USBD300021B8.m3u8
+#EXTINF:-1,People Are Awesome
+https://jmp2.uk/SamsungTVPlus/USAJ3400015BY.m3u8
+#EXTINF:-1,PGA Tour
+https://jmp2.uk/SamsungTVPlus/US400001M2.m3u8
+#EXTINF:-1,GOLFPASS
+https://jmp2.uk/SamsungTVPlus/USBB400000145.m3u8
+#EXTINF:-1,T2
+https://jmp2.uk/SamsungTVPlus/USBC600001QL.m3u8
+#EXTINF:-1,PickleballTV
+https://jmp2.uk/SamsungTVPlus/USBD4200016QR.m3u8
+#EXTINF:-1,Billiard TV
+https://jmp2.uk/SamsungTVPlus/USBD12000183X.m3u8
+#EXTINF:-1,World Poker Tour
+https://jmp2.uk/SamsungTVPlus/USBD1700009P5.m3u8
+#EXTINF:-1,SURF NOW TV
+https://jmp2.uk/SamsungTVPlus/USBB10000058A.m3u8
+#EXTINF:-1,Outside
+https://jmp2.uk/SamsungTVPlus/USAJ3504707A.m3u8
+#EXTINF:-1,Waypoint TV
+https://jmp2.uk/SamsungTVPlus/USBB440002055.m3u8
+#EXTINF:-1,Pursuit UP
+https://jmp2.uk/SamsungTVPlus/USBD17000025J.m3u8
+#EXTINF:-1,Outdoor America
+https://jmp2.uk/SamsungTVPlus/USBD1200020Y4.m3u8
+#EXTINF:-1,Top Gear
+https://jmp2.uk/SamsungTVPlus/USBC2400027NG.m3u8
+#EXTINF:-1,Torque
+https://jmp2.uk/SamsungTVPlus/USBB5200027Z5.m3u8
+#EXTINF:-1,MotorTrend FAST TV
+https://jmp2.uk/SamsungTVPlus/USBC3600005U9.m3u8
+#EXTINF:-1,MAVTV Select
+https://jmp2.uk/SamsungTVPlus/USBD1700019RN.m3u8
+#EXTINF:-1,POWERNATION
+https://jmp2.uk/SamsungTVPlus/USBD2500017XQ.m3u8
+#EXTINF:-1,NHRA TV
+https://jmp2.uk/SamsungTVPlus/USBC3200019WF.m3u8
+#EXTINF:-1,Hagerty
+https://jmp2.uk/SamsungTVPlus/USBD4200011W4.m3u8
 #EXTINF:-1,La 1
 https://jmp2.uk/SamsungTVPlus/ESBC4100001NZ.m3u8
 #EXTINF:-1,Cuéntame cómo pasó
@@ -5642,8 +5760,6 @@ https://jmp2.uk/SamsungTVPlus/ESBA3300024AJ.m3u8
 https://jmp2.uk/SamsungTVPlus/ESBC1700002IM.m3u8
 #EXTINF:-1,Hoguera
 https://jmp2.uk/SamsungTVPlus/ESBD1500001SD.m3u8
-#EXTINF:-1,¡Hola! Play
-https://jmp2.uk/SamsungTVPlus/ESBA1400008NE.m3u8
 #EXTINF:-1,Royalworld - Nobleza y Dinastias
 https://jmp2.uk/SamsungTVPlus/ESBD1400003QN.m3u8
 #EXTINF:-1,Fashion TV
@@ -5836,6 +5952,8 @@ https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
 https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
 #EXTINF:-1,Canal 5 Santa Fe (240p)
 https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
+#EXTINF:-1,Canal 5 Tucumán (480p)
+https://videohd.live:19360/8090/8090.m3u8
 #EXTINF:-1,Canal 6 ERTV (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCgj6Vesuxfr_fVEp-rG5sxQ.m3u8
 #EXTINF:-1,Canal 6 Moreno (720p) [Not 24/7]
@@ -5896,8 +6014,6 @@ https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1,CPEtv (720p)
 https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
-#EXTINF:-1,Eco TV (720p)
-https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
 #EXTINF:-1,El Palomar TV (720p)
 https://stream.trixserver.com:3249/live/uv038live.m3u8
 #EXTINF:-1,El SelloTV Madariaga (720p)
@@ -6020,8 +6136,6 @@ https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8
 http://live.mundogo.cl/mundo/Canallocalquillota/index.m3u8
 #EXTINF:-1,Canal SCN (720p)
 https://live.tvcontrolcp.com:1936/sancarlostv/sancarlostv/playlist.m3u8
-#EXTINF:-1,CDTV (720p) [Not 24/7]
-http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8
 #EXTINF:-1,Chile Channel (720p)
 https://v2.tustreaming.cl/chilechannel/index.m3u8
 #EXTINF:-1,Click TV (Coronel) (720p)
@@ -6146,8 +6260,6 @@ https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
 #EXTINF:-1,Canal 8 Santa Rosa
 https://cdn.streamhispanatv.net:3697/live/canal8starosalive.m3u8
-#EXTINF:-1,Canal 26 Cono Sur
-https://cdn.streamhispanatv.net:3831/live/conosurlive.m3u8
 #EXTINF:-1,Jesus Tv
 https://cdn.streamhispanatv.net:3189/live/jesustvlive.m3u8
 #EXTINF:-1,Jutiapa Vision
@@ -6176,6 +6288,8 @@ https://s5.mexside.net:1936/medios/medios/playlist.m3u8
 https://stream.oursnetworktv.com/latin/encoder6/playlist.m3u8
 #EXTINF:-1,Canal 13 Tierra Caliente (768p) [Not 24/7]
 https://stream.oursnetworktv.com/latin/encoder30/playlist.m3u8
+#EXTINF:-1,Canal 21 Chignahuapan (720p)
+https://stream.oursnetworktv.com/latin/pueblamx/playlist.m3u8
 #EXTINF:-1,Canal 21 Jalisco (720p) [Not 24/7]
 https://stream.oursnetworktv.com/latin/encoder22/playlist.m3u8
 #EXTINF:-1,Canal 21 Rioverde (720p) [Not 24/7]
@@ -6188,6 +6302,8 @@ https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlis
 https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
 #EXTINF:-1,Canal 37 San Juan de los Lagos (270p)
 https://stream.oursnetworktv.com/latin/encoder80/playlist.m3u8
+#EXTINF:-1,Canal del Congreso 45.1 (480p) [Not 24/7]
+https://edgeplay.canaldelcongreso.gob.mx/live_sd1/smil:canal-sd1.smil/playlist.m3u8
 #EXTINF:-1,Canal del Congreso 45.2 (480p) [Not 24/7]
 https://edgeplay.canaldelcongreso.gob.mx/live_sd2/smil:canal-sd2.smil/playlist.m3u8
 #EXTINF:-1,Canal del Congreso 45.3 (1080p) [Not 24/7]
@@ -6230,6 +6346,8 @@ https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index.m3u8
 https://59e88b197fb16.streamlock.net:4443/live/canal24/playlist.m3u8
 #EXTINF:-1,NRT México Región Centro (720p)
 https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
+#EXTINF:-1,Nueve TV San Luís Potosí (720p)
+https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 #EXTINF:-1,Radar TV 71 (480p) [Not 24/7]
 https://stream.oursnetworktv.com/latin/radarTV/playlist.m3u8
 #EXTINF:-1,Radio y Televisión Budokan (352p)
