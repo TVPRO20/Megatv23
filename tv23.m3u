@@ -5088,8 +5088,6 @@ http://189.240.210.28:1935/envivo/puecom/chunklist_w166335976.m3u8
 http://189.240.210.28:1935/envivo/puecom/chunklist_w745561738.m3u8
 #EXTINF:-1,PUE: TV comunicaciones Puebla
 http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
-#EXTINF:-1,QUE: Super 9 Tv
-https://tv.radiohosting.online:1936/TV344/TV344/playlist.m3u8
 #EXTINF:-1,ROO: SipseTv Cancun
 https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 #EXTINF:-1,ROO: SIPSE TV 8.1 (1080p) [Not 24/7]
@@ -5130,14 +5128,14 @@ https://fl1001.bozztv.com/ssh101/btvdigital/playlist.m3u8
 https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
 #EXTINF:-1,Canal Mas | Uruguay
 https://clientestv.bachistreaming.com:3721/hybrid/play.m3u8
-#EXTINF:-1,Canal ZeroFIlms | Colombia
-https://fl1001.bozztv.com/ssh101/canalzerofilms/playlist.m3u8
+#EXTINF:-1,Casa Grande TV | Argentina
+https://fl1001.bozztv.com/ssh101/cgtve/playlist.m3u8
 #EXTINF:-1,Classic Channel HD | Chile
 https://paneltv.online:1936/8046/8046/playlist.m3u8
+#EXTINF:-1,Conectate TV | Puerto Rico
+https://5790d294af2dc.streamlock.net/conectatetv/conectatetv/playlist.m3u8
 #EXTINF:-1,Cotui Tv Canal 22 | Republica Dominicana
 https://cloudflare.streamgato.us:3490/live/cotuitvlive.m3u8
-#EXTINF:-1,Diti TV | Argentina
-https://fl1001.bozztv.com/ssh101/dititv/playlist.m3u8
 #EXTINF:-1,Dreiko TV | Panamá
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
 #EXTINF:-1,El Magic | Argentina
@@ -5146,10 +5144,6 @@ https://kali1.everestcast.com:3600/stream/play.m3u8
 https://fl1001.bozztv.com/ssh101/gogoplay/playlist.m3u8
 #EXTINF:-1,Latino Kids TV | Uruguay
 https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
-#EXTINF:-1,Lena Radio TV | Republica Dominicana
-https://5790d294af2dc.streamlock.net/lenaradiotv/lenaradiotv/playlist.m3u8
-#EXTINF:-1,Magic Kids Tv | Argentina
-https://fl1001.bozztv.com/ssh101/magic2019/playlist.m3u8
 #EXTINF:-1,Magic Kids | Argentina
 https://magicstream.ddns.net:443/magicstream/stream.m3u8
 #EXTINF:-1,Mi TV Television Clasica | USA
@@ -5184,8 +5178,6 @@ https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 https://fl1001.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 #EXTINF:-1,TVS Retro | Guatemala
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-#EXTINF:-1,VariedTV | Argentina
-https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 #EXTINF:-1,Voice Over Radio TV | Costa Rica
 https://cloudvideo.servers10.com:8081/8198/index.m3u8
 #EXTINF:-1,Wow Movies | Colombia
@@ -5246,6 +5238,10 @@ http://85.239.54.197:81/live/loco_low/index.m3u8
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 #EXTINF:-1,Taltal Tv HD | Argentina
 https://fl1001.bozztv.com/ssh101/taltal/playlist.m3u8
+#EXTINF:-1,Toonami Tv | ND
+https://fl1001.bozztv.com/ssh101/toonamitv/playlist.m3u8
+#EXTINF:-1,Toonami Tv op2 | ND
+https://glb.bozztv.com/glb/ssh101/toonamitv/index.m3u8
 #EXTINF:-1,Toei Channel (1080p) | Asia
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
 #EXTINF:-1,Tokyo MX1 (544p) | Asia
@@ -5336,8 +5332,6 @@ https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
 https://unlimited1-us.dps.live/carastv/carastv.smil/carastv/livestream0/chunks.m3u8
 #EXTINF:-1,Fashion Tv | Francia
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
-#EXTINF:-1,Radio ILCE | Mexico
-http://radio.ilce.edu.mx:8000/radioilce.mp3
 #EXTINF:-1,Educa  TV | Ecuador
 https://vid2.ecuamedia.net/educatv/live/chunklist_w401884011.m3u8
 #EXTINF:-1,NASA | USA
@@ -5416,6 +5410,8 @@ https://s4.voscast.com:8767/patzcuaro.mp3
 https://srstreaming.com/proxy/guadalu1?mp=/stream&1609133961240
 #EXTINF:-1,Radio La Candela 97.7 Zacapu
 http://s4.mexside.net:2094/;stream.nsv
+#EXTINF:-1,Radio Exa 98.1 Zamora
+http://live.exafmzamora.mx:55252/exafmzamora.mp3
 #EXTINF:-1,Radio Maxima 100.9 Morelia
 http://omegaingenieria.com:8034/stream/1/
 #EXTINF:-1,Radio Ranchito 102.5 Morelia
@@ -5934,6 +5930,8 @@ https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
 https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
 #EXTINF:-1,Canal 5 Santa Fe (240p)
 https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
+#EXTINF:-1,Canal 5 Tucumán (480p)
+https://videohd.live:19360/8090/8090.m3u8
 #EXTINF:-1,Canal 6 ERTV (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCgj6Vesuxfr_fVEp-rG5sxQ.m3u8
 #EXTINF:-1,Canal 6 Moreno (720p) [Not 24/7]
@@ -5956,8 +5954,6 @@ https://stmv1.srvstm.com/tv10/tv10/playlist.m3u8
 https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8
 #EXTINF:-1,Canal 11 de la Costa (720p)
 https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
-#EXTINF:-1,Canal 12 Puerto Madryn (720p) [Not 24/7]
-https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
 #EXTINF:-1,Canal 13 Jujuy TV (720p)
 https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 #EXTINF:-1,Canal 13 La Rioja (480p)
@@ -5974,24 +5970,22 @@ https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
 #EXTINF:-1,Canal Santa María (360p)
 https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
+#EXTINF:-1,Canal Siete (720p) [Not 24/7]
+https://vivo.solumedia.com:19360/canalsiete/canalsiete.m3u8
 #EXTINF:-1,Canal U (720p)
 https://stream.arcast.live/canalu/canalu/playlist.m3u8
+#EXTINF:-1,Catamarca TV (720p)
+https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
 #EXTINF:-1,Celta TV (240p)
 https://vivo.solumedia.com:19360/celta/celta.m3u8
 #EXTINF:-1,Chaco TV (720p) [Not 24/7]
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
-#EXTINF:-1,Chacra TV (480p) [Not 24/7]
-https://s8.stweb.tv/chacra/live/playlist.m3u8
 #EXTINF:-1,Chilecito TV (480p)
 https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
-#EXTINF:-1,Cinco TV (480p)
-https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 #EXTINF:-1,Ciudad Magazine (1080p) [Geo-blocked]
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 #EXTINF:-1,Cosmos TV (720p)
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-#EXTINF:-1,Eco TV (720p)
-https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
 #EXTINF:-1,El SelloTV Madariaga (720p)
 https://5f700d5b2c46f.streamlock.net/elsellotv/elsellotv/playlist.m3u8
 #EXTINF:-1,El Trece (1080p)
@@ -6040,12 +6034,12 @@ https://live.enhdtv.com:8081/radioiguazutv/index.m3u8
 http://204.199.3.2/.m3u8
 #EXTINF:-1,RTN (Neuquén) (720p) [Not 24/7]
 https://media.neuquen.gov.ar/rtn/television/media.m3u8
-#EXTINF:-1,Somos La Pampa (1080p)
-https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8
 #EXTINF:-1,TeleCinco Trelew (240p)
 https://videohd.live:19360/8016/8016.m3u8
 #EXTINF:-1,Telecóndor Satelital (360p)
 https://videostream.shockmedia.com.ar:19360/canal4telecondor/canal4telecondor.m3u8
+#EXTINF:-1,Telediez (360p) [Not 24/7]
+https://videohd.live:19360/8020/8020.m3u8
 #EXTINF:-1,TeleJunín (576p)
 https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8
 #EXTINF:-1,Telenord (720p) [Not 24/7]
@@ -6114,8 +6108,6 @@ http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8
 https://v2.tustreaming.cl/chilechannel/index.m3u8
 #EXTINF:-1,Click TV (Coronel) (720p)
 https://v2.tustreaming.cl/clicktv/playlist.m3u8
-#EXTINF:-1,Contivision (720p)
-https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
 #EXTINF:-1,Dance FM (720p)
 https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
 #EXTINF:-1,Décima TV (Ancud) (720p)
@@ -6260,8 +6252,6 @@ https://cdn.streamhispanatv.net:3186/live/mastvlive.m3u8
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1,Alcance TV (720p)
 https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
-#EXTINF:-1,Así Sucede Guanajuato (720p) [Not 24/7]
-https://stream.oursnetworktv.com/latin/encoder13/playlist.m3u8
 #EXTINF:-1,California Medios TV (720p)
 https://s5.mexside.net:1936/medios/medios/playlist.m3u8
 #EXTINF:-1,Canal 6 Tecpán (720p) [Not 24/7]
@@ -6304,8 +6294,6 @@ https://pistream.ddns.net/hls/stream.m3u8
 https://ythls.armelin.one/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
 #EXTINF:-1,Info TV 9 (720p)
 https://stream.oursnetworktv.com/latin/encoder25/playlist.m3u8
-#EXTINF:-1,La Imagen de Tierra Caliente (768p)
-https://stream.oursnetworktv.com/latin/encoder82/playlist.m3u8
 #EXTINF:-1,La Luperrona Ciudad Guzmán (240p)
 https://stream.oursnetworktv.com/radio/luperrongdgzman/playlist.m3u8
 #EXTINF:-1,La Luperrona Colima (256p)
@@ -6318,16 +6306,12 @@ https://cloudvideo.servers10.com:8081/8128/index.m3u8
 https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
 #EXTINF:-1,Los Altos Televisión (720p)
 https://stream.oursnetworktv.com/latin/encoder1/playlist.m3u8
-#EXTINF:-1,NMás (1080p)
-https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 #EXTINF:-1,NMás Media (1080p)
 https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
 #EXTINF:-1,NMás Media (1080p)
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index.m3u8
 #EXTINF:-1,Nueve TV San Luís Potosí (720p)
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
-#EXTINF:-1,Paralelo 20 650 AM (1080p) [Not 24/7]
-https://stream.oursnetworktv.com/latin/paralelo20/playlist.m3u8
 #EXTINF:-1,Radar TV 71 (480p) [Not 24/7]
 https://stream.oursnetworktv.com/latin/radarTV/playlist.m3u8
 #EXTINF:-1,Radio y Televisión Budokan (352p)
@@ -6392,8 +6376,6 @@ https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlis
 https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8
 #EXTINF:-1,VB Media TV (1080p)
 https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
-#EXTINF:-1,Veracruz Multimedios TV (720p)
-https://stream.oursnetworktv.com/latin/VeracruZMulTimedios/playlist.m3u8
 #EXTINF:-1,Videa Plataforma (576p) [Not 24/7]
 https://stream.oursnetworktv.com/latin/encoder34/playlist.m3u8
 #EXTINF:-1,Visión Televisión (720p)
