@@ -2765,8 +2765,12 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTM3U
 
-#EXTINF:-1,4.1 Foro TV op3
-https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=Ulwgdf5t46o
+#EXTINF:-1,Canal LMS 261124 | Mexico
+https://fl1001.bozztv.com/ssh101/canallms/playlist.m3u8
+#EXTINF:-1,2.1 Las Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1,3.1 Imagen TV
+https://ythls.armelin.one/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
 #EXTINF:-1,5.1 Canal Cinco
 http://181.78.105.146:2000/play/a038/index.m3u8
 #EXTINF:-1,7.1 Azteca 7
@@ -2793,8 +2797,6 @@ http://streamingcws10.com:1935/telemetrika/videotelemetrika/playlist.m3u8
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 #EXTINF:-1,BCS: CANAL 66
 https://60417ddeaf0d9.streamlock.net/canal66/smil:canal66.smil/chunklist_w1330964906_b878000_sleng.m3u8
-#EXTINF:-1,CHP: Canal 10
-https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 #EXTINF:-1,CHH: CANAL 44
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 #EXTINF:-1,DUR: Canal 10 Durango
@@ -2805,6 +2807,8 @@ http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
 https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
 #EXTINF:-1,GUA: TV Cuatro 4.2 Cultura
 https://5f2c1b0d880e5.streamlock.net/tv42/smil:tv42.smil/chunklist_w2048905456_b3428000_sleng.m3u8
+#EXTINF:-1,MIC: CBTV Michoacan
+https://5ca3e84a76d30.streamlock.net/cbtv/videocbtv/chunklist_w233916547.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDIzIDE6MTY6MTYgUE0maGFzaF92YWx1ZT1TRG9tVW16WXcxdldkdkQ5N3VwdjlnPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ%3D%3D
 #EXTINF:-1,MIC: Canal 6
 https://5f1af61612fb5.streamlock.net/canal6mich2/videocanal6mich2/chunklist_w119129650.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDIzIDE6MjA6MzUgUE0maGFzaF92YWx1ZT1pLyttRnh1STUrS1gwNFdWZnFnbGRnPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ%3D%3D
 #EXTINF:-1,MIC: Media Group Radio
@@ -2821,18 +2825,14 @@ http://189.240.210.28:1935/envivo/puecom/chunklist_w166335976.m3u8
 http://189.240.210.28:1935/envivo/puecom/chunklist_w745561738.m3u8
 #EXTINF:-1,PUE: TV comunicaciones Puebla
 http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
+#EXTINF:-1,QUE: Super 9 Tv
+https://tv.radiohosting.online:1936/TV344/TV344/playlist.m3u8
 #EXTINF:-1,ROO: SipseTv Cancun
 https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 #EXTINF:-1,ROO: SIPSE TV 8.1 (1080p) [Not 24/7]
 https://webprod.sipse.com.mx:8080/show/merida.m3u8
 #EXTINF:-1,ROO: Canal 10 Cancun
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1,SIN: TVP Mazatlan
-https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
-#EXTINF:-1,SIN: TVP Culiacan
-https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
-#EXTINF:-1,SIN: TVP Los Mochis
-https://5ca3e84a76d30.streamlock.net/gpacifico2/smil:mochis.smil/playlist.m3u8
 #EXTINF:-1,SON: TVP Cd. Obregon
 https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/chunklist_w1903526755_b1428000_sleng.m3u8
 #EXTINF:-1,SON: Telemax Sonora
@@ -2875,8 +2875,8 @@ https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
 https://5790d294af2dc.streamlock.net/lenaradiotv/lenaradiotv/playlist.m3u8
 #EXTINF:-1,Magic Kids | Argentina
 https://magicstream.ddns.net:443/magicstream/stream.m3u8
-#EXTINF:-1,Much Music HD | ND
-https://streaming-cl.sh1ny.space/memfs/b4803e28-d393-4d4b-a76d-a3fb5d3485fe.m3u8
+#EXTINF:-1,Moni TV HD | Argentina
+https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 #EXTINF:-1,Now 70 | ND
 https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:-1,Now 80 | ND
@@ -2899,8 +2899,6 @@ https://fl1001.bozztv.com/ssh101/retroxcr/playlist.m3u8
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 #EXTINF:-1,Sueños Grup | Argentina
 https://fl1002.bozztv.com:443/ssh101/suenosgrup/index.m3u8
-#EXTINF:-1,SYFY LA HD | ND
-https://streaming-cl.sh1ny.space/memfs/4f2393d1-64eb-4e8f-a2f4-f60feea9e63d.m3u8
 #EXTINF:-1,Teleclasica | Mexico
 https://fl1001.bozztv.com/ssh101/teleclasik/playlist.m3u8
 #EXTINF:-1,TeleMix op2 | Argentina
@@ -2919,8 +2917,6 @@ https://fl1001.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
 https://fl1001.bozztv.com/ssh101/bigchannel/playlist.m3u8
 #EXTINF:-1,Canal Ipe | Peru
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
-#EXTINF:-1,Chiquilines | USA
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8
 #EXTINF:-1,Clan Latinoamerica | Mexico
 http://190.211.250.102:8000/play/a01j
 #EXTINF:-1,Clan TVE | Spain
@@ -2953,8 +2949,14 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4312
 http://190.61.42.218:9000/play/a00u
 #EXTINF:-1,Animax TV | Asia
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
+#EXTINF:-1,Anime Zone TV | Republica Dominicana
+http://animezonetv.net/hls/stream.m3u8
+#EXTINF:-1,Anime Zone TV op2 | Republica Dominicana
+http://animezonetv.com/hls/stream.m3u8
 #EXTINF:-1,Anime TV | Brasil
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:-1,Ani Retro | Chile
+https://tv.streaming-chile.com:19360/8068/8068.m3u8
 #EXTINF:-1,Anime Onegai Deportes | ND
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11057
 #EXTINF:-1,Anime Onegai Accion | ND
@@ -2963,6 +2965,8 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11058
 https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8
 #EXTINF:-1,Loading Brasil | Brasil
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1,Locomotion | Republica Dominicana
+http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1,Taltal Tv HD | Argentina
 https://fl1001.bozztv.com/ssh101/taltal/playlist.m3u8
 #EXTINF:-1,Wording TV HD | Brasil
@@ -3005,26 +3009,16 @@ https://streamaction.ddns.net/suertv_hls/suertv.m3u8
 https://fl1002.bozztv.com/ssh101/streamtv2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Telemas | Costarica
 https://mist01.homestream.fun/hls/telemas/index.m3u8
-#EXTINF:-1,Telered | Costa Rica
-https://k20.usastreams.com:8081/telered/index.m3u8
-#EXTINF:-1,Telesistema | Costa Rica
-https://k20.usastreams.com:8081/telesistema/index.m3u8
 #EXTINF:-1,Tv Costa | Chile
 https://premium.tvcontrolcp.com:19360/tvcosta1/tvcosta1.m3u8
 #EXTINF:-1,Tv En Linea | Peru
 https://fl1001.bozztv.com/ssh101/ucchullo/playlist.m3u8
 #EXTINF:-1,Unetev HD | Argentina
 https://panel.tvstream.cl:1936/8070/8070/playlist.m3u8
-#EXTINF:-1,Bayres TV | Argentina
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1,Bjgtjme | Argentina
 https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8
-#EXTINF:-1,Cine Real | USA
-https://amg01024-olympusat-cinereallatam-ono-ad-z5.amagi.tv/playlist/amg01024-olympusat-cinereallatam-ono/cb553d167c6c64879ad43e63d9ef41a0d22411fc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fd87f0b66411f21c118de751fc7c76adf046727486b9898b37bd9981208a2ae56687fe525564eff0f10ce254136d8bb425c8764b72c4812bd593c1b63dcb80cb0270094d21788797a8baddf68687d5b0dcc5779df9a1be090a11f1c9e3df2f83e7eaf1b448efc5fc3fc2687d180188012c6369e4acccfa5a9eb2ab4f0d336fc33d46e71324c7c9d933786da62a6c8937f389f685a207431b79abdb31469ec364258ebb1caaf75c000da8637845f22a90cea0fee4e827fbe19b4bb01efbaacc80c472ba1c14f7769a3eaadc5ff3025b465feb1b3b3191b98f2073643c779aa414159c0a7b77eeac21185f820baa47b123cd5924089efd8e987b384449937cfc6f8c2752820620011c85cb28a52d93cd37ca4cb6157363947a2971bcb8ac05320775c879410f2011ebcefbdd992645ccb640814ec69dd2947068c313c2ce37da1c8693bd8760bd66068af0c638544a9ec7af7a5d8b70768ec88c618bc0586b40ec1b805ac632e5c70c598587057457ad9e06701356a8341e193ecf3720c34daadbd94a9523c1477145d1c9be39513f1ef90736a7ca65222733a05059a76ba03b5065b052bdd089daf0679b7e8404797cfc0cec90decaa9cb9c5b0e741ad76d0c08f4145597742cdfe81bb0ca9dba356ef2c433e5b50851d6d40bc7d282a6f4b7e84ebeb43cb846da93722376ad1e9553661ecb4d46be9f34bfa6698f830bc83c35fc3afae1b519c76c46b75cf85843ea8bfc8af3b7eb430da92c79e8007bc93fae7f5568cb0723aab9158030e3543498da351e756bad0a5e4228e3597ae6214c955b486eabfda6719b2df1a737b3e5c197b5d613f4c96ee95324e2ab7fc35f007b7bb0ce7121d731842dd890f11d4b8264ccc642e31e586c299a8cc0c08853fa520873071d53d6419e8c23ce594a1b3adf5097a3499e0e51dc1e4e2e6e1d9d02f72076d4aeae7564772de29e8cc4aa19a1472eb869cf69809b370f13eaf8ba624876df59bbc5716f75fb30575485c915036ff4dea/150/1920x1080_5824280/index.m3u8
 #EXTINF:-1,Extrema TV | Costa Rica
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1,Free TV LQ | USA
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/playlist.m3u8?ads.dpname=distrotv&c_producer=Chiquilines&dnt=0&app_bundle=undefined&app_name=DistroTV&app_store_url=undefined&did=93d0438a-d330-4392-8ca2-48109fa4781f&app_domain=&device_make=__DEVICE_MAKE__&device_model=&coppa=1&ads.gdprConsent=__GDPR_CONSENT__&ads.islive=1&ads.streamtype=live&ads.vf=20240712
 #EXTINF:-1,Mega Cine Tv | Republica Dominicana
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 #EXTINF:-1,My Time Movie | Mexico
@@ -3033,14 +3027,6 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 #EXTINF:-1,Wow Tv | El Salvador
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
-#EXTINF:-1,Video Club | Argentina
-https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
-#EXTINF:-1,Romance Channel | ND
-https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=8vXYlGSGD0E
-#EXTINF:-1,Suspenso Channel | ND
-https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=tPKisk_nXLw
-#EXTINF:-1,V Accion Maxima | ND
-https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=QKMBvpGduRc
 #EXTINF:-1,MLB Channel | PlutoTV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97d882-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f1832274-98b7-4765-ad8b-c533c4382008&userId=&serverSideAds=true
 #EXTINF:-1,RED BULL TV | Austria
@@ -3087,6 +3073,8 @@ https://panel.tvstream.cl:1936/8052/8052/playlist.m3u8
 https://sistemastr.tropicalmoonmedia.com/live/748C7FAABE933B124F1EE76413C7797C/6.m3u8
 #EXTINF:-1,Tropical Urbano TV | ND
 https://sistemastr.tropicalmoonmedia.com:443/vivalivepublic/BjseGwS28B/23.m3u8
+#EXTINF:-1,Tropical Tv | Colombia
+https://fl1002.bozztv.com/ssh101/estvco/index.m3u8
 #EXTINF:-1,Tu Musica HD | Latino
 https://cloudflare.streamgato.us:3735/live/tumusicahdlive.m3u8
 #EXTINF:-1,Radio La Bonita del Norte 92.7
@@ -4075,8 +4063,6 @@ https://xlpore-samsungus.amagi.tv/playlist.m3u8
 https://yahoo-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1,Young Hollywood (720p)
 https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1,Trace Sport Stars (1080p) [Geo-blocked]
-http://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8
 #EXTINF:-1,Accion Mexicana
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 #EXTINF:-1,Canela Clasicos
@@ -4133,8 +4119,6 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
 #EXTINF:-1,Aire de Santa Fe (1080p)
 https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
-#EXTINF:-1,Antena 91 (720p)
-https://tuvideoonline.com.ar:3393/live/antena91live.m3u8
 #EXTINF:-1,ATV Argentina (540p)
 https://stream.arcast.com.ar/atbargentina/atbargentina/playlist.m3u8
 #EXTINF:-1,Beats Radio (480p)
@@ -4153,8 +4137,6 @@ https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
 https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 #EXTINF:-1,Canal 3 Las Heras (720p)
 https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
-#EXTINF:-1,Canal 4 Eldorado (720p)
-https://stream.arcast.com.ar/canal4eldorado/canal4eldorado/playlist.m3u8
 #EXTINF:-1,Canal 4 Esquel (540p)
 https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
 #EXTINF:-1,Canal 4 Posadas (576p)
@@ -4261,8 +4243,6 @@ https://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 https://live.enhdtv.com:8081/radioiguazutv/index.m3u8
 #EXTINF:-1,Radiocanal San Francisco (1080p)
 http://204.199.3.2/.m3u8
-#EXTINF:-1,RBD Radio Multimedia (720p)
-https://videostream.shockmedia.com.ar:19360/rbdradio/rbdradio.m3u8
 #EXTINF:-1,RTN (Neuquén) (720p) [Not 24/7]
 https://media.neuquen.gov.ar/rtn/television/media.m3u8
 #EXTINF:-1,San Pedro TV (1080p) [Not 24/7]
@@ -4367,8 +4347,6 @@ https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
 http://live.mundogo.cl/mundo/Molinatv/index.m3u8
 #EXTINF:-1,NCTV (1080p)
 https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8
-#EXTINF:-1,Nortevisión (720p)
-https://live.tvcontrolcp.com:1936/nortevision/nortevision/playlist.m3u8
 #EXTINF:-1,Nueva Región TV (720p)
 http://live.mundogo.cl/mundo/Nuevaregion/index.m3u8
 #EXTINF:-1,Pichilemu TV (1080p)
@@ -4481,6 +4459,10 @@ https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
 https://cloudvideo.servers10.com:8081/8128/index.m3u8
 #EXTINF:-1,Lobo TV (720p)
 https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
+#EXTINF:-1,NMás Media (1080p)
+https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
+#EXTINF:-1,NMás Media (1080p)
+https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index.m3u8
 #EXTINF:-1,Radio y Televisión Budokan (352p)
 https://cp.panelchs.com:1936/8016/8016/playlist.m3u8
 #EXTINF:-1,Raly TV (720p)
@@ -4489,8 +4471,6 @@ https://cloudvideo.servers10.com:8081/8072/index.m3u8
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 #EXTINF:-1,RCG TV (Timeshifted -2 Hours) (432p)
 https://video1.getstreamhosting.com:1936/8246/8246/playlist.m3u8
-#EXTINF:-1,Señal España (XHUNES-TDT) (720p)
-https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
 #EXTINF:-1,SET Televisión Canal 26.2 (720p) [Not 24/7]
 http://189.240.210.28:1935/live/setpuebla/playlist.m3u8
 #EXTINF:-1,Super Channel 12 (1080p) [Geo-blocked]
@@ -4519,8 +4499,6 @@ https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
 https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
 #EXTINF:-1,TVMás (720p)
 https://60417ddeaf0d9.streamlock.net/telemetrika3/telemetrika3.smil/.m3u8
-#EXTINF:-1,TVP Los Mochis (720p) [Not 24/7]
-https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8
 #EXTINF:-1,TVP Obregón (720p) [Not 24/7]
 https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
 #EXTINF:-1,Ultra TV Puebla (720p) [Not 24/7]
