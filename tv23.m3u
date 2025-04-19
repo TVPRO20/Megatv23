@@ -2729,8 +2729,8 @@ http://200.229.147.142:8000/play/a086/index.m3u8
 #EXTM3U
 #EXTINF:-1,Canal LMS 261124 | Mexico
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/canallms/playlist.m3u8
-#EXTINF:-1,3.1 Imagen TV
-https://ythls.armelin.one/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
+#EXTINF:-1,2.1 Las Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1,4.1 Foro TV op3
 https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=Ulwgdf5t46o
 #EXTINF:-1,7.1 Azteca 7
@@ -2751,8 +2751,6 @@ https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 http://streamingcws10.com:1935/telemetrika/videotelemetrika/playlist.m3u8
 #EXTINF:-1,AGU: Canal 26
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
-#EXTINF:-1,CHP: Canal 10
-https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 #EXTINF:-1,CHH: CANAL 44
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 #EXTINF:-1,CMX: Efekto TV
@@ -2761,10 +2759,6 @@ https://cdn.jwplayer.com/manifests/bez1terN.m3u8
 http://204.12.193.98:1935/TvHD/canal10/playlist.m3u8
 #EXTINF:-1,DUR: TV Lobo Durango
 http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
-#EXTINF:-1,GUA: TV Cuatro 4.2 Cultura
-https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
-#EXTINF:-1,GUA: TV Cuatro 4.2 Cultura
-https://5f2c1b0d880e5.streamlock.net/tv42/smil:tv42.smil/chunklist_w2048905456_b3428000_sleng.m3u8
 #EXTINF:-1,MIC: CBTV Michoacan
 https://5ca3e84a76d30.streamlock.net/cbtv/videocbtv/chunklist_w233916547.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDIzIDE6MTY6MTYgUE0maGFzaF92YWx1ZT1TRG9tVW16WXcxdldkdkQ5N3VwdjlnPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ%3D%3D
 #EXTINF:-1,MIC: Canal 6
@@ -2785,6 +2779,8 @@ http://189.240.210.28:1935/envivo/puecom/chunklist_w166335976.m3u8
 http://189.240.210.28:1935/envivo/puecom/chunklist_w745561738.m3u8
 #EXTINF:-1,PUE: TV comunicaciones Puebla
 http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
+#EXTINF:-1,QUE: Super 9 Tv
+https://tv.radiohosting.online:1936/TV344/TV344/playlist.m3u8
 #EXTINF:-1,ROO: SipseTv Cancun
 https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 #EXTINF:-1,ROO: SIPSE TV 8.1 (1080p) [Not 24/7]
@@ -2793,12 +2789,6 @@ https://webprod.sipse.com.mx:8080/show/merida.m3u8
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1,SLP: Nueve TV
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/chunklist_w2067160029.m3u8
-#EXTINF:-1,SIN: TVP Mazatlan
-https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
-#EXTINF:-1,SIN: TVP Culiacan
-https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
-#EXTINF:-1,SIN: TVP Los Mochis
-https://5ca3e84a76d30.streamlock.net/gpacifico2/smil:mochis.smil/playlist.m3u8
 #EXTINF:-1,SON: TVP Cd. Obregon
 https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/chunklist_w1903526755_b1428000_sleng.m3u8
 #EXTINF:-1,SON: Telemax Sonora
@@ -2815,16 +2805,20 @@ https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
 https://streaming-cl.sh1ny.space/memfs/75b105a4-2fd3-4538-a55c-480f3903a262.m3u8
 #EXTINF:-1,Fanpop TV op2 | Chile
 https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
+#EXTINF:-1,BTV Baradero Tv | Argentina
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/btvdigital/playlist.m3u8
 #EXTINF:-1,Canal 5 del Pueblo op2 | Argentina
 https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
 #EXTINF:-1,Canal 8 Rosario | Argentina
 https://stmv4.voxtvhd.com.br/canal8ros/canal8ros/playlist.m3u8
-#EXTINF:-1,Canal Mas | Uruguay
-https://clientestv.bachistreaming.com:3721/hybrid/play.m3u8
 #EXTINF:-1,Ciudad Magica Tv | Argentina
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
+#EXTINF:-1,Classic Channel HD | Chile
+https://paneltv.online:1936/classicchannel/classicchannel/playlist.m3u8
 #EXTINF:-1,Cotui Tv Canal 22 | Republica Dominicana
 https://cloudflare.streamgato.us:3490/live/cotuitvlive.m3u8
+#EXTINF:-1,Diti TV | Argentina
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/dititv/playlist.m3u8
 #EXTINF:-1,Dreiko TV | Panamá
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 #EXTINF:-1,Frecuencia Musical Tv | USA
@@ -2849,10 +2843,6 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
 https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:-1,Now Rock | ND
 https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
-#EXTINF:-1,Panc Tv HD canal 15.1 | Argentina
-https://panel.host-live.com:19360/20004/20004.m3u8
-#EXTINF:-1,Panc Tv Peru HD | Peru
-https://panel.host-live.com:19360/20000/20000.m3u8
 #EXTINF:-1,Plenitud TV 24/7 | Chile
 https://stream.gia.tv/giatvplayout7/giatv-208727/playlist.m3u8
 #EXTINF:-1,Plenitud Juvenil | Chile
@@ -2875,20 +2865,28 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/suenosgrup/playlist.m3u8
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/teleclasik/playlist.m3u8
 #EXTINF:-1,TeleMix op2 | Argentina
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/telemixlive/playlist.m3u8
+#EXTINF:-1,Teleanimemania | Espana
+https://stream.gia.tv/giatvplayout7/giatv-209474/playlist.m3u8
 #EXTINF:-1,Tigueritos TV | Republica Dominicana
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 #EXTINF:-1,TV Retro Palmares | Costa Rica
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvretropalmares/playlist.m3u8
+#EXTINF:-1,VariedTV | Argentina
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/variedtvonline/playlist.m3u8
 #EXTINF:-1,Voice Over Radio TV | Costa Rica
 https://cloudvideo.servers10.com:8081/8198/index.m3u8
+#EXTINF:-1,Wow Movies | Colombia
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/wowchannelsd/playlist.m3u8
 #EXTINF:-1,Big TV | Argentina
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/bigchannel/playlist.m3u8
 #EXTINF:-1,Canal Ipe | Peru
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
-#EXTINF:-1,Chiquilines | USA
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8
+#EXTINF:-1,Cartoon Clasico LAT | Argentina
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/cartoonclasico/playlist.m3u8
 #EXTINF:-1,Clan TVE | Spain
 https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
+#EXTINF:-1,FUNTV ESTE | ND
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/funtveste/playlist.m3u8
 #EXTINF:-1,Nickelodeon Espana HD | Spain
 http://185.189.225.150:85/nickelodeon/index.m3u8
 #EXTINF:-1,NTV | Chile
@@ -2903,6 +2901,10 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1,Animax TV | Japon
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,Anime Zone TV | Republica Dominicana
+http://animezonetv.net/hls/stream.m3u8
+#EXTINF:-1,Anime Zone TV op2 | Republica Dominicana
+http://animezonetv.com/hls/stream.m3u8
 #EXTINF:-1,Anime TV | Brasil
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1,AnimeStation op3 | Argentina
@@ -2911,12 +2913,16 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/livestreamingtv/playlist.m3u
 https://d2se29pyn6ypkx.cloudfront.net/v1/master/964e44f31073da95414e409f230fb47a468175f5/6469fafa-ca3b-40cd-b903-ab9c3eeea757/6469fafa-ca3b-40cd-b903-ab9c3eeea757/playlist.m3u8
 #EXTINF:-1,Kanade Tv | Argentina
 https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8
-#EXTINF:-1,Kanade Tv op2 | Argentina
-https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8
 #EXTINF:-1,Kpop Tv Play | Brasil
 https://stream.gia.tv/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 #EXTINF:-1,Loading Brasil | Brasil
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1,Locomotion | Republica Dominicana
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1,Locomotion op1 | Republica Dominicana
+http://85.239.54.197:81/live/loco_hi/index.m3u8
+#EXTINF:-1,Locomotion op2 | Republica Dominicana
+http://85.239.54.197:81/live/loco_low/index.m3u8
 #EXTINF:-1,Taltal Tv HD | Argentina
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/taltal/playlist.m3u8
 #EXTINF:-1,Taltal 3 Tv HD | Argentina
@@ -2925,6 +2931,8 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/animacion/playlist.m3u8
 https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 #EXTINF:-1,Buin Somos Todos | Chile
 https://bst.buin.cl/0.m3u8
+#EXTINF:-1,Canal 4 San Juan | Argentina
+http://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w1603184235.m3u8
 #EXTINF:-1,Caracola TV | Chile
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 #EXTINF:-1,Chamame Tv | Argentina
@@ -2947,10 +2955,10 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1,Norte Informativo TV | Costa Rica
 https://videohd.live:19360/8076/8076.m3u8
+#EXTINF:-1,Presencia TV | Peru
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/mitvenvivo/playlist.m3u8
 #EXTINF:-1,Quantica TV | Argentina
 https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
-#EXTINF:-1,Retro Plus TV 3 | Chile
-https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8
 #EXTINF:-1,Telemas | Costarica
 https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8
 #EXTINF:-1,Telered | Costa Rica
@@ -2959,6 +2967,8 @@ https://k20.usastreams.com:8081/telered/index.m3u8
 https://k20.usastreams.com:8081/telesistema/index.m3u8
 #EXTINF:-1,TeleSUR | Costa Rica
 https://s1.tvdatta.com:3582/live/telesurlive.m3u8
+#EXTINF:-1,Tv En Linea | Peru
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/ucchullo/playlist.m3u8
 #EXTINF:-1,Unetev HD | Argentina
 https://panel.tvstream.cl:1936/8070/8070/playlist.m3u8
 #EXTINF:-1,ZoyTV Sports | Bolivia
@@ -2983,8 +2993,6 @@ https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1,Bjgtjme | Argentina
 https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8
-#EXTINF:-1,Cine Real | USA
-https://amg01024-olympusat-cinereallatam-ono-ad-z5.amagi.tv/playlist/amg01024-olympusat-cinereallatam-ono/cb553d167c6c64879ad43e63d9ef41a0d22411fc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fd87f0b66411f21c118de751fc7c76adf046727486b9898b37bd9981208a2ae56687fe525564eff0f10ce254136d8bb425c8764b72c4812bd593c1b63dcb80cb0270094d21788797a8baddf68687d5b0dcc5779df9a1be090a11f1c9e3df2f83e7eaf1b448efc5fc3fc2687d180188012c6369e4acccfa5a9eb2ab4f0d336fc33d46e71324c7c9d933786da62a6c8937f389f685a207431b79abdb31469ec364258ebb1caaf75c000da8637845f22a90cea0fee4e827fbe19b4bb01efbaacc80c472ba1c14f7769a3eaadc5ff3025b465feb1b3b3191b98f2073643c779aa414159c0a7b77eeac21185f820baa47b123cd5924089efd8e987b384449937cfc6f8c2752820620011c85cb28a52d93cd37ca4cb6157363947a2971bcb8ac05320775c879410f2011ebcefbdd992645ccb640814ec69dd2947068c313c2ce37da1c8693bd8760bd66068af0c638544a9ec7af7a5d8b70768ec88c618bc0586b40ec1b805ac632e5c70c598587057457ad9e06701356a8341e193ecf3720c34daadbd94a9523c1477145d1c9be39513f1ef90736a7ca65222733a05059a76ba03b5065b052bdd089daf0679b7e8404797cfc0cec90decaa9cb9c5b0e741ad76d0c08f4145597742cdfe81bb0ca9dba356ef2c433e5b50851d6d40bc7d282a6f4b7e84ebeb43cb846da93722376ad1e9553661ecb4d46be9f34bfa6698f830bc83c35fc3afae1b519c76c46b75cf85843ea8bfc8af3b7eb430da92c79e8007bc93fae7f5568cb0723aab9158030e3543498da351e756bad0a5e4228e3597ae6214c955b486eabfda6719b2df1a737b3e5c197b5d613f4c96ee95324e2ab7fc35f007b7bb0ce7121d731842dd890f11d4b8264ccc642e31e586c299a8cc0c08853fa520873071d53d6419e8c23ce594a1b3adf5097a3499e0e51dc1e4e2e6e1d9d02f72076d4aeae7564772de29e8cc4aa19a1472eb869cf69809b370f13eaf8ba624876df59bbc5716f75fb30575485c915036ff4dea/150/1920x1080_5824280/index.m3u8
 #EXTINF:-1,Extrema TV | Costa Rica
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1,Mega Cine Tv | Republica Dominicana
@@ -2997,14 +3005,6 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 #EXTINF:-1,Video Club | Argentina
 https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
-#EXTINF:-1,NORAD Santa Tracker Live 2024 | ND
-https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=8WwNMGHBfZs
-#EXTINF:-1,Romance Channel | ND
-https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=8vXYlGSGD0E
-#EXTINF:-1,Suspenso Channel | ND
-https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=tPKisk_nXLw
-#EXTINF:-1,V Accion Maxima | ND
-https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=pGRmyHgMxSs
 #EXTINF:-1,MLB Channel | PlutoTV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97d882-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f1832274-98b7-4765-ad8b-c533c4382008&userId=&serverSideAds=true
 #EXTINF:-1,RED BULL TV | Austria
@@ -3045,6 +3045,8 @@ https://server40.servistreaming.com:3477/stream/play.m3u8
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1,Ritmo Top Latino | ND
 https://panel.tvstream.cl:1936/8048/8048/playlist.m3u8
+#EXTINF:-1,The Retro Channel | Puerto Rico
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 #EXTINF:-1,Top New Radio | ND
 https://panel.tvstream.cl:1936/8052/8052/playlist.m3u8
 #EXTINF:-1,Tropical Cumbia TV | ND
@@ -3079,6 +3081,8 @@ https://centova.hostingelectrica.net/proxy/grupera12?mp=/stream
 http://tropical100.net:8012/;
 #EXTINF:-1,Radio Merengue Tropicalisima
 http://23.237.150.178:8004/;?icy=http
+#EXTINF:-1,Radio La Pura Ley 92.1 Apatzingan
+https://s4.voscast.com:8765/apatzingan.mp3
 #EXTINF:-1,Radio 40 Principales 92.3 Morelia
 http://s4.mexside.net:7040/;
 #EXTINF:-1,Radio La Grupera 93.1 Morelia
@@ -3091,14 +3095,12 @@ https://srstreaming.com/proxy/guadalu1?mp=/stream&1609133961240
 http://s4.mexside.net:2094/;stream.nsv
 #EXTINF:-1,Radio Maxima 100.9 Morelia
 http://omegaingenieria.com:8034/stream/1/
+#EXTINF:-1,Radio Ranchito 102.5 Morelia
+http://server.laradio.online:8157/live.mp3
 #EXTINF:-1,Radio Nicolaíta 104.3 Morelia
 http://148.216.0.21:8000/rnic.m3u
 #EXTINF:-1,Radio Comunitaria Jenpoj 107.9 Oaxaca
 http://espora.org:8000/jenpojradio
-#EXTINF:-1,Radio la Voz de los Purepechas 830 Cheran
-https://radios.inpi.gob.mx:8080/xepur
-#EXTINF:-1,Radio La Voz de la Sierra Oriente 1010 Tuxpan
-https://radios.inpi.gob.mx:8080/xetumi
 #EXTINF:-1,Radio Acustik 1150 Morelia
 http://server2.sit-mexico.com:8050/stream/1/
 #EXTINF:-1,Radio La Z 1340 Morelia
@@ -3107,8 +3109,6 @@ http://srmx.ddns.net:8100/;
 http://s10.voscast.com:7688/;stream1575414865714/1
 #EXTINF:-1,Radio Exclusively Alanis Morissette
 https://2.mystreaming.net/er/alanismorissette/icecast.audio
-#EXTINF:-1,Radio LT15 La Radio del Litoral
-https://lt15concordia.radioca.st/stream
 #EXTINF:-1,Radio FM Vida Concordia
 https://streaming450tb.locucionar.com/proxy/fmvida979?mp=/stream
 #EXTINF:-1,Radio Conexion Tropical 96 9
@@ -3117,6 +3117,8 @@ https://radios.solumedia.com:6088/stream
 https://listen.openstream.co/6502/audio
 #EXTINF:-1,Animax Radio
 http://node-13.zeno.fm:80/0guzsnntsnhvv
+#EXTINF:-1,Radio Michy Miau FM
+http://node-34.zeno.fm/s5494s8pta0uv?rj-ttl=5&rj-tok=AAABeMmnxIcAFJ64ThNbIiZ4sA
 #EXTINF:-1,Radio Colombia Bachata
 http://perseus.shoutca.st:8312/;stream/1
 #EXTINF:-1,Radio Colombia Crossover
@@ -3133,6 +3135,14 @@ http://node-09.zeno.fm:80/agdhpd11808uv
 http://185.33.21.112/circuitpride_128?icy=http
 #EXTINF:-1,Radio Pop
 http://node-15.zeno.fm/94abs07w82quv?rj-ttl=5&rj-tok=AAABdqgGbDsANLkFqNQ2h-p5IA
+#EXTINF:-1,NORAD Santa Tracker Live 2024 | ND
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=8WwNMGHBfZs
+#EXTINF:-1,Romance Channel | ND
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=8vXYlGSGD0E
+#EXTINF:-1,Suspenso Channel | ND
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=tPKisk_nXLw
+#EXTINF:-1,V Accion Maxima | ND
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=pGRmyHgMxSs
 #EXTINF:-1,Canal Motor (720p)
 http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 #EXTINF:-1,Hard Knocks (1080p)
@@ -3303,13 +3313,13 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
 #EXTINF:-1,Cine ¡¡jaja!!
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f513564e4622a0007c578c0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5cedbdba-6871-4161-a12d-d20faa66e6b8
-#EXTINF:-1,Cine adrenalina
+#EXTINF:-1,Cine Adrenalina
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4d042878-a4ee-480d-8f14-ebbfb96388e9
 #EXTINF:-1,Cine Clásico
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b9671cdac71b0008f371df/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=28fb2aae-fcc1-4b39-a190-1ac70222ae41
 #EXTINF:-1,Cine Premiere
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e000-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a7f04239-fee6-40d2-9e5e-6893a6d330ec
-#EXTINF:-1,Cine terror
+#EXTINF:-1,Cine Terror
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e001-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c0a34186-d9cb-4907-882c-bf61e4d59e0f
 #EXTINF:-1,Cine XOXO
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e002-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=308fd9dd-2f8a-441f-b59d-e02f4b0aacd7
@@ -3331,13 +3341,13 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dcc42446750e200093b15e2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280713-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=18f21bf8-bf5a-4fbe-983b-63de276bd585
 #EXTINF:-1,Cold Case Files by A&E
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c37d6712de254456f7ec340/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280715-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fd8b3bcc-fbd9-4795-b86b-dfb2b2c8addd
-#EXTINF:-1,Comedy Central en español
+#EXTINF:-1,Comedy Central en Español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280717-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=970b3112-4df5-46fc-83e4-cefce01e5024
 #EXTINF:-1,Comedy Central Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e20-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c8883a8b-3441-4f7d-a15e-3a8365fbcaef
 #EXTINF:-1,Confess by Nosey
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/634ee8f95aa9870007248333/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e21-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=208899ab-374b-4527-88b2-3b59abb6d4d4
-#EXTINF:-1,COPS
+#EXTINF:-1,Cops
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e1f7e089f23700009d66303/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e22-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=61a222b5-87a2-410f-a84b-7319bf133c3a
 #EXTINF:-1,Corazón turco
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61b3e21d56fee300087e4cba/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e23-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d5f062d9-fdb9-46bc-9aff-35744350dcd4
@@ -3345,7 +3355,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dae0b4841a7d0000938ddbd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e24-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dbd92d33-fc8d-4cda-9f79-5f63b98b071a
 #EXTINF:-1,Crime 360 by A&E
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6000a5a9e767980007b497ca/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e25-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1cf4fab4-d242-4d08-9427-74ba9cdd33c5
-#EXTINF:-1,Crímenes imperfectos
+#EXTINF:-1,Crímenes Imperfectos
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e94cd036cc69d0007e8a1ba/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e26-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5d8759e1-73d6-4b32-b216-07bf992c281a
 #EXTINF:-1,Criminal Minds
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65653817c917a5000844bc30/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e27-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ce2ba28f-f69b-43d4-8fe5-c0f83c15cc1b
@@ -3417,7 +3427,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f171-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1acb41ce-ae24-4bbc-bf7d-831de72589e8
 #EXTINF:-1,Formula 1 Channel
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69ee3d77d450008c80438/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f172-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=922e06a8-1ba6-4236-9931-06d471735996
-#EXTINF:-1,FOX Sports
+#EXTINF:-1,Fox Sports
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f173-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46a3b8ff-5a4a-4952-bb4d-9461224acd54
 #EXTINF:-1,Funny AF
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/580e87ff497c73ba2f321dd3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f174-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bbaba395-2ecd-414c-971c-2d705e4b67d5
@@ -3427,7 +3437,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60faf9ddfcc1f200070a5932/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f176-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=68c3c9ce-0e68-43fa-ade2-43491d9d88e2
 #EXTINF:-1,Ghost Hunters
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64e561a4354251000823a0e0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f177-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=15d446c5-1e1e-4ecb-8d96-6d0b45104d20
-#EXTINF:-1,GLORY Kickboxing
+#EXTINF:-1,Glory Kickboxing
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f178-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=df3ca9c7-d700-4719-be3f-74dd169206f8
 #EXTINF:-1,Golazo Network
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291880-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=38bc0031-c914-4d68-b55f-12d8ef870e44
@@ -3537,7 +3547,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/545943f1c9f133a519bbac92/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=08f3602c-a3d5-4a4d-91f2-ec37a24d31a5
 #EXTINF:-1,MTV Biggest Pop
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=db3aa987-9f35-4664-b523-5fe34623b36c
-#EXTINF:-1,MTV en español
+#EXTINF:-1,MTV en Español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dcbebf0b-626f-449a-85cf-4ce663af39d1
 #EXTINF:-1,MTV Flow Latino
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=85a85ad1-7bde-49e4-8ce9-39bcfed2588f
@@ -3545,9 +3555,9 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=21f0e654-cec9-4722-a81b-dd17d02581d3
 #EXTINF:-1,MTV Spankin' New
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f1066e5a-9a82-4a1b-a025-868c083394e4
-#EXTINF:-1,Mundo geek
+#EXTINF:-1,Mundo Geek
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6051201a0aa8a70007c24a2a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7fc7013e-e998-4f7a-8d41-f74aa6395d00
-#EXTINF:-1,Mundo viajero
+#EXTINF:-1,Mundo Viajero
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60511efd71ec430007f50d97/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e048dd46-54cc-485e-b0d7-5ee578a0a861
 #EXTINF:-1,Murder She Wrote
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549337183595c000815ad05/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8b79f9ba-6021-48dd-b1ca-e60b7396018c
@@ -3569,7 +3579,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5105-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6477ef85-3680-442c-94d8-27197903b1f6
 #EXTINF:-1,Nick Jr. Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5106-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d95e31ff-c65d-438c-9466-ddbbd097b4cf
-#EXTINF:-1,Nickelodeon en español
+#EXTINF:-1,Nickelodeon en Español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5107-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=919bc5fd-6cce-44a6-bb39-2894dea1c988
 #EXTINF:-1,Nickelodeon Pluto TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5108-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5730720c-9e54-41d9-b73d-eab8fdac7291
@@ -3577,7 +3587,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5db0ae5af8797b00095c0794/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7810-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2c5ce324-21ad-48f6-827f-afd8d0d9db57
 #EXTINF:-1,Nosey
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5aec96ec5126c2157123c657/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7811-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2d5c8217-17ed-4a16-b6a1-d7b5322df523
-#EXTINF:-1,Nosey escándalos
+#EXTINF:-1,Nosey Escándalos
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492ee6375a3900079a158c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7813-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0a5ee5c0-cf2f-4c9d-994a-521b3191de6e
 #EXTINF:-1,Novelas con la abuela
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7814-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=00d6c705-94dd-4af1-8f07-d8b02bcc1884
@@ -3605,7 +3615,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6197086891ddd4000739941a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f26-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ca24aed8-2923-4a88-ade9-1f918964f008
 #EXTINF:-1,PFL MMA
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6334a574605f140007e233c4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f27-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9e7c1ca7-ed35-4230-ab56-f8dbc86b0af4
-#EXTINF:-1,PGA TOUR
+#EXTINF:-1,PGA Tour
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac630-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6c2b7359-0375-4f34-996b-4fb9429ead78
 #EXTINF:-1,Pickers & Pawn
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6565413e4261ca0008215320/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac631-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ab3b0a55-2d2d-4eda-95cc-4b7b673c5cb4
@@ -3683,7 +3693,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dae0a40e8ee0d000975e99b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6273-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=298d60df-b4bb-48e1-8d15-ae444466d9d9
 #EXTINF:-1,PokerGo
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fc54366b04b2300072e31af/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6274-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a68d07ef-a794-43f8-a287-3bd7f27d909b
-#EXTINF:-1,POWERNATION
+#EXTINF:-1,PowerNation TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63b48016d9dd51000828fa37/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6275-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=534f5abf-183b-4b07-88d8-ba60af3de510
 #EXTINF:-1,QVC
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5bdcdf1e851dd5632e2c11d1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6276-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f8b01914-939e-4170-9b97-5fc12ccb960d
@@ -3753,7 +3763,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6127e12ed140e900077e7b6f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=773b4ab9-534b-435a-904e-6819ef8dfb5e
 #EXTINF:-1,Telemundo Noticias Noreste
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65791199dfed030008d031d3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8b9d8440-9f8c-48af-b204-866c8629d07f
-#EXTINF:-1,Telemundo telenovelas clásicas
+#EXTINF:-1,Telemundo Telenovelas Clásicas
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=11274d9c-4f3d-4891-ae2e-08937bcc8bb5
 #EXTINF:-1,The Addams Family
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d81607ab737153ea3c1c80e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9decccae-21fa-404d-9d81-56fffb2cc206
@@ -3787,11 +3797,11 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f7791b8372da90007fd45e6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c4cd1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b11caad2-6afe-44b5-8ca3-9e98672f6a0f
 #EXTINF:-1,The Rifleman
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e825550e758c700077b0aef/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c4cd2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a0e1d4cf-0753-4230-a880-33a0b95d08bf
-#EXTINF:-1,The Walking Dead en español
+#EXTINF:-1,The Walking Dead en Español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c4cd3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=223ef689-92ba-46c9-9fc3-aa575c675e5c
 #EXTINF:-1,The Walking Dead Universe
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fa8176b9884200074ef5ae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c4cd4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ff963292-6aa2-4806-857d-39ad6f5f0e4a
-#EXTINF:-1,The Weather Channel En Español
+#EXTINF:-1,The Weather Channel en Español
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/627ae4fcf001df00074d6e5b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c4cd5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=df13c2c6-8880-4f3d-b7b6-a18acfcb3069
 #EXTINF:-1,This Old House
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d51e791b7dba3b2ae990ab2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c4cd7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9483c3b5-d057-42f4-8da0-57c5bf2344ab
@@ -3813,7 +3823,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dae084727c8af0009fe40a4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4c99b6b0-1ffa-4d78-9eeb-4c68d2978b86
 #EXTINF:-1,Totally Teen
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6450209d939a5900084dba1d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3011d79f-9b94-4386-8a0a-53a1bea6724e
-#EXTINF:-1,TOTALLY TURTLES
+#EXTINF:-1,Totally Turtles
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3441abd1-12dc-4351-b79d-3b4eb58dc339
 #EXTINF:-1,Tough Jobs
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69bf23ef47d0008583967/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c9af0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8d528c1a-18fe-40ef-bdaa-cfc0e490b48f
@@ -3899,58 +3909,1237 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3738-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=31531314-3e7f-4788-8c4f-f153a43ee0a0
 #EXTINF:-1,Zoom! Zoom!
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c77ed3fdde00080eb3a8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3739-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=61bcf170-9a7d-4ad9-8836-366120619cff
-#EXTINF:-1,InWonder (720p)
-https://inwonder-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1,AMC All Weddings
-https://d85lu9l3axp7b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49b4g6287mnav/playlist.m3u8
-#EXTINF:-1,bon appétit (1080p)
-https://bonappetit-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1,Bounce XL (720p)
-https://d37v4ie0vq884e.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ujoygpbfraxho/bounce_xl.m3u8
-#EXTINF:-1,Brat TV (1080p)
-https://brat-samsung-us.amagi.tv/playlist.m3u8
-#EXTINF:-1,Circle (1080p)
-https://circle-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1,Clarity 4K (2160p)
-https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
-#EXTINF:-1,Degrassi The Next Generation (720p)
-https://d365kok94jpr38.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2xcmoue1get1c/playlist.m3u8
-#EXTINF:-1,Estrella News (1080p)
-https://estrellanews-samsung-us.amagi.tv/playlist.m3u8
-#EXTINF:-1,FOX News Now (720p)
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1,Fox Soul (1080p)
-https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1,Insight TV (720p)
-https://insighttv-samsung-us.amagi.tv/playlist.m3u8
+﻿
+#EXTINF:-1,CBS News 24/7
+https://jmp2.uk/sam-USBA370000104.m3u8
+#EXTINF:-1,ABC News Live
+https://jmp2.uk/sam-USBC39000171G.m3u8
+#EXTINF:-1,NBC News NOW
+https://jmp2.uk/sam-USBB2200014DK.m3u8
+#EXTINF:-1,LiveNOW from FOX
+https://jmp2.uk/sam-USBA300024TN.m3u8
+#EXTINF:-1,Scripps News
+https://jmp2.uk/sam-USBD3000073N.m3u8
+#EXTINF:-1,FOX Weather
+https://jmp2.uk/sam-USBD700003L7.m3u8
+#EXTINF:-1,WeatherNation
+https://jmp2.uk/sam-USBC1500009LD.m3u8
+#EXTINF:-1,BBC News
+https://jmp2.uk/sam-US4000033L.m3u8
+#EXTINF:-1,Sky News
+https://jmp2.uk/sam-USBB52000022Q.m3u8
+#EXTINF:-1,CBC News
+https://jmp2.uk/sam-USBC4400003OU.m3u8
+#EXTINF:-1,Bloomberg TV+
+https://jmp2.uk/sam-USAJ3400011A8.m3u8
+#EXTINF:-1,Bloomberg Originals
+https://jmp2.uk/sam-USAJ30000041W.m3u8
+#EXTINF:-1,Yahoo Finance
+https://jmp2.uk/sam-USAJ4300005PJ.m3u8
+#EXTINF:-1,Real America's Voice
+https://jmp2.uk/sam-USBB1900002KF.m3u8
+#EXTINF:-1,Salem News Channel
+https://jmp2.uk/sam-US3700004Y0.m3u8
+#EXTINF:-1,The First
+https://jmp2.uk/sam-US1000016Q.m3u8
+#EXTINF:-1,TYT Network
+https://jmp2.uk/sam-USBA30002142.m3u8
+#EXTINF:-1,The Hill
+https://jmp2.uk/sam-US3300008FX.m3u8
+#EXTINF:-1,Movie Hub
+https://jmp2.uk/sam-USBA3000041ZP.m3u8
+#EXTINF:-1,Movie Hub West
+https://jmp2.uk/sam-USBD3500036HP.m3u8
+#EXTINF:-1,Movie Hub Action
+https://jmp2.uk/sam-USBD3500032H0.m3u8
+#EXTINF:-1,Movie Hub Romance
+https://jmp2.uk/sam-USBD3500033U0.m3u8
+#EXTINF:-1,Hallmark Movies & More
+https://jmp2.uk/sam-USBD270001633.m3u8
+#EXTINF:-1,Movie Favorites By Lifetime
+https://jmp2.uk/sam-USBB5200019FO.m3u8
+#EXTINF:-1,MovieSphere
+https://jmp2.uk/sam-USBD17000117B.m3u8
+#EXTINF:-1,Miramax Channel
+https://jmp2.uk/sam-US18000163F.m3u8
+#EXTINF:-1,CINEVAULT
+https://jmp2.uk/sam-USAJ30000148W.m3u8
+#EXTINF:-1,CINEVAULT: Classics
+https://jmp2.uk/sam-USBB3200015M8.m3u8
+#EXTINF:-1,Universal Movies
+https://jmp2.uk/sam-USBB3200030CG.m3u8
+#EXTINF:-1,Gravitas Movies
+https://jmp2.uk/sam-USBD700011RE.m3u8
+#EXTINF:-1,MyTime Movie Network
+https://jmp2.uk/sam-USBC3900018K6.m3u8
+#EXTINF:-1,NEW KMOVIES
+https://jmp2.uk/sam-USAJ30000122O.m3u8
+#EXTINF:-1,Maverick Black Cinema
+https://jmp2.uk/sam-USAJ3000007MT.m3u8
+#EXTINF:-1,CINEVAULT: Westerns
+https://jmp2.uk/sam-USAK3508709A.m3u8
+#EXTINF:-1,Grjngo
+https://jmp2.uk/sam-US44000027B.m3u8
+#EXTINF:-1,FilmRise Westerns
+https://jmp2.uk/sam-USBB32000196O.m3u8
+#EXTINF:-1,Grit Xtra
+https://jmp2.uk/sam-USBC24000213P.m3u8
+#EXTINF:-1,Death Valley Days
+https://jmp2.uk/sam-US2900007HA.m3u8
+#EXTINF:-1,Wild West TV
+https://jmp2.uk/sam-US4500003B0.m3u8
+#EXTINF:-1,Western Bound
+https://jmp2.uk/sam-USBC3200020QF.m3u8
+#EXTINF:-1,Circle
+https://jmp2.uk/sam-USBA300035FV.m3u8
+#EXTINF:-1,Lassie
+https://jmp2.uk/sam-US1800010NE.m3u8
+#EXTINF:-1,Little House on the Prairie
+https://jmp2.uk/sam-US18000078A.m3u8
+#EXTINF:-1,get TV
+https://jmp2.uk/sam-USBD1200002PM.m3u8
+#EXTINF:-1,Shout! TV
+https://jmp2.uk/sam-USBD1200021JM.m3u8
+#EXTINF:-1,ALL ACTION
+https://jmp2.uk/sam-USBB2300001QP.m3u8
 #EXTINF:-1,ION
-https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8
+https://jmp2.uk/sam-USBD300002TU.m3u8
 #EXTINF:-1,ION Plus
-https://d2olmevnzmviuu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-drh5os33njrnt/ion_plus.m3u8
-#EXTINF:-1,Loupe 4K
-https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8
+https://jmp2.uk/sam-USBD300003LK.m3u8
+#EXTINF:-1,Stories by AMC
+https://jmp2.uk/sam-USBD2500018X6.m3u8
+#EXTINF:-1,ElectricNOW
+https://jmp2.uk/sam-USBC6000225M.m3u8
+#EXTINF:-1,BBC Drama
+https://jmp2.uk/sam-US3700005GP.m3u8
+#EXTINF:-1,Bounce XL
+https://jmp2.uk/sam-USBD300008G1.m3u8
+#EXTINF:-1,ALLBLK Gems
+https://jmp2.uk/sam-USBD300022FH.m3u8
+#EXTINF:-1,EBONY TV by Lionsgate
+https://jmp2.uk/sam-USBD2500012DH.m3u8
+#EXTINF:-1,Shades of Black
+https://jmp2.uk/sam-USBC1000004G8.m3u8
+#EXTINF:-1,Dawson's Creek
+https://jmp2.uk/sam-US4100005NW.m3u8
+#EXTINF:-1,Heartland
+https://jmp2.uk/sam-USBB2900003O3.m3u8
+#EXTINF:-1,Baywatch
+https://jmp2.uk/sam-USBA2000001BR.m3u8
+#EXTINF:-1,21 Jump Street
+https://jmp2.uk/sam-USBB320000397.m3u8
+#EXTINF:-1,Highway to Heaven
+https://jmp2.uk/sam-USBB19000017U.m3u8
+#EXTINF:-1,K-Stories by CJ ENM
+https://jmp2.uk/sam-USBB2900001P9.m3u8
+#EXTINF:-1,MHz Now
+https://jmp2.uk/sam-USAJ22000130U.m3u8
+#EXTINF:-1,Family Hour TV
+https://jmp2.uk/sam-US4100024YU.m3u8
+#EXTINF:-1,Dove Channel
+https://jmp2.uk/sam-USBD700016JY.m3u8
+#EXTINF:-1,BYUtv
+https://jmp2.uk/sam-US410000230.m3u8
+#EXTINF:-1,Degrassi
+https://jmp2.uk/sam-USBD700010XU.m3u8
+#EXTINF:-1,Brat TV
+https://jmp2.uk/sam-USBC240001823.m3u8
+#EXTINF:-1,D&D Adventures
+https://jmp2.uk/sam-US3400005I4.m3u8
+#EXTINF:-1,Crime Zone
+https://jmp2.uk/sam-USBB36000040M.m3u8
+#EXTINF:-1,ION Mystery
+https://jmp2.uk/sam-USBC24000223S.m3u8
+#EXTINF:-1,BritBox Mysteries
+https://jmp2.uk/sam-US3700007E4.m3u8
+#EXTINF:-1,She Wrote
+https://jmp2.uk/sam-US1800001D1.m3u8
+#EXTINF:-1,Midsomer Murders
+https://jmp2.uk/sam-USBC24000134A.m3u8
+#EXTINF:-1,Crime 24/7
+https://jmp2.uk/sam-USAK3508703A.m3u8
+#EXTINF:-1,I Survived…
+https://jmp2.uk/sam-USBD1700008H9.m3u8
+#EXTINF:-1,Dr. G: Medical Examiner
+https://jmp2.uk/sam-USBB3200004X3.m3u8
+#EXTINF:-1,World’s Most Evil Killers
+https://jmp2.uk/sam-USBC1000002NP.m3u8
+#EXTINF:-1,60 Days In by A&E
+https://jmp2.uk/sam-USBD42000073E.m3u8
+#EXTINF:-1,The First 48
+https://jmp2.uk/sam-US3300011V9.m3u8
+#EXTINF:-1,Witness to Justice
+https://jmp2.uk/sam-US700010XK.m3u8
+#EXTINF:-1,Dateline 24/7
+https://jmp2.uk/sam-USBB5200007BY.m3u8
+#EXTINF:-1,REELZ Famous & Infamous
+https://jmp2.uk/sam-USBB3200001MG.m3u8
+#EXTINF:-1,American Crimes
+https://jmp2.uk/sam-USBD42000250Q.m3u8
+#EXTINF:-1,Oxygen True Crimes Archive
+https://jmp2.uk/sam-US1900005VB.m3u8
+#EXTINF:-1,Crime ThrillHer
+https://jmp2.uk/sam-USBB52000236D.m3u8
+#EXTINF:-1,Crimes Cults Killers
+https://jmp2.uk/sam-USBB5200022PY.m3u8
+#EXTINF:-1,Forensic Files
+https://jmp2.uk/sam-USBB3200017MY.m3u8
+#EXTINF:-1,Cold Case Files
+https://jmp2.uk/sam-USBC390002256.m3u8
+#EXTINF:-1,Unsolved Mysteries
+https://jmp2.uk/sam-USBB3200018Q6.m3u8
+#EXTINF:-1,TruBlu
+https://jmp2.uk/sam-US37000036P.m3u8
+#EXTINF:-1,Duck Dynasty
+https://jmp2.uk/sam-USBC4400002GF.m3u8
+#EXTINF:-1,All-Out Reality
+https://jmp2.uk/sam-USBB4400016F9.m3u8
+#EXTINF:-1,Kitchen Nightmares
+https://jmp2.uk/sam-USBA3000042O6.m3u8
+#EXTINF:-1,Bondi Rescue
+https://jmp2.uk/sam-US2900010UT.m3u8
+#EXTINF:-1,Little Women: LA
+https://jmp2.uk/sam-USBD170000771.m3u8
+#EXTINF:-1,Dance Moms
+https://jmp2.uk/sam-USBC3900021HS.m3u8
+#EXTINF:-1,E! Keeping Up
+https://jmp2.uk/sam-US18000133I.m3u8
+#EXTINF:-1,Real Housewives Vault
+https://jmp2.uk/sam-US18000059V.m3u8
+#EXTINF:-1,Bravo Vault
+https://jmp2.uk/sam-US1800003BG.m3u8
+#EXTINF:-1,Matched Married Meet
+https://jmp2.uk/sam-USBC440000193.m3u8
+#EXTINF:-1,Perform
+https://jmp2.uk/sam-USBB520002604.m3u8
+#EXTINF:-1,Bad Girls Club
+https://jmp2.uk/sam-US1800008PZ.m3u8
+#EXTINF:-1,All Reality We TV
+https://jmp2.uk/sam-USBD12000061R.m3u8
+#EXTINF:-1,All Weddings We TV
+https://jmp2.uk/sam-USBD1200005XR.m3u8
+#EXTINF:-1,Bring It!
+https://jmp2.uk/sam-USBD17000040J.m3u8
+#EXTINF:-1,Cheaters
+https://jmp2.uk/sam-USBD3500031F3.m3u8
+#EXTINF:-1,Operation Repo
+https://jmp2.uk/sam-USBC6000219D.m3u8
+#EXTINF:-1,Dog the Bounty Hunter
+https://jmp2.uk/sam-US900002IH.m3u8
+#EXTINF:-1,Intervention by A&E
+https://jmp2.uk/sam-USBD3500040WX.m3u8
+#EXTINF:-1,Hoarders by A&E
+https://jmp2.uk/sam-USBD4200009Y4.m3u8
+#EXTINF:-1,Swamp People
+https://jmp2.uk/sam-USBD2700013UK.m3u8
+#EXTINF:-1,Mountain Men
+https://jmp2.uk/sam-USBD17000051M.m3u8
+#EXTINF:-1,INFAST
+https://jmp2.uk/sam-USBA300022JX.m3u8
+#EXTINF:-1,DangerTV
+https://jmp2.uk/sam-USAJ3504708A.m3u8
+#EXTINF:-1,Caught on Tape
+https://jmp2.uk/sam-US700007CV.m3u8
+#EXTINF:-1,Road Renegades
+https://jmp2.uk/sam-US700002ZB.m3u8
+#EXTINF:-1,Home Refresh
+https://jmp2.uk/sam-USBC21000142T.m3u8
+#EXTINF:-1,Million Dollar Dream Home
+https://jmp2.uk/sam-US300067FX.m3u8
+#EXTINF:-1,Home.Made.Nation
+https://jmp2.uk/sam-USAJ3000006X5.m3u8
+#EXTINF:-1,Tiny House Nation
+https://jmp2.uk/sam-USAJ3400020KC.m3u8
+#EXTINF:-1,This Old House
+https://jmp2.uk/sam-USBC13000065U.m3u8
+#EXTINF:-1,This Old House Makers
+https://jmp2.uk/sam-USBC1300005T6.m3u8
+#EXTINF:-1,Flipping Nation by A&E
+https://jmp2.uk/sam-USBD4200008RS.m3u8
+#EXTINF:-1,Homeful
+https://jmp2.uk/sam-USBD700022M5.m3u8
+#EXTINF:-1,At Home with Family Handyman
+https://jmp2.uk/sam-USBD25000138Y.m3u8
+#EXTINF:-1,Tastemade Home
+https://jmp2.uk/sam-USBC3200022W6.m3u8
+#EXTINF:-1,NBC LX Home
+https://jmp2.uk/sam-USBB40000028E.m3u8
+#EXTINF:-1,Million Dollar Listing Vault
+https://jmp2.uk/sam-USBB3200024V5.m3u8
+#EXTINF:-1,The Design Network
+https://jmp2.uk/sam-USBD1200022S1.m3u8
+#EXTINF:-1,PBS Antiques Roadshow
+https://jmp2.uk/sam-USBD4200017GS.m3u8
+#EXTINF:-1,Antiques Roadshow
+https://jmp2.uk/sam-USBC600018CF.m3u8
+#EXTINF:-1,BBC Home & Garden
+https://jmp2.uk/sam-USBC600017FG.m3u8
+#EXTINF:-1,BBC Food
+https://jmp2.uk/sam-USBC6000108Z.m3u8
+#EXTINF:-1,Plated
+https://jmp2.uk/sam-USBC1300008AZ.m3u8
+#EXTINF:-1,America's Test Kitchen
+https://jmp2.uk/sam-USBA3800002KI.m3u8
+#EXTINF:-1,Bon Appétit
+https://jmp2.uk/sam-USBC44000226R.m3u8
+#EXTINF:-1,Gusto TV
+https://jmp2.uk/sam-USAK3508724A.m3u8
+#EXTINF:-1,Jamie Oliver
+https://jmp2.uk/sam-USBC4400016CL.m3u8
+#EXTINF:-1,Tastemade
+https://jmp2.uk/sam-USBD7000189R.m3u8
+#EXTINF:-1,Tastemade Travel
+https://jmp2.uk/sam-USBD700017WC.m3u8
+#EXTINF:-1,Journy
+https://jmp2.uk/sam-USBB1000003HL.m3u8
+#EXTINF:-1,Localish
+https://jmp2.uk/sam-USBC4400005HY.m3u8
+#EXTINF:-1,Combate Global MMA
+https://jmp2.uk/sam-US4600006R8.m3u8
+#EXTINF:-1,MLB Channel
+https://jmp2.uk/sam-US1400001WV.m3u8
+#EXTINF:-1,NESN Nation
+https://jmp2.uk/sam-US300062TG.m3u8
+#EXTINF:-1,Samsung Showcase
+https://jmp2.uk/sam-US4700001B4.m3u8
+#EXTINF:-1,CBS Sports HQ
+https://jmp2.uk/sam-USBB4800005VO.m3u8
+#EXTINF:-1,FOX Sports
+https://jmp2.uk/sam-US2700001QY.m3u8
+#EXTINF:-1,NBC Sports NOW
+https://jmp2.uk/sam-USBD420002446.m3u8
+#EXTINF:-1,FanDuel TV Extra
+https://jmp2.uk/sam-US1400012RF.m3u8
+#EXTINF:-1,The Jim Rome Show
+https://jmp2.uk/sam-US2900014UU.m3u8
+#EXTINF:-1,UFC
+https://jmp2.uk/sam-US2900017P2.m3u8
+#EXTINF:-1,One Championship TV
+https://jmp2.uk/sam-US2600006VY.m3u8
+#EXTINF:-1,PFL
+https://jmp2.uk/sam-US350000231.m3u8
+#EXTINF:-1,DraftKings Network
+https://jmp2.uk/sam-USBD700013BW.m3u8
+#EXTINF:-1,SportsGrid
+https://jmp2.uk/sam-USBA300031OT.m3u8
+#EXTINF:-1,FIFA+
+https://jmp2.uk/sam-USBD12000255B.m3u8
+#EXTINF:-1,beIN SPORTS XTRA
+https://jmp2.uk/sam-USAJ4300001Q7.m3u8
+#EXTINF:-1,fubo Sports Network
+https://jmp2.uk/sam-USAJ2200023Z0.m3u8
+#EXTINF:-1,Unbeaten Sports Channel
+https://jmp2.uk/sam-US1400008DW.m3u8
+#EXTINF:-1,Big 12 Studios
+https://jmp2.uk/sam-US37000017A.m3u8
+#EXTINF:-1,Pac-12 Insider
+https://jmp2.uk/sam-USBA300034DB.m3u8
+#EXTINF:-1,ACC Digital Network
+https://jmp2.uk/sam-USBD25000161U.m3u8
+#EXTINF:-1,Origin Sports
+https://jmp2.uk/sam-USBD1200010I8.m3u8
+#EXTINF:-1,TNA Wrestling
+https://jmp2.uk/sam-USBB1000001XP.m3u8
+#EXTINF:-1,MSG SportsZone
+https://jmp2.uk/sam-USBD300021B8.m3u8
+#EXTINF:-1,Women's Sports Network
+https://jmp2.uk/sam-US4100001KP.m3u8
+#EXTINF:-1,PGA Tour
+https://jmp2.uk/sam-US400001M2.m3u8
+#EXTINF:-1,DP World Tour
+https://jmp2.uk/sam-US4600010KE.m3u8
+#EXTINF:-1,GOLFPASS
+https://jmp2.uk/sam-USBB400000145.m3u8
+#EXTINF:-1,T2
+https://jmp2.uk/sam-USBC600001QL.m3u8
+#EXTINF:-1,PickleballTV
+https://jmp2.uk/sam-USBD4200016QR.m3u8
+#EXTINF:-1,Billiard TV
+https://jmp2.uk/sam-USBD12000183X.m3u8
+#EXTINF:-1,World Poker Tour
+https://jmp2.uk/sam-USBD1700009P5.m3u8
+#EXTINF:-1,SURF NOW TV
+https://jmp2.uk/sam-USBB10000058A.m3u8
+#EXTINF:-1,Game & Fish TV
+https://jmp2.uk/sam-US4400001PL.m3u8
+#EXTINF:-1,Outside TV
+https://jmp2.uk/sam-USAJ3504707A.m3u8
+#EXTINF:-1,Waypoint TV
+https://jmp2.uk/sam-USBB440002055.m3u8
+#EXTINF:-1,Pursuit UP
+https://jmp2.uk/sam-USBD17000025J.m3u8
+#EXTINF:-1,Outdoor America
+https://jmp2.uk/sam-USBD1200020Y4.m3u8
+#EXTINF:-1,CG MMA En Español
+https://jmp2.uk/sam-US4600005ST.m3u8
+#EXTINF:-1,Formula 1 Channel
+https://jmp2.uk/sam-US600011Q2.m3u8
+#EXTINF:-1,Top Gear
+https://jmp2.uk/sam-USBC2400027NG.m3u8
+#EXTINF:-1,Torque
+https://jmp2.uk/sam-USBB5200027Z5.m3u8
+#EXTINF:-1,MotorTrend FAST TV
+https://jmp2.uk/sam-USBC3600005U9.m3u8
+#EXTINF:-1,MAVTV Select
+https://jmp2.uk/sam-USBD1700019RN.m3u8
+#EXTINF:-1,POWERNATION
+https://jmp2.uk/sam-USBD2500017XQ.m3u8
+#EXTINF:-1,NHRA TV
+https://jmp2.uk/sam-USBC3200019WF.m3u8
+#EXTINF:-1,Hagerty
+https://jmp2.uk/sam-USBD4200011W4.m3u8
+#EXTINF:-1,Animation+
+https://jmp2.uk/sam-US400002PS.m3u8
+#EXTINF:-1,Letterman TV
+https://jmp2.uk/sam-US4000004N1.m3u8
+#EXTINF:-1,Hot Ones
+https://jmp2.uk/sam-US2900006IV.m3u8
+#EXTINF:-1,Mythical 24/7
+https://jmp2.uk/sam-US2900008FP.m3u8
+#EXTINF:-1,MrBeast
+https://jmp2.uk/sam-US310000101.m3u8
+#EXTINF:-1,SNL Vault
+https://jmp2.uk/sam-US1800012MT.m3u8
+#EXTINF:-1,LOL! Network
+https://jmp2.uk/sam-USBC1300009VM.m3u8
+#EXTINF:-1,National Lampoon
+https://jmp2.uk/sam-US1800015K5.m3u8
+#EXTINF:-1,GET Comedy
+https://jmp2.uk/sam-US350000563.m3u8
+#EXTINF:-1,Laff More
+https://jmp2.uk/sam-US3700002P0.m3u8
+#EXTINF:-1,BBC Comedy
+https://jmp2.uk/sam-US4500009VV.m3u8
+#EXTINF:-1,Portlandia
+https://jmp2.uk/sam-USBD12000038K.m3u8
+#EXTINF:-1,Who's The Boss?
+https://jmp2.uk/sam-US4100003MA.m3u8
+#EXTINF:-1,ALF
+https://jmp2.uk/sam-US4100023FK.m3u8
+#EXTINF:-1,Saved by the Bell
+https://jmp2.uk/sam-US18000096O.m3u8
+#EXTINF:-1,Just for Laughs GAGS
+https://jmp2.uk/sam-USBC4400004KK.m3u8
+#EXTINF:-1,FailArmy
+https://jmp2.uk/sam-USAJ3504702A.m3u8
+#EXTINF:-1,Always Funny Videos
+https://jmp2.uk/sam-USBA1600001XM.m3u8
+#EXTINF:-1,Dry Bar Comedy
+https://jmp2.uk/sam-USAJ30000039U.m3u8
+#EXTINF:-1,Comedy Dynamics
+https://jmp2.uk/sam-USBD7000145C.m3u8
+#EXTINF:-1,Mystery Science Theater 3000
+https://jmp2.uk/sam-US4500004SQ.m3u8
+#EXTINF:-1,RiffTrax
+https://jmp2.uk/sam-USAJ3504706A.m3u8
+#EXTINF:-1,Hell's Kitchen
+https://jmp2.uk/sam-USBB2900002Z7.m3u8
+#EXTINF:-1,Top Chef Vault
+https://jmp2.uk/sam-US180001143.m3u8
+#EXTINF:-1,Storage Wars: LA
+https://jmp2.uk/sam-USBD1700006T2.m3u8
+#EXTINF:-1,Pawn Stars
+https://jmp2.uk/sam-US300003S3.m3u8
+#EXTINF:-1,Wipeout Xtra
+https://jmp2.uk/sam-USBB4400018LR.m3u8
+#EXTINF:-1,American Ninja Warrior
+https://jmp2.uk/sam-US19000017A.m3u8
+#EXTINF:-1,Fear Factor
+https://jmp2.uk/sam-USBB2300002Q6.m3u8
+#EXTINF:-1,American Pickers by History
+https://jmp2.uk/sam-USBD3500041ZF.m3u8
+#EXTINF:-1,Forged In Fire
+https://jmp2.uk/sam-USBD2700014QW.m3u8
+#EXTINF:-1,Ice Road Truckers
+https://jmp2.uk/sam-USBB520002173.m3u8
+#EXTINF:-1,Ax Men
+https://jmp2.uk/sam-USBB5200020Z0.m3u8
+#EXTINF:-1,Alone By History
+https://jmp2.uk/sam-USBD27000156I.m3u8
+#EXTINF:-1,Project Runway
+https://jmp2.uk/sam-USBB3500004RC.m3u8
+#EXTINF:-1,Deal Zone
+https://jmp2.uk/sam-USBB52000246M.m3u8
+#EXTINF:-1,Xtreme Outdoor Presented by HISTORY
+https://jmp2.uk/sam-USAK3508706A.m3u8
+#EXTINF:-1,BUZZR
+https://jmp2.uk/sam-USBD700021WG.m3u8
+#EXTINF:-1,Game Show Central
+https://jmp2.uk/sam-USAJ3400012FA.m3u8
+#EXTINF:-1,Supermarket Sweep
+https://jmp2.uk/sam-USBC44000087O.m3u8
+#EXTINF:-1,Deal or No Deal
+https://jmp2.uk/sam-USBB4400017N3.m3u8
+#EXTINF:-1,Biography: The Icons
+https://jmp2.uk/sam-US26000201N.m3u8
+#EXTINF:-1,WWE Superstar Central
+https://jmp2.uk/sam-US700005ID.m3u8
+#EXTINF:-1,The Bob Ross Channel
+https://jmp2.uk/sam-USBD700012OA.m3u8
+#EXTINF:-1,TODAY All Day
+https://jmp2.uk/sam-USBB32000251N.m3u8
+#EXTINF:-1,Dr Phil's MeritTV
+https://jmp2.uk/sam-US70001475.m3u8
+#EXTINF:-1,Divorce Court
+https://jmp2.uk/sam-USBD300006A6.m3u8
+#EXTINF:-1,VICE
+https://jmp2.uk/sam-USBB1900006NY.m3u8
+#EXTINF:-1,Backstage
+https://jmp2.uk/sam-USBC10000129R.m3u8
+#EXTINF:-1,Documentary+
+https://jmp2.uk/sam-USAJ3504701A.m3u8
+#EXTINF:-1,FOX SOUL
+https://jmp2.uk/sam-USBA300032J7.m3u8
+#EXTINF:-1,4UV
+https://jmp2.uk/sam-USBD70000412.m3u8
+#EXTINF:-1,Revry
+https://jmp2.uk/sam-USBA3800003VP.m3u8
+#EXTINF:-1,OUTtv Proud
+https://jmp2.uk/sam-US8000024G.m3u8
+#EXTINF:-1,ET
+https://jmp2.uk/sam-USBA3700002JF.m3u8
+#EXTINF:-1,Hollywire
+https://jmp2.uk/sam-USBC2400015DO.m3u8
+#EXTINF:-1,TMZ
+https://jmp2.uk/sam-USBD70000213.m3u8
+#EXTINF:-1,Fear Zone
+https://jmp2.uk/sam-USBC1300012VK.m3u8
+#EXTINF:-1,Mysteries Xplored
+https://jmp2.uk/sam-USBB5200028MM.m3u8
+#EXTINF:-1,The Walking Dead Universe
+https://jmp2.uk/sam-USBD1200004NS.m3u8
+#EXTINF:-1,Universal Monsters
+https://jmp2.uk/sam-US1900002QK.m3u8
+#EXTINF:-1,Alfred Hitchcock Presents
+https://jmp2.uk/sam-US1800014CG.m3u8
+#EXTINF:-1,OuterSphere
+https://jmp2.uk/sam-USBD1200007FE.m3u8
+#EXTINF:-1,FARSCAPE
+https://jmp2.uk/sam-US4100022W9.m3u8
+#EXTINF:-1,The Curse of Oak Island
+https://jmp2.uk/sam-US300002BE.m3u8
+#EXTINF:-1,Haunt TV
+https://jmp2.uk/sam-USBC4400006BR.m3u8
+#EXTINF:-1,Alien Nation by DUST
+https://jmp2.uk/sam-USBC100000630.m3u8
+#EXTINF:-1,Unidentified
+https://jmp2.uk/sam-USBB10000047W.m3u8
+#EXTINF:-1,The UnXplained with William Shatner
+https://jmp2.uk/sam-US700011JL.m3u8
+#EXTINF:-1,Ancient Aliens
+https://jmp2.uk/sam-US3300010F5.m3u8
+#EXTINF:-1,The Asylum
+https://jmp2.uk/sam-USAJ17000014C.m3u8
+#EXTINF:-1,Horror by ALTER
+https://jmp2.uk/sam-USBC100001175.m3u8
+#EXTINF:-1,Midnight Pulp
+https://jmp2.uk/sam-USBD700015LK.m3u8
+#EXTINF:-1,RetroCrush
+https://jmp2.uk/sam-USBC36000073J.m3u8
+#EXTINF:-1,FilmRise Anime
+https://jmp2.uk/sam-US3500004M7.m3u8
+#EXTINF:-1,Clarity 4K
+https://jmp2.uk/sam-USBA3800005NI.m3u8
+#EXTINF:-1,BBC Earth
+https://jmp2.uk/sam-USBD1700001RW.m3u8
+#EXTINF:-1,Samsung Wild Life
+https://jmp2.uk/sam-USBA3000043LH.m3u8
+#EXTINF:-1,The Jack Hanna Channel
+https://jmp2.uk/sam-USBC2100009GT.m3u8
+#EXTINF:-1,Love Pets
+https://jmp2.uk/sam-US300065DB.m3u8
+#EXTINF:-1,The Pet Collective
+https://jmp2.uk/sam-USAJ3504704A.m3u8
+#EXTINF:-1,Dog Whisperer
+https://jmp2.uk/sam-US3400001FX.m3u8
+#EXTINF:-1,Rovr Pets
+https://jmp2.uk/sam-USBC2400024FN.m3u8
+#EXTINF:-1,Dinos 24/7
+https://jmp2.uk/sam-US3700006XE.m3u8
+#EXTINF:-1,Xplore
+https://jmp2.uk/sam-USBC2100008DP.m3u8
 #EXTINF:-1,Love Nature 4K
-https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
-#EXTINF:-1,Midnight Pulp (720p)
-https://d3knca0xtk4ya9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1sxenfkl27gw6/playlist.m3u8
-#EXTINF:-1,MyTime Movie Network (1080p)
-https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1,Pac 12 Insider (1080p)
-https://pac12-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1,Shout! Factory TV (720p)
-https://d1e3a0zkn06gu7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pkf1jz7l0hork/playlist.m3u8
-#EXTINF:-1,The Young Turks (TYT) (720p)
-https://tyt-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1,Xplore (1080p)
-https://xlpore-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1,Yahoo! Finance (1080p)
-https://yahoo-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1,Young Hollywood (720p)
-https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1,Trace Sport Stars (1080p) [Geo-blocked]
-http://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8
+https://jmp2.uk/sam-USBA3400003IP.m3u8
+#EXTINF:-1,WildEarth
+https://jmp2.uk/sam-US3800007CR.m3u8
+#EXTINF:-1,MagellanTV Wildest
+https://jmp2.uk/sam-USAJ340000677.m3u8
+#EXTINF:-1,InWonder
+https://jmp2.uk/sam-USBA300023G8.m3u8
+#EXTINF:-1,Universe: Mysteries Solved
+https://jmp2.uk/sam-US900001CX.m3u8
+#EXTINF:-1,History 365
+https://jmp2.uk/sam-USBD35000428O.m3u8
+#EXTINF:-1,Modern Marvels Presented by History
+https://jmp2.uk/sam-USBB5200025DO.m3u8
+#EXTINF:-1,History & Warfare Now
+https://jmp2.uk/sam-USBD1200009JI.m3u8
+#EXTINF:-1,Military Heroes
+https://jmp2.uk/sam-USBC39000204J.m3u8
+#EXTINF:-1,TED
+https://jmp2.uk/sam-USBC2100013WI.m3u8
+#EXTINF:-1,WeatherSpy
+https://jmp2.uk/sam-USAJ3400014LK.m3u8
+#EXTINF:-1,PBS Digital Studios
+https://jmp2.uk/sam-USBB800001O7.m3u8
+#EXTINF:-1,Mattel Jr.
+https://jmp2.uk/sam-US4500002UB.m3u8
+#EXTINF:-1,Barbie and Friends
+https://jmp2.uk/sam-USBD490000209.m3u8
+#EXTINF:-1,Hot Wheels Action
+https://jmp2.uk/sam-US2900013AY.m3u8
+#EXTINF:-1,PBS Kids
+https://jmp2.uk/sam-USBC3600013PC.m3u8
+#EXTINF:-1,Moonbug
+https://jmp2.uk/sam-USBB11000015Q.m3u8
+#EXTINF:-1,Blippi
+https://jmp2.uk/sam-US9000032J.m3u8
+#EXTINF:-1,Caillou
+https://jmp2.uk/sam-USBD50000048H.m3u8
+#EXTINF:-1,Fireman Sam
+https://jmp2.uk/sam-USBD42000124T.m3u8
+#EXTINF:-1,Baby Einstein
+https://jmp2.uk/sam-USBD350002338.m3u8
+#EXTINF:-1,Teletubbies
+https://jmp2.uk/sam-USBD3500015R5.m3u8
+#EXTINF:-1,Barney and Friends
+https://jmp2.uk/sam-US300001UO.m3u8
+#EXTINF:-1,Bob the Builder
+https://jmp2.uk/sam-USBC4400013R7.m3u8
+#EXTINF:-1,Strawberry Shortcake
+https://jmp2.uk/sam-USBC4400012QS.m3u8
+#EXTINF:-1,My Little Pony
+https://jmp2.uk/sam-US2900011CJ.m3u8
+#EXTINF:-1,HappyKids
+https://jmp2.uk/sam-USBC44000072I.m3u8
+#EXTINF:-1,Shaun the Sheep
+https://jmp2.uk/sam-US2200006FS.m3u8
+#EXTINF:-1,Rainbow Ruby
+https://jmp2.uk/sam-USBD3300015BY.m3u8
+#EXTINF:-1,ZooMoo
+https://jmp2.uk/sam-USBC2400019EF.m3u8
+#EXTINF:-1,Rev and Roll
+https://jmp2.uk/sam-USBD3300016AK.m3u8
+#EXTINF:-1,TG Junior
+https://jmp2.uk/sam-USBB3600001R6.m3u8
+#EXTINF:-1,All Babies Channel
+https://jmp2.uk/sam-USBD3300019OU.m3u8
+#EXTINF:-1,ducktv
+https://jmp2.uk/sam-US3400003HI.m3u8
+#EXTINF:-1,Sensical Jr
+https://jmp2.uk/sam-USBD3300013KV.m3u8
+#EXTINF:-1,Kartoon Channel!
+https://jmp2.uk/sam-US2900015RO.m3u8
+#EXTINF:-1,Power Rangers
+https://jmp2.uk/sam-US2900012T8.m3u8
+#EXTINF:-1,Transformers
+https://jmp2.uk/sam-US29000168D.m3u8
+#EXTINF:-1,The LEGO Channel
+https://jmp2.uk/sam-USBA2300001S8.m3u8
+#EXTINF:-1,Sonic The Hedgehog
+https://jmp2.uk/sam-USBD3300020PM.m3u8
+#EXTINF:-1,Slugterra
+https://jmp2.uk/sam-USBD33000180S.m3u8
+#EXTINF:-1,Yu-Gi-Oh
+https://jmp2.uk/sam-US1000003G8.m3u8
+#EXTINF:-1,Pokémon
+https://jmp2.uk/sam-US5100003NU.m3u8
+#EXTINF:-1,Ryan and Friends
+https://jmp2.uk/sam-USBD12000239N.m3u8
+#EXTINF:-1,pocket.watch Game-On
+https://jmp2.uk/sam-USBD12000153A.m3u8
+#EXTINF:-1,Ninja Kidz
+https://jmp2.uk/sam-US2200007QG.m3u8
+#EXTINF:-1,Toon Goggles
+https://jmp2.uk/sam-USBB1900004J9.m3u8
+#EXTINF:-1,Kidoodle.TV
+https://jmp2.uk/sam-USAK3508716A.m3u8
+#EXTINF:-1,Sensical Makers
+https://jmp2.uk/sam-USBD3300017XB.m3u8
+#EXTINF:-1,batteryPOP
+https://jmp2.uk/sam-USBD3300012VX.m3u8
+#EXTINF:-1,BBC Kids
+https://jmp2.uk/sam-US800003JM.m3u8
+#EXTINF:-1,Hallmark en Español
+https://jmp2.uk/sam-US1300001GM.m3u8
+#EXTINF:-1,AMC en Español
+https://jmp2.uk/sam-USBD7000017L.m3u8
+#EXTINF:-1,Historia
+https://jmp2.uk/sam-US2600019IC.m3u8
+#EXTINF:-1,Zona TUDN
+https://jmp2.uk/sam-USBD1700016X9.m3u8
+#EXTINF:-1,beIN Sports XTRA ñ
+https://jmp2.uk/sam-US2700004DX.m3u8
+#EXTINF:-1,WAPA+
+https://jmp2.uk/sam-US41000060J.m3u8
+#EXTINF:-1,Telemundo Al Día
+https://jmp2.uk/sam-USBB3200016HO.m3u8
+#EXTINF:-1,Noticias Telemundo Ahora
+https://jmp2.uk/sam-US3000005RS.m3u8
+#EXTINF:-1,Telemundo Accion
+https://jmp2.uk/sam-US1800002UQ.m3u8
+#EXTINF:-1,Telemundo Romance
+https://jmp2.uk/sam-US1800004S5.m3u8
+#EXTINF:-1,Estrella TV
+https://jmp2.uk/sam-USBA300040WR.m3u8
+#EXTINF:-1,Estrella News
+https://jmp2.uk/sam-USAJ2200020N4.m3u8
+#EXTINF:-1,Curiosity Motores
+https://jmp2.uk/sam-US2200003ZN.m3u8
+#EXTINF:-1,Estrella Games
+https://jmp2.uk/sam-USBC24000145I.m3u8
+#EXTINF:-1,Curiosity Animales
+https://jmp2.uk/sam-US2200001IY.m3u8
+#EXTINF:-1,Curiosity Explora
+https://jmp2.uk/sam-US22000020U.m3u8
+#EXTINF:-1,Sony One Competencias
+https://jmp2.uk/sam-USAJ3504719A.m3u8
+#EXTINF:-1,Sony One Cinema
+https://jmp2.uk/sam-USAJ22000057N.m3u8
+#EXTINF:-1,Sony One Novelas
+https://jmp2.uk/sam-USAJ3000002OC.m3u8
+#EXTINF:-1,Canela.TV
+https://jmp2.uk/sam-USBC39000080S.m3u8
+#EXTINF:-1,Novelas Turcas
+https://jmp2.uk/sam-US27000033D.m3u8
+#EXTINF:-1,¿Qué Culpa Tiene Fatmagül?
+https://jmp2.uk/sam-US270000298.m3u8
+#EXTINF:-1,Canal ViX
+https://jmp2.uk/sam-US2200005Y2.m3u8
+#EXTINF:-1,Angelique
+https://jmp2.uk/sam-US2200004HD.m3u8
+#EXTINF:-1,ViX Novelas de romance
+https://jmp2.uk/sam-USBB44000099N.m3u8
+#EXTINF:-1,Las 3 Marías
+https://jmp2.uk/sam-USBD17000172A.m3u8
+#EXTINF:-1,ViX Grandes Parejas
+https://jmp2.uk/sam-USBC2100012EJ.m3u8
+#EXTINF:-1,ViX Villanos de Novela
+https://jmp2.uk/sam-USBC2100011WI.m3u8
+#EXTINF:-1,ViX JaJaJa
+https://jmp2.uk/sam-USBC2100010OS.m3u8
+#EXTINF:-1,Rebelde
+https://jmp2.uk/sam-USBD1700018II.m3u8
+#EXTINF:-1,Galanes
+https://jmp2.uk/sam-USBD2700002DU.m3u8
+#EXTINF:-1,Cine Retro
+https://jmp2.uk/sam-USBD2500022U5.m3u8
+#EXTINF:-1,Cine de Oro
+https://jmp2.uk/sam-USBD2700005KL.m3u8
+#EXTINF:-1,Como Dice el Dicho
+https://jmp2.uk/sam-USBD2700004ME.m3u8
+#EXTINF:-1,Pequenos Gigantes
+https://jmp2.uk/sam-USBD2700003F3.m3u8
+#EXTINF:-1,Aquí y Ahora
+https://jmp2.uk/sam-USBD1700015J1.m3u8
+#EXTINF:-1,Noticias Univision 24/7
+https://jmp2.uk/sam-USBD1700014QU.m3u8
+#EXTINF:-1,Cine Romantico
+https://jmp2.uk/sam-USBA3800001E0.m3u8
+#EXTINF:-1,XITE Celebrates
+https://jmp2.uk/sam-USBD350003932.m3u8
+#EXTINF:-1,XITE 80s Flashback
+https://jmp2.uk/sam-USBB320000647.m3u8
+#EXTINF:-1,XITE 90s Throwback
+https://jmp2.uk/sam-USBB3200007AK.m3u8
+#EXTINF:-1,XITE Hits
+https://jmp2.uk/sam-USBD3300004RH.m3u8
+#EXTINF:-1,XITE Country Today
+https://jmp2.uk/sam-USBD3300006O3.m3u8
+#EXTINF:-1,XITE Classic Country
+https://jmp2.uk/sam-USBD3300011UT.m3u8
+#EXTINF:-1,XITE Christian Hits
+https://jmp2.uk/sam-US46000072L.m3u8
+#EXTINF:-1,XITE Nuevo Latino
+https://jmp2.uk/sam-USBD3300007PB.m3u8
+#EXTINF:-1,XITE Siempre Latino
+https://jmp2.uk/sam-USBD3300010L9.m3u8
+#EXTINF:-1,XITE R&B Classic Jams
+https://jmp2.uk/sam-USBD330000948.m3u8
+#EXTINF:-1,XITE Reggae Vibes
+https://jmp2.uk/sam-US4600008JA.m3u8
+#EXTINF:-1,XITE Rock x Metal
+https://jmp2.uk/sam-USBB2300004KV.m3u8
+#EXTINF:-1,XITE Just Chill
+https://jmp2.uk/sam-USBB2300003JZ.m3u8
+#EXTINF:-1,Vevo '70s
+https://jmp2.uk/sam-USBD300011KQ.m3u8
+#EXTINF:-1,Vevo '80s
+https://jmp2.uk/sam-USBD300012YC.m3u8
+#EXTINF:-1,Vevo '90s
+https://jmp2.uk/sam-USBD3000133M.m3u8
+#EXTINF:-1,Vevo 2K
+https://jmp2.uk/sam-USBB4400015F5.m3u8
+#EXTINF:-1,Vevo 2010s
+https://jmp2.uk/sam-USBD120002431.m3u8
+#EXTINF:-1,Vevo Retro Rock
+https://jmp2.uk/sam-USBD3000145P.m3u8
+#EXTINF:-1,Vevo Latino
+https://jmp2.uk/sam-USBC3600015GF.m3u8
+#EXTINF:-1,Vevo Hip-Hop
+https://jmp2.uk/sam-USBC3600002EK.m3u8
+#EXTINF:-1,Vevo R&B
+https://jmp2.uk/sam-USBC3900009K5.m3u8
+#EXTINF:-1,Vevo Country
+https://jmp2.uk/sam-USBC3600001RQ.m3u8
+#EXTINF:-1,Vevo Pop
+https://jmp2.uk/sam-USBC3600008WY.m3u8
+#EXTINF:-1,Vevo Features
+https://jmp2.uk/sam-USBD1200008GL.m3u8
+#EXTINF:-1,K-POP by CJ ENM
+https://jmp2.uk/sam-US39000038W.m3u8
+#EXTINF:-1,NEW KPOP
+https://jmp2.uk/sam-USAJ3000013FJ.m3u8
+#EXTINF:-1,Stingray Today's K-Pop
+https://jmp2.uk/sam-USBD3500016NH.m3u8
+#EXTINF:-1,Stingray DJAZZ
+https://jmp2.uk/sam-USBD3500025GS.m3u8
+#EXTINF:-1,Stingray Classica
+https://jmp2.uk/sam-USBD350002623.m3u8
+#EXTINF:-1,Stingray Movie Music
+https://jmp2.uk/sam-US4700003DP.m3u8
+#EXTINF:-1,Qello Concerts by Stingray
+https://jmp2.uk/sam-USBD3500024YB.m3u8
+#EXTINF:-1,Stingray Romance Latino
+https://jmp2.uk/sam-USBD3500017CE.m3u8
+#EXTINF:-1,Stingray Today's Latin Pop
+https://jmp2.uk/sam-USBD3500009Y3.m3u8
+#EXTINF:-1,Stingray Hip Hop
+https://jmp2.uk/sam-USBD3500010MT.m3u8
+#EXTINF:-1,Stingray Euro Hits
+https://jmp2.uk/sam-US4700002UF.m3u8
+#EXTINF:-1,Stingray Nothin' But 90s
+https://jmp2.uk/sam-USBD35000149S.m3u8
+#EXTINF:-1,Stingray Remember the 80s
+https://jmp2.uk/sam-USBD3300022QK.m3u8
+#EXTINF:-1,Stingray Flashback 70s
+https://jmp2.uk/sam-USBD3500008IJ.m3u8
+#EXTINF:-1,Stingray Soft Hits
+https://jmp2.uk/sam-US4700007GV.m3u8
+#EXTINF:-1,Stingray Jukebox Oldies
+https://jmp2.uk/sam-US4700006XL.m3u8
+#EXTINF:-1,Stingray Easy Listening
+https://jmp2.uk/sam-USBD3500011J3.m3u8
+#EXTINF:-1,Stingray Smooth Jazz
+https://jmp2.uk/sam-USBD35000128A.m3u8
+#EXTINF:-1,Stingray Classic Rock
+https://jmp2.uk/sam-USBD35000180U.m3u8
+#EXTINF:-1,Stingray Country Greats
+https://jmp2.uk/sam-US4700005EA.m3u8
+#EXTINF:-1,Stingray Hot Country
+https://jmp2.uk/sam-USBD3300021KV.m3u8
+#EXTINF:-1,Stingray Greatest Hits
+https://jmp2.uk/sam-USBD3500022DN.m3u8
+#EXTINF:-1,Ocean Vibes
+https://jmp2.uk/sam-US700012OU.m3u8
+#EXTINF:-1,Island Vibes
+https://jmp2.uk/sam-US1400007V6.m3u8
+#EXTINF:-1,Waterfall Vibes
+https://jmp2.uk/sam-US14000155Y.m3u8
+#EXTINF:-1,Soothing Vibes
+https://jmp2.uk/sam-US2900009D4.m3u8
+#EXTINF:-1,Storm Vibes
+https://jmp2.uk/sam-US1400014N9.m3u8
+#EXTINF:-1,Rainy Day Vibes
+https://jmp2.uk/sam-US14000030Y.m3u8
+#EXTINF:-1,Spring Vibes
+https://jmp2.uk/sam-US1400010S0.m3u8
+#EXTINF:-1,Stingray Holidayscapes
+https://jmp2.uk/sam-USBD3500038R6.m3u8
+#EXTINF:-1,Stingray Naturescape
+https://jmp2.uk/sam-USAK3508705A.m3u8
+#EXTINF:-1,Loupe 4K
+https://jmp2.uk/sam-USBB1000002TK.m3u8
+#EXTINF:-1,ZenLIFE by Stingray
+https://jmp2.uk/sam-USBD3500027DS.m3u8
+#EXTINF:-1,Stingray Spa
+https://jmp2.uk/sam-USBD3500013DG.m3u8
+#EXTINF:-1,Beach Bonfire Vibes
+https://jmp2.uk/sam-US14000119Q.m3u8
+#EXTINF:-1,Lakeside Bonfire Vibes
+https://jmp2.uk/sam-US14000136J.m3u8
+#EXTINF:-1,Campfire Vibes
+https://jmp2.uk/sam-US1500002I2.m3u8
+#EXTINF:-1,Cozy Vibes
+https://jmp2.uk/sam-US2900005NW.m3u8
+#EXTINF:-1,Luxe Fireplace Vibes
+https://jmp2.uk/sam-US2900004L2.m3u8
+#EXTINF:-1,Estilo y Vida – Rakuten TV
+https://jmp2.uk/sam-ES26000068D.m3u8
+#EXTINF:-1,La 1
+https://jmp2.uk/sam-ESBC4100001NZ.m3u8
+#EXTINF:-1,Canal Sur Andalucía
+https://jmp2.uk/sam-ESBD3000002GP.m3u8
+#EXTINF:-1,La 2
+https://jmp2.uk/sam-ESBC4100002AG.m3u8
+#EXTINF:-1,Anime Visión
+https://jmp2.uk/sam-ES300029LP.m3u8
+#EXTINF:-1,Anime Visión Classics
+https://jmp2.uk/sam-ES3000288I.m3u8
+#EXTINF:-1,¡Hola! Play
+https://jmp2.uk/sam-ES26000025M.m3u8
+#EXTINF:-1,Ideas en 5 Minutos
+https://jmp2.uk/sam-ESBC3500002PW.m3u8
+#EXTINF:-1,Fashion TV
+https://jmp2.uk/sam-ESAJ4500017Y1.m3u8
+#EXTINF:-1,Azteca Internacional
+https://jmp2.uk/sam-ESBD1300004IG.m3u8
+#EXTINF:-1,H2O & Friends
+https://jmp2.uk/sam-ES500002NY.m3u8
+#EXTINF:-1,2M
+https://jmp2.uk/sam-ES4700001VS.m3u8
+#EXTINF:-1,Hoguera
+https://jmp2.uk/sam-ESBD1500001SD.m3u8
+#EXTINF:-1,Gaming Central League of Legends
+https://jmp2.uk/sam-ES300032LR.m3u8
+#EXTINF:-1,Cuéntame cómo pasó
+https://jmp2.uk/sam-ES400002P5.m3u8
+#EXTINF:-1,Baywatch – Los Vigilantes de la Playa
+https://jmp2.uk/sam-ESBD1300001EP.m3u8
+#EXTINF:-1,Águila Roja
+https://jmp2.uk/sam-ES500005BP.m3u8
+#EXTINF:-1,Corazón
+https://jmp2.uk/sam-ESBD1300003VN.m3u8
+#EXTINF:-1,Vive Kanal D Drama
+https://jmp2.uk/sam-ESBC1700001QI.m3u8
+#EXTINF:-1,Euronews EN DIRECTO
+https://jmp2.uk/sam-ES260000968.m3u8
+#EXTINF:-1,24H
+https://jmp2.uk/sam-ESBC4100004J1.m3u8
+#EXTINF:-1,Negocios TV
+https://jmp2.uk/sam-ESBD3400001AA.m3u8
+#EXTINF:-1,El País
+https://jmp2.uk/sam-ESBC39000033J.m3u8
+#EXTINF:-1,El Confidencial
+https://jmp2.uk/sam-ESBC1400001L8.m3u8
+#EXTINF:-1,CNN FAST
+https://jmp2.uk/sam-ESBD190000137.m3u8
+#EXTINF:-1,NBC News NOW
+https://jmp2.uk/sam-ESBC400003YM.m3u8
+#EXTINF:-1,FRANCE 24 FAST
+https://jmp2.uk/sam-ESBD1100001PQ.m3u8
+#EXTINF:-1,Bloomberg TV+
+https://jmp2.uk/sam-ESBA3300024AJ.m3u8
+#EXTINF:-1,Forensic Files
+https://jmp2.uk/sam-ES2600001MC.m3u8
+#EXTINF:-1,DATELINE 24/7
+https://jmp2.uk/sam-ESBD3700001S0.m3u8
+#EXTINF:-1,Crimen - Rakuten TV
+https://jmp2.uk/sam-ES2600005G9.m3u8
+#EXTINF:-1,MyPadel TV
+https://jmp2.uk/sam-ES30000091V.m3u8
+#EXTINF:-1,Teledeporte
+https://jmp2.uk/sam-ESBC410000577.m3u8
+#EXTINF:-1,La Liga Inside
+https://jmp2.uk/sam-ESBD3600001Q1.m3u8
+#EXTINF:-1,DFB Play TV
+https://jmp2.uk/sam-ES3200003OC.m3u8
+#EXTINF:-1,GOL CLASSICS
+https://jmp2.uk/sam-ES300031A5.m3u8
+#EXTINF:-1,Motorvision
+https://jmp2.uk/sam-ESBD3200001EG.m3u8
+#EXTINF:-1,Surf Channel
+https://jmp2.uk/sam-ES3400002PY.m3u8
+#EXTINF:-1,World Poker Tour
+https://jmp2.uk/sam-ESBD2900001P9.m3u8
+#EXTINF:-1,Televisión Consciente
+https://jmp2.uk/sam-ESBC1700002IM.m3u8
+#EXTINF:-1,Clan
+https://jmp2.uk/sam-ESBC4100003WE.m3u8
+#EXTINF:-1,Pitufo TV
+https://jmp2.uk/sam-ESBD130000205.m3u8
+#EXTINF:-1,Caillou
+https://jmp2.uk/sam-ES4800002OZ.m3u8
+#EXTINF:-1,Pocoyó
+https://jmp2.uk/sam-ESBC3900004ED.m3u8
+#EXTINF:-1,duckTV
+https://jmp2.uk/sam-ESBC4700001GR.m3u8
+#EXTINF:-1,SuperToons TV
+https://jmp2.uk/sam-ESBD5100001G0.m3u8
+#EXTINF:-1,La Abeja Maya
+https://jmp2.uk/sam-ESBD3200002V5.m3u8
+#EXTINF:-1,Rabbids : La invasion
+https://jmp2.uk/sam-ESBD2300003S5.m3u8
+#EXTINF:-1,El Ninja Boy
+https://jmp2.uk/sam-ES2600008NX.m3u8
+#EXTINF:-1,En Familia - Rakuten TV
+https://jmp2.uk/sam-ES260001081.m3u8
+#EXTINF:-1,Runtime Familia
+https://jmp2.uk/sam-ES700004C8.m3u8
+#EXTINF:-1,Trailers
+https://jmp2.uk/sam-ESBC1700004PX.m3u8
+#EXTINF:-1,Cines Verdi TV
+https://jmp2.uk/sam-ESBC2700011AZ.m3u8
+#EXTINF:-1,Runtime
+https://jmp2.uk/sam-ESBC400001QQ.m3u8
+#EXTINF:-1,Películas Top - Rakuten TV
+https://jmp2.uk/sam-ES2600013H4.m3u8
+#EXTINF:-1,Runtime Romance
+https://jmp2.uk/sam-ESBD800004KU.m3u8
+#EXTINF:-1,Películas Románticas - Rakuten TV
+https://jmp2.uk/sam-ES2600012C9.m3u8
+#EXTINF:-1,Cine Feel Good – Verdi TV
+https://jmp2.uk/sam-ESBC2700012RP.m3u8
+#EXTINF:-1,Runtime Comedia
+https://jmp2.uk/sam-ESBD8000033W.m3u8
+#EXTINF:-1,Comedia - Rakuten TV
+https://jmp2.uk/sam-ES260000700.m3u8
+#EXTINF:-1,Grjngo - Películas Del Oeste
+https://jmp2.uk/sam-ESBC2700002LO.m3u8
+#EXTINF:-1,Bigtime - Películas Gratis
+https://jmp2.uk/sam-ESBC2700003T8.m3u8
+#EXTINF:-1,Planeta de Cine
+https://jmp2.uk/sam-ES2800001G7.m3u8
+#EXTINF:-1,Cine Español - Rakuten TV
+https://jmp2.uk/sam-ES3000008O8.m3u8
+#EXTINF:-1,Action Movie Channel
+https://jmp2.uk/sam-ESBC40000248.m3u8
+#EXTINF:-1,Sci-Fi - Rakuten TV
+https://jmp2.uk/sam-ES500004NO.m3u8
+#EXTINF:-1,Cine Friki
+https://jmp2.uk/sam-ESBD800001RJ.m3u8
+#EXTINF:-1,Runtime Acción
+https://jmp2.uk/sam-ESBD80000288.m3u8
+#EXTINF:-1,Películas de Drama - Rakuten TV
+https://jmp2.uk/sam-ES2600003UM.m3u8
+#EXTINF:-1,Acción - Rakuten TV
+https://jmp2.uk/sam-ES2600004BD.m3u8
+#EXTINF:-1,Vevo Latino
+https://jmp2.uk/sam-ESBC2100002LV.m3u8
+#EXTINF:-1,Vevo '70s & '80s
+https://jmp2.uk/sam-ESBD230000289.m3u8
+#EXTINF:-1,Vevo Pop
+https://jmp2.uk/sam-ESBC2100001IU.m3u8
+#EXTINF:-1,Trace Latina
+https://jmp2.uk/sam-ESBA3300042Y6.m3u8
+#EXTINF:-1,Trace Urban
+https://jmp2.uk/sam-ESBA3300043M0.m3u8
+#EXTINF:-1,Sol Música
+https://jmp2.uk/sam-ESBD2300004Y7.m3u8
+#EXTINF:-1,Cool Summer Channel
+https://jmp2.uk/sam-ES2500001F9.m3u8
+#EXTINF:-1,K-POP by CJ ENM
+https://jmp2.uk/sam-ES3900001QG.m3u8
+#EXTINF:-1,Deluxe Lounge HD
+https://jmp2.uk/sam-ESBA1500001C4.m3u8
+#EXTINF:-1,GoUSA TV
+https://jmp2.uk/sam-ESBC27000040I.m3u8
+#EXTINF:-1,Royalworld - Nobleza y Dinastias
+https://jmp2.uk/sam-ESBD1400003QN.m3u8
+#EXTINF:-1,Love the Planet
+https://jmp2.uk/sam-ESBC4700002TD.m3u8
+#EXTINF:-1,WaterBear
+https://jmp2.uk/sam-ESBC170000388.m3u8
+#EXTINF:-1,Stormcast Novelas
+https://jmp2.uk/sam-ESBA140000504.m3u8
+#EXTINF:-1,Todo Novelas
+https://jmp2.uk/sam-ESBC43000013T.m3u8
+#EXTINF:-1,FailArmy
+https://jmp2.uk/sam-ESBA1400006NP.m3u8
+#EXTINF:-1,People Are Awesome
+https://jmp2.uk/sam-ESAJ4500023Y5.m3u8
+#EXTINF:-1,The Pet Collective
+https://jmp2.uk/sam-ESAJ4500016BH.m3u8
 #EXTINF:-1,Sony Canal Novelas
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
+#EXTINF:-1,Pelis Top
+https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=top-movies-rakuten-tv_es&ads.rtv_content_id=5983&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=dcf62fc3-ffe3-4b8e-bbd9-c00742750055&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=5983&publishing_platform_id=5
+#EXTINF:-1,Acción
+https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=action-rakuten-tv_es&ads.rtv_content_id=6069&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=516dc689-d5fe-41f6-8f30-47c4e4eb6295&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6069&publishing_platform_id=5
+#EXTINF:-1,Comedia
+https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=comedy-rakuten-tv_es&ads.rtv_content_id=6180&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=e924807f-279c-4191-ae38-21c3ae89e564&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6180&publishing_platform_id=5
+#EXTINF:-1,Drama
+https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=drama-rakuten-tv_es&ads.rtv_content_id=6092&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=59c8b702-01a3-488f-9c71-8ff0371896d0&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6092&publishing_platform_id=5
+#EXTINF:-1,Películas Románticas
+https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=romance-rakuten-tv_es&ads.rtv_content_id=6105&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=42b33ae8-dfe9-4f37-b522-301bfa47a942&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6105&publishing_platform_id=5
+#EXTINF:-1,Cine Español
+https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=spanish-cinema-rakuten-tv_es&ads.rtv_content_id=6196&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=627f2235-8bab-4d13-b53f-19a7016effb5&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6196&publishing_platform_id=5
+#EXTINF:-1,Sci-Fi
+https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=sci-fi-rakuten-tv_es&ads.rtv_content_id=6740&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=7483a4fa-771f-4be1-a9c7-d4e09a57e37b&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6740&publishing_platform_id=5
+#EXTINF:-1,Thrillers
+https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=thriller-rakuten-tv_es&ads.rtv_content_id=6480&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=4a10167c-bae4-4ec6-9d71-a76c032b5950&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6480&publishing_platform_id=5
+#EXTINF:-1,Trailers
+https://1c4952408fa947df9b6aee4225ff9fd3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-4452/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rakutentv_channel=4452&ads.rtv_content_id=4452&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=3512ad40-cef1-4e95-be9e-bfd7c7900087&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=4452
+#EXTINF:-1,Cine Friki
+https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefriki-rakuten/CDN/master.m3u8?ads_amagi_channel=851&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=12&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=ppid&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5016&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=44be4df4-1477-4f33-b402-a8dca4f4d523&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1,Dark Matter - Horror Visión
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=DarkMatterTV&ads.csid=zeus_es_tricoastdarkmatteres_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=4070&ads.rakuten_streaming_id=412e1000-294d-4d91-9dde-89a12909e4f1&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883019&ads.xumo_contentId=3479&ads.xumo_contentName=TriCoastDarkMatterES&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=3479&ads.xumo_providerName=TriCoastDarkMatterES&ads.xumo_streamId=88883019
+#EXTINF:-1,Grjngo
+https://86ebcafef90e449fbb9439c196e7d149.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_GrjngoPeliculasDelOeste-1/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=4495&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=58aa3cdc-4f78-4913-b0c1-d088ddd71290&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1906
+#EXTINF:-1,Crimen
+https://4ac0fe739f05408abf89ce151aced344.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6220/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=crime-rakuten-tv_es&ads.rtv_content_id=6220&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=3f038d21-c321-418b-8143-16295db9a0d4&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6220&publishing_platform_id=5
+#EXTINF:-1,FilmRise Sci-Fi
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=FilmRiseSciFiSpanish&ads.csid=zeus_es_filmrisescifispanish_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3689&ads.rakuten_streaming_id=ac2b4f13-f21b-4b22-8afd-09160e1c274a&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883026&ads.xumo_contentId=2701&ads.xumo_contentName=FilmRiseSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2701&ads.xumo_providerName=FilmRiseSpanish&ads.xumo_streamId=88883026
+#EXTINF:-1,Stormcast Novelas
+https://c198ba8e6a764da78cbe708345c80779.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_StormcastNovelas/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=13&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=6754&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=00c91973-1040-47d2-81d3-e2c5810ab096&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1057
+#EXTINF:-1,Rakuten VIKI
+https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=4398&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=8263cc89-fb55-4a82-96db-0890a0743cf5&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1065
+#EXTINF:-1,Vive Kanal D Drama
+https://thema-vivekanald-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-thema-vivekanald-rakuten/CDN/master.m3u8?ads_amagi_channel=829&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=12&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=ppid&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=4486&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=c2b6c4fd-1012-4123-9294-b83c93dda9bb&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1,Top Gear en español
+https://e6f643eb4fc94027ba0c3dc03422a4f2.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_TopGearEnEspanol/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=4081&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=2bb17bba-346a-47e8-85e3-b14668f7f89a&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1115
+#EXTINF:-1,AFV Family
+https://ec4a5bcc9d664b48985de6095931aaa7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_AmericasFunniestHomeVideos/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3188&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=e0251561-1af4-49e7-afec-0e992b75fc45&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=875
+#EXTINF:-1,FUEL TV
+https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8?ads_amagi_channel=847&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=7&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=ppid&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=4802&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=0282a9d5-be6f-4879-85c8-8d070ba6d905&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1,World Billiards TV
+https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=7&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3722&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=c6682d16-dacd-4d93-b511-2c169ff0c9ba&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=967
+#EXTINF:-1,Hard Knocks Fighting Championship
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=HardKnocks&ads.csid=zeus_eu_hardknocks_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=359&ads.rakuten_streaming_id=9a65bd23-d63e-4b71-a029-935348007bf6&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883037&ads.xumo_contentId=212&ads.xumo_contentName=HardKnocks&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=212&ads.xumo_providerName=HardKnocks&ads.xumo_streamId=88883037
+#EXTINF:-1,MOTORVISION.TV
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/mv_es.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB2&ads._fw_content_genre=automotive&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=MotorvisionSpanish&ads.csid=zeus_es_motorvision_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=4193&ads.rakuten_streaming_id=b4f970db-f48a-49ab-8f76-1ab8bad8cd92&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883004&ads.xumo_contentId=3791&ads.xumo_contentName=MotorvisionSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=3791&ads.xumo_providerName=MotorvisionSpanish&ads.xumo_streamId=88883004
+#EXTINF:-1,Estilo y Vida
+https://4a7284f0c8334835adb8f223c36fbc37.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6232/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=lifestyle-rakuten-tv_es&ads.rtv_content_id=6232&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=8c78ede1-b4b1-443a-984a-c82cb930000e&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6232&publishing_platform_id=5
+#EXTINF:-1,Los Gipsy Kings
+https://gipsy-kings-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6752/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=gipsy-kings-rakuten-tv_es&ads.rtv_content_id=6752&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=48368864-c97e-4233-9007-011ae92e6a0c&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6752&publishing_platform_id=5
+#EXTINF:-1,Fashion TV
+https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=7&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=1278&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=8815b73a-a80f-417e-8888-adceca837daf&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=381
+#EXTINF:-1,Travelxp
+https://854164eda2f94a29ba557d887890363c.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_TravelXPES/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=7&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=5756&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=171d6c8e-efc3-471b-bd37-fcaf950c5432&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1613
+#EXTINF:-1,Stingray Naturescape
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-6&ads._fw_content_genre=music&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=StingrayNaturescape&ads.csid=zeus_eu_stingrayambiance_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=1288&ads.rakuten_streaming_id=66dbc1b5-15f7-40a0-8055-1eb3abd048d5&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883056&ads.xumo_contentId=188&ads.xumo_contentName=StingrayAmbiance&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=188&ads.xumo_providerName=StingrayAmbiance&ads.xumo_streamId=88883056
+#EXTINF:-1,Ideas en 5 minutos
+https://soul-5mincraftspa-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-soul-5mincraftspanish-rakuten/CDN/master.m3u8?ads_amagi_channel=843&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=ppid&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=4658&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=f4324fa3-d69e-47be-87b8-856e4eaf9b6c&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1,¡HOLA! Play
+https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=13&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1_es&ads.rtv_content_id=6433&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=19d1201d-d39a-409c-9c26-2fb6004c77b8&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6433&publishing_platform_id=5
+#EXTINF:-1,CLUBBING TV
+https://clubbingtv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-clubbingtv-rakuten/CDN/master.m3u8?ads_amagi_channel=717&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=12&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=ppid&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=2484&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=61dc6649-f0f6-406e-af4b-cee4f817954b&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1,Qwest TV
+https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8?ads_amagi_channel=711&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=ppid&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=2268&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=d540f695-075e-4d6d-b2fa-023b510019ae&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1,Stingray Greatest Hits
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-6&ads._fw_content_genre=music&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=StingrayGreatestHits&ads.csid=zeus_eu_stingraygreatesthits_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=2188&ads.rakuten_streaming_id=6c5c4533-ee32-43da-a870-0ae0def258de&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883053&ads.xumo_contentId=1857&ads.xumo_contentName=StingrayGreatestHits&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=1857&ads.xumo_providerName=StingrayGreatestHits&ads.xumo_streamId=88883053
+#EXTINF:-1,Stingray: Hitlist
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-6&ads._fw_content_genre=music&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=StingrayHitlist&ads.csid=zeus_eu_stingrayhitlist_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=2080&ads.rakuten_streaming_id=f39910bb-086d-4946-b98b-c8bcb759148a&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883054&ads.xumo_contentId=1858&ads.xumo_contentName=StingrayHitlist&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=1858&ads.xumo_providerName=StingrayHitlist&ads.xumo_streamId=88883054
+#EXTINF:-1,Stingray: Remember the 80’s
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-6&ads._fw_content_genre=music&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=RememberThe80sUK&ads.csid=zeus_uk_stingrayrememberthe80s_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=4883&ads.rakuten_streaming_id=0c3029bb-83aa-4a64-8c8c-2cfb6d15c096&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883071&ads.xumo_contentId=2184&ads.xumo_contentName=StingrayEverything80s&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2184&ads.xumo_providerName=StingrayEverything80s&ads.xumo_streamId=88883071
+#EXTINF:-1,Qello Concerts by Stingray
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-6&ads._fw_content_genre=music&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=QelloConcertsbyStingray&ads.csid=zeus_eu_qelloconcertsbystingray_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=341&ads.rakuten_streaming_id=f6658c86-3aa8-42c3-af63-d10160ab8a7e&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883052&ads.xumo_contentId=187&ads.xumo_contentName=QelloConcertsByStingray&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=187&ads.xumo_providerName=QelloConcertsByStingray&ads.xumo_streamId=88883052
+#EXTINF:-1,Deluxe Lounge HD
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/2299f30c-3582-11ec-9c7c-2cf753b8a203/0/master.m3u8?ads%3Aamznbrmid=&ads%3Aamznregion=&ads%3Aamznslots=&ads%3Aapp_bundle=com.rakuten.tv&ads%3Aapp_store_url=rakuten.tv&ads%3Aapp_version=&ads%3Abrand_name=&ads%3Acontent_classification=7&ads%3Adevice_type=web&ads%3Adevice_year=&ads%3Afunke_channel_id=RAKB0001&ads%3Agam_correlator=&ads%3Aifa_type=ppid&ads%3Alanguage=zxx&ads%3Amarket=es&ads%3Aos_language=&ads%3Aplayer_height=&ads%3Aplayer_width=&ads%3Apod_type=playerpage_midroll&ads%3Artv_content_id=4222&ads%3Astreaming_id=3c688236-a06e-4d1d-bc70-373413fb6fc3&ads%3Atcf=&ads%3Ativo_devcountry=&ads%3Ativo_devmakedate=&ads%3Ativo_mvpd=&ads%3Ativo_platform=&ads%3Ativo_usid=&ads%3Ativo_uxloc=&ads%3Auser_type=visitor&country=es&optout=1&uid=&vendor=rakuten
+#EXTINF:-1,NOW 70s
+https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8?ads_amagi_channel=869&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=ppid&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5284&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=f7e80123-e512-4d07-b828-13f2361d5d40&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1,NOW 80s
+https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8?ads_amagi_channel=871&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=ppid&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5318&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=7cb0771d-b3a0-4d64-9c18-530f6c6eb326&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1,NOW Rock
+https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8?ads_amagi_channel=870&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=ppid&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5352&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=68855998-f901-400f-9930-0a0daa6c86bd&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1,En Familia
+https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=12&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=family-rakuten-tv_es&ads.rtv_content_id=6205&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=147e9a21-1515-4c29-833a-8d8956498dc7&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6205&publishing_platform_id=5
+#EXTINF:-1,el ninja boy
+https://rantaro-ninja-boy-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6432/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=12&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=rantaro-ninja-boy-rakuten-tv_es&ads.rtv_content_id=6432&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=fd9d69a1-629c-4b36-80a5-06506234c809&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6432&publishing_platform_id=5
+#EXTINF:-1,Baby Shark TV
+https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=7&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3619&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=4f236691-22e8-4969-a25e-379b97911963&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=696
+#EXTINF:-1,Pilotos del Ártico
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IcePilotsSpanish&ads.csid=zeus_es_indigeniusicepilots_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=5914&ads.rakuten_streaming_id=42b5ab2a-0b81-431d-a2f2-c988e368d4a1&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883090&ads.xumo_contentId=2504&ads.xumo_contentName=IndigeniusSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2504&ads.xumo_providerName=IndigeniusSpanish&ads.xumo_streamId=88883090
+#EXTINF:-1,La fiebre del jade
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=JadeFeverSpanish&ads.csid=zeus_es_indigeniuslefiebredeljade_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=5915&ads.rakuten_streaming_id=b566016c-5641-4da6-8135-f107863fa9d5&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883088&ads.xumo_contentId=2504&ads.xumo_contentName=IndigeniusSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2504&ads.xumo_providerName=IndigeniusSpanish&ads.xumo_streamId=88883088
+#EXTINF:-1,Cops En Español
+https://69fc67603f914d73988ff4dc54a202c8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_CopsEnEspanol/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=12&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=6696&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=a98b5eb9-08b9-4b77-a6f9-acf0f92364bd&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1470
+#EXTINF:-1,Archivos Forenses
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=ArchivosForenses&ads.csid=zeus_es_archivosforenses_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3901&ads.rakuten_streaming_id=afe03132-0191-4f63-9344-f1133e510695&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883012&ads.xumo_contentId=2648&ads.xumo_contentName=FilmRiseTrueCrimeMexico&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2648&ads.xumo_providerName=FilmRiseTrueCrimeMexico&ads.xumo_streamId=88883012
+#EXTINF:-1,Todo Crimen
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusCrimenSpanish&ads.csid=zeus_es_indigeniuscrimenspanish_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3687&ads.rakuten_streaming_id=004a7a3f-6d34-4cd6-802e-3e45cb604307&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883018&ads.xumo_contentId=2192&ads.xumo_contentName=IndigeniusCrimenSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2192&ads.xumo_providerName=IndigeniusCrimenSpanish&ads.xumo_streamId=88883018
+#EXTINF:-1,Naturaleza
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusNaturalezaSpanish&ads.csid=zeus_es_indigeniusnaturalezaspanish_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3688&ads.rakuten_streaming_id=7cafb990-74b9-4637-8b90-0e61fd12017a&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883049&ads.xumo_contentId=2161&ads.xumo_contentName=IndigeniusNaturalezaSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2161&ads.xumo_providerName=IndigeniusNaturalezaSpanish&ads.xumo_streamId=88883049
+#EXTINF:-1,Nature Time
+https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-bamus-naturetimeemeaspa/CDN/master.m3u8?ads_amagi_channel=809&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=ppid&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=4330&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=c782c3c9-33a3-4134-8946-7de7c6e24a18&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1,CGTN Documentary
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8?ads_amagi_channel=853&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=7&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=ppid&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5002&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=7c9bce14-7891-4de8-aade-fd03ce8596ea&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1,Euronews EN DIRECTO
+https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiNjdjM2IzMjAtM2M1ZC00MGM3LThjZDUtZThmMDM2NDQ1YjA0IiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjo1fQ%3D%3D/26034/euronews-es.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=12&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=euronews-live-spa_es&ads.rtv_content_id=6571&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=67c3b320-3c5d-40c7-8cd5-e8f036445b04&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6571&publishing_platform_id=5
+#EXTINF:-1,Bloomberg Originals
+https://d7ec4f6950ed4c6d946e497bd44db7ef.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_QuickTake-1/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=12&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=2541&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=05072ffa-3cef-4608-a2c5-482c16dc6198&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=777
+#EXTINF:-1,Bloomberg Television
+https://8c916ce141544c85a361e55898216cf0.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_Bloomberg-2/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=12&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=4749&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=600d68f5-5037-4f49-83a4-5f7b48fd8ac9&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1543
+#EXTINF:-1,Africanews
+https://africanews-eng-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiYTkwOWI3NWYtYmRjMC00MTM1LTllOTktNDE3ZDFiY2M0ZDQwIiwibWt0IjoiZXMiLCJjaCI6NjU4OCwicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=12&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=africanews-eng_es&ads.rtv_content_id=6588&ads.rtv_content_language=eng&ads.rtv_language=eng&ads.rtvid=271859&ads.streaming_id=a909b75f-bdc0-4135-9e99-417d1bcc4d40&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6588&publishing_platform_id=5
+#EXTINF:-1,CGTN
+https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8?ads_amagi_channel=852&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=7&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=ppid&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5004&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=d013af5a-a303-4270-a5e5-f0d6a69f0ed8&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1,The Guardian
+https://the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6437/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_channel_name=the-guardian-3d0e32e7-aa40-49e5-b9d9-c433151fa61a_es&ads.rtv_content_id=6438&ads.rtv_content_language=eng&ads.rtv_language=eng&ads.rtvid=271859&ads.streaming_id=e823a61c-c2a1-453f-93fd-d0a937587c74&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6438&publishing_platform_id=5
+#EXTINF:-1,Harlem Globetrotters
+https://32d0f0785a2a46d28117199f63ad73ea.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_TheHarlemGlobeTrotters/playlist.m3u8
+#EXTINF:-1,Billiard TV
+https://1b29dd71cd5e4191a3eb26afff631ed3.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsTribal-BilliardTV/BILLIARDTV_SCTE.m3u8
+#EXTINF:-1,Cricket Gold
+https://d1nj4u39ja4cn0.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FLS-MuxIP-CricketGold/418.m3u8
+#EXTINF:-1,MTRSPT1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-sportstribal/playlist.m3u8
+#EXTINF:-1,United Fight Alliance
+https://9ab4bcc639c845d2b682105f4e9afbf8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_UnitedFightAlliance/playlist.m3u8
+#EXTINF:-1,PokerGO
+https://ea14c91ee2fb4faea1f381e9c9e51173.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-426-POKERGO-SPORTSTRIBALTV/mt/sportstribaltv/426/hls/master/playlist.m3u8
+#EXTINF:-1,WPT Live!
+https://d39azd0vpxfn6x.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsTribal-MuxIP-WPTLive/406.m3u8
+#EXTINF:-1,Kozoom
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01743-sportstribal-kozoom-sportstribal/playlist.m3u8
+#EXTINF:-1,Wired2Fish
+https://b0530716d58747539cefbb49fbcf833c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-80-WIRED2FISH-SPORTSTRIBALTV/mt/sportstribaltv/80/hls/master/playlist.m3u8
+#EXTINF:-1,SportsGrid
+https://sportsgrid-tribal.amagi.tv/hls/amagi_hls_data_sportstri-sportsgrid-sportstribal/CDN/playlist.m3u8
+#EXTINF:-1,Powersports World
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-motoamerica-sportstribal/playlist.m3u8
+#EXTINF:-1,RPM Motorsport
+https://d1phlc8te2m7db.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/RPM-SportsTribal/playlist.m3u8
+#EXTINF:-1,Court Sports Network
+https://b01bd331ff0249b5a62e52ff0cd4104a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-627-COURT-SPORTS-NETWORK-SPORTSTRIBALTV/mt/sportstribaltv/627/hls/master/playlist.m3u8
+#EXTINF:-1,CampusLore
+https://60c273eb866445249cc34a0c01556572.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-235-CAMPUSLORE-SPORTS-SPORTSTRIBALTV/mt/sportstribaltv/235/hls/master/playlist.m3u8
+#EXTINF:-1,BLEAV Football
+https://139cdd2c07204547aa4c184866d2d662.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/Linear-493-BLEAV-FOOTBALL-SPORTSTRIBALTV/mt/sportstribaltv/493/hls/master/playlist.m3u8
+#EXTINF:-1,Origin Sports
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01258-raycomsports-raycomsports-ono/playlist.m3u8
+#EXTINF:-1,Poker Night In America
+https://d2ac29vaob351i.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/PokerNight-SportsTribal/216.m3u8
+#EXTINF:-1,Boxing TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-boxingtv-sportstribal/playlist.m3u8
+#EXTINF:-1,FIGHT NETWORK
+https://amg00966-amg00966c10-amgplt0201.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0201/playlist.m3u8
+#EXTINF:-1,Hard Knocks
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-SportsTribalV2/121.m3u8
+#EXTINF:-1,MVMT Culture
+https://d15g7z5n3epv7t.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/TheGrapplingNetwork-SportsTribal/236.m3u8
+#EXTINF:-1,FUEL TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeaen-sportstribal/playlist.m3u8
+#EXTINF:-1,GoPro
+https://3a1b4d927c02473b806350cc162d271f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-891-GOPRO-FREELIVESPORTS/mt/freelivesports/891/hls/master/playlist.m3u8
+#EXTINF:-1,InTrouble
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-introuble-sportstribal/playlist.m3u8
+#EXTINF:-1,World of Freesports
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01866-mainstreammedia-freesportsinc-sportstribal/playlist.m3u8
+#EXTINF:-1,Teton Gravity Research TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-tgrtetongravi-sportstribal/playlist.m3u8
+#EXTINF:-1,Adventure Sports TV
+https://d1ez97pbrsx5ro.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsTribal-MuxIP-AdventureSportsTV/438.m3u8
+#EXTINF:-1,Lacrosse Channel
+https://e9f5db0f59d6470c81af59545905e4e5.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsTribal-LacrosseChannel/LSN_SCTE.m3u8
+#EXTINF:-1,Cornhole TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-cornholetv-sportstribal/playlist.m3u8
+#EXTINF:-1,Strongman Champions League
+https://0864a05b1ca54a4e8fe73805bf810fa4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/SportsTribal-gb_StrongmanChampionsLeague/playlist.m3u8
+#EXTINF:-1,Horse & Country
+https://hncfree-sportstribal.amagi.tv/hls/amagi_hls_data_sportstri-hncfree-sportstribal/CDN/playlist.m3u8
+#EXTINF:-1,GCTV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-gctv-sportstribal/playlist.m3u8
+#EXTINF:-1,Outdoor America
+https://3100d8a6ad764beb9da3c6ebf285ba1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-600-OUTDOORAMERICA-FREELIVESPORTS/mt/freelivesports/600/hls/master/playlist.m3u8
+#EXTINF:-1,Pursuit UP
+https://fca567973f1544d3b177a416690efb86.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-205-PURSUIT-CHANNEL-SPORTSTRIBALTV/mt/sportstribaltv/205/hls/master/playlist.m3u8
+#EXTINF:-1,H20 TV
+https://1261a78709344810a5b834d397509879.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-738-H2OTV-SPORTSTRIBALTV/mt/sportstribaltv/738/hls/master/playlist.m3u8
+#EXTINF:-1,Choppertown
+https://7d8dc76d676946ec8d372d4ed7b22333.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-11-CHOPPERTOWN-SPORTSTRIBAL/mt/sportstribaltv/11/hls/master/playlist.m3u8
+#EXTINF:-1,MORE U
+https://114933112aa649148b22f46d7798c6ce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_MoreU/playlist.m3u8
+#EXTINF:-1,TRACE Sport Stars
+https://tracetv-tracesportstar-sportstribal.amagi.tv/hls/amagi_hls_data_tracetvAA-trace-sportstars-sportstribal/CDN/playlist.m3u8
+#EXTINF:-1,The Boat Show
+https://b74b2c1067794724b288f2e6996c2dad.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_TheBoatShow/playlist.m3u8
+#EXTINF:-1,Greatest Sports Legends & Laughs
+https://3db084d1dd6f49ecbf809a40d8a446b2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_GreatestSportsLegendsandLaughs/playlist.m3u8
+#EXTINF:-1,Chive TV
+https://905e04af149043eeb2a5b7b38b663e0b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-941-CHIVETV-FREELIVESPORTS/mt/freelivesports/941/hls/master/playlist.m3u8
+#EXTINF:-1,Documentary+
+https://a38d899367d24b1197db60dedfa80262.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-FREELIVESPORTS/mt/freelivesports/887/hls/master/playlist.m3u8
 #EXTINF:-1,5TV Corrientes (480p) [Not 24/7]
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 #EXTINF:-1,13Max Televisión (1080p)
@@ -3979,8 +5168,10 @@ https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
 https://stream.arcast.com.ar/canal4eldorado/canal4eldorado/playlist.m3u8
 #EXTINF:-1,Canal 4 Posadas (576p)
 https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
-#EXTINF:-1,Canal 5 Pico Truncado (540p)
-https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
+#EXTINF:-1,Canal 5 Santa Fe (240p)
+https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
+#EXTINF:-1,Canal 5 Tucumán (480p)
+https://videohd.live:19360/8090/8090.m3u8
 #EXTINF:-1,Canal 6 Posadas (1080p)
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 #EXTINF:-1,Canal 7 Jujuy (720p)
@@ -3999,8 +5190,6 @@ https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8
 https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
 #EXTINF:-1,Canal 12 Puerto Madryn (720p) [Not 24/7]
 https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
-#EXTINF:-1,Canal 13 Jujuy TV (720p)
-https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 #EXTINF:-1,Canal 13 La Rioja (480p)
 http://arcast.net:1935/mp/mp/playlist.m3u8
 #EXTINF:-1,Canal 21 TV (1080p)
@@ -4023,6 +5212,8 @@ https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
 #EXTINF:-1,Chilecito TV (480p)
 https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
+#EXTINF:-1,Cinco TV (480p)
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 #EXTINF:-1,Ciudad Magazine (1080p) [Geo-blocked]
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 #EXTINF:-1,Cosmos TV (720p)
@@ -4067,6 +5258,8 @@ https://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 https://live.enhdtv.com:8081/radioiguazutv/index.m3u8
 #EXTINF:-1,Radiocanal San Francisco (1080p)
 http://204.199.3.2/.m3u8
+#EXTINF:-1,RBD Radio Multimedia (720p)
+https://videostream.shockmedia.com.ar:19360/rbdradio/rbdradio.m3u8
 #EXTINF:-1,RTN (Neuquén) (720p) [Not 24/7]
 https://media.neuquen.gov.ar/rtn/television/media.m3u8
 #EXTINF:-1,San Pedro TV (1080p) [Not 24/7]
@@ -4075,6 +5268,8 @@ https://iptv.ixfo.com.ar:30443/live/sanpedrotv/playlist.m3u8
 https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8
 #EXTINF:-1,TeleCinco Trelew (240p)
 https://videohd.live:19360/8016/8016.m3u8
+#EXTINF:-1,TeleJunín (576p)
+https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8
 #EXTINF:-1,Telenord (720p) [Not 24/7]
 https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8
 #EXTINF:-1,Telenord Corrientes (1080p) [Not 24/7]
@@ -4157,6 +5352,8 @@ https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8
 https://v4.tustreaming.cl/restaurandovida/index.m3u8
 #EXTINF:-1,Santa María Televisión (720p) [Not 24/7]
 https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8
+#EXTINF:-1,Sextavisión (720p)
+https://5ff3d9babae13.streamlock.net/8020/8020/playlist.m3u8
 #EXTINF:-1,SoloBáilalo (480p)
 https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8
 #EXTINF:-1,SoloBáilalo (480p)
@@ -4223,12 +5420,16 @@ https://cp.panelchs.com:1936/8118/8118/playlist.m3u8
 https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8
 #EXTINF:-1,Alcance TV (720p)
 https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
+#EXTINF:-1,Antena TV (1080p)
+https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
 #EXTINF:-1,California Medios TV (720p)
 https://s5.mexside.net:1936/medios/medios/playlist.m3u8
 #EXTINF:-1,Canal 26 Aguascalientes (1080p)
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
 #EXTINF:-1,Canal 33 Tijuana (720p)
 https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
+#EXTINF:-1,#EXTVLCOPT:http-referrer=https://www.canalcatorce.tv/
+https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
 #EXTINF:-1,Canal Parlamento del Congreso de Jalisco (720p) [Not 24/7]
 https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8
 #EXTINF:-1,Conecta TV
@@ -4237,10 +5438,16 @@ https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8
 #EXTINF:-1,Expresa TV (720p)
 https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
+#EXTINF:-1,#EXTVLCOPT:http-referrer=https://giktvmx.g3radio.mx
+https://pistream.ddns.net/hls/stream.m3u8
 #EXTINF:-1,La Voz Grupera TV (720p)
 https://cloudvideo.servers10.com:8081/8128/index.m3u8
 #EXTINF:-1,Lobo TV (720p)
 https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
+#EXTINF:-1,NMás Media (1080p)
+https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
+#EXTINF:-1,NMás Media (1080p)
+https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index.m3u8
 #EXTINF:-1,Nueve TV San Luís Potosí (720p)
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 #EXTINF:-1,Radio y Televisión Budokan (352p)
@@ -4257,8 +5464,8 @@ https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
 http://189.240.210.28:1935/live/setpuebla/playlist.m3u8
 #EXTINF:-1,Super Channel 12 (1080p) [Geo-blocked]
 https://servilive.com:3263/live/channel12live.m3u8
-#EXTINF:-1,Telemax (XEWH-TDT) (1080p)
-http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
+#EXTINF:-1,Tele Yucatan [Geo-blocked]
+https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8
 #EXTINF:-1,Tlaxcala Televisión (360p) [Not 24/7]
 https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?token=null
 #EXTINF:-1,TV Cuatro 4.1 (1080p)
@@ -4277,8 +5484,6 @@ https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
 https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
 #EXTINF:-1,TVMás (720p)
 https://60417ddeaf0d9.streamlock.net/telemetrika3/telemetrika3.smil/.m3u8
-#EXTINF:-1,TVP Los Mochis (720p) [Not 24/7]
-https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8
 #EXTINF:-1,TVP Obregón (720p) [Not 24/7]
 https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
 #EXTINF:-1,Ultra TV Puebla (720p) [Not 24/7]
@@ -4299,8 +5504,6 @@ https://elche7tv.gestec-video.com/hls/canal2.m3u8
 https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
 #EXTINF:-1,Solidaria tv Spain
 http://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
-#EXTINF:-1,TV Ferrol
-https://directo.tvferrol.es/tv.m3u8
 #EXTINF:-1,Adult Swim LA
 http://181.119.86.1:8000/play/a019
 #EXTINF:-1,Etc TV
