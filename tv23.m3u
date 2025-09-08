@@ -6160,6 +6160,8 @@ https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
 #EXTM3U
 #EXTINF:-1,2.1 Canal De Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1,3.1 Imagen TV
+https://ythls.armelin.one/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
 #EXTINF:-1,7.1 Azteca 7
 https://pubads.g.doubleclick.net/ssai/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXTINF:-1,21.1 Capital 21
@@ -6188,10 +6190,6 @@ https://cdn.jwplayer.com/manifests/bez1terN.m3u8
 http://204.12.193.98:1935/TvHD/canal10/playlist.m3u8
 #EXTINF:-1,DUR: TV Lobo Durango
 http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
-#EXTINF:-1,GUA: TV Cuatro 4.2 Cultura
-https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
-#EXTINF:-1,GUA: TV Cuatro 4.2 Cultura
-https://5f2c1b0d880e5.streamlock.net/tv42/smil:tv42.smil/chunklist_w2048905456_b3428000_sleng.m3u8
 #EXTINF:-1,MIC: CBTV Michoacan
 https://5ca3e84a76d30.streamlock.net/cbtv/videocbtv/chunklist_w233916547.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDIzIDE6MTY6MTYgUE0maGFzaF92YWx1ZT1TRG9tVW16WXcxdldkdkQ5N3VwdjlnPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ%3D%3D
 #EXTINF:-1,MIC: Canal 6
@@ -6204,10 +6202,16 @@ https://5ca3e84a76d30.streamlock.net/canal6mich/videocanal6mich/chunklist_w15720
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
 #EXTINF:-1,OAX: MVM Noticias Oaxaca
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+#EXTINF:-1,QUE: Super 9 Tv
+https://tv.radiohosting.online:1936/TV344/TV344/playlist.m3u8
 #EXTINF:-1,ROO: SipseTv Cancun
 https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
+#EXTINF:-1,ROO: SIPSE TV 8.1 (1080p) [Not 24/7]
+https://webprod.sipse.com.mx:8080/show/merida.m3u8
 #EXTINF:-1,ROO: Canal 10 Cancun
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1,SLP: Nueve TV
+https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/chunklist_w2067160029.m3u8
 #EXTINF:-1,SIN: TVP Mazatlan
 https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
 #EXTINF:-1,SIN: TVP Culiacan
@@ -6222,14 +6226,18 @@ http://s5.mexside.net:1935/telemax/telemax/chunklist_w586584359.m3u8
 https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8
 #EXTINF:-1,VER: TVMAS Veracruz
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
-#EXTINF:-1,EnerGeek Retro op2 | Chile
+#EXTINF:-1,EnerGeek Retro | Chile
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=dEmoweBeneRGEek2025
-#EXTINF:-1,Energeek Radio TV op2 | Chile
+#EXTINF:-1,Energeek Radio TV | Chile
 https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=dEmoweBeneRGEek2025
 #EXTINF:-1,Energeek Pop | Chile
 https://backend.energeek.cl/webtv/egpopweb/index.m3u8?token=dEmoweBeneRGEek2025
-#EXTINF:-1,Fanpop TV op2 | Chile
+#EXTINF:-1,Fanpop TV | Chile
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=dEmoweBeneRGEek2025
+#EXTINF:-1,Anime Vision | Spain
+https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
+#EXTINF:-1,Anime Vision Classics | Spain
+https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
 #EXTINF:-1,Ani Retro | Chile
 https://tv.arkeo.cl:19360/8000/8000.m3u8
 #EXTINF:-1,Anime Onegai Tv | ND
@@ -6238,12 +6246,8 @@ https://d2se29pyn6ypkx.cloudfront.net/v1/master/964e44f31073da95414e409f230fb47a
 https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8
 #EXTINF:-1,Buin Somos Todos | Chile
 https://bst.buin.cl/0.m3u8
-#EXTINF:-1,Canal 4 San Juan | Argentina
-http://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w1603184235.m3u8
 #EXTINF:-1,Canal Ipe | Peru
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
-#EXTINF:-1,Canal Mas | Uruguay
-https://clientestv.bachistreaming.com:3721/hybrid/play.m3u8
 #EXTINF:-1,Caracola TV | Chile
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 #EXTINF:-1,Chile Channel | Chile
@@ -6256,6 +6260,8 @@ https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 https://v2.tustreaming.cl/clicktv/playlist.m3u8
 #EXTINF:-1,Colome TV | Nueva York
 https://ss2.tvrdomi.com:1936/colometv/colometv/playlist.m3u8
+#EXTINF:-1,Cotui Tv Canal 22 | Republica Dominicana
+https://cloudflare.streamgato.us:3490/live/cotuitvlive.m3u8
 #EXTINF:-1,Dreiko TV | Panamá
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 #EXTINF:-1,Extrema TV | Costa Rica
@@ -6270,6 +6276,8 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
 #EXTINF:-1,Geekdot TV | Brasil
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
+#EXTINF:-1,Gen Tv | Brasil
+https://video01.kshost.com.br:4443/gen3348/gen3348/playlist.m3u8
 #EXTINF:-1,Global TV | Republica Dominicana
 https://5790d294af2dc.streamlock.net/lenaratv/lenaratv/playlist.m3u8
 #EXTINF:-1,Kanade LA | Argentina
@@ -6278,14 +6286,18 @@ https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=deM0kanADeweB
 https://streams.kanade.cl/webtv/kanadeweb/index.m3u8?token=deM0kanADeweB
 #EXTINF:-1,Kanade Brasil | Brasil
 https://streams.kanade.cl/webtv/kanadebr/index.m3u8?token=deM0kanADeweB
+#EXTINF:-1,Kpop Tv Play | Brasil
+https://d1243acc59954ef9bdd02bd9d13025cb.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-br_NewKPop/playlist.m3u8
 #EXTINF:-1,La Popular TV | Chile
 https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8
-#EXTINF:-1,Loading Brasil | Brasil
-https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1,Magic Kids | Argentina
 https://magicstream.ddns.net:443/magicstream/stream.m3u8
+#EXTINF:-1,Mas Cine | Chile
+https://tv.arkeo.cl:19360/8128/8128.m3u8
 #EXTINF:-1,Mega Cine Tv | Republica Dominicana
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+#EXTINF:-1,Mi TV Television Clasica | USA
+https://mitv.getstreamhosting.com:1936/live/live/playlist.m3u8
 #EXTINF:-1,Moni TV op2 | Argentina
 https://tv.arkeo.cl:19360/8134/8134.m3u8
 #EXTINF:-1,My Time Movie | Mexico
@@ -6296,8 +6308,6 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 #EXTINF:-1,NET TV | Argentina
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1,Nickelodeon Espana HD | Spain
-https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/NICK/20-hls/live-media.m3u8
 #EXTINF:-1,Norte Informativo TV | Costa Rica
 https://videohd.live:19360/8076/8076.m3u8
 #EXTINF:-1,Now 70 | ND
@@ -6306,10 +6316,8 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
 https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:-1,Now Rock | ND
 https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
-#EXTINF:-1,Panc Tv HD canal 15.1 | Argentina
-https://panel.host-live.com:19360/20004/20004.m3u8
-#EXTINF:-1,Panc Tv Peru HD | Peru
-https://panel.host-live.com:19360/20000/20000.m3u8
+#EXTINF:-1,Orbit TV | Republica Dominicana
+https://vdo2.streamgato.us:3670/live/orbittvlive.m3u8
 #EXTINF:-1,PBS Kids (Inglés) | USA
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1,Pequeradio | Spain
@@ -6332,6 +6340,8 @@ https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 https://streamaction.ddns.net/suertv_hls/suertv.m3u8
 #EXTINF:-1,Telemas | Costarica
 https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8
+#EXTINF:-1,Teleposadas | Argentina
+https://videostream.shockmedia.com.ar:19360/teleposadas/teleposadas.m3u8
 #EXTINF:-1,Telered | Costa Rica
 https://k20.usastreams.com:8081/telered/index.m3u8
 #EXTINF:-1,Telesistema | Costa Rica
@@ -6346,14 +6356,16 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/playlist.m3u8
 #EXTINF:-1,UCV2 TV | Chile
 https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
+#EXTINF:-1,Unetev HD | Argentina
+https://panel.tvstream.cl:1936/8070/8070/playlist.m3u8
 #EXTINF:-1,VHS | Chile
 https://tv.arkeo.cl:19360/8138/8138.m3u8
+#EXTINF:-1,Video Club | Argentina
+https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
 #EXTINF:-1,Voice Over Radio TV | Costa Rica
 https://cloudvideo.servers10.com:8081/8198/index.m3u8
 #EXTINF:-1,Wording TV HD | Brasil
 https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
-#EXTINF:-1,Wow Tv | El Salvador
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 #EXTINF:-1,MLB Channel | PlutoTV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97d882-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f1832274-98b7-4765-ad8b-c533c4382008&userId=&serverSideAds=true
 #EXTINF:-1,RED BULL TV | Austria
@@ -6446,6 +6458,8 @@ http://srmx.ddns.net:8100/;
 http://s10.voscast.com:7688/;stream1575414865714/1
 #EXTINF:-1,Radio Within Temptation
 http://stream.pcradio.ru/Within_Temptation-med
+#EXTINF:-1,Radio Within Temptation op2
+https://stream.pcradio.ru/Within_Temptation-med
 #EXTINF:-1,Radio Rock-Anhalt
 https://rock-anhalt.stream.laut.fm/rock-anhalt?t302=2025-07-12_16-28-49&uuid=f1cbc978-6e70-40f0-882d-8156ca64a272
 #EXTINF:-1,Radio Exclusively Alanis Morissette
@@ -6482,6 +6496,8 @@ http://185.33.21.112/circuitpride_128?icy=http
 http://node-15.zeno.fm/94abs07w82quv?rj-ttl=5&rj-tok=AAABdqgGbDsANLkFqNQ2h-p5IA
 #EXTINF:-1,Radio Rock Metal
 http://100x100rock.stream.laut.fm:8080/100x100rock
+#EXTINF:-1,raduo2
+https://stream.pcradio.ru/Linkin_Park-hi
 #EXTINF:-1,raduo3
 https://rock-anhalt.stream.laut.fm/rock-anhalt?t302=2025-07-18_01-38-36&uuid=7fc3b7cf-5eac-4102-884e-3a63ff5693cc
 #EXTINF:-1,Suspenso Channel | ND
@@ -7178,126 +7194,1254 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3738-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=31531314-3e7f-4788-8c4f-f153a43ee0a0
 #EXTINF:-1,Zoom! Zoom!
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c77ed3fdde00080eb3a8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3739-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=61bcf170-9a7d-4ad9-8836-366120619cff
+#EXTINF:-1,CBS News 24/7
+https://jmp2.uk/stvp-USBA370000104
+#EXTINF:-1,ABC News Live
+https://jmp2.uk/stvp-USBC39000171G
+#EXTINF:-1,NBC News NOW
+https://jmp2.uk/stvp-USBB2200014DK
+#EXTINF:-1,LiveNOW from FOX
+https://jmp2.uk/stvp-USBA300024TN
+#EXTINF:-1,Scripps News
+https://jmp2.uk/stvp-USBD3000073N
+#EXTINF:-1,NBC Dallas Fort Worth News
+https://jmp2.uk/stvp-USBC15000058Z
+#EXTINF:-1,CBS News Texas
+https://jmp2.uk/stvp-USBD17000129L
+#EXTINF:-1,Fox 4 Dallas - Fort Worth
+https://jmp2.uk/stvp-USBD1200013ET
+#EXTINF:-1,WFAA
+https://jmp2.uk/stvp-USBD3500046GS
+#EXTINF:-1,FOX Weather
+https://jmp2.uk/stvp-USBD700003L7
+#EXTINF:-1,WN Dallas/Ft Worth
+https://jmp2.uk/stvp-USBC1500014UR
+#EXTINF:-1,BBC News
+https://jmp2.uk/stvp-US4000033L
+#EXTINF:-1,Sky News
+https://jmp2.uk/stvp-USBB52000022Q
+#EXTINF:-1,CBC News
+https://jmp2.uk/stvp-USBC4400003OU
+#EXTINF:-1,Bloomberg TV+
+https://jmp2.uk/stvp-USAJ3400011A8
+#EXTINF:-1,Bloomberg Originals
+https://jmp2.uk/stvp-USAJ30000041W
+#EXTINF:-1,Yahoo Finance
+https://jmp2.uk/stvp-USAJ4300005PJ
+#EXTINF:-1,Real America's Voice
+https://jmp2.uk/stvp-USBB1900002KF
+#EXTINF:-1,Salem News Channel
+https://jmp2.uk/stvp-US3700004Y0
+#EXTINF:-1,The First
+https://jmp2.uk/stvp-US1000016Q
+#EXTINF:-1,TYT Network
+https://jmp2.uk/stvp-USBA30002142
+#EXTINF:-1,The Hill
+https://jmp2.uk/stvp-US3300008FX
+#EXTINF:-1,Movie Hub
+https://jmp2.uk/stvp-USBA3000041ZP
+#EXTINF:-1,Movie Hub West
+https://jmp2.uk/stvp-USBD3500036HP
+#EXTINF:-1,Movie Hub Action
+https://jmp2.uk/stvp-USBD3500032H0
+#EXTINF:-1,Movie Hub Romance
+https://jmp2.uk/stvp-USBD3500033U0
+#EXTINF:-1,Hallmark Movies & More
+https://jmp2.uk/stvp-USBD270001633
+#EXTINF:-1,Movie Favorites By Lifetime
+https://jmp2.uk/stvp-USBB5200019FO
+#EXTINF:-1,Lifetime Movies Love & Drama
+https://jmp2.uk/stvp-US1600002OK
+#EXTINF:-1,MovieSphere
+https://jmp2.uk/stvp-USBD17000117B
+#EXTINF:-1,Miramax Channel
+https://jmp2.uk/stvp-US18000163F
+#EXTINF:-1,CINEVAULT
+https://jmp2.uk/stvp-USAJ30000148W
+#EXTINF:-1,CINEVAULT: Classics
+https://jmp2.uk/stvp-USBB3200015M8
+#EXTINF:-1,Universal Movies
+https://jmp2.uk/stvp-USBB3200030CG
+#EXTINF:-1,Gravitas Movies
+https://jmp2.uk/stvp-USBD700011RE
+#EXTINF:-1,MyTime Movie Network
+https://jmp2.uk/stvp-USBC3900018K6
+#EXTINF:-1,NEW KMOVIES
+https://jmp2.uk/stvp-USAJ30000122O
+#EXTINF:-1,Maverick Black Cinema
+https://jmp2.uk/stvp-USAJ3000007MT
+#EXTINF:-1,CINEVAULT: Westerns
+https://jmp2.uk/stvp-USAK3508709A
+#EXTINF:-1,Grjngo
+https://jmp2.uk/stvp-US44000027B
+#EXTINF:-1,FilmRise Westerns
+https://jmp2.uk/stvp-USBB32000196O
+#EXTINF:-1,Grit Xtra
+https://jmp2.uk/stvp-USBC24000213P
+#EXTINF:-1,Death Valley Days
+https://jmp2.uk/stvp-US2900007HA
+#EXTINF:-1,Wild West TV
+https://jmp2.uk/stvp-US4500003B0
+#EXTINF:-1,Western Bound
+https://jmp2.uk/stvp-USBC3200020QF
+#EXTINF:-1,Circle
+https://jmp2.uk/stvp-USBA300035FV
+#EXTINF:-1,Lassie
+https://jmp2.uk/stvp-US1800010NE
+#EXTINF:-1,Little House on the Prairie
+https://jmp2.uk/stvp-US18000078A
+#EXTINF:-1,get TV
+https://jmp2.uk/stvp-USBD1200002PM
+#EXTINF:-1,Shout! TV
+https://jmp2.uk/stvp-USBD1200021JM
+#EXTINF:-1,Samsung Television Network
+https://jmp2.uk/stvp-US300068X7
+#EXTINF:-1,ALL ACTION
+https://jmp2.uk/stvp-USBB2300001QP
+#EXTINF:-1,ION
+https://jmp2.uk/stvp-USBD300002TU
+#EXTINF:-1,ION Plus
+https://jmp2.uk/stvp-USBD300003LK
+#EXTINF:-1,Stories by AMC
+https://jmp2.uk/stvp-USBD2500018X6
+#EXTINF:-1,ElectricNOW
+https://jmp2.uk/stvp-USBC6000225M
+#EXTINF:-1,BBC Drama
+https://jmp2.uk/stvp-US3700005GP
+#EXTINF:-1,Bounce XL
+https://jmp2.uk/stvp-USBD300008G1
+#EXTINF:-1,ALLBLK Gems
+https://jmp2.uk/stvp-USBD300022FH
+#EXTINF:-1,Ebony TV by Lionsgate
+https://jmp2.uk/stvp-USBD2500012DH
+#EXTINF:-1,Shades of Black
+https://jmp2.uk/stvp-USBC1000004G8
+#EXTINF:-1,Las Vegas
+https://jmp2.uk/stvp-US180001143
+#EXTINF:-1,Dawson's Creek
+https://jmp2.uk/stvp-US4100005NW
+#EXTINF:-1,Heartland
+https://jmp2.uk/stvp-USBB2900003O3
+#EXTINF:-1,Baywatch
+https://jmp2.uk/stvp-USBA2000001BR
+#EXTINF:-1,21 Jump Street
+https://jmp2.uk/stvp-USBB320000397
+#EXTINF:-1,Highway to Heaven
+https://jmp2.uk/stvp-USBB19000017U
+#EXTINF:-1,K-Stories by CJ ENM
+https://jmp2.uk/stvp-USBB2900001P9
+#EXTINF:-1,K-Drama by CJ ENM
+https://jmp2.uk/stvp-US17000164B
+#EXTINF:-1,MHz Mysteries
+https://jmp2.uk/stvp-USAJ22000130U
+#EXTINF:-1,Family Hour TV
+https://jmp2.uk/stvp-US4100024YU
+#EXTINF:-1,Dove Channel
+https://jmp2.uk/stvp-USBD700016JY
+#EXTINF:-1,BYUtv
+https://jmp2.uk/stvp-US410000230
+#EXTINF:-1,Degrassi
+https://jmp2.uk/stvp-USBD700010XU
+#EXTINF:-1,Brat TV
+https://jmp2.uk/stvp-USBC240001823
+#EXTINF:-1,Crime Zone
+https://jmp2.uk/stvp-USBB36000040M
+#EXTINF:-1,ION Mystery
+https://jmp2.uk/stvp-USBC24000223S
+#EXTINF:-1,BritBox Mysteries
+https://jmp2.uk/stvp-US3700007E4
+#EXTINF:-1,She Wrote
+https://jmp2.uk/stvp-US1800001D1
+#EXTINF:-1,Midsomer Murders
+https://jmp2.uk/stvp-USBC24000134A
+#EXTINF:-1,Crime 24/7
+https://jmp2.uk/stvp-USAK3508703A
+#EXTINF:-1,I Survived…
+https://jmp2.uk/stvp-USBD1700008H9
+#EXTINF:-1,Dr. G: Medical Examiner
+https://jmp2.uk/stvp-USBB3200004X3
+#EXTINF:-1,World’s Most Evil Killers
+https://jmp2.uk/stvp-USBC1000002NP
+#EXTINF:-1,60 Days In by A&E
+https://jmp2.uk/stvp-USBD42000073E
+#EXTINF:-1,The First 48
+https://jmp2.uk/stvp-US3300011V9
+#EXTINF:-1,Witness to Justice
+https://jmp2.uk/stvp-US700010XK
+#EXTINF:-1,Dateline 24/7
+https://jmp2.uk/stvp-USBB5200007BY
+#EXTINF:-1,ABC 20/20
+https://jmp2.uk/stvp-US4800001W5
+#EXTINF:-1,REELZ Famous & Infamous
+https://jmp2.uk/stvp-USBB3200001MG
+#EXTINF:-1,Live PD Presents
+https://jmp2.uk/stvp-US160000159
+#EXTINF:-1,American Crimes
+https://jmp2.uk/stvp-USBD42000250Q
+#EXTINF:-1,Oxygen True Crimes Archive
+https://jmp2.uk/stvp-US1900005VB
+#EXTINF:-1,Crime ThrillHer
+https://jmp2.uk/stvp-USBB52000236D
+#EXTINF:-1,Crimes Cults Killers
+https://jmp2.uk/stvp-USBB5200022PY
+#EXTINF:-1,Forensic Files
+https://jmp2.uk/stvp-USBB3200017MY
+#EXTINF:-1,Cold Case Files
+https://jmp2.uk/stvp-USBC390002256
+#EXTINF:-1,Unsolved Mysteries
+https://jmp2.uk/stvp-USBB3200018Q6
+#EXTINF:-1,TruBlu
+https://jmp2.uk/stvp-US37000036P
+#EXTINF:-1,Court TV
+https://jmp2.uk/stvp-USBA34000049Z
+#EXTINF:-1,All-Out Reality
+https://jmp2.uk/stvp-USBB4400016F9
+#EXTINF:-1,Kitchen Nightmares
+https://jmp2.uk/stvp-USBA3000042O6
+#EXTINF:-1,Bondi Rescue
+https://jmp2.uk/stvp-US2900010UT
+#EXTINF:-1,Little Women: LA
+https://jmp2.uk/stvp-USBD170000771
+#EXTINF:-1,Dance Moms
+https://jmp2.uk/stvp-USBC3900021HS
+#EXTINF:-1,E! Keeping Up
+https://jmp2.uk/stvp-US18000133I
+#EXTINF:-1,Real Housewives Vault
+https://jmp2.uk/stvp-US18000059V
+#EXTINF:-1,Bravo Vault
+https://jmp2.uk/stvp-US1800003BG
+#EXTINF:-1,Matched Married Meet
+https://jmp2.uk/stvp-USBC440000193
+#EXTINF:-1,Perform
+https://jmp2.uk/stvp-USBB520002604
+#EXTINF:-1,Bad Girls Club
+https://jmp2.uk/stvp-US1800008PZ
+#EXTINF:-1,All Reality We TV
+https://jmp2.uk/stvp-USBD12000061R
+#EXTINF:-1,All Weddings We TV
+https://jmp2.uk/stvp-USBD1200005XR
+#EXTINF:-1,Bring It!
+https://jmp2.uk/stvp-USBD17000040J
+#EXTINF:-1,Cheaters
+https://jmp2.uk/stvp-USBD3500031F3
+#EXTINF:-1,Operation Repo
+https://jmp2.uk/stvp-USBC6000219D
+#EXTINF:-1,Dog the Bounty Hunter
+https://jmp2.uk/stvp-US900002IH
+#EXTINF:-1,Intervention by A&E
+https://jmp2.uk/stvp-USBD3500040WX
+#EXTINF:-1,Hoarders by A&E
+https://jmp2.uk/stvp-USBD4200009Y4
+#EXTINF:-1,Duck Dynasty
+https://jmp2.uk/stvp-USBC4400002GF
+#EXTINF:-1,Swamp People
+https://jmp2.uk/stvp-USBD2700013UK
+#EXTINF:-1,Mountain Men
+https://jmp2.uk/stvp-USBD17000051M
+#EXTINF:-1,INFAST
+https://jmp2.uk/stvp-USBA300022JX
+#EXTINF:-1,DangerTV
+https://jmp2.uk/stvp-USAJ3504708A
+#EXTINF:-1,Caught on Tape
+https://jmp2.uk/stvp-US700007CV
+#EXTINF:-1,Road Renegades
+https://jmp2.uk/stvp-US700002ZB
+#EXTINF:-1,RIG TV
+https://jmp2.uk/stvp-US4500001DM
+#EXTINF:-1,Home Refresh
+https://jmp2.uk/stvp-USBC21000142T
+#EXTINF:-1,Million Dollar Dream Home
+https://jmp2.uk/stvp-US300067FX
+#EXTINF:-1,Home.Made.Nation
+https://jmp2.uk/stvp-USAJ3000006X5
+#EXTINF:-1,Tiny House Nation
+https://jmp2.uk/stvp-USAJ3400020KC
+#EXTINF:-1,This Old House
+https://jmp2.uk/stvp-USBC13000065U
+#EXTINF:-1,This Old House Makers
+https://jmp2.uk/stvp-USBC1300005T6
+#EXTINF:-1,Flipping Nation by A&E
+https://jmp2.uk/stvp-USBD4200008RS
+#EXTINF:-1,Homeful
+https://jmp2.uk/stvp-USBD700022M5
+#EXTINF:-1,At Home with Family Handyman
+https://jmp2.uk/stvp-USBD25000138Y
+#EXTINF:-1,Tastemade Home
+https://jmp2.uk/stvp-USBC3200022W6
+#EXTINF:-1,NBC LX Home
+https://jmp2.uk/stvp-USBB40000028E
+#EXTINF:-1,Million Dollar Listing Vault
+https://jmp2.uk/stvp-USBB3200024V5
+#EXTINF:-1,The Design Network
+https://jmp2.uk/stvp-USBD1200022S1
+#EXTINF:-1,PBS Antiques Roadshow
+https://jmp2.uk/stvp-USBD4200017GS
+#EXTINF:-1,Antiques Roadshow
+https://jmp2.uk/stvp-USBC600018CF
+#EXTINF:-1,BBC Home & Garden
+https://jmp2.uk/stvp-USBC600017FG
+#EXTINF:-1,BBC Food
+https://jmp2.uk/stvp-USBC6000108Z
+#EXTINF:-1,Plated
+https://jmp2.uk/stvp-USBC1300008AZ
+#EXTINF:-1,The Martha Stewart Channel
+https://jmp2.uk/stvp-US4500011SP
+#EXTINF:-1,Emeril Lagasse Channel
+https://jmp2.uk/stvp-US4500010B0
+#EXTINF:-1,America's Test Kitchen
+https://jmp2.uk/stvp-USBA3800002KI
+#EXTINF:-1,Bon Appétit
+https://jmp2.uk/stvp-USBC44000226R
+#EXTINF:-1,Gusto TV
+https://jmp2.uk/stvp-USAK3508724A
+#EXTINF:-1,Jamie Oliver
+https://jmp2.uk/stvp-USBC4400016CL
+#EXTINF:-1,Tastemade
+https://jmp2.uk/stvp-USBD7000189R
+#EXTINF:-1,K-Food by CJ ENM
+https://jmp2.uk/stvp-US17000186W
+#EXTINF:-1,PBS Food
+https://jmp2.uk/stvp-US13000081O
+#EXTINF:-1,PBS Travel
+https://jmp2.uk/stvp-US1300005MK
+#EXTINF:-1,Tastemade Travel
+https://jmp2.uk/stvp-USBD700017WC
+#EXTINF:-1,JOURNY TV
+https://jmp2.uk/stvp-USBB1000003HL
+#EXTINF:-1,Localish
+https://jmp2.uk/stvp-USBC4400005HY
+#EXTINF:-1,MLB Channel
+https://jmp2.uk/stvp-US1400001WV
+#EXTINF:-1,NESN Nation
+https://jmp2.uk/stvp-US300062TG
+#EXTINF:-1,Samsung Showcase
+https://jmp2.uk/stvp-US4700001B4
+#EXTINF:-1,CBS Sports HQ
+https://jmp2.uk/stvp-USBB4800005VO
+#EXTINF:-1,FOX Sports
+https://jmp2.uk/stvp-US2700001QY
+#EXTINF:-1,NBC Sports NOW
+https://jmp2.uk/stvp-USBD420002446
+#EXTINF:-1,Roku Sports Channel
+https://jmp2.uk/stvp-US4500005Z1
+#EXTINF:-1,ESPN8: The Ocho
+https://jmp2.uk/stvp-US34000040T
+#EXTINF:-1,FanDuel TV Extra
+https://jmp2.uk/stvp-US1400012RF
+#EXTINF:-1,The Jim Rome Show
+https://jmp2.uk/stvp-US2900014UU
+#EXTINF:-1,UFC
+https://jmp2.uk/stvp-US2900017P2
+#EXTINF:-1,One Championship TV
+https://jmp2.uk/stvp-US2600006VY
+#EXTINF:-1,PFL
+https://jmp2.uk/stvp-US350000231
+#EXTINF:-1,Combate Global MMA
+https://jmp2.uk/stvp-US4600006R8
+#EXTINF:-1,DraftKings Network
+https://jmp2.uk/stvp-USBD700013BW
+#EXTINF:-1,SportsGrid
+https://jmp2.uk/stvp-USBA300031OT
+#EXTINF:-1,FIFA+
+https://jmp2.uk/stvp-USBD12000255B
+#EXTINF:-1,beIN SPORTS XTRA
+https://jmp2.uk/stvp-USAJ4300001Q7
+#EXTINF:-1,RugbyPass TV
+https://jmp2.uk/stvp-US1000004YJ
+#EXTINF:-1,fubo Sports Network
+https://jmp2.uk/stvp-USAJ2200023Z0
+#EXTINF:-1,Unbeaten Sports Channel
+https://jmp2.uk/stvp-US1400008DW
+#EXTINF:-1,Big 12 Studios
+https://jmp2.uk/stvp-US37000017A
+#EXTINF:-1,Pac-12 Insider
+https://jmp2.uk/stvp-USBA300034DB
+#EXTINF:-1,ACC Digital Network
+https://jmp2.uk/stvp-USBD25000161U
+#EXTINF:-1,TNA Wrestling
+https://jmp2.uk/stvp-USBB1000001XP
+#EXTINF:-1,MSG SportsZone
+https://jmp2.uk/stvp-USBD300021B8
+#EXTINF:-1,Women's Sports Network
+https://jmp2.uk/stvp-US4100001KP
+#EXTINF:-1,PGA Tour
+https://jmp2.uk/stvp-US400001M2
+#EXTINF:-1,DP World Tour
+https://jmp2.uk/stvp-US4600010KE
+#EXTINF:-1,GOLFPASS
+https://jmp2.uk/stvp-USBB400000145
+#EXTINF:-1,T2
+https://jmp2.uk/stvp-USBC600001QL
+#EXTINF:-1,PickleballTV
+https://jmp2.uk/stvp-USBD4200016QR
+#EXTINF:-1,Billiard TV
+https://jmp2.uk/stvp-USBD12000183X
+#EXTINF:-1,World Poker Tour
+https://jmp2.uk/stvp-USBD1700009P5
+#EXTINF:-1,SURFER TV
+https://jmp2.uk/stvp-USBB10000058A
+#EXTINF:-1,MeatEater
+https://jmp2.uk/stvp-US21000043S
+#EXTINF:-1,Game & Fish TV
+https://jmp2.uk/stvp-US4400001PL
+#EXTINF:-1,Outside TV
+https://jmp2.uk/stvp-USAJ3504707A
+#EXTINF:-1,Waypoint TV
+https://jmp2.uk/stvp-USBB440002055
+#EXTINF:-1,Pursuit UP
+https://jmp2.uk/stvp-USBD17000025J
+#EXTINF:-1,Outdoor America
+https://jmp2.uk/stvp-USBD1200020Y4
+#EXTINF:-1,NASCAR Channel
+https://jmp2.uk/stvp-US700021SM
+#EXTINF:-1,Formula 1 Channel
+https://jmp2.uk/stvp-US600011Q2
+#EXTINF:-1,Top Gear
+https://jmp2.uk/stvp-USBC2400027NG
+#EXTINF:-1,Torque
+https://jmp2.uk/stvp-USBB5200027Z5
+#EXTINF:-1,MotorTrend FAST TV
+https://jmp2.uk/stvp-USBC3600005U9
+#EXTINF:-1,RACER Select
+https://jmp2.uk/stvp-USBD1700019RN
+#EXTINF:-1,POWERNATION
+https://jmp2.uk/stvp-USBD2500017XQ
+#EXTINF:-1,NHRA TV
+https://jmp2.uk/stvp-USBC3200019WF
+#EXTINF:-1,Hagerty
+https://jmp2.uk/stvp-USBD4200011W4
+#EXTINF:-1,Animation+
+https://jmp2.uk/stvp-US400002PS
+#EXTINF:-1,Letterman TV
+https://jmp2.uk/stvp-US4000004N1
+#EXTINF:-1,Conan O'Brien TV
+https://jmp2.uk/stvp-USBD120001614
+#EXTINF:-1,Hot Ones
+https://jmp2.uk/stvp-US2900006IV
+#EXTINF:-1,Mythical 24/7
+https://jmp2.uk/stvp-US2900008FP
+#EXTINF:-1,MrBeast
+https://jmp2.uk/stvp-US310000101
+#EXTINF:-1,SNL Vault
+https://jmp2.uk/stvp-US1800012MT
+#EXTINF:-1,LOL! Network
+https://jmp2.uk/stvp-USBC1300009VM
+#EXTINF:-1,National Lampoon
+https://jmp2.uk/stvp-US1800015K5
+#EXTINF:-1,GET Comedy
+https://jmp2.uk/stvp-US350000563
+#EXTINF:-1,Laff More
+https://jmp2.uk/stvp-US3700002P0
+#EXTINF:-1,BBC Comedy
+https://jmp2.uk/stvp-US4500009VV
+#EXTINF:-1,Mr. Bean Animated
+https://jmp2.uk/stvp-US170002608
+#EXTINF:-1,Portlandia
+https://jmp2.uk/stvp-USBD12000038K
+#EXTINF:-1,Who's The Boss?
+https://jmp2.uk/stvp-US4100003MA
+#EXTINF:-1,ALF
+https://jmp2.uk/stvp-US4100023FK
+#EXTINF:-1,Saved by the Bell
+https://jmp2.uk/stvp-US18000096O
+#EXTINF:-1,Just for Laughs GAGS
+https://jmp2.uk/stvp-USBC4400004KK
+#EXTINF:-1,FailArmy
+https://jmp2.uk/stvp-USAJ3504702A
+#EXTINF:-1,Always Funny Videos
+https://jmp2.uk/stvp-USBA1600001XM
+#EXTINF:-1,Dry Bar Comedy
+https://jmp2.uk/stvp-USAJ30000039U
+#EXTINF:-1,Comedy Dynamics
+https://jmp2.uk/stvp-USBD7000145C
+#EXTINF:-1,Mystery Science Theater 3000
+https://jmp2.uk/stvp-US4500004SQ
+#EXTINF:-1,Hell's Kitchen
+https://jmp2.uk/stvp-USBB2900002Z7
+#EXTINF:-1,Storage Wars: LA
+https://jmp2.uk/stvp-USBD1700006T2
+#EXTINF:-1,Pawn Stars
+https://jmp2.uk/stvp-US300003S3
+#EXTINF:-1,Wipeout Xtra
+https://jmp2.uk/stvp-USBB4400018LR
+#EXTINF:-1,American Ninja Warrior
+https://jmp2.uk/stvp-US19000017A
+#EXTINF:-1,Fear Factor
+https://jmp2.uk/stvp-USBB2300002Q6
+#EXTINF:-1,American Pickers by History
+https://jmp2.uk/stvp-USBD3500041ZF
+#EXTINF:-1,Forged In Fire
+https://jmp2.uk/stvp-USBD2700014QW
+#EXTINF:-1,Ice Road Truckers
+https://jmp2.uk/stvp-USBB520002173
+#EXTINF:-1,Ax Men
+https://jmp2.uk/stvp-USBB5200020Z0
+#EXTINF:-1,Alone By History
+https://jmp2.uk/stvp-USBD27000156I
+#EXTINF:-1,Project Runway
+https://jmp2.uk/stvp-USBB3500004RC
+#EXTINF:-1,Deal Zone
+https://jmp2.uk/stvp-USBB52000246M
+#EXTINF:-1,Xtreme Outdoor Presented by HISTORY
+https://jmp2.uk/stvp-USAK3508706A
+#EXTINF:-1,Let's Make A Deal Classic
+https://jmp2.uk/stvp-US7000229B
+#EXTINF:-1,BUZZR
+https://jmp2.uk/stvp-USBD700021WG
+#EXTINF:-1,Game Show Central
+https://jmp2.uk/stvp-USAJ3400012FA
+#EXTINF:-1,Supermarket Sweep
+https://jmp2.uk/stvp-USBC44000087O
+#EXTINF:-1,Deal or No Deal
+https://jmp2.uk/stvp-USBB4400017N3
+#EXTINF:-1,Biography: The Icons
+https://jmp2.uk/stvp-US26000201N
+#EXTINF:-1,WWE Superstar Central
+https://jmp2.uk/stvp-US700005ID
+#EXTINF:-1,In Depth with Graham Bensinger
+https://jmp2.uk/stvp-US2600024EO
+#EXTINF:-1,The Bob Ross Channel
+https://jmp2.uk/stvp-USBD700012OA
+#EXTINF:-1,TODAY All Day
+https://jmp2.uk/stvp-USBB32000251N
+#EXTINF:-1,Cheddar News
+https://jmp2.uk/stvp-USAJ3504714A
+#EXTINF:-1,Dr Phil's MeritTV
+https://jmp2.uk/stvp-US70001475
+#EXTINF:-1,Divorce Court
+https://jmp2.uk/stvp-USBD300006A6
+#EXTINF:-1,Cutlers Court
+https://jmp2.uk/stvp-US700020AX
+#EXTINF:-1,VICE
+https://jmp2.uk/stvp-USBB1900006NY
+#EXTINF:-1,Backstage
+https://jmp2.uk/stvp-USBC10000129R
+#EXTINF:-1,Documentary+
+https://jmp2.uk/stvp-USAJ3504701A
+#EXTINF:-1,FOX SOUL
+https://jmp2.uk/stvp-USBA300032J7
+#EXTINF:-1,4UV
+https://jmp2.uk/stvp-USBD70000412
+#EXTINF:-1,Revry
+https://jmp2.uk/stvp-USBA3800003VP
+#EXTINF:-1,OUTtv Proud
+https://jmp2.uk/stvp-US8000024G
+#EXTINF:-1,ET
+https://jmp2.uk/stvp-USBA3700002JF
+#EXTINF:-1,Hollywire
+https://jmp2.uk/stvp-USBC2400015DO
+#EXTINF:-1,TMZ
+https://jmp2.uk/stvp-USBD70000213
+#EXTINF:-1,Fear Zone
+https://jmp2.uk/stvp-USBC1300012VK
+#EXTINF:-1,Mysteries Xplored
+https://jmp2.uk/stvp-USBB5200028MM
+#EXTINF:-1,The Walking Dead Universe
+https://jmp2.uk/stvp-USBD1200004NS
+#EXTINF:-1,Universal Monsters
+https://jmp2.uk/stvp-US1900002QK
+#EXTINF:-1,Alfred Hitchcock Presents
+https://jmp2.uk/stvp-US1800014CG
+#EXTINF:-1,OuterSphere
+https://jmp2.uk/stvp-USBD1200007FE
+#EXTINF:-1,FARSCAPE
+https://jmp2.uk/stvp-US4100022W9
+#EXTINF:-1,The Curse of Oak Island
+https://jmp2.uk/stvp-US300002BE
+#EXTINF:-1,Haunt TV
+https://jmp2.uk/stvp-USBC4400006BR
+#EXTINF:-1,Alien Nation by DUST
+https://jmp2.uk/stvp-USBC100000630
+#EXTINF:-1,Unidentified
+https://jmp2.uk/stvp-USBB10000047W
+#EXTINF:-1,The UnXplained with William Shatner
+https://jmp2.uk/stvp-US700011JL
+#EXTINF:-1,Ancient Aliens
+https://jmp2.uk/stvp-US3300010F5
+#EXTINF:-1,The Asylum
+https://jmp2.uk/stvp-USAJ17000014C
+#EXTINF:-1,Horror by ALTER
+https://jmp2.uk/stvp-USBC100001175
+#EXTINF:-1,Midnight Pulp
+https://jmp2.uk/stvp-USBD700015LK
+#EXTINF:-1,It’s Anime
+https://jmp2.uk/stvp-US11000020V
+#EXTINF:-1,RetroCrush
+https://jmp2.uk/stvp-USBC36000073J
+#EXTINF:-1,BizaarTV
+https://jmp2.uk/stvp-US1700027JI
+#EXTINF:-1,FilmRise Anime
+https://jmp2.uk/stvp-US3500004M7
+#EXTINF:-1,Naruto
+https://jmp2.uk/stvp-US2000014IC
+#EXTINF:-1,Sailor Moon
+https://jmp2.uk/stvp-US2000015Z1
+#EXTINF:-1,Hunter x Hunter
+https://jmp2.uk/stvp-US270000585
+#EXTINF:-1,JoJo's Bizarre Adventure
+https://jmp2.uk/stvp-US27000062U
+#EXTINF:-1,D&D Adventures
+https://jmp2.uk/stvp-US3400005I4
+#EXTINF:-1,Team Liquid
+https://jmp2.uk/stvp-US240000434
+#EXTINF:-1,Universe: Mysteries Solved
+https://jmp2.uk/stvp-US900001CX
+#EXTINF:-1,PBS Genealogy
+https://jmp2.uk/stvp-US130000639
+#EXTINF:-1,Samsung Wild Life
+https://jmp2.uk/stvp-USBA3000043LH
+#EXTINF:-1,The Jack Hanna Channel
+https://jmp2.uk/stvp-USBC2100009GT
+#EXTINF:-1,Love Pets
+https://jmp2.uk/stvp-US300065DB
+#EXTINF:-1,The Pet Collective
+https://jmp2.uk/stvp-USAJ3504704A
+#EXTINF:-1,Lucky Dog
+https://jmp2.uk/stvp-USBA3000044BJ
+#EXTINF:-1,Dog Whisperer
+https://jmp2.uk/stvp-US3400001FX
+#EXTINF:-1,Rovr Pets
+https://jmp2.uk/stvp-USBC2400024FN
+#EXTINF:-1,Clarity 4K
+https://jmp2.uk/stvp-USBA3800005NI
+#EXTINF:-1,Dinos 24/7
+https://jmp2.uk/stvp-US3700006XE
+#EXTINF:-1,BBC Earth
+https://jmp2.uk/stvp-USBD1700001RW
+#EXTINF:-1,PBS Nature
+https://jmp2.uk/stvp-US1300007KZ
+#EXTINF:-1,Xplore
+https://jmp2.uk/stvp-USBC2100008DP
+#EXTINF:-1,Love Nature 4K
+https://jmp2.uk/stvp-USBA3400003IP
+#EXTINF:-1,WildEarth
+https://jmp2.uk/stvp-US3800007CR
+#EXTINF:-1,MagellanTV Wildest
+https://jmp2.uk/stvp-USAJ340000677
+#EXTINF:-1,InWonder
+https://jmp2.uk/stvp-USBA300023G8
+#EXTINF:-1,History 365
+https://jmp2.uk/stvp-USBD35000428O
+#EXTINF:-1,Modern Marvels Presented by History
+https://jmp2.uk/stvp-USBB5200025DO
+#EXTINF:-1,History & Warfare Now
+https://jmp2.uk/stvp-USBD1200009JI
+#EXTINF:-1,Military Heroes
+https://jmp2.uk/stvp-USBC39000204J
+#EXTINF:-1,TED
+https://jmp2.uk/stvp-USBC2100013WI
+#EXTINF:-1,WeatherSpy
+https://jmp2.uk/stvp-USAJ3400014LK
+#EXTINF:-1,PBS Digital Studios
+https://jmp2.uk/stvp-USBB800001O7
+#EXTINF:-1,Mattel Jr.
+https://jmp2.uk/stvp-US4500002UB
+#EXTINF:-1,Barbie and Friends
+https://jmp2.uk/stvp-USBD490000209
+#EXTINF:-1,Hot Wheels Action
+https://jmp2.uk/stvp-US2900013AY
+#EXTINF:-1,PBS Kids
+https://jmp2.uk/stvp-USBC3600013PC
+#EXTINF:-1,Moonbug
+https://jmp2.uk/stvp-USBB11000015Q
+#EXTINF:-1,Blippi
+https://jmp2.uk/stvp-US9000032J
+#EXTINF:-1,Caillou
+https://jmp2.uk/stvp-USBD50000048H
+#EXTINF:-1,Fireman Sam
+https://jmp2.uk/stvp-USBD42000124T
+#EXTINF:-1,Baby Einstein
+https://jmp2.uk/stvp-USBD350002338
+#EXTINF:-1,Teletubbies
+https://jmp2.uk/stvp-USBD3500015R5
+#EXTINF:-1,Barney and Friends
+https://jmp2.uk/stvp-US300001UO
+#EXTINF:-1,Bob the Builder
+https://jmp2.uk/stvp-USBC4400013R7
+#EXTINF:-1,Strawberry Shortcake
+https://jmp2.uk/stvp-USBC4400012QS
+#EXTINF:-1,My Little Pony
+https://jmp2.uk/stvp-US2900011CJ
+#EXTINF:-1,HappyKids
+https://jmp2.uk/stvp-USBC44000072I
+#EXTINF:-1,Shaun the Sheep
+https://jmp2.uk/stvp-US2200006FS
+#EXTINF:-1,Rainbow Ruby
+https://jmp2.uk/stvp-USBD3300015BY
+#EXTINF:-1,ZooMoo
+https://jmp2.uk/stvp-USBC2400019EF
+#EXTINF:-1,Rev and Roll
+https://jmp2.uk/stvp-USBD3300016AK
+#EXTINF:-1,TG Junior
+https://jmp2.uk/stvp-USBB3600001R6
+#EXTINF:-1,All Babies Channel
+https://jmp2.uk/stvp-USBD3300019OU
+#EXTINF:-1,ducktv
+https://jmp2.uk/stvp-US3400003HI
+#EXTINF:-1,Sensical Jr
+https://jmp2.uk/stvp-USBD3300013KV
+#EXTINF:-1,Kartoon Channel!
+https://jmp2.uk/stvp-US2900015RO
+#EXTINF:-1,Power Rangers
+https://jmp2.uk/stvp-US2900012T8
+#EXTINF:-1,Transformers
+https://jmp2.uk/stvp-US29000168D
+#EXTINF:-1,The LEGO Channel
+https://jmp2.uk/stvp-USBA2300001S8
+#EXTINF:-1,Sonic The Hedgehog
+https://jmp2.uk/stvp-USBD3300020PM
+#EXTINF:-1,Slugterra
+https://jmp2.uk/stvp-USBD33000180S
+#EXTINF:-1,Yu-Gi-Oh
+https://jmp2.uk/stvp-US1000003G8
+#EXTINF:-1,Pokémon
+https://jmp2.uk/stvp-US5100003NU
+#EXTINF:-1,Ryan and Friends
+https://jmp2.uk/stvp-USBD12000239N
+#EXTINF:-1,pocket.watch Game-On
+https://jmp2.uk/stvp-USBD12000153A
+#EXTINF:-1,Ninja Kidz
+https://jmp2.uk/stvp-US2200007QG
+#EXTINF:-1,Toon Goggles
+https://jmp2.uk/stvp-USBB1900004J9
+#EXTINF:-1,Sensical Makers
+https://jmp2.uk/stvp-USBD3300017XB
+#EXTINF:-1,batteryPOP
+https://jmp2.uk/stvp-USBD3300012VX
+#EXTINF:-1,BBC Kids
+https://jmp2.uk/stvp-US800003JM
+#EXTINF:-1,Hallmark en Español
+https://jmp2.uk/stvp-US1300001GM
+#EXTINF:-1,AMC en Español
+https://jmp2.uk/stvp-USBD7000017L
+#EXTINF:-1,Historia
+https://jmp2.uk/stvp-US2600019IC
+#EXTINF:-1,CG MMA En Español
+https://jmp2.uk/stvp-US4600005ST
+#EXTINF:-1,Zona TUDN
+https://jmp2.uk/stvp-USBD1700016X9
+#EXTINF:-1,beIN Sports XTRA ñ
+https://jmp2.uk/stvp-US2700004DX
+#EXTINF:-1,Telemundo Texas
+https://jmp2.uk/stvp-USBC4400018D0
+#EXTINF:-1,WAPA+
+https://jmp2.uk/stvp-US41000060J
+#EXTINF:-1,Telemundo Al Día
+https://jmp2.uk/stvp-USBB3200016HO
+#EXTINF:-1,Noticias Telemundo Ahora
+https://jmp2.uk/stvp-US3000005RS
+#EXTINF:-1,Telemundo Accion
+https://jmp2.uk/stvp-US1800002UQ
+#EXTINF:-1,Caso Cerrado
+https://jmp2.uk/stvp-US1800004S5
+#EXTINF:-1,Estrella TV
+https://jmp2.uk/stvp-USBA300040WR
+#EXTINF:-1,Estrella News
+https://jmp2.uk/stvp-USAJ2200020N4
+#EXTINF:-1,Curiosity Motores
+https://jmp2.uk/stvp-US2200003ZN
+#EXTINF:-1,Estrella Games
+https://jmp2.uk/stvp-USBC24000145I
+#EXTINF:-1,Curiosity Animales
+https://jmp2.uk/stvp-US2200001IY
+#EXTINF:-1,Curiosity Explora
+https://jmp2.uk/stvp-US22000020U
+#EXTINF:-1,Sony One Competencias
+https://jmp2.uk/stvp-USAJ3504719A
+#EXTINF:-1,Sony One Novelas
+https://jmp2.uk/stvp-USAJ3000002OC
+#EXTINF:-1,Canela.TV
+https://jmp2.uk/stvp-USBC39000080S
+#EXTINF:-1,Novelas Turcas
+https://jmp2.uk/stvp-US27000033D
+#EXTINF:-1,¿Qué Culpa Tiene Fatmagül?
+https://jmp2.uk/stvp-US270000298
+#EXTINF:-1,Canal ViX
+https://jmp2.uk/stvp-US2200005Y2
+#EXTINF:-1,Angelique
+https://jmp2.uk/stvp-US2200004HD
+#EXTINF:-1,ViX Novelas de romance
+https://jmp2.uk/stvp-USBB44000099N
+#EXTINF:-1,Las 3 Marías
+https://jmp2.uk/stvp-USBD17000172A
+#EXTINF:-1,ViX Grandes Parejas
+https://jmp2.uk/stvp-USBC2100012EJ
+#EXTINF:-1,ViX Villanos de Novela
+https://jmp2.uk/stvp-USBC2100011WI
+#EXTINF:-1,ViX JaJaJa
+https://jmp2.uk/stvp-USBC2100010OS
+#EXTINF:-1,Rebelde
+https://jmp2.uk/stvp-USBD1700018II
+#EXTINF:-1,Galanes
+https://jmp2.uk/stvp-USBD2700002DU
+#EXTINF:-1,Cine Retro
+https://jmp2.uk/stvp-USBD2500022U5
+#EXTINF:-1,Cine de Oro
+https://jmp2.uk/stvp-USBD2700005KL
+#EXTINF:-1,Como Dice el Dicho
+https://jmp2.uk/stvp-USBD2700004ME
+#EXTINF:-1,Pequenos Gigantes
+https://jmp2.uk/stvp-USBD2700003F3
+#EXTINF:-1,Aquí y Ahora
+https://jmp2.uk/stvp-USBD1700015J1
+#EXTINF:-1,Noticias Univision 24/7
+https://jmp2.uk/stvp-USBD1700014QU
+#EXTINF:-1,Cine Romantico
+https://jmp2.uk/stvp-USBA3800001E0
+#EXTINF:-1,Coreano by CJ ENM
+https://jmp2.uk/stvp-US1700019P7
+#EXTINF:-1,XITE Hits
+https://jmp2.uk/stvp-USBD3300004RH
+#EXTINF:-1,XITE 80s Flashback
+https://jmp2.uk/stvp-USBB320000647
+#EXTINF:-1,XITE 90s Throwback
+https://jmp2.uk/stvp-USBB3200007AK
+#EXTINF:-1,XITE Celebrates
+https://jmp2.uk/stvp-USBD350003932
+#EXTINF:-1,XITE Country Today
+https://jmp2.uk/stvp-USBD3300006O3
+#EXTINF:-1,XITE Classic Country
+https://jmp2.uk/stvp-USBD3300011UT
+#EXTINF:-1,XITE Christian Hits
+https://jmp2.uk/stvp-US46000072L
+#EXTINF:-1,XITE Nuevo Latino
+https://jmp2.uk/stvp-USBD3300007PB
+#EXTINF:-1,XITE Siempre Latino
+https://jmp2.uk/stvp-USBD3300010L9
+#EXTINF:-1,XITE R&B Classic Jams
+https://jmp2.uk/stvp-USBD330000948
+#EXTINF:-1,XITE Reggae Vibes
+https://jmp2.uk/stvp-US4600008JA
+#EXTINF:-1,XITE Rock x Metal
+https://jmp2.uk/stvp-USBB2300004KV
+#EXTINF:-1,XITE Just Chill
+https://jmp2.uk/stvp-USBB2300003JZ
+#EXTINF:-1,Vevo '70s
+https://jmp2.uk/stvp-USBD300011KQ
+#EXTINF:-1,Vevo '80s
+https://jmp2.uk/stvp-USBD300012YC
+#EXTINF:-1,Vevo '90s
+https://jmp2.uk/stvp-USBD3000133M
+#EXTINF:-1,Vevo 2K
+https://jmp2.uk/stvp-USBB4400015F5
+#EXTINF:-1,Vevo 2010s
+https://jmp2.uk/stvp-USBD120002431
+#EXTINF:-1,Vevo Rock
+https://jmp2.uk/stvp-USBD3000145P
+#EXTINF:-1,Vevo Latino
+https://jmp2.uk/stvp-USBC3600015GF
+#EXTINF:-1,Vevo Hip-Hop
+https://jmp2.uk/stvp-USBC3600002EK
+#EXTINF:-1,Vevo R&B
+https://jmp2.uk/stvp-USBC3900009K5
+#EXTINF:-1,Vevo Country
+https://jmp2.uk/stvp-USBC3600001RQ
+#EXTINF:-1,Vevo Pop
+https://jmp2.uk/stvp-USBC3600008WY
+#EXTINF:-1,SMTOWN
+https://jmp2.uk/stvp-US10000135V
+#EXTINF:-1,K-POP by CJ ENM
+https://jmp2.uk/stvp-US39000038W
+#EXTINF:-1,NEW KPOP
+https://jmp2.uk/stvp-USAJ3000013FJ
+#EXTINF:-1,Stingray Today's K-Pop
+https://jmp2.uk/stvp-USBD3500016NH
+#EXTINF:-1,Stingray DJAZZ
+https://jmp2.uk/stvp-USBD3500025GS
+#EXTINF:-1,Stingray Classica
+https://jmp2.uk/stvp-USBD350002623
+#EXTINF:-1,Stingray Movie Music
+https://jmp2.uk/stvp-US4700003DP
+#EXTINF:-1,Qello Concerts by Stingray
+https://jmp2.uk/stvp-USBD3500024YB
+#EXTINF:-1,Stingray Romance Latino
+https://jmp2.uk/stvp-USBD3500017CE
+#EXTINF:-1,Stingray Today's Latin Pop
+https://jmp2.uk/stvp-USBD3500009Y3
+#EXTINF:-1,Stingray Hip Hop
+https://jmp2.uk/stvp-USBD3500010MT
+#EXTINF:-1,Stingray Euro Hits
+https://jmp2.uk/stvp-US4700002UF
+#EXTINF:-1,Stingray Nothin' But 90s
+https://jmp2.uk/stvp-USBD35000149S
+#EXTINF:-1,Stingray Remember the 80s
+https://jmp2.uk/stvp-USBD3300022QK
+#EXTINF:-1,Stingray Flashback 70s
+https://jmp2.uk/stvp-USBD3500008IJ
+#EXTINF:-1,Stingray Soft Hits
+https://jmp2.uk/stvp-US4700007GV
+#EXTINF:-1,Stingray Jukebox Oldies
+https://jmp2.uk/stvp-US4700006XL
+#EXTINF:-1,Stingray Easy Listening
+https://jmp2.uk/stvp-USBD3500011J3
+#EXTINF:-1,Stingray Smooth Jazz
+https://jmp2.uk/stvp-USBD35000128A
+#EXTINF:-1,Stingray Classic Rock
+https://jmp2.uk/stvp-USBD35000180U
+#EXTINF:-1,Stingray Country Greats
+https://jmp2.uk/stvp-US4700005EA
+#EXTINF:-1,Stingray Hot Country
+https://jmp2.uk/stvp-USBD3300021KV
+#EXTINF:-1,Stingray Greatest Hits
+https://jmp2.uk/stvp-USBD3500022DN
+#EXTINF:-1,Ocean Vibes
+https://jmp2.uk/stvp-US700012OU
+#EXTINF:-1,Island Vibes
+https://jmp2.uk/stvp-US1400007V6
+#EXTINF:-1,Storm Vibes
+https://jmp2.uk/stvp-US1400014N9
+#EXTINF:-1,Rainy Day Vibes
+https://jmp2.uk/stvp-US14000030Y
+#EXTINF:-1,Summer Vibes
+https://jmp2.uk/stvp-US1400010S0
+#EXTINF:-1,Stingray Holidayscapes
+https://jmp2.uk/stvp-USBD3500038R6
+#EXTINF:-1,Stingray Naturescape
+https://jmp2.uk/stvp-USAK3508705A
+#EXTINF:-1,Loupe 4K
+https://jmp2.uk/stvp-USBB1000002TK
+#EXTINF:-1,ZenLIFE by Stingray
+https://jmp2.uk/stvp-USBD3500027DS
+#EXTINF:-1,Stingray Spa
+https://jmp2.uk/stvp-USBD3500013DG
+#EXTINF:-1,Beach Bonfire Vibes
+https://jmp2.uk/stvp-US14000119Q
+#EXTINF:-1,Campfire Vibes
+https://jmp2.uk/stvp-US1500002I2
+#EXTINF:-1,Cozy Vibes
+https://jmp2.uk/stvp-US2900005NW
+#EXTINF:-1,Luxe Fireplace Vibes
+https://jmp2.uk/stvp-US2900004L2
+#EXTINF:-1,Fireplace Vibes
+https://jmp2.uk/stvp-USBA3800004EL
+#EXTINF:-1,Estilo y Vida – Rakuten TV
+https://jmp2.uk/stvp-ES26000068D
+#EXTINF:-1,La 1
+https://jmp2.uk/stvp-ESBC4100001NZ
+#EXTINF:-1,Canal Sur Andalucía
+https://jmp2.uk/stvp-ESBD3000002GP
+#EXTINF:-1,La 2
+https://jmp2.uk/stvp-ESBC4100002AG
+#EXTINF:-1,Sony One Shark Tank
+https://jmp2.uk/stvp-ES300004C9
+#EXTINF:-1,Anime Visión
+https://jmp2.uk/stvp-ES300029LP
+#EXTINF:-1,Anime Visión Classics
+https://jmp2.uk/stvp-ES3000288I
+#EXTINF:-1,¡Hola! Play
+https://jmp2.uk/stvp-ES26000025M
+#EXTINF:-1,Ideas en 5 Minutos
+https://jmp2.uk/stvp-ESBC3500002PW
+#EXTINF:-1,Azteca Internacional
+https://jmp2.uk/stvp-ESBD1300004IG
+#EXTINF:-1,H2O & Friends
+https://jmp2.uk/stvp-ES500002NY
+#EXTINF:-1,2M
+https://jmp2.uk/stvp-ES4700001VS
+#EXTINF:-1,Coreano by CJ ENM
+https://jmp2.uk/stvp-ES1700003C6
+#EXTINF:-1,Fireplace Vibes
+https://jmp2.uk/stvp-ES2200001SF
+#EXTINF:-1,Baywatch – Los Vigilantes de la Playa
+https://jmp2.uk/stvp-ESBD1300001EP
+#EXTINF:-1,Cuéntame cómo pasó
+https://jmp2.uk/stvp-ES400002P5
+#EXTINF:-1,Águila Roja
+https://jmp2.uk/stvp-ES500005BP
+#EXTINF:-1,Corazón
+https://jmp2.uk/stvp-ESBD1300003VN
+#EXTINF:-1,Vive Kanal D Drama
+https://jmp2.uk/stvp-ESBC1700001QI
+#EXTINF:-1,Sony One Series Thriller
+https://jmp2.uk/stvp-ES300002Y6
+#EXTINF:-1,Sony One Éxitos
+https://jmp2.uk/stvp-ES300003D4
+#EXTINF:-1,Sony One The Blacklist
+https://jmp2.uk/stvp-ES300005EL
+#EXTINF:-1,Sony One Series Comedia
+https://jmp2.uk/stvp-ES30000145
+#EXTINF:-1,Euronews EN DIRECTO
+https://jmp2.uk/stvp-ES260000968
+#EXTINF:-1,24H
+https://jmp2.uk/stvp-ESBC4100004J1
+#EXTINF:-1,Negocios TV
+https://jmp2.uk/stvp-ESBD3400001AA
+#EXTINF:-1,El País
+https://jmp2.uk/stvp-ESBC39000033J
+#EXTINF:-1,El Confidencial
+https://jmp2.uk/stvp-ESBC1400001L8
+#EXTINF:-1,CNN Headlines
+https://jmp2.uk/stvp-ESBD190000137
+#EXTINF:-1,NBC News NOW
+https://jmp2.uk/stvp-ESBC400003YM
+#EXTINF:-1,Sky News International
+https://jmp2.uk/stvp-ES3400004SS
+#EXTINF:-1,FRANCE 24 FAST
+https://jmp2.uk/stvp-ESBD1100001PQ
+#EXTINF:-1,DW
+https://jmp2.uk/stvp-ES1300001QC
+#EXTINF:-1,Forensic Files
+https://jmp2.uk/stvp-ES2600001MC
+#EXTINF:-1,Todo Crimen
+https://jmp2.uk/stvp-ES1600004JV
+#EXTINF:-1,DATELINE 24/7
+https://jmp2.uk/stvp-ESBD3700001S0
+#EXTINF:-1,Crimen - Rakuten TV
+https://jmp2.uk/stvp-ES2600005G9
+#EXTINF:-1,MyPadel TV
+https://jmp2.uk/stvp-ES30000091V
+#EXTINF:-1,Teledeporte
+https://jmp2.uk/stvp-ESBC410000577
+#EXTINF:-1,La Liga Inside
+https://jmp2.uk/stvp-ESBD3600001Q1
+#EXTINF:-1,DFB Play TV
+https://jmp2.uk/stvp-ES3200003OC
+#EXTINF:-1,GOL CLASSICS
+https://jmp2.uk/stvp-ES300031A5
+#EXTINF:-1,Motorvision
+https://jmp2.uk/stvp-ESBD3200001EG
+#EXTINF:-1,Surf Channel
+https://jmp2.uk/stvp-ES3400002PY
+#EXTINF:-1,World Poker Tour
+https://jmp2.uk/stvp-ESBD2900001P9
+#EXTINF:-1,Televisión Consciente
+https://jmp2.uk/stvp-ESBC1700002IM
+#EXTINF:-1,Gaming Central League of Legends
+https://jmp2.uk/stvp-ES300032LR
+#EXTINF:-1,Clan
+https://jmp2.uk/stvp-ESBC4100003WE
+#EXTINF:-1,Pitufo TV
+https://jmp2.uk/stvp-ESBD130000205
+#EXTINF:-1,Caillou
+https://jmp2.uk/stvp-ES4800002OZ
+#EXTINF:-1,Pocoyó
+https://jmp2.uk/stvp-ESBC3900004ED
+#EXTINF:-1,duckTV
+https://jmp2.uk/stvp-ESBC4700001GR
+#EXTINF:-1,SuperToons TV
+https://jmp2.uk/stvp-ESBD5100001G0
+#EXTINF:-1,La Abeja Maya
+https://jmp2.uk/stvp-ESBD3200002V5
+#EXTINF:-1,Rabbids : La invasion
+https://jmp2.uk/stvp-ESBD2300003S5
+#EXTINF:-1,El Ninja Boy
+https://jmp2.uk/stvp-ES2600008NX
+#EXTINF:-1,En Familia - Rakuten TV
+https://jmp2.uk/stvp-ES260001081
+#EXTINF:-1,Runtime Acción
+https://jmp2.uk/stvp-ESBD80000288
+#EXTINF:-1,Runtime Familia
+https://jmp2.uk/stvp-ES700004C8
+#EXTINF:-1,Trailers
+https://jmp2.uk/stvp-ESBC1700004PX
+#EXTINF:-1,Cines Verdi TV
+https://jmp2.uk/stvp-ESBC2700011AZ
+#EXTINF:-1,Runtime
+https://jmp2.uk/stvp-ESBC400001QQ
+#EXTINF:-1,Películas Top - Rakuten TV
+https://jmp2.uk/stvp-ES2600013H4
+#EXTINF:-1,Runtime Romance
+https://jmp2.uk/stvp-ESBD800004KU
+#EXTINF:-1,Películas Románticas - Rakuten TV
+https://jmp2.uk/stvp-ES2600012C9
+#EXTINF:-1,Todo Pasión
+https://jmp2.uk/stvp-ES900002ZD
+#EXTINF:-1,Cine Feel Good – Verdi TV
+https://jmp2.uk/stvp-ESBC2700012RP
+#EXTINF:-1,Runtime Comedia
+https://jmp2.uk/stvp-ESBD8000033W
+#EXTINF:-1,Comedia - Rakuten TV
+https://jmp2.uk/stvp-ES260000700
+#EXTINF:-1,Sony One Hits Comedia
+https://jmp2.uk/stvp-ES300007KS
+#EXTINF:-1,Grjngo - Películas Del Oeste
+https://jmp2.uk/stvp-ESBC2700002LO
+#EXTINF:-1,Cine Western
+https://jmp2.uk/stvp-ES2300005G7
+#EXTINF:-1,Bigtime - Películas Gratis
+https://jmp2.uk/stvp-ESBC2700003T8
+#EXTINF:-1,Planeta de Cine
+https://jmp2.uk/stvp-ES2800001G7
+#EXTINF:-1,Cine Español - Rakuten TV
+https://jmp2.uk/stvp-ES3000008O8
+#EXTINF:-1,Action Movie Channel
+https://jmp2.uk/stvp-ESBC40000248
+#EXTINF:-1,Sci-Fi - Rakuten TV
+https://jmp2.uk/stvp-ES500004NO
+#EXTINF:-1,Cine Friki
+https://jmp2.uk/stvp-ESBD800001RJ
+#EXTINF:-1,Sony One Hits Acción
+https://jmp2.uk/stvp-ES300006QJ
+#EXTINF:-1,Películas de Drama - Rakuten TV
+https://jmp2.uk/stvp-ES2600003UM
+#EXTINF:-1,Acción - Rakuten TV
+https://jmp2.uk/stvp-ES2600004BD
+#EXTINF:-1,Vevo Latino
+https://jmp2.uk/stvp-ESBC2100002LV
+#EXTINF:-1,Vevo Retro
+https://jmp2.uk/stvp-ESBD230000289
+#EXTINF:-1,Vevo Pop
+https://jmp2.uk/stvp-ESBC2100001IU
+#EXTINF:-1,Trace Latina
+https://jmp2.uk/stvp-ESBA3300042Y6
+#EXTINF:-1,Trace Urban
+https://jmp2.uk/stvp-ESBA3300043M0
+#EXTINF:-1,Sol Música
+https://jmp2.uk/stvp-ESBD2300004Y7
+#EXTINF:-1,Cool Summer Channel
+https://jmp2.uk/stvp-ES2500001F9
+#EXTINF:-1,K-POP by CJ ENM
+https://jmp2.uk/stvp-ES3900001QG
+#EXTINF:-1,SMTOWN
+https://jmp2.uk/stvp-ES1000001EF
+#EXTINF:-1,Deluxe Lounge HD
+https://jmp2.uk/stvp-ESBA1500001C4
+#EXTINF:-1,GoUSA TV
+https://jmp2.uk/stvp-ESBC27000040I
+#EXTINF:-1,Ice Pilots
+https://jmp2.uk/stvp-ES24000028L
+#EXTINF:-1,La Fiebre del Jade
+https://jmp2.uk/stvp-ES1600002QL
+#EXTINF:-1,Los Gipsy Kings - Rakuten TV
+https://jmp2.uk/stvp-ES2900002JG
+#EXTINF:-1,Royalworld - Nobleza y Dinastias
+https://jmp2.uk/stvp-ESBD1400003QN
+#EXTINF:-1,Naturaleza
+https://jmp2.uk/stvp-ES1600003FF
+#EXTINF:-1,Love the Planet
+https://jmp2.uk/stvp-ESBC4700002TD
+#EXTINF:-1,WaterBear
+https://jmp2.uk/stvp-ESBC170000388
+#EXTINF:-1,Stormcast Novelas
+https://jmp2.uk/stvp-ESBA140000504
+#EXTINF:-1,Todo Novelas
+https://jmp2.uk/stvp-ESBC43000013T
+#EXTINF:-1,FailArmy
+https://jmp2.uk/stvp-ESBA1400006NP
+#EXTINF:-1,People Are Awesome
+https://jmp2.uk/stvp-ESAJ4500023Y5
+#EXTINF:-1,The Pet Collective
+https://jmp2.uk/stvp-ESAJ4500016BH
 #EXTINF:-1,Sony Canal Novelas
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 #EXTINF:-1,Pelis Top
-https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_livestream=0&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rtv_channel_name=top-movies-rakuten-tv_es&ads.rtv_content_id=5983&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=90e48b05-bd70-413b-9b33-9a86d235c3a0&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=5983&publishing_platform_id=5
+https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_name=top-movies-rakuten-tv_es&ads.rtv_content_id=5983&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=8c0c69b8-7b01-46eb-b429-94866a51644d&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=5983&publishing_platform_id=5
 #EXTINF:-1,Acción
-https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_livestream=0&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rtv_channel_name=action-rakuten-tv_es&ads.rtv_content_id=6069&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=459244a8-21b4-4668-bc2c-15049edf3248&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6069&publishing_platform_id=5
+https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_name=action-rakuten-tv_es&ads.rtv_content_id=6069&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=3985617b-378b-4a20-9b4c-a8f1b8273d4d&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6069&publishing_platform_id=5
 #EXTINF:-1,Comedia
-https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_livestream=0&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rtv_channel_name=comedy-rakuten-tv_es&ads.rtv_content_id=6180&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=81246c0e-a0e6-4660-bb8b-2a26b9d0e70f&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6180&publishing_platform_id=5
+https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_name=comedy-rakuten-tv_es&ads.rtv_content_id=6180&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=d1eec851-6fde-4280-8046-769b9db8fd51&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6180&publishing_platform_id=5
 #EXTINF:-1,Drama
-https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_livestream=0&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rtv_channel_name=drama-rakuten-tv_es&ads.rtv_content_id=6092&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=d6f60334-84fb-4e82-8300-713d87aa9a8c&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6092&publishing_platform_id=5
+https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6092/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_name=drama-rakuten-tv_es&ads.rtv_content_id=6092&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=5e2bd17a-d023-4241-a99f-b062f49c722b&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6092&publishing_platform_id=5
 #EXTINF:-1,Películas Románticas
-https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_livestream=0&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rtv_channel_name=romance-rakuten-tv_es&ads.rtv_content_id=6105&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=bf4260f0-0fb6-4503-9152-936565bd26a4&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6105&publishing_platform_id=5
+https://4b95c0f7aa2b4cae80f6515600154151.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6105/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_name=romance-rakuten-tv_es&ads.rtv_content_id=6105&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=a0dc312c-d641-400d-93da-0ac06dbeb47d&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6105&publishing_platform_id=5
 #EXTINF:-1,Cine Español
-https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_livestream=0&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rtv_channel_name=spanish-cinema-rakuten-tv_es&ads.rtv_content_id=6196&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=05783ae7-dad4-4212-bf68-b77e25ed103c&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6196&publishing_platform_id=5
+https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_name=spanish-cinema-rakuten-tv_es&ads.rtv_content_id=6196&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=0cd146d2-39ac-4cbf-ad98-32fd5ccda006&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6196&publishing_platform_id=5
 #EXTINF:-1,Sci-Fi
-https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_livestream=0&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rtv_channel_name=sci-fi-rakuten-tv_es&ads.rtv_content_id=6740&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=4fd5f0b3-aa2e-470f-98bd-076841cf1eab&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6740&publishing_platform_id=5
+https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_name=sci-fi-rakuten-tv_es&ads.rtv_content_id=6740&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=d34b1b44-6b61-42a7-b01b-db4e5a81b6b1&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6740&publishing_platform_id=5
 #EXTINF:-1,Thrillers
-https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_livestream=0&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rtv_channel_name=thriller-rakuten-tv_es&ads.rtv_content_id=6480&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=7a100c77-bbd7-40a7-b1f9-c6b2f19bee21&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6480&publishing_platform_id=5
+https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_name=thriller-rakuten-tv_es&ads.rtv_content_id=6480&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=05982af1-bc42-4c14-a138-67bbd8df45e4&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6480&publishing_platform_id=5
 #EXTINF:-1,Trailers
-https://1c4952408fa947df9b6aee4225ff9fd3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-4452/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rakutentv_channel=4452&ads.rtv_content_id=4452&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=b5b85beb-6c19-4d11-9365-6cf240715822&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=4452
+https://1c4952408fa947df9b6aee4225ff9fd3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-4452/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rakutentv_channel=4452&ads.rating=16&ads.rtv_content_id=4452&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=ff114d81-4f8b-4e78-8931-cbd19f29299c&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=4452
 #EXTINF:-1,Cine Friki
-https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefriki-rakuten/CDN/master.m3u8?ads_amagi_channel=851&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_classification=12&ads_content_genre=movies%2Cmystery&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=ppid&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rtv_content_id=5016&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=bd3a2fd4-bb1c-4718-839e-a7a0f7f7b412&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefriki-rakuten/CDN/master.m3u8?ads_amagi_channel=851&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=movies%2Cmystery&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=ppid&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=12&ads_rtv_content_id=5016&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=34ca47ab-3460-4070-b50c-adc8a58d37fd&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 #EXTINF:-1,Dark Matter - Horror Visión
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=sci-fi%2Cmystery%2Chorror&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=DarkMatterTV&ads.content_livestream=0&ads.csid=zeus_es_tricoastdarkmatteres_ssai&ads.gam_correlator=&ads.os_language=&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=4070&ads.rakuten_streaming_id=f1bc1e16-df1f-4718-aa0c-286ff55ff71a&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883019&ads.xumo_contentId=3479&ads.xumo_contentName=TriCoastDarkMatterES&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=3479&ads.xumo_providerName=dark-matter-spa-rakutentv&ads.xumo_streamId=88883019
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=sci-fi%2Cmystery%2Chorror&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=DarkMatterTV&ads.content_livestream=0&ads.csid=zeus_es_tricoastdarkmatteres_ssai&ads.gam_correlator=&ads.os_language=&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=4070&ads.rakuten_streaming_id=063cf442-8adc-4e40-84c5-f86d67b38d83&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883019&ads.xumo_contentId=3479&ads.xumo_contentName=TriCoastDarkMatterES&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=3479&ads.xumo_providerName=dark-matter-spa-rakutentv&ads.xumo_streamId=88883019
 #EXTINF:-1,Grjngo
-https://86ebcafef90e449fbb9439c196e7d149.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_GrjngoPeliculasDelOeste-1/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_classification=16&ads.content_genre=western%2Cmovies&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rtv_content_id=4495&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=4c0f7216-2a5f-4062-bfb8-8bec9a38e360&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1906
+https://86ebcafef90e449fbb9439c196e7d149.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_GrjngoPeliculasDelOeste-1/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_genre=western%2Cmovies&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_content_id=4495&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=4db32491-d088-46af-8806-5b34df806645&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1906
 #EXTINF:-1,Crimen
-https://4ac0fe739f05408abf89ce151aced344.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6220/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_livestream=0&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rtv_channel_name=crime-rakuten-tv_es&ads.rtv_content_id=6220&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=933c339a-dab3-4950-814b-82acabdf289d&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6220&publishing_platform_id=5
+https://4ac0fe739f05408abf89ce151aced344.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6220/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_name=crime-rakuten-tv_es&ads.rtv_content_id=6220&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=12948350-60c2-42c7-9f3b-33082aa03ece&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6220&publishing_platform_id=5
 #EXTINF:-1,FilmRise Sci-Fi
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=sci-fi&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=FilmRiseSciFiSpanish&ads.content_livestream=0&ads.csid=zeus_es_filmrisescifispanish_ssai&ads.gam_correlator=&ads.os_language=&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3689&ads.rakuten_streaming_id=9584a1c9-8b0a-4edf-be3d-2c18e2456859&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883026&ads.xumo_contentId=2701&ads.xumo_contentName=FilmRiseSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2701&ads.xumo_providerName=filmrise-sci-fi-spa-rakutentv&ads.xumo_streamId=88883026
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=sci-fi&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=FilmRiseSciFiSpanish&ads.content_livestream=0&ads.csid=zeus_es_filmrisescifispanish_ssai&ads.gam_correlator=&ads.os_language=&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3689&ads.rakuten_streaming_id=e5cd408b-0fbb-498e-9648-664b89baf9dc&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883026&ads.xumo_contentId=2701&ads.xumo_contentName=FilmRiseSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2701&ads.xumo_providerName=filmrise-sci-fi-spa-rakutentv&ads.xumo_streamId=88883026
 #EXTINF:-1,Stormcast Novelas
-https://c198ba8e6a764da78cbe708345c80779.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_StormcastNovelas/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_classification=13&ads.content_genre=drama%2Cromance%2Csoap-opera&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rtv_content_id=6754&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=501c886e-9817-4f39-96bb-9facdad239ee&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1057
+https://c198ba8e6a764da78cbe708345c80779.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_StormcastNovelas/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_genre=drama%2Cromance%2Csoap-opera&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=13&ads.rtv_content_id=6754&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=5257d302-e2b7-47ab-9fad-ef8703c4d84d&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1057
 #EXTINF:-1,Rakuten VIKI
-https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_classification=0&ads.content_genre=series%2Cmovies%2Cdrama%2Cromance&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rtv_content_id=4398&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=16982454-feb0-4e10-9c88-3dfbf8111705&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1065
+https://c2332ac2eff14da0934ccff4817df4a8.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-es_RakutenViki/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_genre=series%2Cmovies%2Cdrama%2Cromance&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=0&ads.rtv_content_id=4398&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=c88b42ac-1d48-4ecd-bd82-0aee9539d4d2&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1065
 #EXTINF:-1,Vive Kanal D Drama
-https://thema-vivekanald-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-thema-vivekanald-rakuten/CDN/master.m3u8?ads_amagi_channel=829&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_classification=12&ads_content_genre=soap-opera&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=ppid&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rtv_content_id=4486&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=127343a3-1641-4e44-90da-db70854a1064&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+https://thema-vivekanald-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-thema-vivekanald-rakuten/CDN/master.m3u8?ads_amagi_channel=829&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=soap-opera&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=ppid&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=12&ads_rtv_content_id=4486&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=8c32bdfc-b150-4c08-92c5-4d46666eec8f&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 #EXTINF:-1,Platos Sucios
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?=&ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=sitcom%2Ccomedy&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=PlatosSucios&ads.content_livestream=0&ads.csid=zeus_es_platossucious_ssai&ads.gam_correlator=&ads.os_language=&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=6827&ads.rakuten_streaming_id=a85e54c0-87c7-4883-ba09-f89309c44cd0&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883120&ads.xumo_contentId=2054&ads.xumo_contentName=IndigeniusSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2054&ads.xumo_providerName=platos-sucios-spa-rakutentv&ads.xumo_streamId=88883120
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?=&ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=sitcom%2Ccomedy&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=PlatosSucios&ads.content_livestream=0&ads.csid=zeus_es_platossucious_ssai&ads.gam_correlator=&ads.os_language=&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=6827&ads.rakuten_streaming_id=683beeea-0f4a-4ac2-90fb-1dbeb925aaae&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883120&ads.xumo_contentId=2054&ads.xumo_contentName=IndigeniusSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2054&ads.xumo_providerName=platos-sucios-spa-rakutentv&ads.xumo_streamId=88883120
 #EXTINF:-1,Vaya semanita
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?=&ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=comedy&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusSpanish&ads.content_livestream=0&ads.csid=zeus_es_vayasemanita_ssai&ads.gam_correlator=&ads.os_language=&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=6978&ads.rakuten_streaming_id=5b3b3229-ea45-4b90-afa4-02b4ee958d52&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883129&ads.xumo_contentId=1103&ads.xumo_contentName=Indigenius&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=1103&ads.xumo_providerName=vaya-semanita-spa-rakutentv&ads.xumo_streamId=88883129
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?=&ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=comedy&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusSpanish&ads.content_livestream=0&ads.csid=zeus_es_vayasemanita_ssai&ads.gam_correlator=&ads.os_language=&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=6978&ads.rakuten_streaming_id=4c0e85e2-43e3-4e38-839d-5e1064eb7c63&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883129&ads.xumo_contentId=1103&ads.xumo_contentName=Indigenius&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=1103&ads.xumo_providerName=vaya-semanita-spa-rakutentv&ads.xumo_streamId=88883129
 #EXTINF:-1,Merlí
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=soap-opera%2Cdrama%2Cromance&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusSpanish&ads.content_livestream=0&ads.csid=zeus_es_merli_ssai&ads.gam_correlator=&ads.os_language=&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=6828&ads.rakuten_streaming_id=a3eefa69-3c8c-40a7-9e45-f6e9438aa2a0&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883119&ads.xumo_contentId=2054&ads.xumo_contentName=IndigeniusSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2054&ads.xumo_providerName=merli-spa-rakutentv&ads.xumo_streamId=88883119
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=soap-opera%2Cdrama%2Cromance&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusSpanish&ads.content_livestream=0&ads.csid=zeus_es_merli_ssai&ads.gam_correlator=&ads.os_language=&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=6828&ads.rakuten_streaming_id=1ad3cad0-9906-4fa6-9467-27eb96b52892&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883119&ads.xumo_contentId=2054&ads.xumo_contentName=IndigeniusSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2054&ads.xumo_providerName=merli-spa-rakutentv&ads.xumo_streamId=88883119
 #EXTINF:-1,FUEL TV
-https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8?ads_amagi_channel=847&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB17&ads_content_classification=7&ads_content_genre=sports%2Caction&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=ppid&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rtv_content_id=4802&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=db4ba249-7895-4f3b-a92b-8c8bdadace30&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8?ads_amagi_channel=847&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB17&ads_content_genre=sports%2Caction&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=ppid&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=7&ads_rtv_content_id=4802&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=d5c1b076-e1fa-4520-8b99-11dc6bd414f4&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 #EXTINF:-1,World Billiards TV
-https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB17&ads.content_classification=7&ads.content_genre=sports&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rtv_content_id=3722&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=4ab07acc-c203-4e82-a918-46b9e5023ed4&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=967
+https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB17&ads.content_genre=sports&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=7&ads.rtv_content_id=3722&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=538bdbf6-73d5-438d-8e9f-850c06aee3d8&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=967
 #EXTINF:-1,Hard Knocks Fighting Championship
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=HardKnocks&ads.content_livestream=0&ads.csid=zeus_eu_hardknocks_ssai&ads.gam_correlator=&ads.os_language=&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=359&ads.rakuten_streaming_id=a18baca5-bef4-4484-9694-958de5b18ca7&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883037&ads.xumo_contentId=212&ads.xumo_contentName=HardKnocks&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=212&ads.xumo_providerName=hard-knocks-fighting-champ-eng-rakutentv&ads.xumo_streamId=88883037
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=HardKnocks&ads.content_livestream=0&ads.csid=zeus_eu_hardknocks_ssai&ads.gam_correlator=&ads.os_language=&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=359&ads.rakuten_streaming_id=4d5b6ac8-7538-483b-9b68-57057373c197&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883037&ads.xumo_contentId=212&ads.xumo_contentName=HardKnocks&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=212&ads.xumo_providerName=hard-knocks-fighting-champ-eng-rakutentv&ads.xumo_streamId=88883037
 #EXTINF:-1,MOTORVISION.TV
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/mv_es.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=MotorvisionSpanish&ads.content_livestream=0&ads.csid=zeus_es_motorvision_ssai&ads.gam_correlator=&ads.os_language=&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=4193&ads.rakuten_streaming_id=38d25710-682e-47f8-8993-15801d008045&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883004&ads.xumo_contentId=3791&ads.xumo_contentName=MotorvisionSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=3791&ads.xumo_providerName=motorvision-tv-spa-rakutentv&ads.xumo_streamId=88883004
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/mv_es.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=MotorvisionSpanish&ads.content_livestream=0&ads.csid=zeus_es_motorvision_ssai&ads.gam_correlator=&ads.os_language=&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=4193&ads.rakuten_streaming_id=be5e2010-8994-4ac0-9bfb-1a1cb648d231&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883004&ads.xumo_contentId=3791&ads.xumo_contentName=MotorvisionSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=3791&ads.xumo_providerName=motorvision-tv-spa-rakutentv&ads.xumo_streamId=88883004
 #EXTINF:-1,Estilo y Vida
-https://4a7284f0c8334835adb8f223c36fbc37.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6232/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_livestream=0&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rtv_channel_name=lifestyle-rakuten-tv_es&ads.rtv_content_id=6232&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=c7f5d009-ccee-4e18-a0c9-1654b76e7904&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6232&publishing_platform_id=5
+https://4a7284f0c8334835adb8f223c36fbc37.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6232/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_name=lifestyle-rakuten-tv_es&ads.rtv_content_id=6232&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=8c707689-9b5e-40a5-bbaa-10338a650034&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6232&publishing_platform_id=5
 #EXTINF:-1,Los Gipsy Kings
-https://gipsy-kings-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6752/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_livestream=0&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rtv_channel_name=gipsy-kings-rakuten-tv_es&ads.rtv_content_id=6752&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=1c7033b2-f20f-4220-a3d5-665e660e83b7&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6752&publishing_platform_id=5
-#EXTINF:-1,Fashion TV
-https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_classification=7&ads.content_genre=hobbies&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rtv_content_id=1278&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=14bcf302-9813-4bad-ad05-114b82f35698&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=381
+https://gipsy-kings-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6752/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_name=gipsy-kings-rakuten-tv_es&ads.rtv_content_id=6752&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=1bdf9431-aba3-4524-8fd4-e36f68942e60&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6752&publishing_platform_id=5
 #EXTINF:-1,Travelxp
-https://854164eda2f94a29ba557d887890363c.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_TravelXPES/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_classification=7&ads.content_genre=outdoors%2Chobbies&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rtv_content_id=5756&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=397e3ff6-6556-466b-912f-c22ac250a4b4&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1613
+https://854164eda2f94a29ba557d887890363c.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_TravelXPES/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_genre=outdoors%2Chobbies&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=7&ads.rtv_content_id=5756&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=c93b69be-a550-4e97-a796-7cdc2df7685e&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1613
 #EXTINF:-1,Stingray Naturescape
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=outdoors&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=StingrayNaturescape&ads.content_livestream=0&ads.csid=zeus_eu_stingrayambiance_ssai&ads.gam_correlator=&ads.os_language=&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=1288&ads.rakuten_streaming_id=e644b799-244f-404b-9db4-cdd57faeddaf&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883056&ads.xumo_contentId=188&ads.xumo_contentName=StingrayAmbiance&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=188&ads.xumo_providerName=stingray-naturescape-eng-rakutentv&ads.xumo_streamId=88883056
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=outdoors&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=StingrayNaturescape&ads.content_livestream=0&ads.csid=zeus_eu_stingrayambiance_ssai&ads.gam_correlator=&ads.os_language=&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=1288&ads.rakuten_streaming_id=78ce7731-83e6-4703-934b-1423c3f0f867&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883056&ads.xumo_contentId=188&ads.xumo_contentName=StingrayAmbiance&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=188&ads.xumo_providerName=stingray-naturescape-eng-rakutentv&ads.xumo_streamId=88883056
 #EXTINF:-1,Ideas en 5 minutos
-https://soul-5mincraftspa-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-soul-5mincraftspanish-rakuten/CDN/master.m3u8?ads_amagi_channel=843&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_classification=0&ads_content_genre=entertainment%2Chobbies&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=ppid&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rtv_content_id=4658&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=a42185d6-8848-43be-84a5-13707a166b71&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+https://soul-5mincraftspa-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-soul-5mincraftspanish-rakuten/CDN/master.m3u8?ads_amagi_channel=843&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=entertainment%2Chobbies&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=ppid&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_content_id=4658&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=72fb4e44-0c04-499f-9903-3fadea44b52f&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 #EXTINF:-1,¡HOLA! Play
-https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=13&ads.content_livestream=0&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rtv_channel_name=hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1_es&ads.rtv_content_id=6433&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=a4f31420-c7e9-4eb8-8312-03dd849a98e9&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6433&publishing_platform_id=5
+https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=13&ads.rtv_channel_name=hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1_es&ads.rtv_content_id=6433&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=22985bbd-2597-4d52-a144-95f4bdca56c2&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6433&publishing_platform_id=5
 #EXTINF:-1,Tastemade
-https://tastemade-es8tm-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-tm-es8intl-rakuten-es/CDN/master.m3u8?ads_amagi_channel=746&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_classification=7&ads_content_genre=cooking%2Chobbies&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=ppid&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rtv_content_id=3483&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=fce14964-be88-4471-abc8-6b3e9e941f92&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+https://tastemade-es8tm-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-tm-es8intl-rakuten-es/CDN/master.m3u8?ads_amagi_channel=746&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=cooking%2Chobbies&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=ppid&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=7&ads_rtv_content_id=3483&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=014a62a3-16ae-4d50-9d5e-00e73f4e6dce&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 #EXTINF:-1,A bocados
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?=&ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=cooking&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusSpanish&ads.content_livestream=0&ads.csid=zeus_es_abocados_ssai&ads.gam_correlator=&ads.os_language=&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=6979&ads.rakuten_streaming_id=0d404498-f9cc-4040-bb3f-ec2435a29a93&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883131&ads.xumo_contentId=2459&ads.xumo_contentName=IndigeniusBonViajeSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2459&ads.xumo_providerName=a-bocados-spa-rakutentv&ads.xumo_streamId=88883131
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?=&ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=cooking&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusSpanish&ads.content_livestream=0&ads.csid=zeus_es_abocados_ssai&ads.gam_correlator=&ads.os_language=&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=6979&ads.rakuten_streaming_id=5a35bf7a-f9f2-4418-81f3-03e3180944ba&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883131&ads.xumo_contentId=2459&ads.xumo_contentName=IndigeniusBonViajeSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2459&ads.xumo_providerName=a-bocados-spa-rakutentv&ads.xumo_streamId=88883131
 #EXTINF:-1,Qwest TV
-https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8?ads_amagi_channel=711&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_classification=0&ads_content_genre=entertainment&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=ppid&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rtv_content_id=2268&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=f11f8d3b-6267-4c61-976e-a0669c8c0151&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8?ads_amagi_channel=711&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=entertainment&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=ppid&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_content_id=2268&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=7c96e987-5c1d-4af7-aaaa-e38176970471&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 #EXTINF:-1,Stingray Greatest Hits
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=entertainment&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=StingrayGreatestHits&ads.content_livestream=0&ads.csid=zeus_eu_stingraygreatesthits_ssai&ads.gam_correlator=&ads.os_language=&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=2188&ads.rakuten_streaming_id=30a03836-c00d-4eab-b268-98d6dceaa194&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883053&ads.xumo_contentId=1857&ads.xumo_contentName=StingrayGreatestHits&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=1857&ads.xumo_providerName=stingray-greatest-hits-eng-rakutentv&ads.xumo_streamId=88883053
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=entertainment&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=StingrayGreatestHits&ads.content_livestream=0&ads.csid=zeus_eu_stingraygreatesthits_ssai&ads.gam_correlator=&ads.os_language=&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=2188&ads.rakuten_streaming_id=21bb7732-5ea9-4450-94a8-c6210c124447&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883053&ads.xumo_contentId=1857&ads.xumo_contentName=StingrayGreatestHits&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=1857&ads.xumo_providerName=stingray-greatest-hits-eng-rakutentv&ads.xumo_streamId=88883053
 #EXTINF:-1,Stingray: Hitlist
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=entertainment&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=StingrayHitlist&ads.content_livestream=0&ads.csid=zeus_eu_stingrayhitlist_ssai&ads.gam_correlator=&ads.os_language=&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=2080&ads.rakuten_streaming_id=166fe704-8706-42b5-8236-a926792bd682&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883054&ads.xumo_contentId=1858&ads.xumo_contentName=StingrayHitlist&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=1858&ads.xumo_providerName=stingray-hit-list-eng-rakutentv&ads.xumo_streamId=88883054
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=entertainment&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=StingrayHitlist&ads.content_livestream=0&ads.csid=zeus_eu_stingrayhitlist_ssai&ads.gam_correlator=&ads.os_language=&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=2080&ads.rakuten_streaming_id=4f28c53b-e3b8-4167-b473-65d98bd7b1d3&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883054&ads.xumo_contentId=1858&ads.xumo_contentName=StingrayHitlist&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=1858&ads.xumo_providerName=stingray-hit-list-eng-rakutentv&ads.xumo_streamId=88883054
 #EXTINF:-1,Stingray: Remember the 80’s
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=entertainment&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=RememberThe80sUK&ads.content_livestream=0&ads.csid=zeus_uk_stingrayrememberthe80s_ssai&ads.gam_correlator=&ads.os_language=&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=4883&ads.rakuten_streaming_id=4bc0bb76-b7fc-4569-a0b7-8aebe321dc31&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883071&ads.xumo_contentId=2184&ads.xumo_contentName=StingrayEverything80s&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2184&ads.xumo_providerName=stingray-remember-the-80s-eng-rakutentv&ads.xumo_streamId=88883071
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=entertainment&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=RememberThe80sUK&ads.content_livestream=0&ads.csid=zeus_uk_stingrayrememberthe80s_ssai&ads.gam_correlator=&ads.os_language=&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=4883&ads.rakuten_streaming_id=f7ad5842-a620-45e7-8ce1-9e96975e0387&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883071&ads.xumo_contentId=2184&ads.xumo_contentName=StingrayEverything80s&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2184&ads.xumo_providerName=stingray-remember-the-80s-eng-rakutentv&ads.xumo_streamId=88883071
 #EXTINF:-1,Qello Concerts by Stingray
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=entertainment&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=QelloConcertsbyStingray&ads.content_livestream=0&ads.csid=zeus_eu_qelloconcertsbystingray_ssai&ads.gam_correlator=&ads.os_language=&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=341&ads.rakuten_streaming_id=499c55c8-5bb4-46a6-8f76-96b8465b9d06&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883052&ads.xumo_contentId=187&ads.xumo_contentName=QelloConcertsByStingray&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=187&ads.xumo_providerName=stingray-qello-concerts-eng-rakutentv&ads.xumo_streamId=88883052
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=entertainment&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=QelloConcertsbyStingray&ads.content_livestream=0&ads.csid=zeus_eu_qelloconcertsbystingray_ssai&ads.gam_correlator=&ads.os_language=&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=341&ads.rakuten_streaming_id=406c4572-0a53-4abc-8853-b6ea28566545&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883052&ads.xumo_contentId=187&ads.xumo_contentName=QelloConcertsByStingray&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=187&ads.xumo_providerName=stingray-qello-concerts-eng-rakutentv&ads.xumo_streamId=88883052
 #EXTINF:-1,Deluxe Lounge HD
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/2299f30c-3582-11ec-9c7c-2cf753b8a203/0/master.m3u8?ads%3Aamznbrmid=&ads%3Aamznregion=&ads%3Aamznslots=&ads%3Aapp_bundle=com.rakuten.tv&ads%3Aapp_store_url=rakuten.tv&ads%3Aapp_version=&ads%3Abrand_name=&ads%3Acontent_categories=IAB1&ads%3Acontent_classification=7&ads%3Acontent_genre=entertainment&ads%3Acontent_livestream=0&ads%3Adevice_type=web&ads%3Adevice_year=&ads%3Afunke_channel_id=RAKB0001&ads%3Agam_correlator=&ads%3Aifa_type=ppid&ads%3Alanguage=zxx&ads%3Amarket=es&ads%3Aos_language=&ads%3Aplayer_height=&ads%3Aplayer_width=&ads%3Apod_type=playerpage_midroll&ads%3Aprodq=1&ads%3Artv_content_id=4222&ads%3Astreaming_id=721b251e-9083-4338-8b88-cd14bd967750&ads%3Atcf=&ads%3Ativo_devcountry=&ads%3Ativo_devmakedate=&ads%3Ativo_mvpd=&ads%3Ativo_platform=&ads%3Ativo_usid=&ads%3Ativo_uxloc=&ads%3Auser_type=visitor&country=es&optout=1&uid=&vendor=rakuten
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/2299f30c-3582-11ec-9c7c-2cf753b8a203/0/master.m3u8?ads%3Aamznbrmid=&ads%3Aamznregion=&ads%3Aamznslots=&ads%3Aapp_bundle=com.rakuten.tv&ads%3Aapp_store_url=rakuten.tv&ads%3Aapp_version=&ads%3Abrand_name=&ads%3Acontent_categories=IAB1&ads%3Acontent_classification=7&ads%3Acontent_genre=entertainment&ads%3Acontent_livestream=0&ads%3Adevice_type=web&ads%3Adevice_year=&ads%3Afunke_channel_id=RAKB0001&ads%3Agam_correlator=&ads%3Aifa_type=ppid&ads%3Alanguage=zxx&ads%3Amarket=es&ads%3Aos_language=&ads%3Aplayer_height=&ads%3Aplayer_width=&ads%3Apod_type=playerpage_midroll&ads%3Aprodq=1&ads%3Artv_content_id=4222&ads%3Astreaming_id=8cae5efb-cf7a-4a03-9a0a-7107fd019aa2&ads%3Atcf=&ads%3Ativo_devcountry=&ads%3Ativo_devmakedate=&ads%3Ativo_mvpd=&ads%3Ativo_platform=&ads%3Ativo_usid=&ads%3Ativo_uxloc=&ads%3Auser_type=visitor&country=es&optout=1&uid=&vendor=rakuten
 #EXTINF:-1,NOW 70s
-https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8?ads_amagi_channel=869&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_classification=0&ads_content_genre=entertainment&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=ppid&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rtv_content_id=5284&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=73268fcd-0f6f-42a4-bd8f-f6996a1c70d0&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8?ads_amagi_channel=869&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=entertainment&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=ppid&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_content_id=5284&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=8746287c-24fb-4ebe-b651-e08cdd721512&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 #EXTINF:-1,NOW 80s
-https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8?ads_amagi_channel=871&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_classification=0&ads_content_genre=entertainment&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=ppid&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rtv_content_id=5318&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=ad17eb8e-a3fd-4b6a-a66d-d6ecadc71e47&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8?ads_amagi_channel=871&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=entertainment&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=ppid&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_content_id=5318&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=f9748ae8-09f0-46ca-82cb-82367e941c3c&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 #EXTINF:-1,NOW Rock
-https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8?ads_amagi_channel=870&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_classification=0&ads_content_genre=entertainment&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=ppid&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rtv_content_id=5352&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=6de8b6fd-305e-4682-aa26-b62fc76b542e&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8?ads_amagi_channel=870&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=entertainment&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=ppid&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_content_id=5352&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=aefffa37-673c-4621-9dad-2457c0c808e8&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 #EXTINF:-1,En Familia
-https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=12&ads.content_livestream=0&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rtv_channel_name=family-rakuten-tv_es&ads.rtv_content_id=6205&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=ee68f9bf-686b-4b42-ba25-0ce45f655491&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6205&publishing_platform_id=5
+https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=12&ads.rtv_channel_name=family-rakuten-tv_es&ads.rtv_content_id=6205&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=d8604fe9-f417-4184-a176-d5dac5841250&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6205&publishing_platform_id=5
 #EXTINF:-1,el ninja boy
-https://rantaro-ninja-boy-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6432/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=12&ads.content_livestream=0&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rtv_channel_name=rantaro-ninja-boy-rakuten-tv_es&ads.rtv_content_id=6432&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=3e9c7d4d-6700-43d9-adb4-a1cdd52b3c2d&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6432&publishing_platform_id=5
+https://rantaro-ninja-boy-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6432/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=12&ads.rtv_channel_name=rantaro-ninja-boy-rakuten-tv_es&ads.rtv_content_id=6432&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=f1bcdf91-bd85-4084-9933-2b54461194a8&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6432&publishing_platform_id=5
 #EXTINF:-1,Baby Shark TV
-https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_classification=7&ads.content_genre=children%2Canimation&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rtv_content_id=3619&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=20c7be7e-a82f-4d82-8359-6364ba56dd84&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=696
+https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_genre=children%2Canimation&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=7&ads.rtv_content_id=3619&ads.rtv_content_language=eng&ads.rtvid=271859&ads.streaming_id=8a134e44-b1f0-436f-9438-4cf55030e7e8&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=696
 #EXTINF:-1,Las tres mellizas
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?=&ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=children%2Canimation&ads._fw_content_language=es&ads._fw_content_rating=tv-pg&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusSpanish&ads.content_livestream=0&ads.csid=zeus_es_lastresmellizas_ssai&ads.gam_correlator=&ads.os_language=&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=6976&ads.rakuten_streaming_id=90456cd4-4d59-4658-986f-41fe481d28c6&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883128&ads.xumo_contentId=1865&ads.xumo_contentName=IndigeniusKids&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=1865&ads.xumo_providerName=las-tres-mellizas-spa-rakutentv&ads.xumo_streamId=88883128
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?=&ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=children%2Canimation&ads._fw_content_language=es&ads._fw_content_rating=tv-pg&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusSpanish&ads.content_livestream=0&ads.csid=zeus_es_lastresmellizas_ssai&ads.gam_correlator=&ads.os_language=&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=6976&ads.rakuten_streaming_id=8fa42ee4-de9b-41ce-af03-5be1c5281cab&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883128&ads.xumo_contentId=1865&ads.xumo_contentName=IndigeniusKids&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=1865&ads.xumo_providerName=las-tres-mellizas-spa-rakutentv&ads.xumo_streamId=88883128
 #EXTINF:-1,Pilotos del Ártico
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=entertainment%2Coutdoors&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IcePilotsSpanish&ads.content_livestream=0&ads.csid=zeus_es_indigeniusicepilots_ssai&ads.gam_correlator=&ads.os_language=&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=5914&ads.rakuten_streaming_id=e3fe6443-0bee-46d8-81b4-7b5f8186d0d4&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883090&ads.xumo_contentId=2504&ads.xumo_contentName=IndigeniusSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2504&ads.xumo_providerName=ice-pilots-spa-rakutentv&ads.xumo_streamId=88883090
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=entertainment%2Coutdoors&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IcePilotsSpanish&ads.content_livestream=0&ads.csid=zeus_es_indigeniusicepilots_ssai&ads.gam_correlator=&ads.os_language=&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=5914&ads.rakuten_streaming_id=b10c4421-487d-4422-bd26-89dee8570987&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883090&ads.xumo_contentId=2504&ads.xumo_contentName=IndigeniusSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2504&ads.xumo_providerName=ice-pilots-spa-rakutentv&ads.xumo_streamId=88883090
 #EXTINF:-1,La fiebre del jade
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=entertainment&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=JadeFeverSpanish&ads.content_livestream=0&ads.csid=zeus_es_indigeniuslefiebredeljade_ssai&ads.gam_correlator=&ads.os_language=&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=5915&ads.rakuten_streaming_id=8dd28bb1-30f2-4108-8b58-c7b891e2b541&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883088&ads.xumo_contentId=2504&ads.xumo_contentName=IndigeniusSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2504&ads.xumo_providerName=jade-fever-spa-rakutentv&ads.xumo_streamId=88883088
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=entertainment&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=JadeFeverSpanish&ads.content_livestream=0&ads.csid=zeus_es_indigeniuslefiebredeljade_ssai&ads.gam_correlator=&ads.os_language=&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=5915&ads.rakuten_streaming_id=c604f04a-76ff-456c-8970-02ba5d30f67a&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883088&ads.xumo_contentId=2504&ads.xumo_contentName=IndigeniusSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2504&ads.xumo_providerName=jade-fever-spa-rakutentv&ads.xumo_streamId=88883088
 #EXTINF:-1,Cops En Español
-https://69fc67603f914d73988ff4dc54a202c8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_CopsEnEspanol/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_classification=12&ads.content_genre=action%2Ccrime%2Creality&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rtv_content_id=6696&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=784a0b44-189e-4227-a746-520b7b847054&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1470
+https://69fc67603f914d73988ff4dc54a202c8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_CopsEnEspanol/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_genre=action%2Ccrime%2Creality&ads.content_livestream=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=12&ads.rtv_content_id=6696&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=cad19977-beec-4cba-b206-8def35e9a97f&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1470
 #EXTINF:-1,El Conquistador
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?=&ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=reality%2Coutdoors&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusSpanish&ads.content_livestream=0&ads.csid=zeus_es_elconsquistado_ssai&ads.gam_correlator=&ads.os_language=&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=6975&ads.rakuten_streaming_id=46c87d89-477d-451c-8e47-0b34aff66784&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883130&ads.xumo_contentId=2054&ads.xumo_contentName=IndigeniusSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2054&ads.xumo_providerName=el-conquistador-spa-rakutentv&ads.xumo_streamId=88883130
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?=&ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=reality%2Coutdoors&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusSpanish&ads.content_livestream=0&ads.csid=zeus_es_elconsquistado_ssai&ads.gam_correlator=&ads.os_language=&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=6975&ads.rakuten_streaming_id=3aa869fb-db48-45d7-8969-e7ba4b42d6c0&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883130&ads.xumo_contentId=2054&ads.xumo_contentName=IndigeniusSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2054&ads.xumo_providerName=el-conquistador-spa-rakutentv&ads.xumo_streamId=88883130
 #EXTINF:-1,Archivos Forenses
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=series%2Ccrime&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=ArchivosForenses&ads.content_livestream=0&ads.csid=zeus_es_archivosforenses_ssai&ads.gam_correlator=&ads.os_language=&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3901&ads.rakuten_streaming_id=8081d470-5a22-4f50-bda2-ec71948a5be2&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883012&ads.xumo_contentId=2648&ads.xumo_contentName=FilmRiseTrueCrimeMexico&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2648&ads.xumo_providerName=forensic-files-spa-rakutentv&ads.xumo_streamId=88883012
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=series%2Ccrime&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=ArchivosForenses&ads.content_livestream=0&ads.csid=zeus_es_archivosforenses_ssai&ads.gam_correlator=&ads.os_language=&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3901&ads.rakuten_streaming_id=604c61f5-f16e-4f60-ba3e-894639d12aa9&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883012&ads.xumo_contentId=2648&ads.xumo_contentName=FilmRiseTrueCrimeMexico&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2648&ads.xumo_providerName=forensic-files-spa-rakutentv&ads.xumo_streamId=88883012
+#EXTINF:-1,Misterios sin resolver
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?=&ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=crime%2Cmystery&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=FilmRise&ads.content_livestream=0&ads.csid=zeus_es_misteriossinresolver_ssai&ads.gam_correlator=&ads.os_language=&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=6972&ads.rakuten_streaming_id=47127e63-8468-46ac-ad8c-9d825419a046&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883123&ads.xumo_contentId=2648&ads.xumo_contentName=FilmRiseTrueCrimeMexico&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2648&ads.xumo_providerName=filmrise-unsolved-mysteries-spa-rakutentv&ads.xumo_streamId=88883123
 #EXTINF:-1,Todo Crimen
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=crime&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusCrimenSpanish&ads.content_livestream=0&ads.csid=zeus_es_indigeniuscrimenspanish_ssai&ads.gam_correlator=&ads.os_language=&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3687&ads.rakuten_streaming_id=d4828432-a2f5-43a2-bb7b-f51a32ef5669&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883018&ads.xumo_contentId=2192&ads.xumo_contentName=IndigeniusCrimenSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2192&ads.xumo_providerName=todo-crimen-spa-rakutentv&ads.xumo_streamId=88883018
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=crime&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusCrimenSpanish&ads.content_livestream=0&ads.csid=zeus_es_indigeniuscrimenspanish_ssai&ads.gam_correlator=&ads.os_language=&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3687&ads.rakuten_streaming_id=e8cb81ad-76eb-47e8-94f9-4df93db6bc1d&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883018&ads.xumo_contentId=2192&ads.xumo_contentName=IndigeniusCrimenSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2192&ads.xumo_providerName=todo-crimen-spa-rakutentv&ads.xumo_streamId=88883018
 #EXTINF:-1,Historias de ultratumba
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?=&ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=mystery%2Chorror%2Cthriller&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusFrance&ads.content_livestream=0&ads.csid=zeus_fr_ahaunting_ssai&ads.gam_correlator=&ads.os_language=&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=6974&ads.rakuten_streaming_id=cd981dde-660c-4a9f-98ed-fe0e4279d4e4&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883127&ads.xumo_contentId=4231&ads.xumo_contentName=IndigeniusCrimenSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=4231&ads.xumo_providerName=a-haunting-spa-rakutentv&ads.xumo_streamId=88883127
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?=&ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=mystery%2Chorror%2Cthriller&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusFrance&ads.content_livestream=0&ads.csid=zeus_fr_ahaunting_ssai&ads.gam_correlator=&ads.os_language=&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=6974&ads.rakuten_streaming_id=23d2283b-935f-4185-99fd-e041cf9d9352&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883127&ads.xumo_contentId=4231&ads.xumo_contentName=IndigeniusCrimenSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=4231&ads.xumo_providerName=a-haunting-spa-rakutentv&ads.xumo_streamId=88883127
 #EXTINF:-1,Naturaleza
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=outdoors&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusNaturalezaSpanish&ads.content_livestream=0&ads.csid=zeus_es_indigeniusnaturalezaspanish_ssai&ads.gam_correlator=&ads.os_language=&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3688&ads.rakuten_streaming_id=511aa50b-1a0f-42cd-bc08-b8cc787f8fef&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883049&ads.xumo_contentId=2161&ads.xumo_contentName=IndigeniusNaturalezaSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2161&ads.xumo_providerName=naturaleza-spa-rakutentv&ads.xumo_streamId=88883049
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=outdoors&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusNaturalezaSpanish&ads.content_livestream=0&ads.csid=zeus_es_indigeniusnaturalezaspanish_ssai&ads.gam_correlator=&ads.os_language=&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3688&ads.rakuten_streaming_id=1a4e8a37-8b98-47cf-9fa9-0db2682ce174&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883049&ads.xumo_contentId=2161&ads.xumo_contentName=IndigeniusNaturalezaSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2161&ads.xumo_providerName=naturaleza-spa-rakutentv&ads.xumo_streamId=88883049
 #EXTINF:-1,Nature Time
-https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-bamus-naturetimeemeaspa/CDN/master.m3u8?ads_amagi_channel=809&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_classification=0&ads_content_genre=outdoors%2Canimals&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=ppid&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rtv_content_id=4330&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=168a5993-a635-4847-9063-fa73582fad7a&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-bamus-naturetimeemeaspa/CDN/master.m3u8?ads_amagi_channel=809&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=outdoors%2Canimals&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=ppid&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=0&ads_rtv_content_id=4330&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=745afe77-2c2a-4fb9-bc6b-8b9f7672923f&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 #EXTINF:-1,CGTN Documentary
-https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8?ads_amagi_channel=853&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=7&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=ppid&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rtv_content_id=5002&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=7fd40171-844b-49b4-9335-46fab2a4d046&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8?ads_amagi_channel=853&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=ppid&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=7&ads_rtv_content_id=5002&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=7c2c7b5a-ab0f-4e43-97fd-220d76b8f6b6&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 #EXTINF:-1,Euronews EN DIRECTO
-https://956e8381a6ee4a00841b7788f20fb126.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMTZkNjIzOTItNmZiZi00OTA2LTliMzgtNzVjNmJhMTEwZGM0IiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjo1fQ%3D%3D/26034/euronews-es.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=12&ads.content_livestream=1&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rtv_channel_name=euronews-live-spa_es&ads.rtv_content_id=6571&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=16d62392-6fbf-4906-9b38-75c6ba110dc4&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6571&publishing_platform_id=5
+https://956e8381a6ee4a00841b7788f20fb126.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiM2IwY2E1M2QtYmIyYS00NTc3LTlmNWItYWUxM2MwZDk1ZTNmIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjo1fQ%3D%3D/26034/euronews-es.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=1&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=12&ads.rtv_channel_name=euronews-live-spa_es&ads.rtv_content_id=6571&ads.rtv_content_language=spa&ads.rtv_language=spa&ads.rtvid=271859&ads.streaming_id=3b0ca53d-bb2a-4577-9f5b-ae13c0d95e3f&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6571&publishing_platform_id=5
 #EXTINF:-1,Africanews
-https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiOTY0OTdkM2EtZjc4My00NTNmLWJlMjgtNjJkMzEzYTlhZDIyIiwibWt0IjoiZXMiLCJjaCI6NjU4OCwicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=12&ads.content_livestream=1&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rtv_channel_name=africanews-eng_es&ads.rtv_content_id=6588&ads.rtv_content_language=eng&ads.rtv_language=eng&ads.rtvid=271859&ads.streaming_id=96497d3a-f783-453f-be28-62d313a9ad22&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6588&publishing_platform_id=5
+https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiNDdlM2Y5MWMtNzUyYi00ODczLWI2YTYtOGFlOWZhZjZmYWIzIiwibWt0IjoiZXMiLCJjaCI6NjU4OCwicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=1&ads.content_url=rakutentv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=es&ads.os_language=&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=12&ads.rtv_channel_name=africanews-eng_es&ads.rtv_content_id=6588&ads.rtv_content_language=eng&ads.rtv_language=eng&ads.rtvid=271859&ads.streaming_id=47e3f91c-752b-4873-b6a6-8ae9faf6fab3&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6588&publishing_platform_id=5
 #EXTINF:-1,CGTN
-https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8?ads_amagi_channel=852&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=7&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=ppid&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rtv_content_id=5004&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=c6116968-403c-4e50-844d-819f714cac7a&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8?ads_amagi_channel=852&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=ppid&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=7&ads_rtv_content_id=5004&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=4bf2f06a-6b38-4933-994b-27c2f6b5c7ab&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 #EXTINF:-1,5TV Corrientes (480p) [Not 24/7]
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 #EXTINF:-1,13Max Televisión (1080p)
@@ -7306,8 +8450,6 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
 #EXTINF:-1,Aire de Santa Fe (1080p)
 https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
-#EXTINF:-1,Antena 91 (720p)
-https://tuvideoonline.com.ar:3393/live/antena91live.m3u8
 #EXTINF:-1,Beats Radio (480p)
 https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
 #EXTINF:-1,Cable Imagen Armstrong (540p) [Not 24/7]
@@ -7322,8 +8464,6 @@ https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
 #EXTINF:-1,Canal 3 La Pampa (1080p)
 https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
-#EXTINF:-1,Canal 3 Las Heras (720p)
-https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
 #EXTINF:-1,Canal 4 Eldorado (720p)
 https://stream.arcast.com.ar/canal4eldorado/canal4eldorado/playlist.m3u8
 #EXTINF:-1,Canal 4 Esquel (540p)
@@ -7370,8 +8510,6 @@ https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
 #EXTINF:-1,Canal Santa María (360p)
 https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
-#EXTINF:-1,Canal Siete (720p) [Not 24/7]
-https://vivo.solumedia.com:19360/canalsiete/canalsiete.m3u8
 #EXTINF:-1,Canal U (720p)
 https://stream.arcast.live/canalu/canalu/playlist.m3u8
 #EXTINF:-1,Catamarca TV (720p)
@@ -7380,8 +8518,6 @@ https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m
 https://vivo.solumedia.com:19360/celta/celta.m3u8
 #EXTINF:-1,Chaco TV (720p) [Not 24/7]
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
-#EXTINF:-1,Chilecito TV (480p)
-https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
 #EXTINF:-1,Cinco TV (480p)
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 #EXTINF:-1,Ciudad Magazine (1080p) [Geo-blocked]
@@ -7400,8 +8536,6 @@ https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8
 https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1,Más FM 95.9 (720p)
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
-#EXTINF:-1,Milennio TV (720p)
-https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8
 #EXTINF:-1,NET TV (720p)
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1,NET TV (720p)
@@ -7412,8 +8546,6 @@ http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
 #EXTINF:-1,PowerHD (720p)
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
-#EXTINF:-1,Quatro TV (540p)
-https://stream.arcast.live/quatro/quatro/playlist.m3u8
 #EXTINF:-1,Radio Realpolitik (720p)
 https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
 #EXTINF:-1,Radio Sublime Gracia TV (720p)
@@ -7426,8 +8558,6 @@ https://live.enhdtv.com:8081/radioiguazutv/index.m3u8
 http://204.199.3.2/.m3u8
 #EXTINF:-1,RTN (Neuquén) (720p) [Not 24/7]
 https://media.neuquen.gov.ar/rtn/television/media.m3u8
-#EXTINF:-1,Somos La Pampa (1080p)
-https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8
 #EXTINF:-1,TeleCinco Trelew (240p)
 https://videohd.live:19360/8016/8016.m3u8
 #EXTINF:-1,TeleJunín (576p)
@@ -7470,14 +8600,12 @@ https://v2.tustreaming.cl/atacamanoticias/index.m3u8
 https://v2.tustreaming.cl/atacamatv/index.m3u8
 #EXTINF:-1,Aysen TV (720p)
 https://v1.tustreaming.cl/aysentv/index.m3u8
-#EXTINF:-1,Campus TV (Talca) (720p) [Not 24/7]
-https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8
+#EXTINF:-1,Canal 2 (San Antonio) (720p) [Not 24/7]
+https://unlimited1-us.dps.live/canal2/canal2.smil/playlist.m3u8
 #EXTINF:-1,Canal 9 Bío Bío Televisión (1080p) [Not 24/7]
 https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
 #EXTINF:-1,Canal ISB (Iglesia San Bernardo) (720p)
 https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8
-#EXTINF:-1,Canal SCN (720p)
-https://live.tvcontrolcp.com:1936/sancarlostv/sancarlostv/playlist.m3u8
 #EXTINF:-1,CDTV (720p) [Not 24/7]
 http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8
 #EXTINF:-1,Contivision (720p)
@@ -7494,8 +8622,6 @@ https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8
 https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 #EXTINF:-1,ITV Patagonia (720p) [Not 24/7]
 https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8
-#EXTINF:-1,Juntos TV (720p)
-https://video.juntostvchile.cl:8879/hls/web-jntv.m3u8
 #EXTINF:-1,NCTV (1080p)
 https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8
 #EXTINF:-1,Pichilemu TV (1080p)
@@ -7506,10 +8632,6 @@ https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8
 https://v4.tustreaming.cl/restaurandovida/index.m3u8
 #EXTINF:-1,Santa María Televisión (720p) [Not 24/7]
 https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8
-#EXTINF:-1,SoloBáilalo (480p)
-https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8
-#EXTINF:-1,SoloBáilalo (480p)
-https://5ff3d9babae13.streamlock.net/8016/8016/playlist.m3u8
 #EXTINF:-1,T-Vinet (480p)
 https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8
 #EXTINF:-1,Tele 2 Web (Retiro) (720p) [Not 24/7]
@@ -7524,6 +8646,8 @@ https://v4.tustreaming.cl/tevexinter/index.m3u8
 https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8
 #EXTINF:-1,Thema Televisión (La Serena) (720p) [Not 24/7]
 https://unlimited6-cl.dps.live/thema/thema.smil/playlist.m3u8
+#EXTINF:-1,TMN TV (720p)
+https://v1.tustreaming.cl/tmntv/index.m3u8
 #EXTINF:-1,TNE (720p) [Not 24/7]
 https://v2.tustreaming.cl/tnetv/index.m3u8
 #EXTINF:-1,TV Quellón (1080p) [Not 24/7]
@@ -7570,8 +8694,6 @@ https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
 #EXTINF:-1,Canal 33 Tijuana (720p)
 https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
-#EXTINF:-1,#EXTVLCOPT:http-referrer=https://www.canalcatorce.tv/
-https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
 #EXTINF:-1,Canal Parlamento del Congreso de Jalisco (720p) [Not 24/7]
 https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8
 #EXTINF:-1,Conecta TV
@@ -7580,6 +8702,8 @@ https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8
 #EXTINF:-1,Expresa TV (720p)
 https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
+#EXTINF:-1,#EXTVLCOPT:http-referrer=https://giktvmx.g3radio.mx
+https://pistream.ddns.net/hls/stream.m3u8
 #EXTINF:-1,La Voz Grupera TV (720p)
 https://cloudvideo.servers10.com:8081/8128/index.m3u8
 #EXTINF:-1,Lobo TV (720p)
@@ -7588,14 +8712,14 @@ https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
 https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
 #EXTINF:-1,NMás Media (1080p)
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index.m3u8
+#EXTINF:-1,Nueve TV San Luís Potosí (720p)
+https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 #EXTINF:-1,Raly TV (720p)
 https://cloudvideo.servers10.com:8081/8072/index.m3u8
 #EXTINF:-1,RCG TV (1080p)
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 #EXTINF:-1,RCG TV (Timeshifted -2 Hours) (432p)
 https://video1.getstreamhosting.com:1936/8246/8246/playlist.m3u8
-#EXTINF:-1,Señal España (XHUNES-TDT) (720p)
-https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
 #EXTINF:-1,Tele Yucatan [Geo-blocked]
 https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8
 #EXTINF:-1,Telehit (1080p)
@@ -7634,6 +8758,8 @@ https://cloudvideo.servers10.com:8081/8016/index.m3u8
 https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
 #EXTINF:-1,Canal Malaga
 http://canalmalaga-tv-live.flumotion.com/chunks.m3u8
+#EXTINF:-1,Elche 7 TV
+https://elche7tv.gestec-video.com/hls/canal2.m3u8
 #EXTINF:-1,interalmeria tv HD
 http://interalmeria.tv/directo/live.m3u8
 #EXTINF:-1,Popular TV Cantabria
@@ -7650,6 +8776,10 @@ http://38.44.109.41:8003/play/a045
 http://190.60.33.245:4002/play/a0kd
 #EXTINF:-1,BitMe op3 | Mexico
 http://190.60.33.245:4002/play/a0kd/index.m3u8
+#EXTINF:-1,Cartoon Network  | Mexico
+http://104.238.205.28:8989/278524_.m3u8
+#EXTINF:-1,Cartoon Network  | Mexico
+https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/CARTOONNETWORK/20-hls/live-media.m3u8
 #EXTINF:-1,Clan TVE | Spain
 https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8
 #EXTINF:-1,Etc TV | Chile
@@ -7684,8 +8814,6 @@ http://190.60.41.187:45000/play/a0jo
 http://190.60.41.187:45000/play/a0jm/index.m3u8
 #EXTINF:-1,Memorias Tropical | Colombia
 http://190.60.41.187:45000/play/a0jm
-#EXTINF:-1,Discovery World
-http://190.60.38.45:8000/play/a0dr/index.m3u8
 #EXTINF:-1,13 C
 http://177.234.230.206:8011/play/a0rf
 #EXTINF:-1,AMC
@@ -7698,10 +8826,6 @@ http://177.234.230.206:8011/play/a0ev
 http://177.234.230.206:8011/play/a029
 #EXTINF:-1,Animal Planet
 http://177.234.230.206:8011/play/a0pu
-#EXTINF:-1,Baby TV
-http://177.234.230.206:8011/play/a07x
-#EXTINF:-1,CARACOL TV
-http://177.234.230.206:8011/play/a09x
 #EXTINF:-1,CHV
 http://177.234.230.206:8011/play/a0d8
 #EXTINF:-1,CINE FAMILIAR
@@ -7772,8 +8896,6 @@ http://177.234.230.206:8011/play/a0q1
 http://177.234.230.206:8011/play/a0np
 #EXTINF:-1,ESPN Premium
 http://177.234.230.206:8011/play/a0o6
-#EXTINF:-1,ET Canal El Tiempo
-http://177.234.230.206:8011/play/a0bb
 #EXTINF:-1,El Gourmet
 http://177.234.230.206:8011/play/a0iy
 #EXTINF:-1,El Trece
@@ -7812,8 +8934,6 @@ http://177.234.230.206:8011/play/a0i5
 http://177.234.230.206:8011/play/a02a
 #EXTINF:-1,Paramount
 http://177.234.230.206:8011/play/a0j0
-#EXTINF:-1,RCN
-http://177.234.230.206:8011/play/a0ff
 #EXTINF:-1,TNT Novelas
 http://177.234.230.206:8011/play/a0ow
 #EXTINF:-1,Telemundo
@@ -7824,8 +8944,6 @@ http://177.234.230.206:8011/play/a0ia
 http://177.234.230.206:8011/play/a0ep
 #EXTINF:-1,Teletrak
 http://177.234.230.206:8011/play/a0rt
-#EXTINF:-1,Universo
-http://177.234.230.206:8011/play/a0p7
 #EXTINF:-1,Warner TV
 http://177.234.230.206:8011/play/a0og
 #EXTINF:-1,GritosTV by Trinian
