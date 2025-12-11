@@ -6238,14 +6238,16 @@ http://45.186.107.173:8000/play/a01i/index.m3u8
 https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
 #EXTINF:-1,Anime Vision Classics | Spain
 https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
+#EXTINF:-1,Anime Zone TV | Republica Dominicana
+http://animezonetv.net/hls/stream.m3u8
+#EXTINF:-1,Anime Zone TV op2 | Republica Dominicana
+http://animezonetv.com/hls/stream.m3u8
 #EXTINF:-1,Bayres TV | Argentina
 https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 #EXTINF:-1,Bjgtjme | Argentina
 https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8
 #EXTINF:-1,Buin Somos Todos | Chile
 https://bst.buin.cl/0.m3u8
-#EXTINF:-1,Caldera Vision | Chile
-https://tv.arkeo.cl:1936/kymczwbrge/kymczwbrge/playlist.m3u8
 #EXTINF:-1,Canal 4 San Juan | Argentina
 http://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w1603184235.m3u8
 #EXTINF:-1,Canal Ipe | Peru
@@ -6300,24 +6302,18 @@ https://d1243acc59954ef9bdd02bd9d13025cb.mediatailor.us-east-1.amazonaws.com/v1/
 https://server40.servistreaming.com:3477/stream/play.m3u8
 #EXTINF:-1,La Pantera Rosa | ND
 https://linear-1069.frequency.stream/mt/plex/1069/hls/master/playlist.m3u8
-#EXTINF:-1,La Popular TV | Chile
-https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8
-#EXTINF:-1,Magic Kids | Argentina
-https://magicstream.ddns.net:443/magicstream/stream.m3u8
+#EXTINF:-1,Locomotion | Republica Dominicana
+http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1,Mega Cine Tv | Republica Dominicana
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 #EXTINF:-1,Monte Maria | Mexico
 https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8
 #EXTINF:-1,Multizonas Tv | Costa Rica
 https://cloudvideo.servers10.com:8081/8068/index.m3u8
-#EXTINF:-1,Mundo de la Musica TV | Chile
-https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8
 #EXTINF:-1,My Time Movie | Mexico
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1,Neo TV | Argentina
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-#EXTINF:-1,Neox | Argentina
-https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 #EXTINF:-1,NET TV | Argentina
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1,Norte Informativo TV | Costa Rica
@@ -6346,6 +6342,8 @@ https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
 #EXTINF:-1,Pride Tv | Chile
 https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=dem0pRideTVweb
+#EXTINF:-1,Quantica TV | Argentina
+https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
 #EXTINF:-1,Radio Bruno | Italia
 https://stream2.xdevel.com/video0s975758-1048/stream/playlist.m3u8
 #EXTINF:-1,Radio Contact Feel Good | Belgica
@@ -6368,8 +6366,6 @@ https://tvservices.fullhd-streaming.com:3953/live/retroxtvlive.m3u8
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 #EXTINF:-1,SKYFLIX Movies | ND
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
-#EXTINF:-1,SuerTV | Argentina
-https://streamaction.ddns.net/suertv_hls/suertv.m3u8
 #EXTINF:-1,Telemas | Costarica
 https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8
 #EXTINF:-1,Teleposadas | Argentina
@@ -6408,8 +6404,14 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1,Teletrak | Chile
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:-1,Caras Tv | ND
+https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
+#EXTINF:-1,Caras Tv | ND
+https://unlimited1-us.dps.live/carastv/carastv.smil/carastv/livestream0/chunks.m3u8
 #EXTINF:-1,Fashion Tv | Francia
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+#EXTINF:-1,Radio ILCE | Mexico
+http://radio.ilce.edu.mx:8000/radioilce.mp3
 #EXTINF:-1,CNN en Espanol | USA
 https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/VIDEO_0_1964000.m3u8
 #EXTINF:-1,DW | Alemania
@@ -6420,6 +6422,8 @@ https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/in
 https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 #EXTINF:-1,France 24 | Francia
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1,RT en Espanol | Rusia
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1,Radio La Bonita del Norte 92.7
 https://stream3.mexiserver.com:10131/stream/1/
 #EXTINF:-1,Radio Banda Duranguense 93.3
@@ -6460,6 +6464,10 @@ https://radios.inpi.gob.mx:8080/xetumi
 http://server2.sit-mexico.com:8050/stream/1/
 #EXTINF:-1,Radio Santa Ana California
 http://s10.voscast.com:7688/;stream1575414865714/1
+#EXTINF:-1,Radio Within Temptation
+http://stream.pcradio.ru/Within_Temptation-med
+#EXTINF:-1,Radio Within Temptation op2
+https://stream.pcradio.ru/Within_Temptation-med
 #EXTINF:-1,Radio Rock-Anhalt
 https://rock-anhalt.stream.laut.fm/rock-anhalt?t302=2025-07-12_16-28-49&uuid=f1cbc978-6e70-40f0-882d-8156ca64a272
 #EXTINF:-1,Radio Exclusively Alanis Morissette
@@ -6468,6 +6476,8 @@ https://2.mystreaming.net/er/alanismorissette/icecast.audio
 https://lt15concordia.radioca.st/stream
 #EXTINF:-1,Radio Selena
 http://s10.voscast.com:7870/;
+#EXTINF:-1,Radio Tatu-Tatu
+https://stream.pcradio.ru/Tatu-med
 #EXTINF:-1,Radio FM Vida Concordia
 https://streaming450tb.locucionar.com/proxy/fmvida979?mp=/stream
 #EXTINF:-1,Radio Conexion Tropical 96 9
@@ -6496,6 +6506,8 @@ http://185.33.21.112/circuitpride_128?icy=http
 http://node-15.zeno.fm/94abs07w82quv?rj-ttl=5&rj-tok=AAABdqgGbDsANLkFqNQ2h-p5IA
 #EXTINF:-1,Radio Rock Metal
 http://100x100rock.stream.laut.fm:8080/100x100rock
+#EXTINF:-1,raduo2
+https://stream.pcradio.ru/Linkin_Park-hi
 #EXTINF:-1,raduo3
 https://rock-anhalt.stream.laut.fm/rock-anhalt?t302=2025-07-18_01-38-36&uuid=7fc3b7cf-5eac-4102-884e-3a63ff5693cc
 #EXTINF:-1,Suspenso Channel | ND
@@ -6586,8 +6598,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/631fb6be21b7440007b9f606/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2525fc2e-870e-11f0-8bb8-4e00c23799e8
 #EXTINF:-1,MacGyver
 https://stitcher.pluto.tv/stitch/hls/channel/63eb95baa99571000898a078/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2525fc2e-870e-11f0-8bb8-4e00c23799e8
-#EXTINF:-1,Baywatch
-https://stitcher.pluto.tv/stitch/hls/channel/66a26a7846762a0008258d4e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2525fc2e-870e-11f0-8bb8-4e00c23799e8
 #EXTINF:-1,Popeye
 https://stitcher.pluto.tv/stitch/hls/channel/677d93afe650a700081e5f18/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2525fc2e-870e-11f0-8bb8-4e00c23799e8
 #EXTINF:-1,Pluto TV Novelas
@@ -7734,8 +7744,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/673bf05ddaad7f0008ac7a5c/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/640a64bd73e013000893d4e0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2a2947a6-870e-11f0-af94-1ebda9a9923a
 #EXTINF:-1,Love Nature
 https://stitcher.pluto.tv/stitch/hls/channel/66df8a29b25d2b0008fc5fe0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2a2947a6-870e-11f0-af94-1ebda9a9923a
-#EXTINF:-1,Naturescape
-https://stitcher.pluto.tv/stitch/hls/channel/5812bd9f249444e05d09cc4e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2a2947a6-870e-11f0-af94-1ebda9a9923a
 #EXTINF:-1,The Pet Collective
 https://stitcher.pluto.tv/stitch/hls/channel/5bb1ad55268cae539bcedb08/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2a2947a6-870e-11f0-af94-1ebda9a9923a
 #EXTINF:-1,Dog Whisperer with Cesar Millan
@@ -8312,8 +8320,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549337183595c000815ad05/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8b79f9ba-6021-48dd-b1ca-e60b7396018c
 #EXTINF:-1,Naruto
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bbd39836-427d-4099-82bb-28b34f88aa35
-#EXTINF:-1,Naturescape
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812bd9f249444e05d09cc4e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2ac7255b-3bb1-4cd4-80c9-afb0bcb127dd
 #EXTINF:-1,NBC New York News
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65790c72cbd0d60008fac4d0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5100-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1590d16f-7216-4de9-80e8-cd9f77d26da8
 #EXTINF:-1,NBC News NOW
@@ -8664,10 +8670,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1,CBS News 24/7
 https://jmp2.uk/stvp-USBA370000104
-#EXTINF:-1,LiveNOW from FOX
-https://jmp2.uk/stvp-USBA300024TN
-#EXTINF:-1,Sky News
-https://jmp2.uk/stvp-USBB52000022Q
+#EXTINF:-1,BBC News
+https://jmp2.uk/stvp-US4000033L
 #EXTINF:-1,CBC News
 https://jmp2.uk/stvp-USBC4400003OU
 #EXTINF:-1,Bloomberg TV+
@@ -8676,76 +8680,64 @@ https://jmp2.uk/stvp-USAJ3400011A8
 https://jmp2.uk/stvp-USAJ30000041W
 #EXTINF:-1,Yahoo Finance
 https://jmp2.uk/stvp-USAJ4300005PJ
+#EXTINF:-1,NEWSMAX2
+https://jmp2.uk/stvp-USBA300028QU
 #EXTINF:-1,Real America's Voice
 https://jmp2.uk/stvp-USBB1900002KF
-#EXTINF:-1,Salem News Channel
-https://jmp2.uk/stvp-US3700004Y0
 #EXTINF:-1,The First
 https://jmp2.uk/stvp-US1000016Q
 #EXTINF:-1,TYT Network
 https://jmp2.uk/stvp-USBA30002142
-#EXTINF:-1,The Hill
-https://jmp2.uk/stvp-US3300008FX
 #EXTINF:-1,Movie Hub
 https://jmp2.uk/stvp-USBA3000041ZP
 #EXTINF:-1,Movie Hub West
 https://jmp2.uk/stvp-USBD3500036HP
+#EXTINF:-1,Movie Favorites By Lifetime
+https://jmp2.uk/stvp-USBB5200019FO
 #EXTINF:-1,Lifetime Movies Love & Drama
 https://jmp2.uk/stvp-US1600002OK
 #EXTINF:-1,MovieSphere
 https://jmp2.uk/stvp-USBD17000117B
 #EXTINF:-1,Pluto TV Fantastic
 https://jmp2.uk/stvp-USBA300017PK
-#EXTINF:-1,CINEVAULT
-https://jmp2.uk/stvp-USAJ30000148W
 #EXTINF:-1,CINEVAULT: Classics
 https://jmp2.uk/stvp-USBB3200015M8
 #EXTINF:-1,Paramount Movie Channel
 https://jmp2.uk/stvp-USAJ26000054W
 #EXTINF:-1,Gravitas Movies
 https://jmp2.uk/stvp-USBD700011RE
-#EXTINF:-1,MyTime Movie Network
-https://jmp2.uk/stvp-USBC3900018K6
 #EXTINF:-1,NEW KMOVIES
 https://jmp2.uk/stvp-USAJ30000122O
 #EXTINF:-1,Maverick Black Cinema
 https://jmp2.uk/stvp-USAJ3000007MT
-#EXTINF:-1,CINEVAULT: Westerns
-https://jmp2.uk/stvp-USAK3508709A
 #EXTINF:-1,Pluto TV Westerns
 https://jmp2.uk/stvp-USBA300005MK
-#EXTINF:-1,Grjngo
-https://jmp2.uk/stvp-US44000027B
 #EXTINF:-1,FilmRise Westerns
 https://jmp2.uk/stvp-USBB32000196O
 #EXTINF:-1,Death Valley Days
 https://jmp2.uk/stvp-US2900007HA
-#EXTINF:-1,Western Bound
-https://jmp2.uk/stvp-USBC3200020QF
 #EXTINF:-1,Circle
 https://jmp2.uk/stvp-USBA300035FV
+#EXTINF:-1,Lassie
+https://jmp2.uk/stvp-US1800010NE
 #EXTINF:-1,Shout! TV
 https://jmp2.uk/stvp-USBD1200021JM
 #EXTINF:-1,Samsung Television Network
 https://jmp2.uk/stvp-US300068X7
+#EXTINF:-1,ALL ACTION
+https://jmp2.uk/stvp-USBB2300001QP
 #EXTINF:-1,ION Plus
 https://jmp2.uk/stvp-USBD300003LK
 #EXTINF:-1,Stories by AMC
 https://jmp2.uk/stvp-USBD2500018X6
-#EXTINF:-1,ElectricNOW
-https://jmp2.uk/stvp-USBC6000225M
-#EXTINF:-1,BBC Drama
-https://jmp2.uk/stvp-US3700005GP
-#EXTINF:-1,Bounce XL
-https://jmp2.uk/stvp-USBD300008G1
 #EXTINF:-1,ALLBLK Gems
 https://jmp2.uk/stvp-USBD300022FH
-#EXTINF:-1,Ebony TV by Lionsgate
-https://jmp2.uk/stvp-USBD2500012DH
 #EXTINF:-1,BET Pluto TV
 https://jmp2.uk/stvp-USBC450000130
 #EXTINF:-1,Shades of Black
 https://jmp2.uk/stvp-USBC1000004G8
+#EXTINF:-1,Las Vegas
+https://jmp2.uk/stvp-US180001143
 #EXTINF:-1,Drama Life
 https://jmp2.uk/stvp-USAJ26000015Y
 #EXTINF:-1,Heartland
@@ -8774,18 +8766,14 @@ https://jmp2.uk/stvp-USBD700010XU
 https://jmp2.uk/stvp-USBC240001823
 #EXTINF:-1,Crime Zone
 https://jmp2.uk/stvp-USBB36000040M
-#EXTINF:-1,BritBox Mysteries
-https://jmp2.uk/stvp-US3700007E4
+#EXTINF:-1,ION Mystery
+https://jmp2.uk/stvp-USBC24000223S
 #EXTINF:-1,I Survived…
 https://jmp2.uk/stvp-USBD1700008H9
 #EXTINF:-1,Dr. G: Medical Examiner
 https://jmp2.uk/stvp-USBB3200004X3
-#EXTINF:-1,World’s Most Evil Killers
-https://jmp2.uk/stvp-USBC1000002NP
 #EXTINF:-1,60 Days In by A&E
 https://jmp2.uk/stvp-USBD42000073E
-#EXTINF:-1,The First 48
-https://jmp2.uk/stvp-US3300011V9
 #EXTINF:-1,Witness to Justice
 https://jmp2.uk/stvp-US700010XK
 #EXTINF:-1,ABC 20/20
@@ -8802,44 +8790,28 @@ https://jmp2.uk/stvp-US1900005VB
 https://jmp2.uk/stvp-USBB52000236D
 #EXTINF:-1,Crimes Cults Killers
 https://jmp2.uk/stvp-USBB5200022PY
-#EXTINF:-1,Forensic Files
-https://jmp2.uk/stvp-USBB3200017MY
 #EXTINF:-1,Unsolved Mysteries
 https://jmp2.uk/stvp-USBB3200018Q6
 #EXTINF:-1,The New Detectives
 https://jmp2.uk/stvp-USAJ3504547A
 #EXTINF:-1,TruBlu
 https://jmp2.uk/stvp-US37000036P
-#EXTINF:-1,Court TV
-https://jmp2.uk/stvp-USBA34000049Z
 #EXTINF:-1,All-Out Reality
 https://jmp2.uk/stvp-USBB4400016F9
 #EXTINF:-1,Kitchen Nightmares
 https://jmp2.uk/stvp-USBA3000042O6
-#EXTINF:-1,Bondi Rescue
-https://jmp2.uk/stvp-US2900010UT
-#EXTINF:-1,Little Women: LA
-https://jmp2.uk/stvp-USBD170000771
 #EXTINF:-1,E! Keeping Up
 https://jmp2.uk/stvp-US18000133I
 #EXTINF:-1,Bravo Vault
 https://jmp2.uk/stvp-US1800003BG
-#EXTINF:-1,Matched Married Meet
-https://jmp2.uk/stvp-USBC440000193
 #EXTINF:-1,MTV Pluto TV
 https://jmp2.uk/stvp-USBA3000093U
 #EXTINF:-1,Perform
 https://jmp2.uk/stvp-USBB520002604
-#EXTINF:-1,All Reality We TV
-https://jmp2.uk/stvp-USBD12000061R
-#EXTINF:-1,Bring It!
-https://jmp2.uk/stvp-USBD17000040J
 #EXTINF:-1,Love & Hip Hop
 https://jmp2.uk/stvp-USBA300020WC
 #EXTINF:-1,Operation Repo
 https://jmp2.uk/stvp-USBC6000219D
-#EXTINF:-1,Intervention by A&E
-https://jmp2.uk/stvp-USBD3500040WX
 #EXTINF:-1,Hoarders by A&E
 https://jmp2.uk/stvp-USBD4200009Y4
 #EXTINF:-1,Duck Dynasty
@@ -8848,16 +8820,14 @@ https://jmp2.uk/stvp-USBC4400002GF
 https://jmp2.uk/stvp-USBA300022JX
 #EXTINF:-1,DangerTV
 https://jmp2.uk/stvp-USAJ3504708A
-#EXTINF:-1,Road Renegades
-https://jmp2.uk/stvp-US700002ZB
 #EXTINF:-1,RIG TV
 https://jmp2.uk/stvp-US4500001DM
-#EXTINF:-1,Million Dollar Dream Home
-https://jmp2.uk/stvp-US300067FX
 #EXTINF:-1,Home.Made.Nation
 https://jmp2.uk/stvp-USAJ3000006X5
 #EXTINF:-1,Tiny House Nation
 https://jmp2.uk/stvp-USAJ3400020KC
+#EXTINF:-1,This Old House
+https://jmp2.uk/stvp-USBC13000065U
 #EXTINF:-1,This Old House Makers
 https://jmp2.uk/stvp-USBC1300005T6
 #EXTINF:-1,Flipping Nation by A&E
@@ -8872,8 +8842,6 @@ https://jmp2.uk/stvp-USBC3200022W6
 https://jmp2.uk/stvp-USBB40000028E
 #EXTINF:-1,The Design Network
 https://jmp2.uk/stvp-USBD1200022S1
-#EXTINF:-1,PBS Antiques Roadshow
-https://jmp2.uk/stvp-USBD4200017GS
 #EXTINF:-1,Antiques Roadshow
 https://jmp2.uk/stvp-USBC600018CF
 #EXTINF:-1,BBC Home & Garden
@@ -8886,12 +8854,10 @@ https://jmp2.uk/stvp-USBC1300008AZ
 https://jmp2.uk/stvp-US4500011SP
 #EXTINF:-1,Emeril Lagasse Channel
 https://jmp2.uk/stvp-US4500010B0
-#EXTINF:-1,Bon Appétit
-https://jmp2.uk/stvp-USBC44000226R
 #EXTINF:-1,Gusto TV
 https://jmp2.uk/stvp-USAK3508724A
-#EXTINF:-1,Jamie Oliver
-https://jmp2.uk/stvp-USBC4400016CL
+#EXTINF:-1,Hungry
+https://jmp2.uk/stvp-USAJ2200009C2
 #EXTINF:-1,Tastemade
 https://jmp2.uk/stvp-USBD7000189R
 #EXTINF:-1,K-Food by CJ ENM
@@ -8906,8 +8872,8 @@ https://jmp2.uk/stvp-USBD700017WC
 https://jmp2.uk/stvp-USBB1000003HL
 #EXTINF:-1,Localish
 https://jmp2.uk/stvp-USBC4400005HY
-#EXTINF:-1,MLB Channel
-https://jmp2.uk/stvp-US1400001WV
+#EXTINF:-1,NFL Channel
+https://jmp2.uk/stvp-US2600007WJ
 #EXTINF:-1,NESN Nation
 https://jmp2.uk/stvp-US300062TG
 #EXTINF:-1,Samsung Showcase
@@ -8966,12 +8932,8 @@ https://jmp2.uk/stvp-US400001M2
 https://jmp2.uk/stvp-US4600010KE
 #EXTINF:-1,GOLFPASS
 https://jmp2.uk/stvp-USBB400000145
-#EXTINF:-1,PickleballTV
-https://jmp2.uk/stvp-USBD4200016QR
 #EXTINF:-1,Billiard TV
 https://jmp2.uk/stvp-USBD12000183X
-#EXTINF:-1,World Poker Tour
-https://jmp2.uk/stvp-USBD1700009P5
 #EXTINF:-1,SURFER TV
 https://jmp2.uk/stvp-USBB10000058A
 #EXTINF:-1,MeatEater
@@ -8992,8 +8954,6 @@ https://jmp2.uk/stvp-US700021SM
 https://jmp2.uk/stvp-US600011Q2
 #EXTINF:-1,Top Gear
 https://jmp2.uk/stvp-USBC2400027NG
-#EXTINF:-1,Torque
-https://jmp2.uk/stvp-USBB5200027Z5
 #EXTINF:-1,RACER Select
 https://jmp2.uk/stvp-USBD1700019RN
 #EXTINF:-1,NHRA TV
@@ -9002,14 +8962,20 @@ https://jmp2.uk/stvp-USBC3200019WF
 https://jmp2.uk/stvp-USBD4200011W4
 #EXTINF:-1,Cars
 https://jmp2.uk/stvp-USAJ3504545A
-#EXTINF:-1,Hot Ones
-https://jmp2.uk/stvp-US2900006IV
+#EXTINF:-1,Animation+
+https://jmp2.uk/stvp-US400002PS
+#EXTINF:-1,Conan O'Brien TV
+https://jmp2.uk/stvp-USBD120001614
 #EXTINF:-1,Mythical 24/7
 https://jmp2.uk/stvp-US2900008FP
 #EXTINF:-1,MrBeast
 https://jmp2.uk/stvp-US310000101
+#EXTINF:-1,SNL Vault
+https://jmp2.uk/stvp-US1800012MT
 #EXTINF:-1,LOL! Network
 https://jmp2.uk/stvp-USBC1300009VM
+#EXTINF:-1,National Lampoon
+https://jmp2.uk/stvp-US1800015K5
 #EXTINF:-1,GET Comedy
 https://jmp2.uk/stvp-US350000563
 #EXTINF:-1,Laff More
@@ -9024,14 +8990,10 @@ https://jmp2.uk/stvp-USBD12000038K
 https://jmp2.uk/stvp-USBA300019WF
 #EXTINF:-1,Who's The Boss?
 https://jmp2.uk/stvp-US4100003MA
-#EXTINF:-1,ALF
-https://jmp2.uk/stvp-US4100023FK
 #EXTINF:-1,Family Ties
 https://jmp2.uk/stvp-USBB3500003D6
 #EXTINF:-1,Just for Laughs GAGS
 https://jmp2.uk/stvp-USBC4400004KK
-#EXTINF:-1,FailArmy
-https://jmp2.uk/stvp-USAJ3504702A
 #EXTINF:-1,Always Funny Videos
 https://jmp2.uk/stvp-USBA1600001XM
 #EXTINF:-1,Dry Bar Comedy
@@ -9040,8 +9002,6 @@ https://jmp2.uk/stvp-USAJ30000039U
 https://jmp2.uk/stvp-USBD7000145C
 #EXTINF:-1,Mystery Science Theater 3000
 https://jmp2.uk/stvp-US4500004SQ
-#EXTINF:-1,Pawn Stars
-https://jmp2.uk/stvp-US300003S3
 #EXTINF:-1,Wipeout Xtra
 https://jmp2.uk/stvp-USBB4400018LR
 #EXTINF:-1,Fear Factor
@@ -9062,12 +9022,6 @@ https://jmp2.uk/stvp-USAK3508706A
 https://jmp2.uk/stvp-USAJ3504531A
 #EXTINF:-1,Let's Make A Deal Classic
 https://jmp2.uk/stvp-US7000229B
-#EXTINF:-1,BUZZR
-https://jmp2.uk/stvp-USBD700021WG
-#EXTINF:-1,Supermarket Sweep
-https://jmp2.uk/stvp-USBC44000087O
-#EXTINF:-1,Deal or No Deal
-https://jmp2.uk/stvp-USBB4400017N3
 #EXTINF:-1,Wild 'N Out
 https://jmp2.uk/stvp-USBA3000100X
 #EXTINF:-1,Biography: The Icons
@@ -9076,8 +9030,6 @@ https://jmp2.uk/stvp-US26000201N
 https://jmp2.uk/stvp-US700005ID
 #EXTINF:-1,In Depth with Graham Bensinger
 https://jmp2.uk/stvp-US2600024EO
-#EXTINF:-1,The Bob Ross Channel
-https://jmp2.uk/stvp-USBD700012OA
 #EXTINF:-1,TODAY All Day
 https://jmp2.uk/stvp-USBB32000251N
 #EXTINF:-1,Dr Phil's MeritTV
@@ -9104,8 +9056,6 @@ https://jmp2.uk/stvp-US8000024G
 https://jmp2.uk/stvp-USBA3700002JF
 #EXTINF:-1,Hollywire
 https://jmp2.uk/stvp-USBC2400015DO
-#EXTINF:-1,TMZ
-https://jmp2.uk/stvp-USBD70000213
 #EXTINF:-1,Fear Zone
 https://jmp2.uk/stvp-USBC1300012VK
 #EXTINF:-1,Mysteries Xplored
@@ -9118,10 +9068,6 @@ https://jmp2.uk/stvp-US1900002QK
 https://jmp2.uk/stvp-US1800014CG
 #EXTINF:-1,OuterSphere
 https://jmp2.uk/stvp-USBD1200007FE
-#EXTINF:-1,FARSCAPE
-https://jmp2.uk/stvp-US4100022W9
-#EXTINF:-1,The Curse of Oak Island
-https://jmp2.uk/stvp-US300002BE
 #EXTINF:-1,Haunt TV
 https://jmp2.uk/stvp-USBC4400006BR
 #EXTINF:-1,Alien Nation by DUST
@@ -9176,14 +9122,8 @@ https://jmp2.uk/stvp-USBC2100008DP
 https://jmp2.uk/stvp-USBA3400003IP
 #EXTINF:-1,WildEarth
 https://jmp2.uk/stvp-US3800007CR
-#EXTINF:-1,MagellanTV Wildest
-https://jmp2.uk/stvp-USAJ340000677
 #EXTINF:-1,InWonder
 https://jmp2.uk/stvp-USBA300023G8
-#EXTINF:-1,History 365
-https://jmp2.uk/stvp-USBD35000428O
-#EXTINF:-1,Modern Marvels Presented by History
-https://jmp2.uk/stvp-USBB5200025DO
 #EXTINF:-1,History & Warfare Now
 https://jmp2.uk/stvp-USBD1200009JI
 #EXTINF:-1,Military Heroes
@@ -9256,6 +9196,8 @@ https://jmp2.uk/stvp-USBD3300020PM
 https://jmp2.uk/stvp-USBD33000180S
 #EXTINF:-1,Yu-Gi-Oh
 https://jmp2.uk/stvp-US1000003G8
+#EXTINF:-1,Pokémon
+https://jmp2.uk/stvp-US5100003NU
 #EXTINF:-1,Ryan and Friends
 https://jmp2.uk/stvp-USBD12000239N
 #EXTINF:-1,pocket.watch Game-On
@@ -9272,6 +9214,8 @@ https://jmp2.uk/stvp-USBD3300012VX
 https://jmp2.uk/stvp-US800003JM
 #EXTINF:-1,Hallmark en Español
 https://jmp2.uk/stvp-US1300001GM
+#EXTINF:-1,AMC en Español
+https://jmp2.uk/stvp-USBD7000017L
 #EXTINF:-1,Historia
 https://jmp2.uk/stvp-US2600019IC
 #EXTINF:-1,CG MMA En Español
@@ -9330,6 +9274,8 @@ https://jmp2.uk/stvp-USBD2700002DU
 https://jmp2.uk/stvp-USBD2500022U5
 #EXTINF:-1,Cine de Oro
 https://jmp2.uk/stvp-USBD2700005KL
+#EXTINF:-1,Como Dice el Dicho
+https://jmp2.uk/stvp-USBD2700004ME
 #EXTINF:-1,Pequenos Gigantes
 https://jmp2.uk/stvp-USBD2700003F3
 #EXTINF:-1,Aquí y Ahora
@@ -9346,16 +9292,12 @@ https://jmp2.uk/stvp-USBB320000647
 https://jmp2.uk/stvp-USBB3200007AK
 #EXTINF:-1,XITE Celebrates
 https://jmp2.uk/stvp-USBD350003932
-#EXTINF:-1,XITE Country Today
-https://jmp2.uk/stvp-USBD3300006O3
 #EXTINF:-1,XITE Christian Hits
 https://jmp2.uk/stvp-US46000072L
 #EXTINF:-1,XITE Nuevo Latino
 https://jmp2.uk/stvp-USBD3300007PB
 #EXTINF:-1,XITE Siempre Latino
 https://jmp2.uk/stvp-USBD3300010L9
-#EXTINF:-1,XITE R&B Classic Jams
-https://jmp2.uk/stvp-USBD330000948
 #EXTINF:-1,XITE Reggae Vibes
 https://jmp2.uk/stvp-US4600008JA
 #EXTINF:-1,XITE Rock x Metal
@@ -9380,8 +9322,6 @@ https://jmp2.uk/stvp-USBC3600015GF
 https://jmp2.uk/stvp-USBC3600002EK
 #EXTINF:-1,Vevo R&B
 https://jmp2.uk/stvp-USBC3900009K5
-#EXTINF:-1,Vevo Country
-https://jmp2.uk/stvp-USBC3600001RQ
 #EXTINF:-1,Vevo Pop
 https://jmp2.uk/stvp-USBC3600008WY
 #EXTINF:-1,SMTOWN
@@ -9442,12 +9382,6 @@ https://jmp2.uk/stvp-US14000030Y
 https://jmp2.uk/stvp-US1400010S0
 #EXTINF:-1,Stingray Holidayscapes
 https://jmp2.uk/stvp-USBD3500038R6
-#EXTINF:-1,Stingray Naturescape
-https://jmp2.uk/stvp-USAK3508705A
-#EXTINF:-1,Loupe 4K
-https://jmp2.uk/stvp-USBB1000002TK
-#EXTINF:-1,ZenLIFE by Stingray
-https://jmp2.uk/stvp-USBD3500027DS
 #EXTINF:-1,Stingray Spa
 https://jmp2.uk/stvp-USBD3500013DG
 #EXTINF:-1,Beach Bonfire Vibes
@@ -9456,8 +9390,6 @@ https://jmp2.uk/stvp-US14000119Q
 https://jmp2.uk/stvp-US1500002I2
 #EXTINF:-1,Cozy Vibes
 https://jmp2.uk/stvp-US2900005NW
-#EXTINF:-1,Luxe Fireplace Vibes
-https://jmp2.uk/stvp-US2900004L2
 #EXTINF:-1,Fireplace Vibes
 https://jmp2.uk/stvp-USBA3800004EL
 #EXTINF:-1,Estilo y Vida – Rakuten TV
@@ -9820,6 +9752,8 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
 https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
 #EXTINF:-1,Beats Radio (480p)
 https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
+#EXTINF:-1,Cadena 103 (720p) [Not 24/7]
+http://arcast.net:1935/cadena103/cadena103/playlist.m3u8
 #EXTINF:-1,Canal 2 de Ushuaia (1080p)
 https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
 #EXTINF:-1,Canal 2 Misiones (1080p)
@@ -9842,6 +9776,8 @@ https://stream.arcast.live/ahora/ahora/playlist.m3u8
 https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
 #EXTINF:-1,Canal 13 Jujuy TV (720p)
 https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
+#EXTINF:-1,Canal 13 La Rioja (480p)
+http://arcast.net:1935/mp/mp/playlist.m3u8
 #EXTINF:-1,Canal 21 TV (1080p)
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 #EXTINF:-1,Canal 22 (720p)
@@ -9868,16 +9804,16 @@ https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 #EXTINF:-1,Cosmos TV (720p)
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-#EXTINF:-1,Magic Kids (486p)
-https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1,Más FM 95.9 (720p)
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
-#EXTINF:-1,Milennio TV (720p)
-https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8
 #EXTINF:-1,NET TV (720p)
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1,NET TV (720p)
 https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1,NG Federal (720p)
+http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
+#EXTINF:-1,Power Max Radio TV (720p)
+https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
 #EXTINF:-1,PowerHD (720p)
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
 #EXTINF:-1,Radio Realpolitik (720p)
@@ -9890,6 +9826,8 @@ https://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 http://204.199.3.2/.m3u8
 #EXTINF:-1,RTN (Neuquén) (720p) [Not 24/7]
 https://media.neuquen.gov.ar/rtn/television/media.m3u8
+#EXTINF:-1,San Pedro TV (1080p) [Not 24/7]
+https://iptv.ixfo.com.ar:30443/live/sanpedrotv/playlist.m3u8
 #EXTINF:-1,TeleCinco Trelew (240p)
 https://videohd.live:19360/8016/8016.m3u8
 #EXTINF:-1,TeleJunín (576p)
@@ -9948,12 +9886,10 @@ https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8
 https://v4.tustreaming.cl/restaurandovida/index.m3u8
 #EXTINF:-1,Santa María Televisión (720p) [Not 24/7]
 https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8
-#EXTINF:-1,SoloBáilalo (480p)
-https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8
-#EXTINF:-1,SoloBáilalo (480p)
-https://5ff3d9babae13.streamlock.net/8016/8016/playlist.m3u8
 #EXTINF:-1,T-Vinet (480p)
 https://unlimited1-us.dps.live/inet2/inet2.smil/playlist.m3u8
+#EXTINF:-1,Tele 2 Web (Retiro) (720p) [Not 24/7]
+https://inliveserver.com:1936/11516/11516/playlist.m3u8
 #EXTINF:-1,Teletrak (720p)
 https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 #EXTINF:-1,Televida (1080p)
@@ -9976,6 +9912,8 @@ https://unlimited1-us.dps.live/uct/uct.smil/playlist.m3u8
 https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8
 #EXTINF:-1,TVU Concepción (1080p)
 https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
+#EXTINF:-1,U Los Lagos TV (1080p) [Not 24/7]
+http://tv.ulagos.cl/web/live.m3u8
 #EXTINF:-1,UCV TV (720p)
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1,UESTV (720p)
@@ -10034,6 +9972,8 @@ https://cloudvideo.servers10.com:8081/8072/index.m3u8
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 #EXTINF:-1,RCG TV (Timeshifted -2 Hours) (432p)
 https://video1.getstreamhosting.com:1936/8246/8246/playlist.m3u8
+#EXTINF:-1,Señal España (XHUNES-TDT) (720p)
+https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
 #EXTINF:-1,Tele Yucatan [Geo-blocked]
 https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8
 #EXTINF:-1,TV Cuatro 4.1 (1080p)
@@ -10068,8 +10008,6 @@ https://cloudvideo.servers10.com:8081/8016/index.m3u8
 https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
 #EXTINF:-1,Canal Malaga
 http://canalmalaga-tv-live.flumotion.com/chunks.m3u8
-#EXTINF:-1,Cope TV
-https://hls-directo01-cope-stream.flumotion.com/playlist.m3u8
 #EXTINF:-1,Elche 7 TV
 https://elche7tv.gestec-video.com/hls/canal2.m3u8
 #EXTINF:-1,interalmeria tv HD
@@ -10081,13 +10019,9 @@ http://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 #EXTINF:-1,Adult Swim CL | Chile
 http://177.234.230.206:8011/play/a0pt
 #EXTINF:-1,BitMe | Mexico
-http://104.238.222.251:8989/278522_.m3u8
-#EXTINF:-1,BitMe | Mexico
 http://38.49.128.38:8000/play/a0np
 #EXTINF:-1,Boing | Spain
 http://185.157.184.13:6001/play/BoingHD
-#EXTINF:-1,Cartoon Network  | Mexico
-http://104.238.205.28:8989/278524_.m3u8
 #EXTINF:-1,Chespirito | Mexico
 http://45.184.87.142:8000/play/a04w
 #EXTINF:-1,Clan TVE | Spain
@@ -10096,14 +10030,24 @@ https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 http://45.181.122.46:8090/play/a00t
 #EXTINF:-1,Nickelodeon | Spain
 http://45.5.119.43:4000/play/a0hs
+#EXTINF:-1,Tooncast | Colombia
+http://177.234.230.206:8011/play/a0es
+#EXTINF:-1,Disney Channel
+http://177.234.230.206:8011/play/a0c2
+#EXTINF:-1,Telefe
+http://tv.diablotv.net:8080/CanalesIprotvPro/U3XdSbjMVb/157589
 #EXTINF:-1,Telefe HD
-http://200.115.120.1:8000/play/ca016
+http://186.0.248.91:20202/Live/c5e37163cc885bc8201f8b4011d0c4d6/telefe_720.m3u8
+#EXTINF:-1,Kanal D Drama
+http://177.234.230.206:8011/play/a0f7
+#EXTINF:-1,Telemundo
+http://tv.diablotv.net:8080/CanalesIprotvPro/U3XdSbjMVb/8336
+#EXTINF:-1,Telenovelas
+http://177.234.230.206:8011/play/a0b9
 #EXTINF:-1,13 C
 http://177.234.230.206:8011/play/a0rf
 #EXTINF:-1,AMC
 http://177.234.230.206:8011/play/a0ix
-#EXTINF:-1,ATRES SERIES
-http://177.234.230.206:8011/play/a0rh
 #EXTINF:-1,Adult Swim AR
 http://177.234.230.206:8011/play/a0ev
 #EXTINF:-1,Animal Planet
