@@ -532,8 +532,6 @@ https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 
 #EXTINF:-1,2.1 Canal De Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1,21.1 Capital 21
-https://video.cdmx.gob.mx/redes/stream.m3u8
 #EXTINF:-1,22.1 Canal 22
 https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIxIDExOjQ2OjAzIFBNJmhhc2hfdmFsdWU9WmpCTERYMHh6UVVzcTJ0cmtNd25mQT09JnZhbGlkbWludXRlcz01JmlkPQ==
 #EXTINF:-1,22.2 Canal 22 +
@@ -544,8 +542,6 @@ https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/chunklist_w376735839.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMS8yMDIyIDQ6MDg6MTEgQU0maGFzaF92YWx1ZT1ySG13SHNrSE5yTWx5RWJYcTQvZkhRPT0mdmFsaWRtaW51dGVzPTUmaWQ9
 #EXTINF:-1,34.2 AMX Noticias
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1,AGU: Presumiendo Mexico
-http://streamingcws10.com:1935/telemetrika/videotelemetrika/playlist.m3u8
 #EXTINF:-1,AGU: Canal 26
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 #EXTINF:-1,CHP: Canal 10
@@ -586,8 +582,6 @@ http://s5.mexside.net:1935/telemax/telemax/chunklist_w586584359.m3u8
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 #EXTINF:-1,Antena TV
 https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
-#EXTINF:-1,Az Cinema (1080p)
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/azcinema.stream/playlist.m3u8
 #EXTINF:-1,Canal 10 Durango (1080p)
 https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
 #EXTINF:-1,Canal 22 Nacional (720p) [Geo-blocked]
@@ -599,6 +593,8 @@ https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist
 #EXTINF:-1,Canal 44 Ciudad Juárez (720p) [Not 24/7]
 https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8
 #EXTINF:-1,Canal 5 (1080p)
+http://45.181.87.106/CANAL5HD/index.m3u8
+#EXTINF:-1,Canal 5 (1080p)
 http://190.11.225.124:5000/live/canal5_hd/playlist.m3u8
 #EXTINF:-1,Canal 5 TV Cozumel (1080p)
 https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8
@@ -606,34 +602,16 @@ https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8
 https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8
 #EXTINF:-1,CB TV Michoacan
 https://5ca3e84a76d30.streamlock.net/cbtv/videoc3b3t3v3/playlist.m3u8
-#EXTINF:-1,CineLatino (720p)
-http://45.162.193.35/CINELATINO_HD/index.m3u8
 #EXTINF:-1,Conecta TV (720p)
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
-#EXTINF:-1,De Pelicula Latin America
-http://181.119.93.83:8000/play/a1jw/index.m3u8
-#EXTINF:-1,Distrito Comedia (1080p)
-http://177.234.249.135:8888/DistritoComedia/index.m3u8
-#EXTINF:-1,Exa TV
-http://190.61.90.17:40000/play/a0hk/index.m3u8
 #EXTINF:-1,Expresa TV (720p)
 https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
-#EXTINF:-1,Golden (720p)
-http://177.234.249.135:8888/Golden/index.m3u8
-#EXTINF:-1,Golden Edge (1080p)
-http://138.186.23.7:8082/GOLDENEDGE/index.m3u8
-#EXTINF:-1,Golden Edge (720p)
-http://177.234.249.135:8888/GoldenEdge/index.m3u8
-#EXTINF:-1,Golden Plus (1080p)
-http://177.234.249.135:8888/GoldenPlus/index.m3u8
+#EXTINF:-1,GikTVMX (720p)
+https://pistream.ddns.net/hls/stream.m3u8
 #EXTINF:-1,ICRTV Colima (1080p)
 https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8
 #EXTINF:-1,Jalisco TV (720p)
 https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
-#EXTINF:-1,Las Estrellas Latin America (1080p)
-http://177.234.249.135:8888/LasEstrellas/index.m3u8
-#EXTINF:-1,Las Estrellas Latin America (1080p)
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Canal_Las_Estrellas.stream/playlist.m3u8
 #EXTINF:-1,Lobo TV (720p)
 https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
 #EXTINF:-1,Monte Maria (1080p)
@@ -660,18 +638,12 @@ https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8
 https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
 #EXTINF:-1,SIZART Canal 24 (XHZHZ-TDT) (720p)
 https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
-#EXTINF:-1,SQCS Canal 4 (1080p)
-https://video0.rogohosting.com:19360/4982/4982.m3u8
 #EXTINF:-1,Super Channel 12 (1080p)
 https://servilive.com:3263/live/channel12live.m3u8
 #EXTINF:-1,Tele Saltillo
 https://servilive.com:3879/live/telesaltillolive.m3u8
 #EXTINF:-1,Tele Yucatan (1080p) [Geo-blocked]
 https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8
-#EXTINF:-1,Tlnovelas Latin America (1080p)
-http://177.234.249.135:8888/Telenovelas/index.m3u8
-#EXTINF:-1,Tlnovelas Latin America (1080p)
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/TL_Novelas.stream/playlist.m3u8
 #EXTINF:-1,Transmedia Televisión Morelia (614p) [Geo-blocked]
 http://streamingcws20.com:1935/tmtv/videotmtv/playlist.m3u8
 #EXTINF:-1,Transmedia Televisión Morelia (614p) [Geo-blocked]
@@ -707,8 +679,6 @@ https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u
 #EXTINF:-1,Univision Latin America (1080p)
 http://138.121.15.230:9002/UNIVISION/index.m3u8
 #EXTINF:-1,Univision Latin America (1080p)
-http://177.234.249.135:8888/Univision/index.m3u8
-#EXTINF:-1,Univision Latin America (1080p)
 http://177.234.249.178:8888/UNIVISION/index.m3u8
 #EXTINF:-1,VB Media TV (1080p)
 https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
@@ -722,12 +692,14 @@ https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=W3bEnerG33k2026
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=W3bEnerG33k2026
 #EXTINF:-1,Anime TV | Brasil
 https://stmv2.painelvideocast.com.br/animetv/animetv/playlist.m3u8
+#EXTINF:-1,Anime XTV | Republica Dominicana
+http://animezonetv.net:81/live_hls/animetest/index.m3u8
+#EXTINF:-1,Anime XTV op2 | Republica Dominicana
+http://146.19.49.197:81/live/animextv_hi/index.m3u8
 #EXTINF:-1,Bjgtjme | Argentina
 https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8
 #EXTINF:-1,Canal 15 DTP  | Honduras
 https://vdo.tecnoservix.stream:3838/live/canal15dtplive.m3u8
-#EXTINF:-1,Canal 4 San Juan | Argentina
-http://streamlov.alsolnet.com/canal4sanjuan/live/chunklist_w1603184235.m3u8
 #EXTINF:-1,Canal 5 Vision Latina | ND
 https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8
 #EXTINF:-1,Canal 6 Digital | Argentina
@@ -756,8 +728,10 @@ https://s.emisoras.tv:8081/diostevetv/index.m3u8
 https://s.emisoras.tv:8081/diostevekids/index.m3u8
 #EXTINF:-1,DJ TV Estacion Mix | Argentina
 https://mix.fachacarlos1.workers.dev/playlist.m3u8
+#EXTINF:-1,Dreiko TV | Panamá
+https://cloudvideo.servers10.com:8081/8020/tracks-v1a1/mono.m3u8
 #EXTINF:-1,El Magic | Argentina
-https://kali.vdopanel.com:3140/stream/play.m3u8
+https://kali.vdopanel.com:3074/stream/play.m3u8
 #EXTINF:-1,Extrema TV | Costa Rica
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1,Extrema TV Kids | ND
@@ -768,8 +742,6 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 https://s2.tvdatta.com:3307/live/fmtvmatrizlive.m3u8
 #EXTINF:-1,FS1 | Austria
 http://stream.fs1.tv:8080/hls/webstream.m3u8
-#EXTINF:-1,Hikari Station | Argentina
-https://cdn.cl.scl.edge.01.zplay.cl/Laika/index.m3u8
 #EXTINF:-1,Iquique Tv | Chile
 https://origin.skarnetchile.com:8081/iquiquetv-hd/index.m3u8
 #EXTINF:-1,Kpop Tv Play | Brasil
@@ -862,6 +834,8 @@ http://65.21.202.84:8182/stream/1/
 http://65.21.202.84:8301/stream/1/
 #EXTINF:-1,Radio Viva El Mariachi
 http://node-03.zeno.fm/gs4xg5s0csmtv?rj-ttl=5&rj-tok=AAABeHBWouQA9m2GhtVlBW72EA
+#EXTINF:-1,Radio La Grupera Radio MX
+https://centova.hostingelectrica.net/proxy/grupera12?mp=/stream
 #EXTINF:-1,Radio Merengue Tropical Merengue
 http://tropical100.net:8012/;
 #EXTINF:-1,Radio La Grupera 93.1 Morelia
@@ -886,14 +860,10 @@ https://lt15concordia.radioca.st/stream
 http://s10.voscast.com:7870/;
 #EXTINF:-1,Radio Tatu-Tatu
 https://stream.pcradio.ru/Tatu-med
-#EXTINF:-1,Radio FM Vida Concordia
-https://streaming450tb.locucionar.com/proxy/fmvida979?mp=/stream
 #EXTINF:-1,Radio Conexion Tropical 96 9
 https://radios.solumedia.com:6088/stream
 #EXTINF:-1,Radio Estacion Mix
 https://listen.openstream.co/6502/audio
-#EXTINF:-1,Animax Radio
-http://node-13.zeno.fm:80/0guzsnntsnhvv
 #EXTINF:-1,Radio Michy Miau FM
 http://node-34.zeno.fm/s5494s8pta0uv?rj-ttl=5&rj-tok=AAABeMmnxIcAFJ64ThNbIiZ4sA
 #EXTINF:-1,Radio Colombia Salsa Rosa
@@ -906,8 +876,6 @@ http://64.37.50.226:8006/stream
 http://france1.coollabel-productions.com:8142/;
 #EXTINF:-1,Radio Rock Antenne Classic Perlen
 http://194.97.151.139/classic-perlen
-#EXTINF:-1,Radio Super Music FM
-http://node-09.zeno.fm:80/agdhpd11808uv
 #EXTINF:-1,Radio Fortuna Radio
 https://s1.raudiostream.com:8008/stream
 #EXTINF:-1,Radio Vida al Maximo
@@ -920,40 +888,20 @@ http://100x100rock.stream.laut.fm:8080/100x100rock
 https://stream.pcradio.ru/Linkin_Park-hi
 #EXTINF:-1,CBS News 24/7
 https://jmp2.uk/stvp-USBA370000104
-#EXTINF:-1,WSOC Charlotte
-https://jmp2.uk/stvp-USBC1000017D8
-#EXTINF:-1,WBTV News
-https://jmp2.uk/stvp-US700004OA
-#EXTINF:-1,WCNC
-https://jmp2.uk/stvp-US1400004HN
-#EXTINF:-1,WN Charlotte
-https://jmp2.uk/stvp-USBC3200001S5
 #EXTINF:-1,CBC News
 https://jmp2.uk/stvp-USBC4400003OU
 #EXTINF:-1,Bloomberg TV+
 https://jmp2.uk/stvp-USAJ3400011A8
-#EXTINF:-1,TYT Network
-https://jmp2.uk/stvp-USBA30002142
 #EXTINF:-1,Movie Hub
 https://jmp2.uk/stvp-USBA3000041ZP
-#EXTINF:-1,NEW KMOVIES
-https://jmp2.uk/stvp-USAJ30000122O
 #EXTINF:-1,Maverick Black Cinema
 https://jmp2.uk/stvp-USAJ3000007MT
 #EXTINF:-1,Samsung Television Network
 https://jmp2.uk/stvp-US300068X7
-#EXTINF:-1,K-Drama+
-https://jmp2.uk/stvp-US1700017NM
 #EXTINF:-1,MHz Mysteries
 https://jmp2.uk/stvp-USAJ22000130U
-#EXTINF:-1,NESN Nation
-https://jmp2.uk/stvp-US300062TG
 #EXTINF:-1,CBS Sports HQ
 https://jmp2.uk/stvp-USBB4800005VO
-#EXTINF:-1,Yahoo! Sports Network
-https://jmp2.uk/stvp-US3200012O8
-#EXTINF:-1,Combate Global MMA
-https://jmp2.uk/stvp-US4600006R8
 #EXTINF:-1,FIFA+
 https://jmp2.uk/stvp-USBD12000255B
 #EXTINF:-1,Pac-12 Insider
@@ -962,8 +910,6 @@ https://jmp2.uk/stvp-USBA300034DB
 https://jmp2.uk/stvp-US4100001KP
 #EXTINF:-1,DP World Tour
 https://jmp2.uk/stvp-US4600010KE
-#EXTINF:-1,Pursuit UP
-https://jmp2.uk/stvp-USBD17000025J
 #EXTINF:-1,Formula 1 Channel
 https://jmp2.uk/stvp-US600011Q2
 #EXTINF:-1,RACER Select
@@ -1022,10 +968,6 @@ https://jmp2.uk/stvp-US130000639
 https://jmp2.uk/stvp-US2600024EO
 #EXTINF:-1,TODAY All Day
 https://jmp2.uk/stvp-USBB32000251N
-#EXTINF:-1,Divorce Court
-https://jmp2.uk/stvp-USBD300006A6
-#EXTINF:-1,Cutlers Court
-https://jmp2.uk/stvp-US700020AX
 #EXTINF:-1,VICE
 https://jmp2.uk/stvp-USBB1900006NY
 #EXTINF:-1,Backstage
@@ -1042,8 +984,6 @@ https://jmp2.uk/stvp-USBD70000412
 https://jmp2.uk/stvp-US8000024G
 #EXTINF:-1,ET
 https://jmp2.uk/stvp-USBA3700002JF
-#EXTINF:-1,Fear Zone
-https://jmp2.uk/stvp-USBC1300012VK
 #EXTINF:-1,Ghost Hunters
 https://jmp2.uk/stvp-US39000218V
 #EXTINF:-1,Mysteries Xplored
@@ -1056,8 +996,6 @@ https://jmp2.uk/stvp-USBD1200007FE
 https://jmp2.uk/stvp-USBC4400006BR
 #EXTINF:-1,Ghost Stories
 https://jmp2.uk/stvp-US4200004KK
-#EXTINF:-1,Alien Nation by DUST
-https://jmp2.uk/stvp-USBC100000630
 #EXTINF:-1,Unidentified
 https://jmp2.uk/stvp-USBB10000047W
 #EXTINF:-1,The Asylum
@@ -1086,8 +1024,6 @@ https://jmp2.uk/stvp-US240000434
 https://jmp2.uk/stvp-US300065DB
 #EXTINF:-1,Dinos 24/7
 https://jmp2.uk/stvp-US3700006XE
-#EXTINF:-1,PBS Nature
-https://jmp2.uk/stvp-US1300007KZ
 #EXTINF:-1,Xplore
 https://jmp2.uk/stvp-USBC2100008DP
 #EXTINF:-1,WildEarth
@@ -1104,18 +1040,12 @@ https://jmp2.uk/stvp-USAJ3400014LK
 https://jmp2.uk/stvp-USBB800001O7
 #EXTINF:-1,Mattel Jr.
 https://jmp2.uk/stvp-US4500002UB
-#EXTINF:-1,Barbie and Friends
-https://jmp2.uk/stvp-USBD490000209
 #EXTINF:-1,Hot Wheels Action
 https://jmp2.uk/stvp-US2900013AY
-#EXTINF:-1,PBS Kids
-https://jmp2.uk/stvp-USBC3600013PC
 #EXTINF:-1,Moonbug
 https://jmp2.uk/stvp-USBB11000015Q
 #EXTINF:-1,Peppa Pig & Friends
 https://jmp2.uk/stvp-US4100025G5
-#EXTINF:-1,BABY SHARK TV
-https://jmp2.uk/stvp-US17000208H
 #EXTINF:-1,Caillou
 https://jmp2.uk/stvp-USBD50000048H
 #EXTINF:-1,Baby Einstein
@@ -1126,8 +1056,6 @@ https://jmp2.uk/stvp-USBD3500015R5
 https://jmp2.uk/stvp-US300001UO
 #EXTINF:-1,Strawberry Shortcake
 https://jmp2.uk/stvp-USBC4400012QS
-#EXTINF:-1,My Little Pony
-https://jmp2.uk/stvp-US2900011CJ
 #EXTINF:-1,HappyKids
 https://jmp2.uk/stvp-USBC44000072I
 #EXTINF:-1,Rainbow Ruby
@@ -1182,8 +1110,6 @@ https://jmp2.uk/stvp-US41000060J
 https://jmp2.uk/stvp-USBB3200016HO
 #EXTINF:-1,Telemundo Accion
 https://jmp2.uk/stvp-US1800002UQ
-#EXTINF:-1,Caso Cerrado
-https://jmp2.uk/stvp-US1800004S5
 #EXTINF:-1,Estrella TV
 https://jmp2.uk/stvp-USBA300040WR
 #EXTINF:-1,Estrella News
@@ -1434,8 +1360,6 @@ https://jmp2.uk/stvp-ESBA3300042Y6
 https://jmp2.uk/stvp-ESBA3300043M0
 #EXTINF:-1,Sol Música
 https://jmp2.uk/stvp-ESBD2300004Y7
-#EXTINF:-1,Cool Summer Channel
-https://jmp2.uk/stvp-ES2500001F9
 #EXTINF:-1,K-POP by CJ ENM
 https://jmp2.uk/stvp-ES3900001QG
 #EXTINF:-1,SMTOWN
@@ -1590,8 +1514,6 @@ https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 #EXTINF:-1,Canal 9 Litoral (720p)
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
-#EXTINF:-1,Canal 13 Jujuy TV (720p)
-https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 #EXTINF:-1,Canal 13 La Rioja (480p)
 http://arcast.net:1935/mp/mp/playlist.m3u8
 #EXTINF:-1,Canal 21 TV (1080p)
@@ -1616,24 +1538,12 @@ http://204.199.3.2/.m3u8
 https://media.neuquen.gov.ar/rtn/television/media.m3u8
 #EXTINF:-1,TeleJunín (576p)
 https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8
-#EXTINF:-1,Telenord (720p) [Not 24/7]
-https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8
-#EXTINF:-1,Telenord Corrientes (1080p) [Not 24/7]
-http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
 #EXTINF:-1,TV Maná Argentina (576p) [Not 24/7]
 https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8
 #EXTINF:-1,24/7 Canal de Noticias
 https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
 #EXTINF:-1,Canal 9 Resistencia (720p)
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
-#EXTINF:-1,Canal 13 San Luis
-https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8
-#EXTINF:-1,Canal 79 La Costa (240p)
-https://streamconex.com:19360/lacosta/lacosta.m3u8
-#EXTINF:-1,Canal 79 Mar del Plata
-https://streamconex.com:19360/mardelplata/mardelplata.m3u8
-#EXTINF:-1,Canal 79 Puan (240p)
-https://streamconex.com:19360/puan/puan.m3u8
 #EXTINF:-1,Canal Orbe 21
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
 #EXTINF:-1,Cumbia Mix (720p)
@@ -1644,10 +1554,10 @@ https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 https://cloud.tvomix.com/KPOPMIX/index.m3u8
 #EXTINF:-1,Radio Conexion Web TV (720p)
 https://tuvideoonline.com.ar:3391/live/radioconexionlive.m3u8
+#EXTINF:-1,Unife TV
+https://5dcabf026b188.streamlock.net/StreamUnife/livestream/playlist.m3u8
 #EXTINF:-1,Urban Mix (720p)
 https://cloud.tvomix.com/URBANMIX/index.m3u8
-#EXTINF:-1,X Level Media (1080p)
-https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
 #EXTINF:-1,Disney Jr. Latin America South
 http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1,TyC Sports USA
@@ -1664,6 +1574,8 @@ https://v2.tustreaming.cl/atacamanoticias/index.m3u8
 https://v2.tustreaming.cl/atacamatv/index.m3u8
 #EXTINF:-1,Aysen TV (720p)
 https://v1.tustreaming.cl/aysentv/index.m3u8
+#EXTINF:-1,Juntos TV (720p)
+https://video.juntostvchile.cl:8879/hls/web-jntv.m3u8
 #EXTINF:-1,Pichilemu TV (1080p)
 https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8
 #EXTINF:-1,Restaurando Vidas Internacional (720p)
@@ -1678,8 +1590,6 @@ https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
 https://v4.tustreaming.cl/tevexinter/index.m3u8
 #EXTINF:-1,U Los Lagos TV (1080p) [Not 24/7]
 http://tv.ulagos.cl/web/live.m3u8
-#EXTINF:-1,UMAGTV 2 (720p)
-https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8
 #EXTINF:-1,UTV (720p)
 https://v2.tustreaming.cl/utv/index.m3u8
 #EXTINF:-1,Adult Swim | Mexico
@@ -1700,8 +1610,6 @@ http://45.181.122.46:8090/play/a00t
 http://45.181.122.46:8090/play/a021
 #EXTINF:-1,Nickelodeon | Spain
 http://38.44.109.41:8003/play/a0h6
-#EXTINF:-1,PakaPaka | Argentina
-http://190.7.19.197:232/play/a08e
 #EXTINF:-1,Telefe HD
 http://38.44.109.41:8003/play/a0ev
 #EXTINF:-1,USA Network (syfy)
@@ -1718,49 +1626,6 @@ https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/7ad7548f-cc44-4a1b-9aff-34610417fe1b/4.m3u8
 #EXTINF:-1,NegociosTV
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
-#EXTINF:-1,Radio SON TV
-https://acceso.mediosdecostarica.com:3812/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Foxkidz 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cartoon Galaxy 
-#EXTINF:-1 tvg-id="Cartoon Network Clasico" tvg-name="Cartoon Network Clasico" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cartoon Network 
-#EXTINF:-1 tvg-id="Jetix" tvg-name="Jetix" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Jetix 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Jetix 2 
-#EXTINF:-1 tvg-id="Animax LA" tvg-name="Animax LA" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Animax LA 
-#EXTINF:-1 tvg-id="Animax Espana" tvg-name="Animax Espana" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Animax Espana 
-#EXTINF:-1 tvg-id="Magic Kids OK" tvg-name="Magic Kids OK" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Magic Kids OK 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",El Chavo 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Tomorrowland Live 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Canal C HD 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Locomotion TV 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Japanimotion 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",AlecchiMan 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Peliculas Mania 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Nostalgia TV 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",El Chavo 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Retro Magico 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Anime 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Dragon Ball 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Especial 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",CeciliaOrson 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",CineMX4 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",ZAZ Tv 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Peliculas 2022 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Onda Cofra de Sevilla 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",cabeza de vhs 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Kiriwawa TV 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Panda Max Live 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Toonami Latinoamerica 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Cine 5 Estrellas 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Canal 9 San Luis 
-#EXTINF:-1 tvg-id="EnerGeek Wowly" tvg-name="EnerGeek Wowly" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Energeek 3 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",ETC TV 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Kemacral 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Teleposadas 
-#EXTINF:-1 tvg-id="" tvg-name="TVLuchitas" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",TV Luchitas 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Gogoplay TV 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Canal Mundo Mas 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2N21GLs.png" group-title="TWITCH",Latino Kids TV
 
 # ============================================
 # PARTE DINÁMICA (Canales que se actualizan)
